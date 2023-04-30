@@ -1,0 +1,403 @@
+Innovation Policy 
+ZVEI - Zentralverband Elektrotechnik- und Elektronikindustrie e. V. • Lyoner Straße 9 • 60528 Frankfurt am Main 
+Innovationspolitik 
+Telefon: +49 30 306960 28 • Fax: • E-Mail: Nils.Scherrer@zvei.org • Franziska.Wirths@zvei.org • www.zvei.org 
+Präsident: Dr. Gunther Kegel • Vorsitzender der Geschäftsführung: Dr. Wolfgang Weber 
+ZVEI Comments 
+on the EU Commission’s Proposal for a Regulation laying 
+down harmonised Rules on Artificial Intelligence (“AI Act”) 
+August 2021 
+Introduction 
+On April 21st the EU-Commission presented its proposal for a Regulation laying down 
+harmonised rules on Artificial Intelligence (“AI Act”). ZVEI welcomes the ambitious goal of the 
+EU-Commission to promote and facilitate the uptake of Trustworthy AI in Europe. Following 
+the discussions around the AI Whitepaper published in February 2020, the EU-Commission 
+puts forward a proposal for a harmonised European approach addressing potential risks and 
+uses of AI applications. It also covers applications that might be opposed to or be incompatible 
+with European values and fundamental rights. 
+ZVEI pleads to also focus on the immense opportunities related to the uptake of AI. Every 
+market access regulation such as the proposed AI Act, carries the risk of hindering innovation 
+as it sets down requirements for the placing on the market of products including certain 
+technologies. Therefore, each provision in the proposal needs to be carefully examined and 
+justified in particular for its potential impact on innovation and technological development. AI 
+research and development should be strengthened on a European level, experimental space 
+(i.e. regulatory sandboxes) should be provided for, as well as fostering both the continuous 
+evolution of the technology and the understanding of the associated risks. Next to promoting 
+a trustworthy, human-centric approach that aims at tackling risks linked to the usage of AItechnology, a future-proof AI regulation should also facilitate innovation and promote the 
+general goal of boosting AI development and deployment across businesses in Europe. 
+Industrial artificial intelligence is already a key driver for securing the future of European and 
+German industry in a competitive global environment. AI is used in many applications and 
+domains, as well as in public and private sectors. The deployment of industrial AI can optimise 
+production processes and enable new levels of efficiency. In this way, AI can also make a 
+significant contribution to resource efficiency and sustainability. As an enabling industry at the 
+interface between IT and production world, the electrical industry has a key role to play in 
+facilitating and implementing artificial intelligence in different application contexts. ZVEI 
+represents the interests of a high-tech sector with dynamic industrial applications of AI in the 
+lead markets Industrie 4.0, health, energy, mobility, building and consumer. 
+
+General Comments 
+ZVEI welcomes the risk-based approach whereby the applicability of stricter requirements 
+for placing on the market and putting into service of AI-based products is limited only to highrisk AI systems. However, the legislator should carefully assess regulatory gaps, 
+inconsistencies and redundancies when addressing AI as a technology in its entirety. 
+Particularly, in the case of AI embedded in products, potential risks regarding product safety 
+and security are already covered by existing harmonisation legislation, such as the Machinery 
+Directive or the Medical Devices Regulation, or by functional constraints, where products can 
+only act within their intended purpose. 
+ZVEI in principle supports the NLF (New Legislative Framework) approach taken by the EUCommission referring to established methods of conformity assessment in existing Union 
+harmonisation legislation (Annex II). The electrical industry is highly experienced in using NLFlegislation for placing on the market and putting into service of products in the Union. However, 
+the Commission proposal contains a large number of additional requirements and obligations 
+as compared to the NLF and the EU legislation based on it. Specific justification therefore is 
+necessary for those additional elements, since established Union harmonisation legislation 
+has proved to be effective in addressing public interest protection issues. This horizontal AI 
+regulation should be discussed together with the relevant harmonised and sector-specific 
+legislation and hence, needs to be in line with, and should ideally refer to, the conformity 
+assessment procedures such as defined by the NLF (cf. Decision 768/2008/EC). In this respect 
+the NLF provides the important basis to reach the necessary consistency over the relevant 
+pieces of legislation. 
+The legislator should carefully review and narrow down the scope of the proposed AI 
+regulation, as the currently proposed AI definition is much too broad. It would not only cover 
+AI products, but also applications that use pure statistical and knowledge-based approaches 
+used for conventional data analysis and software that has been well-established for a long 
+time. 
+Scope (Article 2) 
+Article 2 defines the scope of the proposal by including all providers “placing on the market” 
+(defined as the first making available of the AI system on the Union market) or “putting into 
+service” (defined as the supply of an AI system for first use) AI systems in the Union as well 
+as the responsible users. Naturally, this applies to every provider of a respective AI system, 
+regardless of whether they are located within the Union or in a third country. 
+We do not agree with the inclusion of “users” in the scope of the proposal, as the “use” (of an 
+AI system) should not be addressed by legislation setting down the conditions for placing on 
+the market / putting into service of products based on Article 114 TFEU. 
+Moreover, the current proposal extends the scope in Article 2, paragraph 1 (c) to “providers 
+and users of AI systems that are located in a third country, where the output produced by the 
+system is used in the Union”. This extension of the provision to include users of AI systems in 
+third countries has no clear justification and seems unrealistic. In most cases providers do not 
+know in advance if the system’s output is used in the Union, since this is decided by how the 
+user chooses to operate the system. Hence, providers would need to fulfil obligations based 
+on a choice made by the user (to use system output in the Union, or not) and that providers 
+usually will not be aware of. Therefore, ZVEI calls for a deletion of “users” in Article 2. 
+
+It is also not clear how in this context the term “output” is defined and how the inclusion of 
+system output in the scope of the regulation would affect international data transfers. A 
+clarification of what is meant with “output” and how it affects the usage of data or analytical 
+results is necessary. In this respect, it should also be clarified how data sharing, data transfer 
+and data export for usage should be understood. 
+AI Definition (Article 3 and Annex I) 
+ZVEI calls for narrowing down the much-too-broad AI definition used in the current proposal. 
+As outlined in the Explanatory Memorandum preceding the legislative proposal, the EUCommission aims to keep the AI definition “as technology neutral and future proof as possible” 
+(p. 12). While we support this goal in the light of the rapid developments of AI technologies, 
+the current broad definition would lead to significant legal uncertainty for developers, providers 
+and users of AI systems. The definition of “AI system” used in Article 3 (1) refers to a somewhat 
+established description of AI in the recommendations of the OECD Council on artificial 
+intelligence. ​OECD (2019): Recommendations on Artificial Intelligence. 
+https://legalinstruments.oecd.org/en/instruments/OECD-LEGAL-0449 ​  However, the EU-Commission includes three approaches listed in Annex I. By 
+including logic- and knowledge-based approaches as well as statistical methods to the 
+techniques and approaches defining AI in Annex I, the EU-Commission makes it impossible to 
+differentiate AI software from conventional data analysis tools (e.g. programmable logic 
+controller in applications of safety in machinery, software to optimise appointment scheduling 
+in hospitals, etc.). 
+Hence, defining AI systems as “software developed with one or more of the approaches listed 
+in Annex I” is far too broad, as it would include “conventional” logic units or software in its 
+definition. Based on the proposed definition, pure statistical applications would be treated in 
+the same way as advanced machine learning applications. The AI definition should be 
+narrowed down, in particular regarding the inclusion of statistical methods and logic-/ 
+knowledge-based approaches in Annex I to avoid legal uncertainty and restrict the scope to 
+actual AI software. 
+Definition of “putting into service” (Article 3 (11)) 
+The definition of “putting into service” as described in Article 3 (11) in the current proposal 
+needs adjustment and alignment with existing NLF-legislation. The definition such as proposed 
+would overlap with the definition of “making available on the market” in Article 3 (10) by 
+including the addition “supply of an AI system”. In general, NLF definitions as foreseen in the 
+“Blue Guide” of the EU Commission should be maintained. Also, we object to the inclusion of 
+AI systems for “own use” in the legislative proposal as this definition would include developers 
+of AI systems that develop the AI system for inhouse and experimental space use only. 
+ZVEI suggests amending the current definition as follows: 
+(11) “‘putting into service’ means the supply of an AI system for first use directly to 
+the user or for own use by the intended user on the Union market for its intended 
+purpose;” 
+
+Definition of “reasonably foreseeable misuse” (Article 3 (13)) 
+ZVEI calls for a review of “reasonably foreseeable misuse” as it remains unclear how this 
+concept should apply in the context of (self-learning) AI. Further considerations are necessary 
+to see if the concept of reasonably foreseeable misuse such as applied under safety related 
+product legislation can be transferred one to one to the supply of AI systems. 
+Definition Safety Component (Article 3 (14)) 
+The definition of the term “safety component” is too broad in its current wording. Safety 
+components should focus on the health and safety of persons but not of property. The AI 
+regulation should be aligned with the machinery directive in this respect, which does not 
+mention property in its definition. If property would be covered, high-risk AI would also include 
+AI applications for simple quality and predictive maintenance applications of a machine. In 
+addition to that, the current definition seems unclear with respect to the use of the word “or”. 
+Therefore, we propose a rephrasing: 
+“(14) ‘safety component of a product or system’ means a component of a product or of 
+a system which fulfils a safety function for that product or system or the failure or 
+malfunctioning of which endangers so that its malfunctioning endangers the 
+health and safety of persons or property;“ 
+Definition Substantial Modification (Article 3 (23)) 
+ZVEI suggests amending the definition of substantial modification in alignment with the 
+definition in the proposal for the machinery regulation. The words “not foreseen by the provider” 
+should be added: 
+“’substantial modification’ means a change to the AI system following its placing on the 
+market or putting into service, not foreseen by the provider, which affects the 
+compliance of the AI system with the requirements set out in Title III, Chapter 2 of this 
+Regulation or results in a modification to the intended purpose for which the AI system 
+has been assessed.” 
+High Risk AI Systems (Title III) 
+Classification of High-Risk AI Systems (Chapter 1) 
+Article 6 (1) and Annex II 
+Article 6 (1) classifies an AI system that is both (a) intended to be used as a safety component 
+of a product, or is itself a product, covered by specific Union harmonization legislation listed in 
+Annex II and (b) that product is required to undergo third-party conformity assessment, as a 
+high-risk AI system.   
+ZVEI welcomes that the AI Act in Article 6 (1) follows the well-established concept of the New 
+Legislative Framework (NLF) by referring to the Union harmonisation legislation in Annex II. It 
+is positive, with a view to placing on the market and putting into service of high-risk AI systems, 
+that the legislator seeks to establish consistency with existing product safety legislation. 
+However, when addressing risks related to product safety, the EU legislator needs to 
+thoroughly examine the future interlinkage between the AI Act and the respective 
+harmonisation legislation in Annex II in order to avoid any double regulation.  
+
+In this respect, the list in Annex II contains an inconsistency regarding the Radio Equipment 
+Directive (2014/53/EU). The legislation listed in Annex II foresees the involvement of a thirdparty conformity assessment for safety related issues. The Radio Equipment Directive 
+however foresees the involvement of a third party conformity assessment only for Article 3 (2) 
+with respect to the use of radio spectrum or Article 3(3) for further requirements, however not 
+for safety aspects as defined in Article 3 (1) a. The RED (2014/53/EU) should thus be removed 
+from this list. 
+Article 6 (2) 
+In Article 6 (2) the EU-Commission extends the high-risk classification to AI systems with 
+fundamental rights implications that are explicitly listed in Annex III. In principle, it is correct to 
+clearly define and restrict the scope of what falls under the high-risk category by providing a 
+list of areas of applications that need further control. ZVEI welcomes that the EU-Commission 
+is largely leaning towards a conformity assessment procedure based on internal control as 
+defined in Annex VI regarding the examples for stand-alone software in Annex III (with the 
+exception of remote biometrical identification systems). The given list of different high-risk 
+application areas in Annex III addressing various aspects and sectors is of high relevance for 
+industry and the society. It needs further in-depth discussion and potentially redefining, 
+especially since the list of AI high-risk systems in Annex III can be expanded with a delegated 
+act by the EU-Commission. 
+Requirements for High-Risk AI Systems (Chapter 2) 
+Chapter 2 defines several extensive requirements for high-risk AI systems including risk and 
+quality management, information and transparency obligations, data governance and postmarket monitoring. Some of these are still topic of active research and it is yet unclear how the 
+obligations can be fulfilled depending on the specific AI technique. Furthermore, some of the 
+requirements such as risk and quality management, logging obligations, data governance or 
+post-market monitoring go far beyond the NLF and lead to significant financial and 
+administrative burdens, especially for small- and medium sized providers. The EU legislator 
+needs to further investigate to what extent these obligations are proportionate and applicable 
+to providers of high-risk AI systems. 
+Risk Management System (Article 9) 
+Article 9 defines an extensive and continuous risk-management system throughout the entire 
+lifecycle, requiring regular systematic updating. The obligation for a “risk management system” 
+goes far beyond what is established under the NLF. Existing harmonisation legislation under 
+the NLF provides for the obligation to carry out an adequate risk analysis and risk assessment, 
+as a fundamental element of each conformity assessment procedure. In our view, this 
+obligation has proved to adequately ensure the achievement of the public protection interest 
+at issue (in particular concerning product safety). 
+The provider is obligated to identify and analyse all “known and foreseeable” risks arising from 
+the high-risk system (Article 9, 2a), including the detection of possible risks in view of the 
+results from the analysis of post-market monitoring data. Although the risk management 
+system itself is described in detail and the risks are limited to usage “in accordance with its 
+intended purpose and under conditions of reasonably foreseeable misuse” (Art. 9, 2b), the 
+proposal remains inconclusive about the kind of risk that has to be considered. As the type of 
+risks can be manifold (e.g. financial risks, risks in delays of development) and often not relevant 
+
+to the objectives of the AI regulation (see p. 3, Explanatory Memorandum), ZVEI suggests a 
+specification of the definition of risks in Article 9: 
+2 (a) “identification and analysis of the known and foreseeable risks to the health 
+and safety or to the fundamental rights and freedoms of persons associated 
+with each high-risk AI system.” 
+Data and Data Governance (Article 10) 
+In general, requirements for data governance and management practices for the training, 
+validation and testing of data sets, should not be laid down in the regulation, but instead be left 
+to standardisation. This will also ensure that the relevant requirements keep up with the 
+development of state-of-the-art solutions. 
+Regarding the extensive obligations on data governance, ZVEI calls at least for a reduction of 
+the unrealistic and impracticable obligations for training, validation and testing data sets in 
+Article 10. While appropriate data governance processes such as labelling, aggregation, 
+cleaning or anonymisation are already well-established practices when analysing data, some 
+of the obligations on high-risk systems in the current proposal are not feasible. Article 10 (3) 
+requires that data sets “shall be relevant, representative, free of errors and complete”. These 
+are absolute requirements that cannot be fulfilled depending on the type of data and the 
+respective application context. Data sets are often incomplete, and it does not seem realistic 
+to assume that data can be completely free of any error on an aggregated or individual level. 
+Furthermore, it is not guaranteed that a relevant, representative, and free of errors and 
+complete dataset leads to a free of errors, safe and fair AI system. It is often neither possible 
+nor desired to feed the respective software with error-free data sets, not least because the 
+efforts for minimising errors must be balanced against the actual benefits. In some cases, 
+testing and validation data sets with errors have to be explicitly used. Since it is not clear what 
+type of errors Article 10 is referring to and since it seems unrealistic to comply with this absolute 
+threshold, ZVEI suggests removing the phrasing in Article 10 (3): 
+“Training, validation and testing data sets should be relevant and representative, free of 
+errors and complete. They shall have the appropriate statistical properties, including, where 
+applicable, as regards the persons or groups of persons on which the high-risk AI system is 
+intended to be used. These characteristics of the data sets may be met at the level of individual 
+data sets or a combination thereof.” 
+Accuracy, Robustness and Cybersecurity (Article 15) 
+The levels of “accuracy, robustness and cybersecurity” as required for high-risk AI systems 
+under Article 15 should be made subject to what “can be reasonably expected” (cf. product 
+safety legislation) as market expectations differ regarding software as opposed to hardware 
+products. 
+High-risk AI systems shall be designed and developed in such a way that they 
+achieve, in the light of their intended purpose and to the extent that can be 
+reasonably expected, an appropriate level of accuracy, robustness and 
+cybersecurity, and perform consistently in those respects throughout their lifecycle. 
+
+Obligations of Providers and Users of High-Risk AI Systems (Chapter 3) 
+Obligations of providers of high-risk AI systems (Article 16) 
+The fulfilment of the obligations placed on "providers" under Article 16 is not related and limited 
+to the point in time of placing on the market/putting into service, as is the case for the legislation 
+based on the NLF, but appears to extend beyond the placing on the market throughout the 
+entire lifecycle. It must therefore be ensured that the providers are actually able to perform the 
+relevant duties/obligations in relation to products that may no longer be under their control. 
+This also applies to obligations for economic operators along the value chain that take over 
+the obligations of providers according to Article 24. We recommend additional text to clarify 
+that the obligations apply only as far as the providers actually exercise control over the 
+products/AI systems. 
+The obligation for providers to maintain a Quality Management System (QMS) is neither 
+necessary nor proportionate given the need for conformity assessment, where there already 
+is an explicit or implicit requirement for appropriate quality assurance (cf. Article 16 (b). Rather, 
+it is sufficient to perform the required conformity assessment procedures and draw up the 
+required technical documentation that must be provided to the relevant competent public 
+authorities upon request. We cannot see why this should not be sufficient when an AI system 
+has been integrated into the product/ or is itself a product. 
+Provider: Quality Management System (Article 17) 
+The obligation for providers of high-risk AI systems to put in place a quality management 
+system according to Article 17 shall not impose a dedicated AI quality management system 
+but should be covered by existing quality management system such as defined by ISO 9001. 
+A specific, dedicated AI QMS is not necessarily required in case an already existing QMS – 
+established e.g. to fulfill requirements from NLF legislation – can reasonably cover the 
+requirements of the AI Act. 
+Obligations of Product Manufacturers (Article 24) 
+For the integration of compliant AI systems into a product, the obligations for product 
+manufacturers should be carefully assessed to avoid double certification of an already CEmarked AI system. Article 24 of the proposal for the AI regulation states that the manufacturer 
+of the product shall take the responsibility of the AI system with this regulation and have, as 
+far as the AI system is concerned, the same obligations imposed by the present regulation on 
+the provider. We call to limit the responsibilities of the product manufacturers, who implements 
+a compliant AI system into his product, to specific aspects of this directive in Article 16, as it is 
+not possible for a product manufacturer to fulfil all requirements set out in Article 16. 
+Should the obligations for manufacturers remain in the current wording, problems include for 
+example the requirement to draw up a technical documentation (Article 16 (c)) which is not 
+possible without full access to all technical information of the AI system. This includes very 
+specific information such as IPR and would never be shared by the provider along the value 
+chain. Moreover, as the product was already placed on the market under the AI Regulation it 
+bears a CE mark. The product manufacturer will CE-mark the whole product when placing it 
+on the market but not the AI system itself (Article 16 (i)). 
+We therefore recommend further clarification that the AI system provider remains responsible 
+for the compliance of its AI system (in addition to the responsibility taken by the product 
+manufacturer). 
+
+Obligations of Users of High-Risk AI Systems (Article 29) 
+Article 29 lists user obligations such as relevant input data, monitoring of operation or logging 
+requirements that should either be left to product liability legislation (e.g. use of AI system in 
+accordance with instruction of use) or to contract law. It is questionable what legal basis should 
+justify the definition of obligations for users of products (AI systems) that have already been 
+placed on the market/put into service, and why users as defined in Article 3 (4) should be held 
+responsible to meet those requirements in the context of an legislative act based on Article 
+114 TFEU (Free movement of goods within the single market). 
+Standards, Conformity Assessment, Certificates, Registration (Chapter 5) 
+Harmonised Standards & Common Specifications (Article 40 and Article 41) 
+The use of voluntary and consensus based harmonized standards is a fundamental principle 
+under the new legislative framework. In order to ensure the timely availability for harmonised 
+standards under the proposed AI-regulation, a standardisation request shall be issued to the 
+European standardisation organisations in a timely manner and standards shall be listed in the 
+official journal for presumption of conformity without any delay. 
+Common specifications are often no adequate alternative for the use of harmonised standards, 
+as not all relevant stakeholders are involved in their development. It would weaken the 
+inclusion of stakeholders in their development and create a framework parallel to already 
+existing standards on the international, European and national level. Therefore, we suggest 
+deleting article 41. 
+Presumption of conformity with certain requirements (Article 42) 
+Article 42 only refers to the Cybersecurity scheme pursuant to regulation 2019/881. It should 
+also consider future horizontal Union harmonised legislation in the area of cybersecurity in 
+order to be future proof. 
+Conformity Assessment (Article 43 ff.) 
+ZVEI welcomes that the AI Act makes reference to the conformity assessment concept such 
+as provided for under the New Legislative Framework (NLF) by referring to the Union 
+harmonised framework and seeking to establish consistency with existing product safety 
+legislation. However, when addressing risks related to product safety, the EU legislator should 
+first and foremost thoroughly examine the interlinkages between the AI Act and the respective 
+harmonised product legislation in Annex II in order to avoid any double regulation. 
+This is especially important, when embedding CE marked AI software to a new component or 
+product. For those cases, a duplication of third-party certification under the AI regulation should 
+be avoided. It must be ensured that existing conformity assessment results under the AI 
+regulation would be passed on along every integration stage in the value chain. This will 
+prevent a repetition of new certifications of conformity by third parties for the same AI system 
+used in the same application context but in different stages of completion. 
+Article 43 (5) and (6) would grant the European Commission extensive power to change 
+requirements for conformity assessment procedures set out in Annex VI and Annex VII as well 
+as Article 43 (1) and (2). Those paragraphs should be amended in a way that the European 
+Commission cannot change fundamental procedures and requirements without thorough 
+consultation and involvement of affected stakeholders. 
+
+Measures in Support of Innovation (Title V) 
+AI Regulatory Sandboxes (Article 53 and Article 54) 
+ZVEI supports the introduction of concrete measures aimed at boosting innovation in Europe 
+and facilitate development, testing and validation of innovative AI systems. In addition to 
+addressing risks, it is crucially important to include the immense opportunities of AI technology 
+as one of the key future drivers for Europe’s industry into the perspective of the legislative 
+proposal. The establishment of regulatory sandboxes can be a promising instrument to enable 
+data-driven innovations in a controlled environment. 
+Nevertheless, the EU legislator should clearly specify the legal basis for the establishment of 
+regulatory sandboxes in Article 53 and 54. The measures should be in accordance with the 
+Council’s communication (11/2020) and incorporate experimentation clauses, that are already 
+used by many member states. These clauses should be activated on a case-by-case basis in 
+order to guarantee flexibility. 
+Governance (Title VI) 
+European Artificial Intelligence Board (Chapter 1, Articles 56 – 58) 
+The creation of the EU AI Board requires broad representation and participation of all relevant 
+stakeholders, including the relevant experts in the industry, trade associations as well as 
+national and European standardisation organisations. The roles and responsibilities of the AI 
+Board vis-à-vis the national competent authorities should be clearly defined to ensure 
+harmonised processes. Especially in matters related to supervisory activities or 
+recommendations on the implementation of technical specifications and harmonised 
+standards, the involvement of industrial actors and their expertise in the relevant sectors is 
+indispensable. The same applies to a possible European AI Expert Group that was informally 
+announced by the EU-Commission following the release of the AI proposal. 
+National Competent Authorities (Chapter 2, Article 59) 
+The interaction between the National Competent Authorities (NCAs) that are designated for 
+the AI Act and those that are designated under existing NLF legislation (listed in Annex II) 
+needs to be clearly and unambiguously defined in a way that avoids redundancy that may be 
+caused by duplicated work and in a way that provides legal certainty for all involved economic 
+operators. In this context, it should be carefully examined if and to what extent horizontal 
+legislation is preferable over sectoral legislation (that may need to be amended) for the topic 
+of Artificial Intelligence. 
+Post-Market Monitoring, Information Sharing, Market Surveillance (Title VIII) 
+Post-Market Monitoring (Chapter 1 – Article 61) 
+The requirements for post-market monitoring as described in Article 61 are not feasible and 
+create an unnecessary burden for the provider of the AI system. The provider can only “actively 
+and systematically collect, document and analyse relevant data” (Article 61, 2) when it has 
+access to such data in the first place and when there are no legal barriers regarding data 
+protection, competition or copyright law. This is especially relevant for companies in the supply 
+chain who under certain circumstances could be deemed as “provider” but have no access to 
+final use cases or to field data of the final product. Furthermore, the extensive post-market 
+monitoring obligations concerning data collection and analysis should not be integrated into 
+existing monitoring systems as stated in Article 61 (4), since existing obligations are only linked 
+to the functioning and safety of the product. 
+
+Hence, Article 61 should be significantly reduced, since it implies only additional burden for 
+each provider. Not all systems can be monitored, especially if it is a product with an integrated 
+AI system (e.g. autonomous cars). The provider would have to monitor each of these AI 
+systems, since all AI systems are generating data independently. This is not feasible for the 
+reasons listed above. 
+General Remarks 
+Extensive Powers by the Commission to adopt Delegated Acts (Title XI) 
+The proposed AI Regulation grants the EU-Commission extensive powers to change the 
+definitions, scope, requirements and procedures in different areas through delegated acts. 
+Such substantial modifications of the law should only be possible with consultation of 
+stakeholders and relevant institutions. This refers to the extensive delegation of power in 
+Article 4 (AI Definition in Annex I); Article 7 (High-Risk Areas in Annex III); Article 11 (Technical 
+Documentation); Article 43 (Conformity assessment); Article 48 (Declaration of Conformity). 
+
+Herausgeber: 
+ZVEI - Zentralverband Elektrotechnik- und Elektronikindustrie e.V. 
+Abteilung Innovationspolitik 
+Lyoner Str. 9 
+60528 Frankfurt am Main 
+Verantwortlich: 
+Nils Scherrer 
+Telefon: +49 30 306960 28 
+E-Mail: nils.scherrer@zvei.org 
+Franziska Wirths 
+Telefon: +49 30 306960 17 
+E-Mail: franziska.wirths@zvei.org 
+www.zvei.org 
+August 2021 

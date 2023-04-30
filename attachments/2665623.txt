@@ -1,0 +1,195 @@
+Feedback on the proposed
+Harmonised Rules on Artificial Intelligence
+Climate Change AI
+August 6, 2021
+Key recommendations
+Explicitly involve climate change mitigation and adaptation in the classification
+rules for high-risk AI systems.
+Expand reporting requirements for high-risk AI systems to collect data on greenhouse
+gas impacts, including impacts through both computational energy use and the
+applications for which these systems are used.
+Introduction
+Climate change is one of the most urgent challenges of our time, and addressing it will require
+rapid and concerted action across many sectors of the economy. As AI has increasingly
+transformational effects on society, it is therefore critical to holistically account for the effects —
+both positive and negative — that AI may have on climate change.
+AI has a multi-faceted relationship with climate change (Kaack et al., 2020; Stein, 2020), as it
+can be used to help with climate change mitigation and adaptation (Rolnick et al., 2019); can be
+deployed in ways that counteract such efforts (Greenpeace, 2019), thereby potentially
+increasing greenhouse gas emissions; and can directly emit greenhouse gases through
+computational energy consumption (Schwartz et al., 2019; Strubell et al., 2019). As a
+fast-developing new group of technologies with system-level effects, AI can add considerable
+uncertainty to the ability to reach climate targets.
+Climate Change AI welcomes that this nuanced perspective is reflected in the proposed
+regulation, which both recognizes the potential for using AI to address climate change, as well
+as “the speed of technological change and possible challenges,” and states that “the EU is
+committed to strive for a balanced approach.”
+The proposed regulation affects the intersection of AI and climate change in different ways.
+Notably, climate change is mentioned prominently as an area where AI can support "socially
+
+and environmentally beneficial outcomes." Climate Change AI welcomes these provisions that
+are key steps towards enabling deployment of AI technologies that are beneficial to climate
+change mitigation and adaptation.
+We would like to suggest in addition, however, that the proposed regulation more explicitly
+account for potential risks of AI systems to increase greenhouse gas emissions or vulnerability
+to climate change. In addition, we believe that the legislation provides an opportunity to collect
+much-needed information for assessing the greenhouse gas emissions impacts of AI. Climate
+Change AI proposes two additions that would be central to appropriately accounting for and
+shaping the relationship of AI and climate change.
+1.
+More explicitly involving climate change mitigation and adaptation in the classification
+rules for high-risk AI systems. In particular, more explicitly acknowledging environmental
+protection — including reduction of greenhouse gas emissions to mitigate climate
+change — as one of the fundamental rights that, if affected negatively by the AI system,
+trigger a high-risk classification.
+2.
+Expanding reporting requirements for high-risk AI systems to collect data on greenhouse
+gas impacts, including impacts through both computational energy use and the
+applications for which these systems are used. This approach would leverage the
+opportunity of reporting requirements for high-risk AI systems to collect much-needed
+data for decision-making on decarbonization strategies.
+1. Classification rules for high-risk AI systems
+Some AI systems may, now or in the future, significantly contribute to increasing greenhouse
+gas emissions or vulnerability to climate change. For instance, they may be used to reinforce
+the use of fossil fuels,​For instance, some uses of AI can change the economic viability and resource availability of fossil fuels
+(Greenpeace, 2019).​  or induce economy-scale changes with negative​For instance, uses of AI for advertising may cause increases in consumption and resource use.​  or uncertain​Some applications of AI may have uncertain but potentially significant impacts on climate change,
+depending on how exactly these applications are executed. For instance, autonomous vehicles can be
+used to facilitate the use of low-carbon, public transportation, but depending on implementation choices,
+may equally serve to “lock in” individualized modes of transportation in a way that increases overall
+energy consumption (Wadud et al., 2016). Policy and regulation can play a significant role in shaping
+these potential impacts.​  climate
+impacts that can be shaped by policy choices. The classification rules for high-risk AI systems,
+as they currently stand, do not sufficiently account for such risks. We propose this gap be
+addressed by adapting the criteria laid out in Article 7.
+The heart of this proposal rightly focuses on ensuring fundamental rights are protected when
+using AI. The proposal acknowledges environmental protection as one of the fundamental rights
+that affect whether an AI application should be considered high risk in Recital 28. However, the
+language as written mentions environmental protection mainly in reference to the immediate
+
+health and safety of individuals, and fails to explicitly mention some of the most pressing
+examples where AI could negatively infringe on the fundamental right to environmental
+protection: greenhouse gas emissions and the vulnerability to climate change. We argue here
+that climate change mitigation and adaptation should be named more explicitly.
+The Commission could employ wording in the proposal to emphasize this point, for example by
+amending the sentence to read:
+"The fundamental right to a high level of environmental protection enshrined in the
+Charter and implemented in Union policies should also be considered when assessing
+the severity of the harm that an AI system can cause, including in relation to the health
+and safety of persons and the ability to appropriately address climate change."
+We propose that other portions of Article 7 also be updated to more explicitly acknowledge the
+right for environmental protection, including protection against significant emission increases or
+other systemic effects resulting from AI that counteract decarbonization efforts. The most
+obvious example relates to impacts that are not easily reversible, where wording could be
+amended as follows:
+“the extent to which the outcome produced with an AI system is easily reversible,
+whereby outcomes having an impact on the health or safety of persons, or an
+environmental impact such as the ability of meeting greenhouse gas emission
+targets, shall not be considered as easily reversible;”
+Including wording that explicitly accounts for potential adverse effects of AI systems on climate
+change can lower the barriers to regulating and monitoring AI systems on the basis of such
+concerns.
+2. Transparency and reporting of climate-relevant data
+To date, estimating AI’s impact on greenhouse gas emissions has been difficult, and reliable
+aggregate numbers are scarce. Better impact assessment requires not just innovations in
+measurement methodologies, but also access to relevant information. This means key data on
+climate impacts of AI will need to be released and systematically gathered. The reporting
+requirements for high-risk AI systems can be a unique opportunity in making this information
+available at scale.
+While it is relatively straightforward to estimate the compute-related greenhouse gas emissions
+resulting from individual runs of AI systems, the usage patterns in practice (e.g., how often a
+machine learning model is used or re-trained) are largely opaque. In addition, data center
+operators currently do not publish the shares of AI loads on their servers. These issues make it
+very hard to obtain aggregate numbers on the emissions associated with the computational
+energy requirements of AI.
+
+The need for better data also extends far beyond compute-related emissions: it will be crucial to
+understand the broader effects of AI applications, whose impacts on their respective sectors
+could be large but are often highly uncertain (as described in footnote above). Knowledge about
+such impacts currently exists in the form of limited case studies, which points at a need to
+estimate impacts more broadly and systematically.
+The proposal contains provisions for reporting of high-risk AI systems: as stated in the
+explanatory memorandum at 5.1, “AI providers will be obliged to provide meaningful information
+about their systems.” We propose to include the following data points in the scope of information
+that is requested:
+At a minimum, specifics on computing power needed for system development,
+training/fine-tuning, and inference at appropriate time resolutions, and information about
+the type, time, and location of computing infrastructure used. Informative are also
+specifics about the model architecture and size, training requirements for system
+development (or pre-trained systems used), frequency of training/retraining/fine-tuning,
+and as well as average number of inference uses per unit of time.
+An assessment of how the system affects or may affect climate change mitigation or
+adaptation more broadly, including of the greenhouse gas emissions resulting from the
+applications of the AI system. The assessment should be as quantitative as possible,
+and should describe the methodology and assumptions used.
+Other considerations and recommendations
+Below we will provide short feedback on other aspects of how the proposed legislation
+addresses the intersection of AI and climate change, and where proposed rules intersect with
+climate-relevant areas (even if not explicitly addressed).
+Climate Change AI welcomes the provisions on the establishment of regulatory
+sandboxes. Research, development and demonstration (RD&D) support is key to driving
+innovation of AI systems, and to enable their meaningful application to climate change
+mitigation and adaptation. In particular, we welcome that climate change is identified as
+a priority area, and that relevant actions for promoting RD&D are discussed in detail in
+Section 11 of COM(2021) 205 final ANNEX.
+AI applications in critical infrastructure are considered high-risk AI systems; however,
+those sectors often hold great potential for applying AI to help with climate change
+mitigation and adaptation (e.g. transportation, water, gas, heating and electricity;
+Creutzig et al., 2019; Rolnick et al., 2019; The Royal Society, 2020). Barriers resulting
+from the legislation in these sectors must be appropriately addressed to ensure they do
+not slow climate change mitigation and adaptation efforts that can benefit from AI.
+We welcome that “the Commission and the Board shall encourage and facilitate the
+drawing up of codes of conduct intended to foster the voluntary application to AI systems
+of requirements related for example to environmental sustainability, [...] on the basis of
+clear objectives and key performance indicators to measure the achievement of those
+objectives.” We recommend that such codes of conduct on environmental sustainability
+
+not only focus on the “direct” impact of AI systems resulting from their computational
+energy and resource consumption, but also center the “indirect” impacts resulting from
+the use of the AI system.
+About Climate Change AI
+Climate Change AI (CCAI) is a volunteer-driven organization of researchers and professionals
+with the mission to catalyze impactful work at the intersection of climate change and machine
+learning. Since it was founded in June 2019, CCAI has led the creation of a global movement in
+climate change and machine learning, encompassing researchers, engineers, entrepreneurs,
+investors, policymakers, companies, and NGOs. Our activities include a foundational report
+detailing where machine learning can have high leverage in addressing climate change,
+conferences and events at top machine learning venues and the UN Climate Change
+Conference, and various activities and resources developed together with partners from
+government and industry. Planned upcoming initiatives include grants programs, summer
+schools, and programs to bridge the gap between academic research and deployment.
+Contributors (Climate Change AI)
+Lynn Kaack (Hertie School, Germany)
+Priya Donti (Carnegie Mellon University, USA)
+Jesse Dunietz (MIT, USA)
+Konstantin Klemmer (University of Warwick, UK)
+Nikola Milojevic-Dupont (Technical University of Berlin, Mercator Research Institute on Global
+Commons and Climate Change, Germany)
+Contributors (external)
+Amy Stein (University of Florida, USA)
+References
+Felix Creutzig, Martina Franzen, Rolf Moeckel, Dirk Heinrichs, Kai Nagel, Simon Nieland, and Helga
+Weisz. Leveraging digitalization for sustainability in urban transport.
+Global Sustainability, 2, 2019.
+Greenpeace. Oil in the Cloud: How Tech Companies are Helping Big Oil Profit from Climate Destruction,
+2019. URL https://www.greenpeace.org/usa/reports/oil-in-the-cloud/.
+Lynn H Kaack, Priya L Donti, Emma Strubell, and David Rolnick. Artificial Intelligence and Climate
+Change: Opportunities, considerations, and policy levers to align AI with climate change goals, 2020.
+URL https://eu.boell.org/en/2020/12/03/artificial-intelligence-and-climate-change.
+Amy L Stein. Artificial intelligence and climate change. Yale J. on Reg., 37:890, 2020.
+David Rolnick, Priya L Donti, Lynn H Kaack, Kelly Kochanski, Alexandre Lacoste, Kris Sankaran,
+Andrew Slavin Ross, Nikola Milojevic-Dupont,
+Natasha Jaques, Anna Waldman-Brown, et al.
+Tackling climate change with machine learning, 2019. URL
+
+https://arxiv.org/abs/1906.05433. arXiv:1906.05433.
+The Royal Society. Digital technology and the planet: Harnessing computing to achieve net zero.
+Technical report, The Royal Society, 2020. URL
+https://royalsociety.org/-/media/policy/projects/388digital-technology-and-the-planet/digital-technology-and
+-the-planet-report.pdf.
+Emma Strubell, Ananya Ganesh, and Andrew McCallum. Energy and policy considerations for deep
+learning in NLP. In Proceedings of the 57th Annual Meeting of the Association for Computational
+Linguistics, Florence, Italy, July 2019. Association for Computational Linguistics.
+Roy Schwartz, Jesse Dodge, Noah A. Smith, and Oren Etzioni. Green AI. CoRR, abs/1907.10597, 2019.
+URL http://arxiv.org/abs/1907.10597.
+Zia Wadud, Don MacKenzie, and Paul Leiby. Help or hindrance? The travel, energy and carbon impacts
+of highly automated vehicles. Transportation Research Part A: Policy and Practice, 86:1–18, 2016.

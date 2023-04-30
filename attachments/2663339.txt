@@ -1,0 +1,589 @@
+July 2021 
+AI ACT 
+2021/0106 (COD) 
+ACEA’S RESPONSE TO COMMISSION’S 
+PUBLIC CONSULTATION 
+
+Table of Contents 
+Executive summary .................................................................................................... 2 
+Introduction: AI in the automobile industry .................................................................. 4 
+1. 
+General remarks .................................................................................................. 5 
+2. 
+Remarks on motor vehicles ................................................................................. 6 
+3. 
+Remarks on other use-cases ............................................................................... 9 
+4. 
+Remarks on technical requirements for high-risk ai systems and other provisions
+11 
+Requirements for high-risk AI systems .............................................................. 11 
+Quality management system ............................................................................. 15 
+Regulatory sandboxes ....................................................................................... 16 
+Access to data and documentation.................................................................... 16 
+Entry into force, application and penalties ......................................................... 17 
+About the EU automobile industry ............................................................................ 18 
+
+EXECUTIVE SUMMARY 
+The European Automobile Manufacturers’ Association (ACEA) welcomes the 
+European Commission’s initiative on Artificial Intelligence and its overarching goal to 
+develop a European ecosystem of excellence and trust around AI. 
+The present response is structured in 4 main sections presenting the industry’s 
+remarks on the current Proposal and questions to be clarified. 
+(I) 
+The first section addresses our general remarks and questions on the notion 
+of provider and user, their obligations and the scope of the AI Act. 
+While the risk-based approach laid down in the Proposal is relevant and proportionate, 
+we note that the obligations placed on providers and users of high-risk AI systems 
+could be burdensome and difficult to fulfil, especially in the light of the complex valuechain that characterises AI systems from their development stage to their placing on 
+the market. Vehicle manufacturers are both developing AI solutions internally and 
+deploying systems developed and provided by third parties. Problems could well arise 
+whenever AI technology is purchased from suppliers by auto makers and used under 
+their own names, becoming as such ‘new’ provider of the AI systems according to the 
+AI Act. In this case, proving compliance with the legislation would be challenging as 
+the current Proposal does not clarify third parties’ obligations towards the ‘new’ 
+provider. Overall, the extensive requirements set forth within this Proposal, alongside 
+the provisions dictated in the General Data Protection Regulation (GDPR), could 
+discourage companies from adopting AI in certain areas, especially given the unclear 
+interaction between AI requirements on data and record keeping and deletion / data 
+minimisation requirements. The broad territorial scope of the AI Act can be problematic 
+in cases where the AI output of a system developed / produced outside the EU is used 
+in the Union. Also, the definition of AI systems provided under Article 3(1) and in Annex 
+I of the AI Act should be narrower: these include software generally, while the proposed 
+legislation focuses on the challenges stemming from learning based approaches. 
+(II) 
+The second section includes our comments and requests for clarification as 
+regard to motor vehicles and their safety components. 
+While we support Commission’s aim to develop a coherent legal framework, one 
+consistent with the existing sectoral legislation and certification requirements in place 
+for the automotive products, we note a lack of clarity with respect to the interaction of 
+the technical mandatory requirements for high-risk AI systems in the AI Act with the 
+Type Approval. The integration of the technical requirements into the Type Approval, 
+as stipulated under Article 80 of the AI Act, should be carried out in a way that fit into 
+the sectoral framework and follow a targeted approach. No blank transposition of the 
+AI requirements would be appropriate for vehicles safety components, as only those 
+relevant Type Approval regulations should be amended to include AI provisions, where 
+
+gaps in relation to AI exist. Also, a clear specification of the timeline for the application 
+of the requirements to motor vehicles is required: this should take into account the 
+development cycle length of automotive products and provide automobile 
+manufacturers with the necessary lead-time to make new and all vehicles types 
+compliant with new requirements. In order to understand which in-vehicles applications 
+could fall in the scope of the AI Act because not type approved, it is crucial to clearly 
+define what a (high-risk) safety component is and which systems can be deemed as 
+such in the context of motor vehicles. In the definition, it should be acknowledged that 
+safety critical components and systems for the primary functionality of a vehicle are 
+covered by the General Safety Regulation (GSR), whereas all other component and 
+system intended for the primary functionality of a vehicle, yet not included in the GSR, 
+should not fall under AI Act. 
+(III) 
+The third section presents the remarks concerning all other AI systems 
+falling within the direct scope of the AI Act and with relevance for 
+automakers. 
+We encourage the Commission and co-legislators to clarify some of the wording used 
+under ‘prohibited AI’ systems, such as the legal meaning of ‘subliminal techniques’ and 
+‘psychological harm’ and what these consist of. With regards to high-risk AI systems 
+listed in Annex III, the process and transition period for adding a new high-risk AI 
+system to the list is vaguely defined, especially in terms of lead-time necessary to 
+providers to comply with the legislation. The scope of the application area described 
+under ‘Employment, workers management and access to self-employment’ is quite 
+extensive and risks invalidating the use of AI in this field. The application area of 
+‘Access to and enjoyment of essential private services and public services and 
+benefits’ would benefit from clarification as for the meaning of ‘essential private 
+services’ and what they encompass. Finally, the identification of in-vehicles systems 
+potentially falling in the scope of Article 52 on the limited-risk AI systems, is key to 
+avoid legal uncertainty and ‘grey’ areas where the applicability of the AI Act is unclear. 
+(IV) 
+The fourth and final section addresses important questions on the 
+mandatory technical requirements for high-risk AI systems and other 
+provisions, in view of clarifying ambiguous aspects and improving the current 
+regulatory text. 
+In Chapter 2, Title III, we note a rather unspecified use of adjectives such as 
+‘appropriate levels’, ‘adequate’ or ‘relevant’ which are not legally defined and could 
+lead to uncertain interpretations. Clear references to standards for each of these 
+parameters should be made. Some of the requirements set out in the Regulation, as 
+currently phrased, will be extremely arduous or impossible to meet in practice (e.g. Art. 
+10(3): Dataset typically cannot be guaranteed to be ‘free of errors’ and ‘complete’ and 
+the validation of such is not practicable. Art 12(2): keeping logs throughout the lifecycle 
+of an AI systems would have huge costs for data storage and energy consumption. 
+
+Art. 14: human oversight measures introduced thereunder are neither applicable to 
+automated shuttle services, robotaxis, and vehicles nor consistent with the draft 
+Implementing Regulation for the EU approval of driverless vehicles). We agree with 
+the intent of the requirements, but these should be drafted in a way that reflects 
+practical, state-of-the-art standards. 
+INTRODUCTION: AI IN THE AUTOMOBILE INDUSTRY 
+ACEA is thankful for the opportunity provided by the Commission to comment on the 
+draft AI Act, adopted on 21 April 2021. This current paper builds further on ACEA’s 
+previous contributions to: Commission’s White Paper (12 June 2020, document No. 
+F530044) Commission’s inception impact assessment (9 September 2020). 
+To complement this, ACEA’s perspectives on AI and main policy recommendations 
+are extensively elaborated in a position paper on the approach of EU automobile 
+manufacturers to Artificial Intelligence. 
+In the automobile industry, Artificial Intelligence (AI) holds enormous potential when 
+deployed in production and manufacturing processes, and especially when embedded 
+in automotive technology and products such as motor vehicles. In‐vehicle AI 
+applications for Cooperative, Connected and Automated Mobility (CCAM) will play a 
+crucial role in taking automated driving to the next level. Besides automated driving, AI 
+also has an important role to play in a wide variety of other applications, including 
+connectivity systems, infotainment systems, comfort functions and, more importantly, 
+safety features for vehicles. 
+The partially automated vehicles that are already available are equipped with safety 
+systems – from basic ones that give drivers additional sensorial perception (such as 
+blind spot detection) to advanced active safety systems (e.g. advanced driver 
+assistance systems, advanced emergency braking systems or lane keeping systems) 
+– that intervene automatically, and in a faster and more reliable way than a human 
+being. Driver monitoring systems will enhance the safety of users by detecting 
+distraction or drowsiness, alerting the driver of other hazards. AI technology will 
+increase the level of safety for vehicles, drivers, passengers, and roads. 
+We believe that a flexible and balanced regulatory framework for AI will promote its 
+widespread deployment in vehicles, contributing to cleaner, more efficient and safer 
+mobility in Europe. We stand ready to work further with the EU policymakers 
+throughout the adoption process of this initiative. 
+
+1. GENERAL REMARKS 
+A coherent legal framework is crucial for accelerating AI deployment in motor vehicles. 
+We stress our support to the approach taken by the Commission, as this will ensure 
+consistency with the existing sectoral regulatory frameworks and certification 
+requirements in place for the automotive products and will avoid legal uncertainty, 
+duplications and additional burdens. 
+ACEA supports the logic behind the risk-based approach laid down in the Proposal: 
+this should ensure that the requirements set out in the Regulation are proportionate to 
+the risk level of the AI applications, and are not too burdensome for businesses across 
+Europe. 
+However, we note that Original Equipment Manufacturers (OEMs) are captured by this 
+Proposal for Regulation as both providers of AI solutions developed internally, and as 
+users of AI systems developed by third parties / suppliers. Hence, vehicle 
+manufacturers, who use AI quite extensively in different areas and business processes 
+today, will be faced with double obligations that could ultimately hinder AI adoption in 
+certain fields. 
+The obligations on the provider of an AI system are onerous, especially if a user 
+(purchaser of AI technology) becomes a provider by using the purchased AI technology 
+under its own name. As many large companies work with SMEs and other third parties 
+to contract these technologies, this obligation could negatively affect business 
+relationship with SMEs. 
+Furthermore, whenever AI systems are provided by a third party, it can be difficult for 
+the ‘new’ provider to prove that the AI system is compliant with the legislation: in the 
+current Proposal it is unclear how this will practically work and whether the third party 
+would need to provide the ‘new’ provider with all necessary testing/training data, 
+source code or documentation to ensure compliance. 
+In addition, with the extensive and high requirements set forth within this Proposal, in 
+combination with other existing legislation, such as General Data Protection Regulation 
+(GDPR), data minimisation principle, data protection bonds laid down in Regulation 
+(EU) No. 2018/1725, record keeping requirements, there is a risk that in some cases 
+companies will refrain from deploying AI, thus losing the positive effects, both for the 
+user and the person ‘exposed’ to AI.  This could negatively affect the competitiveness 
+and attractiveness of the EU automobile manufacturers, supply chain and industry at 
+large. 
+As regards to the scope of the AI Act, we note that it is broad both in its territorial scope 
+as well as in its definition of AI. Regarding the former, it is worrisome that the AI Act 
+would apply in cases where it is the output produced by an AI system to be used in the 
+EU. The AI output might well be a result or analysis from the AI system produced by 
+
+players located elsewhere outside the Union – which if then is ‘used’ in the EU would 
+be subject to the AI Act. 
+The broad definition of AI as laid down both in Article 3(1) and Annex I remains too 
+broad, as it includes almost all software and it may cover traditional control algorithms 
+as well as any piece of software which is based on statistical approaches. This does 
+not match the objective of the proposed Regulation, which is to focus on the challenges 
+stemming from learning-based approaches. Instead, the definition of AI systems 
+currently includes software generally. We therefore encourage the co-legislators to 
+consider a narrower definition of Artificial Intelligence, so to avoid a general ‘software’ 
+regulation. As pointed out in previous contributions, this risks to capture in the 
+regulation also traditional software systems that are also able receive data from their 
+surroundings, process this data and use it to take a decision or perform a certain action. 
+These systems are already rigorously tested and covered by current legislation. 
+The power assigned to market surveillance authorities, according to Article 67 of the 
+AI Act, to require the withdrawal or recall of an AI system that is compliant with this 
+Regulation, is disproportionate and contradicts the main goal of this Proposal, i.e. to 
+provide legal certainty. If a market surveillance authority can ad hoc remove from the 
+market an AI system that is compliant with the AI Act, this defeats the purpose of having 
+the various compliance sections and processes in the framework. 
+Furthermore, the AI Act does not mention the regulatory work carried out at the UNECE 
+level. It is unclear how any AI-related output in that forum will interface with the AI Act 
+and relevant EU sectoral regulations. We remind that, in order to accommodate the 
+compliance of a global automotive industry, it is of uttermost importance that the AI 
+requirements for automotive products are harmonised as much as possible worldwide, 
+at UNECE level. 
+2. REMARKS ON MOTOR VEHICLES 
+With respect to motor vehicles, the approach taken by the Commission will guarantee 
+that automotive products remain regulated primarily through their sector-specific 
+framework. 
+In order to avoid duplicating the existing governance mechanisms, ex ante conformity 
+assessment procedures, and the monitoring and market surveillance in place for motor 
+vehicles and their safety components, it is essential that the technical requirements for 
+automotive products are integrated into the existing vehicle Type Approval framework. 
+We trust that this approach will be further supported by the co-legislators (the European 
+Parliament and Council) throughout the ordinary legislative procedure. 
+
+However, the following aspects under the current AI Act would benefit from further 
+clarification on Commission side (DG CNECT and GROW): 
+Interaction of the technical mandatory requirements for high-risk AI 
+systems in the AI Act with Type Approval 
+With reference to Article 80 in the AI Act (Amendment to Regulation (EU) 2018/858): 
+In Article 5 of Regulation (EU) 2018/858 the following paragraph is added: ‘4. When 
+adopting delegated acts pursuant to paragraph 3 concerning Artificial Intelligence 
+systems which are safety components in the meaning of Regulation (EU) YYY/XX [on 
+Artificial Intelligence] of the European Parliament and of the Council *, the 
+requirements set out in Title III, Chapter 2 of that Regulation shall be taken into 
+account.’  
+, We note that the ‘shall be taken into account’ phrasing leaves much leeway to EC on 
+how to accomplish that. It is unclear whether the requirements set out in the AI 
+Regulation will be adapted to the specific situation of motor vehicles or if a simple 
+reference to the requirements in Chapter 2 Title III will be made when adopting any 
+future delegated acts under the Type Approval. 
+In this regard, we stress that only those few Type Approval regulations that are relevant 
+for AI should include AI provisions when amended. This should be limited to a minimum 
+of safety-critical regulations and not include e.g. mechanical requirements, emissions 
+and noise. 
+A gap analysis to assess existing legislation in the automotive sector and potential 
+gaps relating to AI is encouraged. This should be carried out within the remits of DG 
+GROW and the industry should partake in this process. 
+Timeline for the application of the requirements to motor vehicles 
+When Regulation (EU) No. 2018/858 (Type Approval) will be amended and future 
+delegated act thereunder adopted, the application of the new AI requirements should 
+consider the development cycle length of automotive products. Vehicles with 
+automated functions that will be on the roads in the next few years are already being 
+trained now. 
+Hence, vehicle manufacturers need to be given a suitable timeframe to comply with 
+any new requirements: at least for the first amended Type Approval regulation that 
+include AI, a prolonged timeframe will be required. A phased implementation / lead 
+time is needed for new vehicle and all vehicle types to comply with the requirements. 
+
+Definition of safety component 
+In this regard, we ask clarification on the following aspects: 
+o Which AI systems can be considered high-risk safety components in motor 
+vehicles and which ones are not? 
+o Which are the AI components that are not type approved and that would fall 
+in the scope of the AI Act? 
+o How is a safety component characterised? A module embedded in a safety 
+critical chain does not necessarily bears safety requirement. 
+ACEA encourages DG GROW to provide a precise definition and determine potential 
+use-cases in the automotive area. 
+Such definition should as a base assume that all safety critical components and 
+systems for the primary functionality of a vehicle are covered by the General Safety 
+Regulation. Hence, any other component and system intended for the primary 
+functionality of a vehicle, yet not included in the General Safety Regulation (GSR), 
+should not fall under the AI Act. 
+It is reasonable to assume since e.g. an adaptive cruise control is not under Type 
+Approval and included in the GSR, except for its braking capabilities that is indirectly 
+regulated under ECE R13, the legislator has not considered it to be a safety critical 
+system. Hence, it would be inconsistent with the GSR if this system becomes deemed 
+as safety critical under the AI Act. Conversely, if a face recognition system is placed 
+inside the vehicle for any other purpose than a primary functionality (i.e. transporting 
+people and goods), this system should fall under AI Act on the same principles as if it 
+was included in an app on a tablet or a smartphone. 
+CE marking / DOC principles 
+As regards to CE marking/DOC principles, motor vehicles and components should be 
+exempted as they are already covered by Regulation (EU) No. 2018/858 and 
+Regulation (EU) No. 2019/2144. 
+A clarification is required on whether other high-risk AI systems that fall in the scope 
+of the AI Act and will potentially be deployed in-vehicles (not type approved) would 
+need to affix CE marking. If this is the case, a clarification is needed on how the process 
+will practically work. 
+
+3. REMARKS ON OTHER USE-CASES 
+Other OEMs’ business processes as well as in-vehicles applications (not type 
+approved) can be directly impacted by the Regulation. The requirements put forward 
+in the AI Act would apply to some ‘high-risk’ AI systems and other ‘limited-risk’ AI 
+systems, that are relevant to OEMs. 
+We would like to get clarifications on the following aspects: 
+Prohibited AI systems in scope of AI Act – Title II 
+The description of what ‘prohibited AI’ consists of is vague. As the highest penalties 
+are tied to these sections, there is no room for free interpretation. 
+In Article 5(1) of the AI Act it is stated that: 
+a) the placing on the market, putting into service or use of an AI system that deploys 
+subliminal techniques beyond a person’s consciousness in order to materially distort a 
+person’s behaviour in a manner that causes or is likely to cause that person or another 
+person physical or psychological harm; 
+o Clarification is urgently needed as regard to the legal meaning of 
+‘subliminal techniques’, which are prohibited under the AI Act. 
+o The wording ‘is likely to cause another person psychological harm’ is very 
+broad as to what and how psychological harm can be proven (e.g. a 
+doctor’s visit?). 
+High-risk AI systems in scope of AI Act – Annex III (subject to mandatory 
+requirements) 
+The list in Annex III can be expanded by the Commission once a year. However, the 
+current Proposal does not provide clarity in terms of process and transition period 
+whenever a new high-risk AI system is added to this Annex: in this case, a lead time 
+should allow providers to comply with the legislation. 
+Among others, Annex III includes: 
+‘Management and operation of critical infrastructure’: 
+ ‘AI systems intended to be used as safety components in the management and 
+operation of road traffic.’ 
+o It is unclear whether this might extend to the OEM’s vehicle backend 
+infrastructure or if this will be limited to roadside infrastructure. 
+‘Employment, workers management and access to self-employment’: 
+
+‘(a) AI systems intended to be used for recruitment or selection of natural persons, 
+notably for advertising vacancies, screening or filtering applications, evaluating 
+candidates in the course of interviews or tests; 
+(b) AI intended to be used for making decisions on promotion and termination of workrelated contractual relationships, for task allocation and for monitoring and evaluating 
+performance and behavior of persons in such relationships.’ 
+o AI is largely used by OEMs in recruitment to streamline the process, and 
+as a tool for managing bias. It is well established that manual selection 
+in recruitment or promotion suffers from bias to a greater or lesser extent. 
+AI therefore becomes an important tool for reducing bias and recruiting 
+the right actual competence. With the extensive and high requirements 
+set in the Proposal, in combination with other legislation that already 
+exists, such as GDPR, there is a risk that in some cases companies will 
+avoid using AI and thus lose the positive effects, both for the user and 
+the person ‘exposed’ to AI. To minimise this consequence, a narrower 
+scope of this application area should be considered. 
+‘Access to and enjoyment of essential private services and public services and 
+benefits’: 
+‘(b) AI systems intended to be used to evaluate the creditworthiness of natural persons 
+or establish their credit score, with the exception of AI systems put into service by small 
+scale providers for their own use.’ 
+o In this context, essential private services should be focused exclusively 
+on basic goods, like housing, as certain luxury items (such as luxury 
+vehicles) seem to be further away from the intent of the proposal. We 
+therefore suggest narrowing the scope of the evaluation of 
+creditworthiness to basic goods only (e.g. housing, etc.) and to define 
+what ‘essential private services’ comprehend.  
+Limited-risk AI systems in scope of AI Act – Article 52, Title IV (subject to 
+a set of transparency obligations vis-à-vis end user) 
+‘AI systems intended to interact with natural persons’: aka voice AIs / chat bots, 
+can be used e.g. for voice recognition / activation systems. 
+‘Emotion recognition systems’: can be used e.g. to detect driver drowsiness in the 
+future. 
+‘Biometric categorisation systems’: can be used e.g. for accident recording in the 
+future. 
+
+Here, it is crucial to identify which systems potentially deployed in-vehicles and not 
+covered by Type Approval would fall in the scope of Article 52 (see comment on the 
+definition of safety component p. 7). 
+Concerning the transparency requirements set out in Article 52(1): 
+1) Providers shall ensure that AI systems intended to interact with natural persons are 
+designed and developed in such a way that natural persons are informed that they 
+are interacting with an AI system, unless this is obvious from the circumstances 
+and the context of use. 
+, We encourage the legislator to clarify what constitutes ‘obvious’ ‘circumstances’, as 
+the current wording is open to misinterpretation. 
+4. REMARKS ON TECHNICAL REQUIREMENTS FOR 
+HIGH-RISK AI SYSTEMS AND OTHER PROVISIONS 
+The following paragraphs and subparagraphs seek to address the most relevant 
+provisions in the draft AI Act and present the perspectives of vehicle manufacturers on 
+how the current regulatory text could be improved. 
+REQUIREMENTS FOR HIGH-RISK AI SYSTEMS 
+Overall, in Chapter 2, Title III, we note a vague and unspecified use of adjectives such 
+as ‘appropriate levels’, ‘adequate’ or ‘relevant’ which are not legally defined and are a 
+major factor of uncertainty. Clear references to standards for each of these parameters 
+should be made. The Commission should therefore clarify whether the development 
+of harmonised standards mentioned in the AI Act will play a role. 
+Moreover, as far as data collection and record keeping are concerned, it is unclear how 
+the requirements hereunder will interact with GDPR. This should be further specified 
+in this Chapter. 
+We also stress that the voluntary application of the Chapter 2 requirements to nonhigh-risk applications as proposed by the Commission is very burdensome. Instead of 
+putting pressure on minimal-risk use-cases to try to fulfil them, the Commission should 
+provide best practice or guidance. 
+Article 9 – Risk management 
+1) The risk management system shall consist of a continuous iterative process run 
+throughout the entire lifecycle of a high-risk AI system, requiring regular systematic 
+updating. It shall comprise the following steps: 
+
+(a) identification and analysis of the known and foreseeable risks associated with each 
+high-risk AI system. 
+o More details are needed as to how broad and deep this analysis should go. 
+What kind of risks should be assessed, technical risks or societal impact 
+risks? The focus should shift towards the impacts, e.g. human rights impact 
+assessment as proposed by the High Level Expert Group. 
+o How would the risk management system work whenever the same AI system 
+is being used in different countries – would each one need a separate risk 
+management system? 
+3) The risk management measures referred to in paragraph 2, point (d) shall give due 
+consideration to the effects and possible interactions resulting from the combined 
+application of the requirements set out in this Chapter 2. They shall take into account 
+the generally acknowledged state of the art, including as reflected in relevant 
+harmonised standards or common specifications. 
+o In case of extension to in-vehicle applications, ISO26262 and ISO21448 
+(SOTIF) standard compliance should suffice. 
+Article 10 – Data and data governance 
+1) High-risk AI systems which make use of techniques involving the training of models 
+with data shall be developed on the basis of training, validation and testing data sets 
+that meet the quality criteria referred to in paragraphs 2 to 5. 
+o Article 10(1): The concept of ‘validation and testing’ data sets spelled out 
+here is not sensible for each parameter adaptation methodology. The text 
+requires to be adjusted by adding that this should be accomplished ‘where 
+applicable’ or ‘where deemed appropriate by the provider’.  
+o Article 10(2): the practices of data governance / management indicated 
+might be impractical due to huge costs, best practices confidentiality, 
+indemonstrable relation with the final AI performance. The current AI 
+Regulation should focus on the performance itself rather than on the 
+development process. 
+3) Training, validation and testing data sets shall be relevant, representative, free of 
+errors and complete. They shall have the appropriate statistical properties, including, 
+where applicable, as regards the persons or groups of persons on which the high-risk 
+AI system is intended to be used. 
+
+o Article 10(3): Data set typically and in practice cannot be guaranteed to be 
+‘free of errors’ and ‘complete’ and the validation of such is not practicable. 
+This requirement should be rephrased by putting more emphasis on 
+demonstrating that reasonable steps have been taken to ensure the data 
+does not contain preventable errors. It should be further specified that this 
+requirement has to be operationalised according to the state-of-the-art 
+standards. 
+o Ensuring representativeness of data may not be always an ideal goal: 
+sometimes an AI system may well be tested using unrepresentative data set 
+to see how it deals with e.g. marginalised groups. 
+o The paragraph could be rephrased as following: ‘Errors in the data set shall 
+be statistically negligible for the models that use these data sets. The 
+statistical properties of the AI methods trained with the data sets have the 
+appropriate statistical properties, including, where applicable, as regards the 
+persons or groups of persons on which the high-risk AI system is intended 
+to be used.’ 
+5) To the extent that it is strictly necessary for the purposes of ensuring bias monitoring, 
+detection and correction in relation to the high-risk AI systems, the providers of such 
+systems may process special categories of personal data referred to …. subject to 
+appropriate safeguards for the fundamental rights and freedoms of natural persons, 
+including technical limitations on the re-use and use of state-of-the-art security and 
+privacy-preserving measures, such as pseudonymisation, or encryption where 
+anonymisation may significantly affect the purpose pursued. 
+o Article 10(5): Specification / regulation on data encryption with respect to 
+data anonymisation for AI development is to be welcomed, as it would 
+contribute to a more competitive environment for AI. 
+o A definition of bias should be provided in the Proposal as well as a 
+clarification on whether bias monitoring should apply only to data or to the 
+AI system as a whole. 
+6) Appropriate data governance and management practices shall apply for the 
+development of high-risk AI systems other than those which make use of techniques 
+involving the training of models in order to ensure that those high-risk AI systems 
+comply with paragraph 2. 
+o Article 10(6): The implication of ‘appropriate’ data governance and 
+management practices is unclear and would need further specification. 
+
+Article 12 – Record keeping 
+o General comment: a record keeping system would be very useful for keeping 
+track of deployed AI performance and for its further development. However, 
+this would be feasible only if data is encrypted so to preserve both 
+identification of the natural persons involved in the verification of the results 
+(Art. 5(4).d AI Act) and the quality of further development. 
+2) The logging capabilities shall ensure a level of traceability of the AI system’s 
+functioning throughout its lifecycle that is appropriate to the intended purpose of the 
+system. 
+o Article 12(2): As currently phrased, this requirement is not feasible in 
+practice. It must be considered that keeping logs for a protracted time could 
+have huge implications in terms of increased costs of data storage that will 
+be reflected on the customer and also increased energy consumption due to 
+the required storage capacity. Overall, this would be highly inconsistent with 
+the goals of climate neutrality set in the European Green Deal. 
+o A clarification is needed on whether logs need to be kept for all vehicles 
+throughout their entire lifetime and what exactly needs to be logged – all data 
+or only in certain situations (e.g. low certainties or denials). Additionally, how 
+does this logging work with deletion and data minimisation requirements 
+under the GDPR? 
+o Moreover, a record keeping system throughout the entire lifetime of the 
+vehicle is not necessary – and would represent a disproportionate burden. 
+Event data recorders and other vehicle systems must be already installed 
+e.g. for liability purposes to understand the dynamic of an incident, etc. 
+Article 14 – Human oversight 
+o General comment with regard to motor vehicles: Automated Driving Systems 
+of vehicles today already provide for mechanisms that allow the user to 
+intervene and deactivate / override the ADS in a simple manner (UNECE 
+R157 on ALKS for SAE level 3 vehicles). Other forms of human oversight 
+are being discussed under the draft Implementing Regulation for the EU 
+approval of driverless vehicles (SAE level 4 / 5), equivalent to air traffic 
+control in aviation. 
+o The notion of human oversight is vague: what does it consist of and what is 
+the frequency of the oversight? 
+
+o The notions of monitor and control need to be clarified/defined: these could 
+be at stake if the high-risk system is used outside the EU, where there may 
+be no possibility to control the system. 
+1) High-risk AI systems shall be designed and developed in such a way, including with 
+appropriate human-machine interface tools, that they can be effectively overseen 
+by natural persons during the period in which the AI system is in use.  
+o Article 14(1): What constitutes ‘effectively overseen’ and how does that 
+combine with control of complex machines, e.g. in manufacturing? 
+o For manufacturing, this oversight is more relevant for quality inspection 
+(perception of how the system works) than for machine control (functioning 
+of the system itself). 
+o In the case of automated driving, it would mean that wheel and pedals could 
+never be removed from the vehicle, which is not consistent with L4 shuttle 
+services or robotaxis and nor with Implementing Regulation currently being 
+drafted by DG GROW in the Motor Vehicle Working Group. 
+4)(e) be able to intervene on the operation of the high-risk AI system or interrupt the 
+system through a “stop” button or a similar procedure. 
+o A stop button might not be appropriate to handle situations where it would 
+be even more critical if the operation just stops. The requirement should be 
+rephrased by emphasising that humans can intervene in the operation of an 
+AI system by putting it in a safe position or situation. 
+Article 15 – Accuracy, robustness and cybersecurity 
+o General comment in regard to motor vehicles: the new cybersecurity 
+Regulation UNECE R155 already covers automotive products (e.g. 
+automated vehicles) and should be effectively enforced so to avoid 
+duplication of cybersecurity requirements only for AI. 
+o What is the ‘appropriate level of robustness’ and how can this be defined? 
+As there are different robustness metrics, clearer criteria should be 
+established here. 
+QUALITY MANAGEMENT SYSTEM 
+Article 17 – Quality management system 
+
+o Article 17(1): Similarly to what mentioned for Article 10, the quality 
+management system should not overburden the development process, 
+rather focus on performance. 
+o Article 17(2): It would be advisable to make the quality management system 
+proportionate to the complexity cq. impact of the AI system rather than to 
+‘the size of the provider’s organisation’. 
+REGULATORY SANDBOXES 
+Article 54 – Further processing of personal data for developing certain AI 
+systems in the public interest in the AI regulatory sandbox 
+1) In the AI regulatory sandbox personal data lawfully collected for other purposes shall 
+be processed for the purposes of developing and testing certain innovative AI systems 
+in the sandbox under the following conditions:  
+(a) the innovative AI systems shall be developed for safeguarding substantial public 
+interest in one or more of the following areas: (i) … criminal offences prevention …; (ii) 
+… public safety/health; (iii) … environment protection … 
+o Article 54(1): Why is the further use of sandboxed personal data restricted 
+to these areas? Why not e.g. in traffic control systems? It is to be noted that, 
+e.g. tracking vehicle numbers or license plates is GDPR-relevant and R&D 
+in that area suffers from such restrictions. 
+ACCESS TO DATA AND DOCUMENTATION 
+Article 64 – Access to data and documentation 
+o General comment: The conditions about data and especially code access 
+should be defined in more details and confined to strictly necessary cases. 
+1) Access to data and documentation in the context of their activities, the market 
+surveillance authorities shall be granted full access to the training, validation and 
+testing datasets used by the provider, including through application programming 
+interfaces (‘API’) or other appropriate technical means and tools enabling remote 
+access. 
+o Article 64(1): This provision would imply full storage of all data, which may 
+lead to prohibitively large data storage capacity. 
+o Article 64(2): This paragraph stipulates that market surveillance authorities 
+shall be granted access to the source code of the AI system. We note that 
+this could be problematic to achieve in the case where 3rd party pretrained 
+
+models are used. For such models, the data may not be available for 
+scrutiny. Does this requirement therefore preclude the inclusion of 3rd party 
+pretrained models? 
+ENTRY INTO FORCE, APPLICATION AND PENALTIES 
+A 2 years transition period is foreseen after the entry into force of the final Regulation 
+for the application of the Regulation to the AI systems falling in the scope of the AI Act. 
+However, penalties would apply already after 1 year after coming into force. This 
+provision would benefit from clarification. 
+Lastly, the AI Act indicates only the maximum amount of the fines that can be paid. 
+Additional clarity is needed regarding the details of the criteria which will be used to 
+assess the exact amount for each specific case. 
+
+ABOUT THE EU AUTOMOBILE INDUSTRY 
+• 14.6 million Europeans work in the auto industry (directly and 
+indirectly), accounting for 6.7% of all EU jobs 
+• 11.5% of EU manufacturing jobs – some 3.7 million – are in the 
+automotive sector 
+• Motor vehicles are responsible for €398.4 billion of tax revenue for 
+governments across key European markets 
+• The automobile industry generates a trade surplus of €74 billion for 
+the European Union 
+• The turnover generated by the auto industry represents more than 
+8% of the EU’s GDP 
+• Investing €62 billion in R&D per year, automotive is Europe's largest 
+private contributor to innovation, accounting for 33% of the EU total 
+REPRESENTING EUROPE’S 15 MAJOR 
+CAR, VAN, TRUCK AND BUS MANUFACTURERS 
+ACEA 
+European Automobile 
+Manufacturers’ Association 
++32 2 732 55 50 
+info@acea.auto 
+twitter.com/ACEA_auto 
+linkedin.com/company/acea 
+youtube.com/c/ACEAauto 

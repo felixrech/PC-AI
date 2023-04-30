@@ -1,0 +1,212 @@
+Equinet’s feedback to the European Commission's Proposal for a Regulation 
+on Artificial Intelligence (AI) Systems 
+The European Network of Equality Bodies, Equinet, is the largest network of national public 
+institutions on equality law and policy in the European Union, connecting 49 national 
+equality bodies specialised in the enforcement and provision of redress under national nondiscrimination legislation in the EU and the broader EU neighbourhood (36 European 
+countries are currently represented in Equinet’s membership). Equinet’s mission and work 
+naturally position it as an active stakeholder in shaping the evolving European law and 
+policy at the intersections of AI-driven technologies, on one hand, and equality and nondiscrimination, on the other hand. 
+Equinet welcomes the opportunity to provide comments on the European Commission’s 
+Proposal for a Regulation on Artificial Intelligence (AI) systems. Equinet further wishes to 
+reiterate its support for this legislative initiative as a timely and valuable opportunity to 
+ensure that the EU becomes the global leader in regulating for AI-enabled technologies that 
+protect and advance fundamental rights, societal wellbeing and the environment. 
+Equality is explicitly and prominently addressed as one of the leading fundamental rights 
+concerns related to the impact of AI systems, which the proposed regulation is going to 
+address. Yet, the current text of the Proposal for an AI Regulation provides insufficient 
+guarantees—especially, in the parts on monitoring, compliance and enforcement — that AIinduced harm on the fundamental right to non-discrimination can be effectively identified, 
+prevented or remedied. 
+The below key recommendations, which are further elaborated and developed in a 
+forthcoming Equinet Position Paper on AI and Equality (please check Equinet’s website in the 
+beginning of fall 2021), seek to provide specific and actionable guidance on how the current 
+proposal on AI can be strengthened to ensure effective regulatory safeguards for equality in 
+the context of AI systems. These recommendations are not exhaustive and focus mainly on 
+two overarching themes: 
+1) victim-centered approach, ensuring participatory, accessible and inclusive 
+complaints and redress mechanisms under the future Regulation for those whose 
+fundamental rights are affected or at risk of being affected by AI-enabled technologies; 
+2) more robust, well-coordinated and ultimately, more effective enforcement at both 
+national and European levels through explicit and increased involvement of existing 
+“supervision and enforcement authorities” in the fundamental rights fields, such as national 
+
+equality bodies, alongside with other sectoral and supervisory bodies (both national and EU 
+level). 
+The below recommendations are based on Equinet’s Report on AI , Equinet’s two submissions 
+to the European Commission’s consultation on the White Paper on AI (one targeted and one 
+general) and on Equinet’s ongoing engagement on the topic of AI and equality. Crucially, 
+these recommendations should be read in conjunction with Equinet’s ambitions and 
+proposals for EU legislation on equality bodies. In this context, the recommendations reflect 
+a view of AI systems and their future regulation in the EU as part and parcel of a broader 
+discussion on the implications of new technologies and digitalization for equality and nondiscrimination, and accordingly propose an equality mainstreaming approach, as an 
+overarching and horizontal requirement, to be introduced by the future EU Regulation on AI 
+for the entire life cycle of AI development, deployment and use.  
+These are the key aspects Equinet recommends to be incorporated in any future EU 
+Regulation on AI: 
+1. Equality should be a central consideration in any EU regulation on AI. 
+By its very nature, AI systems work through mechanisms of exclusions and differentiation, 
+and hence present disproportionately large risk to the protection of equality. Equality 
+enhances the effectiveness of other fundamental rights, could be a precondition for their 
+enjoyment and its violation by AI systems has a much larger and more systemic detrimental 
+effect on society. This results from the specific nature of AI-enabled technology, which acts 
+on a large scale and in non-transparent and hard to predict ways, as well as from its decisionmaking function in several spheres of human life (employment, education, social security, law 
+enforcement, etc.). 
+2. Enable equality mainstreaming through the entire life cycle of AI development, 
+deployment and use. 
+Equinet proposes a two-pronged approach to equality mainstreaming in AI, consisting of 
+mainstreaming equality considerations through both “the ecosystem of excellence” (i.e. 
+financial investment, education and R&D infrastructure) and “ecosystem of trust” (legal and 
+policy regulation). 
+With the below points, we focus on the implications of an equality mainstreaming approach 
+for the future EU Regulation on AI and thus elaborate the content of the present 
+recommendation: 
+a) 
+Place stronger emphasis on strengthening of skills and education on equality of both 
+developers and users of AI systems, and potential victims of AI-enabled discrimination. 
+On the “demand side” (i.e. the victims of AI-enabled discrimination and those interacting with 
+AI systems on the receiving end), this would mean requiring increased and sustained 
+
+investment in 1) digital literacy for those who are affected by AI and 2) developing increased 
+rights awareness and rights education among those affected by AI systems in order to 
+encourage a victim-led recourse to justice. 
+On the “supply side”, EC’s regulatory proposal on AI should emphasize the building of 
+knowledge on applicable equality laws and equality-based good practice standards, so that 
+developers and deployers of AI are trained on understanding the implications of equality and 
+human rights legal standards for their work and learn how to build and deploy AI systems, 
+which are compliant with these standards. Equality bodies could be key “educators” for AI 
+actors on the “supply side” in both the private and public sector. 
+b) Address the financing of Research & Development and scientific innovation, which 
+underpin and enable AI development. 
+Financing of R&D and scientific innovation can be addressed, at the level of regulating the 
+design and development of AI systems as these stages in the life cycle of AI systems are most 
+immediately and most directly reliant upon scientific advances and innovation. 
+Regulatory control over the EU financing of the development of AI systems should also include 
+clear and enforceable funding conditionalities, based on equality and human rights 
+considerations, for the receipt of EU finances by science and R&D projects, which enable the 
+further development of AI systems. In practice, this means that finance for research and 
+innovation in AI should only go for uses which provenly have no negative implications for 
+equality. For effectively and sustainably preventing the financing of the development of AI 
+systems, which are not equality compliant, the proposed regulation on AI will, of course, have 
+to rely on complementarities with a range of (existing and planned) laws, policies and financial 
+instruments of the EU focused on digital rights. 
+3.  Apply a fundamental rights-based approach to defining “harm” and “risk”, not one 
+rooted in product safety models. 
+Article 7 of the current Proposal defines adverse impact and harm in a way that is rather 
+unclear and without sufficient alignment with existing equality and fundamental rights 
+legislation in the EU. The classification of an AI system as high-risk is based exclusively on 
+existing product safety legislation and accordingly, does not reflect the unique nature of harm 
+that results from fundamental rights violations. Protection against high-risk products from 
+the perspective of consumer safety is not the same as protection against high-risk of product 
+from the perspective of their impact on fundamental rights. The legal safeguards for these 
+distinct risks (product safety vs. fundamental rights) should be differentiated accordingly by 
+the future EU Regulation on AI, with fundamental rights receiving stricter and enhanced 
+protection through more and more demanding mandatory requirements, including possible 
+bans on a wider range of AI uses which pose risk to fundamental rights. 
+
+4. Require equality and human rights impact assessments for all AI systems. 
+Risk prediction and risk detection should happen for all AI systems during the entire life cycle 
+of AI development, deployment and use and not only for those pre-defined as “high risk” – 
+in order to enable a preventive and proactive approach to equality and human rights 
+protection. In this context, the main objective of mandatory equality and human rights impact 
+assessments should be to preclude potential violations of equality and human rights by AIenabled systems, thereby avoiding that individuals and/or entire communities are turned into 
+victims by these systems. A compelling rationale for making equality and human rights impact 
+assessments mandatory in the context of AI systems is also given by the existing General Data 
+Protection Regulation. Article 35 of the GDPR requires Data Protection Impact Assessments 
+for all “new technologies, and since AI systems are, by definition, one of the most prominent 
+categories of “new technologies”, there is no reason why the European Commission should 
+choose an approach for regulating AI, which is at odds with its data protection regulation. This 
+will imperil both legal certainty and, most importantly, fail to offer adequate protection 
+against AI-induced risks to equality and human rights. 
+5. Assign mandatory and enforceable ‘equality duties’ to all AI owners and creators. 
+‘Equality Duties’ will complement the effect of equality and human rights impact assessments 
+and thereby strengthen the prevention of equality and human rights violations by AI systems. 
+The proposed regulation on AI should prioritize — in its desired impact and, consequently, in 
+the choice of suggested means for achieving this impact — the prevention of equality and 
+human rights violations by AI systems. For the purpose of advancing equality and nondiscrimination in the context of possible AI-induced threats, clear ‘equality duties’ should be 
+assigned to AI owners and creators, including safeguards that these duties can be effectively 
+enforced and the capacity to issue effective, proportionate and dissuasive sanctions. 
+6. Make risk differentiation only possible after a mandatory equality and human rights 
+impact assessment. 
+Only once risks are clearly identified and assessed through mandatory impact assessment, 
+should regulatory measures based on risk differentiation of risk (e.g. level of oversight, sizes 
+and types of sanctions and compensation) be introduced by the proposed legislation. For 
+example, the EC regulatory proposal on AI could allow approaches on monitoring, redress and 
+sanctions to be differentiated according to level of risk. 
+
+7. Make national-level enforcement effective through the mandatory designation of 
+national fundamental rights regulators, including equality bodies, as national 
+competent authorities under the future AI Regulation. 
+If one of the key objectives of the proposed Regulation on AI is to protect against the potential 
+negative impact of AI systems on fundamental rights, then market surveillance authorities 
+alone or in collaboration with other national sectoral regulators outside of the fundamental 
+rights area are not sufficient to ensure effective ex post enforcement of the regulation in the 
+field of fundamental rights. Specialized public bodies focused on monitoring and enforcing 
+fundamental rights, including equality bodies, are better equipped to both protect 
+fundamental rights and prevent their infringement compared to national regulators, whose 
+mandate is not focused on fundamental rights. 
+Therefore, the involvement of these bodies in monitoring and enforcing the obligations under 
+the regulatory proposal should be ensured through their explicit mention as national 
+competent authorities and through an explicit requirement that they have the powers and 
+resources to intervene in case AI systems generate risks on fundamental rights. 
+In specific, the designation of equality bodies as the national competent authorities would 
+ensure a more harmonized regulatory approach across EU jurisdictions, as ex ante compliance 
+checks by AI providers cannot substitute for the need of an ex post legal assessment whether 
+a given AI-enabled product or service has breached national non-discrimination law, and 
+equality bodies are uniquely well-positioned to make such an assessment. Furthermore, this 
+will contribute to the consistent interpretation of existing national human rights law 
+provisions, including those on equality and non-discrimination, as different national sectoral 
+regulators will be better coordinate and more effectively divide shared work with respect to 
+monitoring, verifying compliance and enforcement under the future EU Regulation on AI. 
+8. Equality bodies should be a the first-point-of-reference for making the legal 
+assessment of whether a given AI system constitute breach of national equality law 
+The future EU Regulation on AI should clarify the specific roles and institutional division of 
+labor between multiple relevant national supervisory and enforcement authorities, including 
+market surveillance authorities, data protection authorities and existing fundamental rights 
+regulators such as equality bodies. The current Proposal does not provide a clear structure 
+for differentiating and coordinating the respective supervision and enforcement tasks of the 
+multiple national regulators, which have to be involved to ensure effective implementation 
+of this Regulation. 
+The only explicit mention of cooperation between existing national supervision and 
+enforcement authorities is limited to the following two references: 1) the power to request 
+
+and access any documentation maintained following this regulation; 2) where needed, 
+request market surveillance authorities to organize testing of the high-risk AI system through 
+technical means. This opens the door to potential confusing, duplication of labor and interinstitutional completion, ultimately weakening the enforcement of the future Regulation. 
+9. Establish effective and accessible complaints and redress mechanisms for rights- 
+holders against AI-induced breaches of equality and other fundamental rights 
+The current draft AI Regulation proposes no mechanism for citizens’ complaints and for the 
+provision of redress. This is especially problematic in the context of an AI-specific regulation, 
+as denied access to justice for victims is at the heart of the challenge that AI-enabled 
+technologies pose to equality and human rights. 
+The involvement of equality bodies, as part of the structure of national supervisory authorities 
+under the proposed regulation, could remedy this. Equality bodies have extensive experience 
+supporting and advising victims of discrimination, including through the handling complaints 
+and litigation work. 
+10.  Make the establishment and secure and adequate resourcing of national and 
+European-level cooperation mechanisms between the different bodies involved in its 
+enforcement mandatory. 
+There needs to be national governance structure on AI in the form of a framework for 
+cooperation of national competent authorities under the proposed AI Regulation in order to 
+enable their collaboration and develop needed capacity. Equality bodies are key partners in 
+the enforcement of national human rights legislation, and as such, they should be part of this 
+national governance framework. 
+AI systems have a complex nature and cross-sectoral use. This means that protecting equality 
+from AI- related threats requires active collaboration and several partnerships, and therefore, 
+the national supervisory authorities suggested by the EU’s Proposal on AI cannot and should 
+not work in silos. 
+Thus, the future EU regulation on AI has a key role to play in encouraging governments to 
+establish the necessary institutional structures, which enable — on a regular and sustainable 
+basis — these crucial partnerships and connections. 
+
+Equality bodies are key partners in its enforcement and as such, they should be connected to 
+specialized AI oversight and monitoring bodies, as well as to other regulators, which partake 
+in enforcing the proposed regulation at the national level. 
+As highlighted by Equinet Report on AI and by the accompanying document Summary and 
+Framework for Action for Equality Bodies, AI systems have a complex nature and crosssectoral use. This means that protecting equality from AI- related threats requires active 
+collaboration and several partnerships. National equality bodies need to work with national 
+and regional authorities as well as with actors typically considered non-traditional for the 
+equality field. These may include, for example, sectoral regulators such as Data Protection 
+Authorities and Consumer Protection Authorities, computer and data scientists and 
+engineers, within both the private sector, academia, digital rights NGOs and standardization 
+bodies. The EU has a key role to play in creating an enabling institutional environment for 
+establishing — on a regular and sustainable basis — these crucial partnerships and 
+connections. 

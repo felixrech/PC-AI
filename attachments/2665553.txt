@@ -1,0 +1,92 @@
+EU REGISTRATION ID NUMBER 523145616037-10 
+Paris, 6 August 2021 
+Paris EUROPLACE’s response to the European Commission’s feedback 
+on Artificial intelligence – ethical and legal requirements​2021/0106 (COD) Proposal for a regulation of the European Parliament and of the Council laying down 
+harmonised rules on artificial intelligence (artificial intelligence act) and amending certain Union legislative acts. ​  
+Paris EUROPLACE -which represents Paris International Financial Centre’s actors, French as 
+well as international corporates, investors, banks, financial intermediaries and other financial 
+services providers- welcomes the opportunity to contribute to the debates regarding the 
+incoming regulatory framework on Artificial Intelligence (AI). 
+Our main message aims to reflect the absolute necessity to maintain a competitive regulatory 
+regime in the European Union compared to other jurisdictions. Whilst taking account of 
+technical and sectoral peculiarities, the long-term objective of fair, balanced and competitive 
+rules has to be clearly highlighted and even upgraded for the EU, in order to avoid undue 
+regulatory divergences or gaps between jurisdictions. A vigilant monitoring of these risks 
+across the world and a real willingness to strengthen the level playing field for the Union should 
+go hand in hand with agility and flexibility when it comes to react and to modify some European 
+rules when needed. 
+Consequently, four main considerations have to prevail, in our view, through this consultation: 
+1. First, in terms of level playing field, the direct and indirect costs of the 
+contemplated regulation seem very significant to us, especially for credit risk 
+assessment where associated risks are estimated high. In particular, certification 
+costs over the life cycle of a product (machine learning, for example) notably include 
+the involvement of significant human resources, monitoring systems and possibly 
+high frequency updates (daily in the most extreme cases) regarding algorithms. Due 
+
+to such possibly elevated costs, we want to highlight the risk that only a very few 
+numbers of players in Europe might be in a situation to comply with such a very 
+challenging regulatory framework, posing additional risks in terms of European 
+sovereignty and competition within the EU. We would recommend to give more 
+clarity to the impact assessment in particular for a system where significant 
+monitoring and retraining is required, highlighting the human resources required to 
+comply with this regulation. 
+2. Secondly, against a backdrop where data are key but tricky to manipulate, the 
+obligation set to ban any error in the datasets looks very ambitious, if not 
+unrealistic, from a practical and business point of view. 
+a. While we welcome the willingness to control biases, rules on age in the 
+domain of credit assessment, for example, exist and could not be easily 
+changed. These rules constitute biases which are important to be taken into 
+account to reflect the higher risks associated with these populations. 
+Moreover, biases may exist that could not be ruled out entirely due to the 
+impossibility to truly assess them in the first place. 
+b. It seems important to precise how pretrained models (that are now widely 
+used due to the cost to build these models) would be treated (as the data used 
+to train them may not be easily available or controllable). 
+c. Moreover, while we welcome the specific treatment of providers from third-
+party jurisdictions, we want to raise that this regulation may give an 
+advantage to them. Compared to what may be done by big international firms 
+with data that could be obtained in other jurisdictions, this situation may lead 
+to distortions in terms of competition. In addition, a significant drag may 
+appear on incentives to innovate, as these barriers to entry the market could 
+hamper some firms to challenge the business model of corporates which are 
+already well established (European companies may decide to stop 
+developing applications that are considered high risk while foreign 
+companies would have to adapt their systems built in other jurisdictions 
+which pose significant risks for our sovereignty). As a consequence, some 
+transitory measures may be needed for companies in order to smooth the 
+costs embedded in the new regulation framework (and measure put in place 
+to avoid such distortions). 
+3. Third, definitions matter a lot, but many do not seem clear enough to enable a 
+proper implementation of the regulation (for example what exactly constitutes 
+an AI system). Indeed, we think more clarity and precision are needed to exactly 
+understand and comply with the regulation to come. In many cases, we think 
+definitions are too abstract to be correctly understood and made applicable. 
+4. Last but not least, it is key to precise how this regulation would be translated at a 
+national level and to precise mechanisms in case of disagreement between the spirit 
+of this regulation and the national implementation. We also recommend that during 
+the innovation phase, authorities allow a right for mistake, independent of the use 
+of a sandbox, to avoid the further development of the Proof of concept syndrome 
+(companies stop right after the POC because the results of the POC, while promising 
+
+but not free of error, could pose a compliance risk that companies, too afraid by the 
+repressive measures presented by the regulation, are not willing to take) that would 
+hinder innovation and may reduce cooperation between startups and corporates. 
+This position aims at reflecting the views expressed by representatives of market players, while 
+it also takes into account some remarks shared by public authorities. Some of these contributors 
+have been listed in Annex 1. Our response is thus structured around two main goals covering 
+the issues raised in the European Commission’s document: 
+i) 
+Properly defending the competitiveness of the EU industry against any future 
+regulatory divergence post-Brexit requires to correctly define the regulation to 
+come; 
+ii) 
+Flexibility and adaptability of the rules will be critical to correctly design the 
+characteristics of an appropriate regulatory architecture for the EU framework 
+compared to what other jurisdictions may decide in a very near future. 
+
+Paris EUROPLACE Working Group on the EC Consultation: Composition 
+The corresponding Working Group included notably the following members, 
+listed in alphabetical order: 
+Arnaud de Bresson, Paris EUROPLACE: bresson@paris-europlace.com 
+Nicolas Méric, Dreamquark: nicolas.meric@dreamquark.com 
+Olivier Vigna, Paris EUROPLACE: olivier.vigna@paris-europlace.com 

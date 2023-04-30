@@ -1,0 +1,183 @@
+Position Paper 
+1 (6) 
+21.6.2021 
+The Federation of Finnish Enterprises | P.O.Box 999, FI-00101 Helsinki, Finland 
+Tel. +358 9 229 221 | toimisto@yrittajat.fi | www.yrittajat.fi | Business ID: 1030657-2 
+To the European Commission 
+COM(2021) 206 final 
+The European Commission’s proposal for the Artificial Intelligence Act 
+1. General remarks on the proposal 
+The proposal for the Artificial Intelligence Act has admirable objectives 
+but is riddled with issues, which render the regulation problematic. 
+Despite containing some right elements, the proposal is excessively burdensome from the perspective of smaller European enterprises developing, providing, or using AI systems, especially those classified as high-risk 
+systems. Furthermore, given the fact that the evolution and deployment of 
+AI solutions are still at early stages, it may not be advisable to pass legislation as detailed as is now proposed. The apparent risk is that a too heavyhanded approach to AI undermines the competitiveness of SMEs and hampers the growth of the European digital economy. 
+Therefore, we encourage the EU legislators to carefully take into consideration the regulation’s impacts on innovation and SMEs that provide and 
+use AI systems. 
+We welcome the aim of harmonizing the regulatory environment for 
+placing on the market and using of AI in the single market. A patchwork of 
+rules makes it challenging for smaller AI provider and user companies to 
+operate successfully across borders. However, the regulatory environment for AI should be understood consisting of not only Europe but 
+also, notably, North America and other democratically ruled countries and 
+regions. The EU should not isolate itself when global rules and markets for 
+AI are being defined. 
+To guarantee a level playing field, it is imperative the rules apply equally 
+to all operators providing AI systems within the European single market, 
+irrespective of their place of origin or establishment. It is therefore vital to 
+ensure that the third-country operators are brought under the enforcement 
+and supervision of this regulation. 
+2. The definition of AI system 
+For the regulation to work as intended, the definition of an AI system 
+needs to be precise and understandable. The general description of AI 
+
+2 (6) 
+provided in Article 3 and AI techniques and approaches that complement it 
+in Annex I do not meet these criteria. The definition which emerges from 
+these items is too vague and risks expanding the scope of the regulation to 
+include also non-AI software. As this is surely not the intention of the regulation, a more exact definition is required. 
+Also, with a view to fostering innovation and investments in AI in Europe, it 
+is necessary to make sure the Commission’s power to adopt delegated 
+acts to amend the list of techniques and approaches listed in Annex I does 
+not undercut predictability and legal certainty of the regulation. Any amendment must be a result of a transparent process involving impartial AI experts and industry representatives, including SMEs. 
+3. The definition of high-risk AI systems 
+The risk-based approach to regulating AI is well founded and welcome. 
+For the rules to be proportionate, it is essential to focus the regulation primarily on AI systems, which are assessed to pose greater-than-normal 
+risks in terms of severity and probability on health, safety, or fundamental 
+rights. 
+The proposal would categorize as high-risk all the AI systems that are intended to be used as a safety component of a product, or is itself a product, 
+covered by the EU harmonization legislation listed in Annex II. Additionally, 
+AI systems referred to in Annex III would also be considered high-risk. 
+In our view, the idea of creating a parallel legal framework to the EU product legislation in the form of the AI regulation is problematic, as it would increase both complexity and cost of compliance especially for SMEs. To 
+avoid this, we would advise removing Annex II from the AI regulation 
+and regulate the use of AI systems on a sector-specific basis in the existing EU product legislation. This would allow the regulators to take into 
+consideration the specific needs in different industries, and minimize the 
+administrative burden and costs created by new AI-related rules. To follow 
+this simplified approach, the AI regulation would then apply only to AI practices that are prohibited in Article 5 and to AI systems and their use cases 
+listed in Annex III. 
+When it comes to Annex III, we are skeptical whether the use cases of AI 
+systems outlined in point 4 (Employment, workers management and access to self-employment) meet the high-risk criteria. At the very least, their 
+description would need to be more precise. Also, the AI regulation should 
+avoid overlap with and duplication of the prevailing employment legislation, 
+which is technology neutral and hence applies to all digital systems 
+
+3 (6) 
+employers use vis-à-vis their employees. Employers are required to ensure 
+their systems, regardless of the risk level, do not, for example, discriminate. 
+Moreover, because the EU’s competence over the domain of employment 
+is more limited than over other sectors of the internal market, it needs to be 
+clarified whether the proposal is on a sound legal basis in this point. 
+Judged by the framing of the proposal, a significant share of AI systems 
+would not be deemed high-risk and therefore would not fall within the 
+scope of the regulation and would only follow its provisions on a voluntary, 
+self-regulatory basis. This is welcome. As for SMEs, it is probable that their 
+most common use cases of AI involve only non-high-risk systems. 
+We urge the legislators to take further steps in ensuring that especially 
+smaller providers of AI systems have the required certainty and understanding of whether their systems are considered high-risk or not. This 
+is also essential for users, particularly SMEs, of these systems. 
+To increase investments in development and deployment of AI in Europe, a stable and predictable regulatory environment is required. To this 
+end, we are concerned about the power given to the Commission to adopt 
+delegated acts to add new types of high-risk AI systems to the regulation. The proposed process does not provide enough predictability and legal certainty and, therefore, needs to be revised. The process of examining 
+new potential high-risk AI systems needs to be transparent and involve provider companies and should result in the amendment of Annex III only after 
+a careful consideration. 
+4. Requirements for high-risk AI systems and the position of small-scale providers 
+and users 
+The proposal introduces requirements for high-risk AI systems, which 
+would span throughout their lifecycles and involve recording, monitoring, 
+reporting and other due diligence duties, with which the providers of these 
+systems would need to comply. 
+Given how extensive and detailed these requirements are, they are likely 
+to overwhelm particularly smaller AI providers, and, effectively, give an 
+unfair competitive advantage to larger EU-based AI providers, better resourced to deal with the new obligations, and to AI developers functioning 
+outside the EU, unrestricted by the European regulation. In our view, this is 
+unacceptable and goes against the EU’s Think Small First principle. 
+Although the proposal recognizes the definition of a ‘small-scale provider’, meaning a provider that is a micro or small enterprise, which we 
+
+4 (6) 
+welcome, it fails to account for their actual possibilities and capabilities in 
+complying with the requirements for high-risk AI systems, which we regret. 
+We encourage the legislators to consider whether the requirements of highrisk AI systems could be made less stringent for small-scale providers. 
+The stricter the requirements for high-risk AI systems are, the heavier presumably are also the demands concerning their use and users. The regulation should therefore identify and define a category of ‘small-scale users’. Small users, notably micro and small businesses, could be entitled to, 
+for example, priority access to user support and instruction from the providers and distributors of high-risk AI systems. This would promote the take-up 
+of more heavily regulated AI systems in smaller enterprises. 
+We are in favor of the proposition to provide the users of high-risk AI systems with sufficient transparency and information on the system’s operation and its level of accuracy, robustness, and cybersecurity. For SME users it is important that the information provided is also understandable and 
+accompanied with adequate support and monitoring services. Information 
+and transparency provisions must, however, be balanced against confidentiality of trade secrets and incentives to innovate new AI solutions. 
+We welcome the provision that the Members States would need to raise 
+the awareness of small-scale providers and users about the application 
+of the regulation and establish a dedicated communication channel for 
+them to provide guidance and respond to queries. Although these are steps 
+in a right direction, they do not go far enough in addressing the need to 
+ease the cost of compliance of the regulation for the smaller players in the 
+field of AI. 
+5. Prohibited AI practices and obligations for certain AI systems 
+In principle, we hold a favorable view on prohibiting the AI practices described in Article 5. However, to prevent misinterpretation and misapplication of the regulation, the practices would need to be defined more precisely. Unclear prohibitions and obligations serve as an unintended drag 
+on the development of novel AI solutions. 
+We are in favor of limiting the use of real-time biometric identification AI 
+systems in publicly accessible spaces for the purpose of law enforcement, 
+as laid out in Article 5. 
+Transparency obligations, set out in Article 52, for certain AI systems, 
+which need not be high-risk systems, are well founded, well targeted and 
+proportionate. 
+
+5 (6) 
+As the providers of high-risk AI systems are required to ensure their systems undergo the relevant conformity assessment procedure, and as 
+these assessments are often performed by third-party notified bodies, they 
+should be conducted in a way that causes the minimum amount of administrative burden to the providers. It is important to make sure these bodies 
+take due account of the size of an undertaking under assessment, the sector in which it operates, its structure, and the degree of complexity of the AI 
+system in question. 
+6. AI regulatory sandboxes 
+We are in favour of the idea of AI regulatory sandboxes established by 
+one or more Member States or the European Data Protection Supervisor. 
+We are also very much supportive of directing Member States to provide 
+small-scale providers and startups with priority access to the sandboxes. 
+However, we ask the legislators to form a stronger link between the 
+sandbox scheme and the process through which the AI regulation is 
+amended once it has entered into force. The sandboxes should be utilized especially when adding new high-risk AI systems to the regulation and 
+adopting common specifications referred to in Article 41. This would ensure 
+in part that the regulation is based on real and verified needs and avoids 
+overreach that hurts innovation and competitiveness. 
+In addition, it is important to make sure that as many Member States as 
+possible have the resources to establish and operate sandboxes. The 
+use of the European Digital Innovation Hubs and the Testing and Experimentation Facilities, as planned by the EU’s Digital Europe program, 
+to kickstart sandbox schemes should be considered. 
+We would also suggest moderating the liabilities of SMEs that choose to 
+take part and experiment in AI regulatory sandboxes. This would encourage them to join sandboxes in greater numbers. 
+7. Codes of conduct and voluntary compliance 
+It is welcome that the Commission, the Member States, and the European 
+Artificial Intelligence Board would encourage and facilitate the drawing up 
+of codes of conduct, set out in Article 69, for non-high-risk AI systems, 
+fostering the voluntary application of the requirements set out for high-risk 
+AI systems. When doing so, we ask the Commission, the Member States, 
+and the Board to take into account the specific interest and needs of the 
+small-scale providers and startups. Codes of conduct must not become 
+
+6 (6) 
+barriers to markets for the smaller AI players or put them at a competitive 
+disadvantage. 
+8. Implementation and enforcement 
+Given the proposal’s detailed and technical approach and the in-depth expertise its application will require, we are concerned whether the Member 
+States have the resources to implement the regulation competently, consistently, and even-handedly. In this respect, we are most worried for the 
+smaller providers and users of AI, who are more dependent than larger 
+AI actors on instruction and guidance provided by the competent authorities 
+and who are harmed the most by the distortion and disharmony of the single market. 
+The establishment of the European Artificial Intelligence Board is welcome but does not help mitigate enough the challenges rising from the 
+Member States’ lack of resources and capabilities. We would also strongly 
+advice including permanent representation of the AI developers to the 
+structure of the Board, to make sure it has sufficient technical and business 
+insight. 
+The proposed sanctions seem unreasonably tough from the perspective of 
+smaller AI players. We are particularly concerned about administrative 
+fines which could be applied upon, for example, the supply of incorrect or 
+incomplete information to authorities. Since the reporting obligations are 
+likely to be more demanding to comply with for the smaller AI providers, 
+there is a danger that the fines will be disproportionately imposed on these 
+smaller players. 
+Given what is said above, we urge the legislators to pay closer attention to 
+the effective implementation of the regulation and how it can be guaranteed in practice. Should it turn out to be the case that the high quality of 
+the implementation cannot not be ensured, we would advise choosing a 
+lighter and more streamlined approach to the European regulation of AI. 
+The Federation of Finnish Enterprises 
+Joonas Mikkilä 
+Head of Digital and Educational Affairs 
+Karoliina Katila 
+Legal Councel 

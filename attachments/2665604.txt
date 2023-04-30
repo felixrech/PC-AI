@@ -1,0 +1,242 @@
+Siemens Healthineers’ feedback to the European Commission’s proposal for a 
+Regulation laying down harmonised rules on artificial intelligence (AI Act) 
+Siemens Healthineers welcomes the initiative of the European Commission to set a global benchmark for 
+deployment of ethical and legal artificial intelligence (AI) applications. AI has already brought numerous 
+advancements to the field of healthcare by providing assistance to medical professionals in tasks as diverse as 
+diagnosis, treatment, therapy, monitoring patients’ health​https://www.siemens-healthineers.com/fr-be/digital-health-solutions/artificial-intelligence-in-healthcare 
+2 https://www.siemens-healthineers.com/se/insights/news/dorin-comaniciu.html 
+3 https://www.thelancet.com/action/showPdf?pii=S2589-7500%2820%2930292-2 
+4 https://www.siemens-healthineers.com/medical-imaging/digital-transformation-of-radiology/ai-covid-19-algorithm 
+5 https://www.siemens-healthineers.com/fr-be/digital-health-solutions/digital-solutions-overview/clinical-decision-support/ai-pathwaycompanion-lung-cancer 
+6 https://www.corporate.siemens-healthineers.com/perspectives/neuro-MRI 
+Brain MRI 
+Courtesy 
+of 
+the 
+Department 
+of 
+Neuroradiology, University 
+Medical Center Mannheim, 
+Germany 
+Auto-contouring of 
+organs 
+Courtesy of Radiologische 
+Allianz, Hamburg, 
+Germany 
+Pneumonia caused by 
+Covid-19 
+Courtesy of CHR East 
+Belgium, Verviers 
+Belgium ​ , and even the management of hospitals and care 
+institutions We are the global leader when it comes to AI patent applications in medical imaging and have 
+been a pioneer in AI development for more than 20 years, providing significant means of support to healthcare 
+professionals in complex diagnosis and optimised treatment, as well as further expanding precision medicine 
+Siemens Healthineers is proud to be contributing to solutions that support doctors in the fight against the Covid19 pandemic 4, cancer 5, or in enabling early diagnosis of Alzheimer’s 6. 
+The images below are examples of AI powered by Siemens technology in providing the most up-to-date medical 
+diagnosis across Europe. 
+
+Medical technology is instrumental for current healthcare systems that operate in synergy with doctors, nurses 
+and other care providers. To ensure that only safe and performant devices are placed on the European market, 
+all our technology is fully in line with the regulatory frameworks for medical devices already in place - the Medical 
+Devices Regulation(MDR) and In-vitro Diagnostics Regulation (IVDR). These are robust, comprehensive and 
+up-to-date frameworks that ensures legal certainty to all market players and society at large. They cover the 
+entire cycle of the new medical product from development to placement on the market and putting into service, 
+and continuous monitoring throughout its life cycle. Beyond the legal frameworks, Siemens Healthineers takes 
+very seriously the responsibility towards end-users, especially patients, for placing safe and highly performing 
+products on the European market very seriously. 
+We strongly support the existing frameworks for medical devices, which already lay down distinct 
+requirements for medical devices software, and in particular AI. As such, we recommend keeping addressing 
+the specificity required by the medical device sector through the dedicated medical devices frameworks. This 
+would best serve the twin purpose of ensuring legal certainty for European manufacturers and fully protecting 
+end-users through tailored regulation that specifically addresses AI in medical devices. The existing rules already 
+provide stringent regulations for the use of devices – including AI - in healthcare. We therefore oppose a-sizefits-all approach in law-making, which lacks the specificity to guarantee the highest level of safety in medical 
+devices. If any gaps in existing rules should emerge as AI develops, they can and should be addressed by 
+supplementing sector-specific rules and not through horizontal regulation. 
+ Moreover, it is noteworthy, that despite the enormous potential for healthcare innovation in Europe, it is 
+evident that other jurisdictions, have become the preferred location to first place innovative medical software 
+on the market. ​Innovation in medical technologies – reflection paper, Medtech Europe. ​  We are deeply concerned that the proposed Regulation on Artificial Intelligence (AI Act), would 
+further accelerate this process, and result in (i) stifling the development of innovative solutions in Europe, (ii) 
+increasing the costs for healthcare systems, and (iii) most seriously, potentially depriving European patients and 
+citizens of access to state-of-the-art digital health technology. 
+We therefore believe that the proposal requires further consideration, and improvements, which we briefly 
+present in our analysis below. 
+Our assessment of the AI Act’s approach 
+1. The proposed definitions and their interplay with MDR and IVDR 
+The proposed AI Act provides for a definition of an AI system and a risk classification for software qualifying as 
+an AI system. The proposed definition is too broad. It includes ‘logic- and knowledge-based approaches’ which 
+may be understood to encompass any basic software that for this reason would qualify as an AI system (for 
+example, appointment scheduling software used in hospitals, applications alerting a person of a fever, migraine 
+or urging to get a check-up in case of unusual readings). Such ‘conventional’ software includes traditionally 
+coded programs and implementations of decision trees. They are handled and managed with the well-known, 
+established approaches from the software engineering discipline and, in the case of medical device software, 
+7 https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:32017R0745 
+8 https://eur-lex.europa.eu/eli/reg/2017/746/oj 
+
+within existing medical device regulations. We are convinced that this kind of software does not merit further 
+specific regulation in order to be placed on the market, unlike what the proposed AI Act intends to establish via 
+its risk classification system analysed below. 
+The AI Act is designed with the New Legislative Framework (NLF) in mind, drawing on such product specific 
+legislation as MDR and IVDR. While this approach enables the development of product specific regulations and 
+requirements operationalised through harmonised standards - the broad character of the AI Act’s scope and its 
+horizontal application across industries renders it unfit for the purpose. The AI Act in fact proposes to either 
+change definitions already applied under the MDR/IVDR framework or introduces new ones that would result 
+in a contradictory and confusing regulatory environment for medical devices manufacturers in Europe, and 
+therefore would negatively impact its competitiveness and innovation. 
+Examples of such definitions include ‘importer’, ‘putting into service’, ‘provider’ or ‘user’. 
+2.  Risk-based approach, AI Act’s scope, and the relevant requirements 
+The proposed AI Act sets out requirements for developers and users of an AI system depending on its risk level. 
+We agree with such an approach where the requirements intensify with the rise of risk level. However, we 
+believe that the approach merits further considerations on how to improve both the risk level allocation, and 
+the relevant requirements. 
+For medical devices, the concept of risk is instrumental, as it forms the core of conformity assessment and postmarket surveillance obligations. For this purpose, the medical devices framework (MDR, IVDR) has defined the 
+concept of risk​Article 2 (23) of MDR; Article 2 (16) of IVDR: ‘risk’ means the combination of the probability of occurrence of harm and the severity of that 
+harm. ​  and developed a dedicated risk-based classification system for medical devices which takes full 
+account of medical devices’ software properties. ​The European Commission’s study On Safety and Liability Related Aspects of Software found that “The MDR (as well as the IVDR) is a very 
+modern piece of legislation that fully takes into account the specificities of software”. Retrieved from: Study on Safety and Liability Related 
+Aspects of Software | Shaping Europe’s digital future (europa.eu) ​  Contrary to that, while the proposed AI regulation offers no 
+definition of ‘risk’ and/or ‘harm’, it contains its relative use in multiple provisions and in various meanings. 
+Given that both the AI Act and medical devices regulations cover similar matters relating to AI software, such 
+inconsistency between the laws will cause interpretation issues resulting in increased complexity and legal 
+uncertainty concerning the overall compliance with relevant frameworks. 
+Moreover, the vast majority of medical device software – either embedded or in its own right (Software as a 
+Medical Device (SaMD) – requires notified body involvement during the conformity assessment. That implies 
+that under the AI Act almost all medical device software would be considered a high-risk AI system, - even if 
+in and of itself it is not a high-risk medical device and would not otherwise be subject to requirements pertinent 
+to high-risk management, such as software used in a hospital to manage the workflow. 
+Furthermore, MDR and IVDR, in requiring medical software to undergo a conformity assessment, maintaining a 
+dedicated quality management system, as well as imposing post-market surveillance obligations on 
+manufacturers, already governs software-related aspects of design and operation of medical devices, in a way 
+very similar to the proposed AI Act. Bearing in mind, that since MDR and IVDR contain its own risk-based 
+classification system of medical devices influencing the intensity of relevant requirements, the combination with 
+the proposed AI Act may significantly duplicate the efforts towards compliance. Consequently, medical devices 
+may be subject to parallel frameworks covering identical matters with a margin of differences: certain 
+provisions under AI Act would be additional, but the majority – overlapping, with some of them – diverging 
+and potentially conflicting. 
+
+For instance, manufacturers may have to cope with duplication of efforts originating from: 
+Two parallel conformity assessments. 
+Parallel quality management systems. 
+Parallel incident reporting with different authorities; and 
+Necessity to harmonise standards, that may not be fully aligned with the complex and distinct medical 
+devices regulations. 
+Such unnecessary administrative burden both on the state administration and on AI-based medical device 
+software manufacturers, would only further stifle medical innovation in Europe and steer it towards other 
+markets and add additional costs for the national healthcare systems.  For that reason, we strongly recommend 
+performing a gap analysis and, where needed, introducing any new requirements or expanding on the existing 
+ones under the scope of a sector-specific framework, i.e., MDR and IVDR, instead of a horizontal regulation. 
+Recommendation: Since the proposed AI regulation creates overlapping and incoherent, and regarding some 
+aspects even contradicting requirements, to avoid legal uncertainly, unnecessary red tape and burden for 
+medical innovators in Europe, we suggest excluding the medical devices sector from the scope of AI regulation. 
+Thus, we ask to remove both MRD and IVDR from Annex II, Section A. In addition, the Act should include a 
+provision to amend the General Safety & Performance Requirements (Annex I) of the existing Medical Device 
+Regulations. 
+Requirements for high-risk AI systems 
+1. Data and data governance 
+When it comes to data sets used for training and testing AI algorithms, the proposed AI regulation requires – as 
+stated in Article 10(3) that “data sets shall be relevant, representative, free of errors and complete.” In recital 
+44 further specifications indicate, that “data sets should be sufficiently relevant, representative and free of 
+errors and complete in view of the intended purpose of the system.” Such ambiguous requirement poses 
+unrealistic expectations and raises many issues. 
+The AI Act is silent on what constitutes ‘error’ as regards such data sets, which could have different meanings, 
+e.g., error in data curation or data itself. The AI Act also fails to reflect the reality of software development - 
+where for testing and validation of algorithms data sets with errors are used precisely to assess an AI system’s 
+accuracy and performance - when placed to interact with real-world data that is often faulty and incomplete. 
+Regarding the latter, the AI Act does not state what constitutes ‘completeness’ of a data set or when it becomes 
+(sufficiently) relevant and representative. 
+It should be borne in mind, that even values contributing to data accuracy contain certain margin of error. This 
+is due to the fact, that accuracy of data depends on measurement results being close to the true value and 
+reproducibility of the measurement results. For instance, in the medical domain, there often are no ‘error-free’ 
+data sets. Consider for example data on medical imaging, which is the result of an image acquisition/scan process 
+and that can be used to train respective AI systems. However, the quality of the image data depends on many 
+factors, including the specific device model used to acquire the images, the scan parameters, and the image 
+reconstruction algorithms. Highly skilled medical professionals operate these imaging devices, and the outcome 
+– the medical imaging data – differs based on the afore-mentioned and other factors – but neither are these 
+data ‘wrong’ nor are they ‘error-free’. Therefore, the state of these requirements seems to also prevent the use 
+of real-world data, an area of considerable potential for digital solutions in healthcare. 
+Recommendation: Article 10 (3) and recital 44 should require that data sets shall be ‘sufficiently accurate and 
+complete to meet the intended purpose of the system’ rather than ‘error-free and complete’. 
+
+2. Access to training data - for assessment of quality management system and assessment of technical 
+documentation 
+The proposed AI Act requires (Article 64, Annex VII) that market surveillance authorities and notified bodies get 
+full access to training, validation, and testing data sets. However, this requirement may be challenging to fulfil 
+with account that providers/manufacturers may not be able to provide auditable access to training data. In the 
+context of federated learning (FL), developers have no direct access to data sets. They remain behind the 
+security and privacy safeguards and are owned, for instance, by clinical collaborators. The relationship with the 
+latter is contractual and limited in time. For example, one can, however, submit to an audit the documentation 
+about the methodology used in each FL training project, which as a rule is use case specific and can include for 
+example study protocols, methods for detecting failures and data selection. 
+ It could be furthermore not possible to fulfil this requirement, due to copyright or privacy reasons that would 
+not allow providers/manufacturers to store training data themselves (e.g., in case of personalised medicine and 
+the related restrictions stemming from the GDPR). Finally, fulfilment of such requirement may even be 
+undesirable as the quantity of training data is often so vast that storing it would cause a disproportionate cost 
+and impact on the environment. 
+Recommendation: Article 64 and Annex VII should lift the requirement to provide access to training data and 
+retain an obligation to provide access to testing data sets. This should be sufficient, given that testing data sets 
+are used to provide an unbiased evaluation of a model fit on the training data. 
+3. Human oversight 
+The requirements of the proposed AI Act regarding human oversight, while well-intended and important to 
+consider, are overreaching and merit further refinement. The ability to intervene or interrupt an AI system in 
+operation may in fact compromise its safe performance and increase the risk of damage or harm rather than the 
+opposite. In healthcare, for example in radiotherapy treatments​https://www.varian.com/products/adaptive-therapy/ethos ​  or laboratory diagnostic solutions used in 
+laboratory examinations​https://www.siemens-healthineers.com/laboratory-diagnostics/atellica-portfolio/all-systems-flow/artificial-intelligence ​ , human oversight may have to be calibrated to avoid jeopardizing patients’ and/or 
+doctors’ health and safety, or the accuracy of AI system. In practice, such stringent provisions on continuous 
+incessant human oversight may be undesirable. An AI-enabled device factoring in simultaneously multiple 
+values to determine the safest course of action may be faster and more precise than any human brain in reacting 
+to a complex problem, while in certain cases oversight could effectively be exercised only before or after AI 
+system’s operation. 
+Depending on a particular medical device, providing a human with a possibility to interrupt an operating system 
+at any time may compromise AI system’s safety and accuracy. For such applications, a requirement for 
+continuous human oversight would conflicts with the Medical Device Regulation’s MDR and IVDR requirements 
+to reduce risks as far as possible and achieve performance considering generally acknowledged state-of-the-art 
+and technological/scientific progress. ​MDR Annex 1 - General Safety and performance requirements ​  
+Recommendation: In view of the above, we suggest amending Article 14 (1) to ensure that human oversight is 
+guaranteed “where necessary to reduce risks as far as possible and achieve performance in consideration of 
+generally acknowledged state-of-the-art and technological/scientific progress”. Article 14 (4) (e) should be 
+further amended to specify that “users are able to intervene on the operation of the high-risk AI system or 
+interrupt the system through a ‘stop’ button or similar procedure except if human interference increases patient 
+risk and/or reduces patient outcome.” 
+
+Requirements on human oversight also provide for individuals exercising oversight to “fully understand the 
+capacities and limitations of high-risk AI system” further requiring them to be able to spot animalities, 
+dysfunctions and unexpected performance. Firstly, without clear definition on what ‘full understanding’ 
+entails, it remains uncertain how to comply with it. Secondly, a software provider needs to make available to 
+the user of an AI system information that is of practical value and comprehensible. This may impact the ‘fullness’ 
+and depth of understanding of, for instance, specific technical background knowledge. 
+Recommendation: We suggest that Article 14 (4) requires of an individual excursing oversight to “sufficiently 
+understand” the AI system to ensure its intended purpose and functioning. 
+Measures in support of innovation 
+We support the European Commission’s aim to foster innovation by providing opportunities for SMEs and startups through establishing regulatory sandboxes. However, we fear it may be too modest in reaching its objectives 
+since providing for such measures remains a voluntary initiative by the Member States. In addition, it is not clear 
+if successful outcome of sandboxing occurring in one Member State will be effective across other Member 
+States. In addition, we consider it reasonable to provide for adequate legal basis for Member States being able 
+on a case-by-case basis to develop legislative framework on regulatory sandboxes via experimentation clauses, 
+as highlighted in the Council conclusions of 16 November 2020. ​
+https://www.consilium.europa.eu/en/press/press-releases/2020/11/16/regulatory-sandboxes-and-experimentation-clauses-as-tools-
+for-better-regulation-council-adopts-conclusions/ ​  
+Recommendation: We suggest that Articles 53 and 54 refer to the experimentation clauses as a legal basis for 
+establishing legal framework enabling regulatory sandboxes, which should ensure Member States possessing a 
+necessary level of flexibility. 
+Transitional provisions and entry into force  
+Having sufficient time to adjust to the new regulatory system is fundamental. The case with the latest NLF-type 
+product legislation, namely MDR and IVDR, amply demonstrated that two years is far too little time to set up 
+the necessary infrastructure (e.g., databases, capacities of competent authorities, including at EU level, issuing 
+necessary guidance documents, developing relevant harmonised standards). The allocated grace period is also 
+insufficient for businesses to incorporate the required compliance procedures into their production processes, 
+especially since the AI Act is not building on any pre-existing similar horizonal regulatory system. We believe that 
+the transitional period should be at least 48 months for the framework to be operational before its application 
+date. 
+Recommendation: We suggest amending Article 85 to extend the transitional period by at least two years (to 
+48 months) to allow for all elements to be in place in time before the date of application. 
+
+Conclusion 
+We believe that this (non-exhaustive) list of the proposed AI Act’s inconsistencies with the existing laws covering 
+medical devices increase complexity, legal uncertainty, and compliance costs. Ultimately, this would only stifle 
+medical innovation and the consequences of that would be borne by patients. 
+We support a targeted and sector-specific approach for addressing any potential challenges posed by AI in 
+medical devices, be it bias, opacity, traceability or explainability. Tabling any new regulation affecting medical 
+innovation should account for the state-of-the-art regulatory framework governing medical technology sector, 
+including the fact it already tackles the issues that most European industries are yet to see being addressed in 
+their respective sectoral regulations. 
+We are looking forward to engaging with the European institutions and stakeholders in the upcoming dialogue 
+on this legislative initiative and stand ready to provide any necessary expertise. 

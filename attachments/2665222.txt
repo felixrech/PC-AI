@@ -1,0 +1,38 @@
+ESR Statement 
+European Commission proposal for a European Artificial Intelligence Act 
+The European Society of Radiology (ESR) welcomes the European Commission’s initiative to 
+create the first AI regulation worldwide. However, it recognises the importance of taking 
+into account the specificities of the healthcare field, which require a specific regulatory 
+approach for AI, complementing the currently proposed horizontal, cross-sector regulation. 
+Also, a detailed definition of AI in healthcare is needed in order to be able to tackle 
+regulatory aspects in an effective manner. 
+• Care must be taken not to prevent or slow down innovation due to overregulation and 
+thus prevent Europe’s patients from access to cutting edge healthcare solutions and 
+causing Europe to lose its status as a leader in technological innovation in healthcare. 
+• Alignment with the requirements laid down in the Medical Device Regulation is needed 
+in order to ensure legal certainty. 
+• Access to training data is considered to be important from a clinical perspective but 
+requires significant technical infrastructure and repositories. Such data repositories 
+could be coordinated by a centralised body or through cooperation from European 
+medical scientific societies. 
+• The current provision to use only “error-free and complete” data for training, validation 
+and testing is neither practical nor desirable if testing takes place under real-world 
+conditions. Data sets need to be sufficiently accurate and complete to meet the 
+intended purpose, however the claim for freedom from error is considered 
+inappropriate and would potentially prevent the use of real-world data in healthcare. 
+• Clinical users of AI need a sound and efficient feedback mechanism with providers of AI 
+solutions for healthcare, such as a direct messaging feature within AI applications to 
+providers, available for radiologists during reporting. 
+• Human oversight is considered crucial for AI applications in healthcare and the user’s 
+autonomy should not be restricted. 
+• Training of health professionals needs to be adapted to include the use of patient-
+centred AI in healthcare and to ensure a well-trained workforce. 
+• The use of AI in healthcare must respect the principles of the GDPR. Additional 
+European guidance and standards would be helpful, including on anonymisation 
+techniques of health data, quality and safety standards etc. 
+The European Society of Radiology is an apolitical, non-profit organisation, dedicated to 
+promoting and coordinating the scientific, philanthropic, intellectual and professional 
+activities of Radiology in all European countries. The Society's mission at all times is to serve 
+the health care needs of the general public through the support of science, teaching and 
+research and the quality of service in the field of Radiology. Founded in 2005, the ESR is the 
+largest radiological society in the world, with over 122,000 members from 181 countries. 

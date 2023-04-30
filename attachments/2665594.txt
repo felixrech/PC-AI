@@ -1,0 +1,64 @@
+LinkedIn Supplemental Briefing on the AI Act  
+LinkedIn joins Microsoft, our parent company, in welcoming the opportunity to comment on 
+the European Commission’s proposed Regulation for harmonised rules on AI (the “AI Act” or 
+the “Act”) and the New Coordinated Plan on AI. We are providing the following brief 
+supplement to Microsoft’s submission to share comments specifically concerning the draft AI 
+Act’s positioning with respect to AI systems used in recruiting and workforce management. 
+LinkedIn is a social network that connects a global community of over 774 million professionals 
+worldwide. Our vision is to create economic opportunity for every member of the global 
+workforce and our mission is to connect the world’s professionals to make them more 
+productive and successful. Our platform is part of an online ecosystem helping Europeans find 
+jobs and build the skills and relationships that will further develop their careers. LinkedIn 
+likewise helps employers reach job seekers and support their career journeys through learning 
+opportunities, professional content, and workforce engagement tools. As a result, LinkedIn is 
+a trusted hiring partner for tens of thousands of European employers, processing job 
+applications across millions of job listings each year in Europe. We use AI systems to provide 
+safe and effective services for our members and customers—such as job recommendations, 
+candidate searches, scam and abuse prevention—and, like Microsoft, we are committed to 
+ensuring responsible AI practices across all services and all stages of our product 
+development. 
+Our brief submission pertains to the broad inclusion of all AI systems used in recruitment as 
+“high risk” systems under Article 6(2), Annex III. While we fully support the risk-based 
+framework the AI Act adopts, and we agree that systems “with mainly fundamental rights 
+implications” are appropriately considered high-risk, we believe the AI Act would benefit from 
+greater specificity as to which types of systems within the wide-ranging recruiting and talent 
+management ecosystems fall within the scope of the Annex III definition. In keeping with the 
+risk-based framework, we suggest that the definition address systems facilitating decisions on 
+hiring, advancement or adverse workplace outcomes. 
+As currently drafted, the Annex definition could be read to encompass not only AI systems 
+used to support hiring decisions about individual candidates, but any system used at any stage 
+of an organisation’s planning for new hiring or sourcing for open roles, or indeed for gathering 
+aggregated workforce insights on employee engagement or career goals. We believe this 
+approach would encompass a range of activities that do not pose a risk to fundamental rights, 
+do not satisfy the proportionality principle and could deny European citizens access to some 
+of the fundamental tools and services necessary for navigating and advancing in today’s fastchanging, dynamic labour market. It could also have unintended consequences. 
+Organisations may feel restricted from using AI systems to broaden their sourcing of 
+candidates or loosening job eligibility criteria if doing so would subject them to heightened 
+legal obligations. For example, services provided by LinkedIn in an effort to add transparency 
+for job seekers in the recruitment process, such as providing salary insights, would be subject 
+to the same requirements as ‘high-risk’ systems that directly impact the hiring or adverse 
+workplace outcomes of individuals. Likewise, an overbroad definition may negatively impact 
+the ability of individual job seekers to find and apply for job opportunities. For example, AI 
+systems helping individuals search for relevant job opportunities through LinkedIn’s job search 
+tools could be classified as high-risk under the current definition and subject to heightened 
+obligations, the cost of which may be significant for job websites and recruiting organisations 
+operating in Europe at any scale. In addition, the definition may inadvertently burden 
+organisations, such as LinkedIn, that use AI systems to prevent discrimination and abusive 
+behaviour (such as scams and fake jobs) in the hiring process.  
+
+There are, no doubt, activities in the recruiting and workforce management space that present 
+significant risks to fundamental rights. We propose that the Annex III definition more clearly 
+address such systems by limiting the definition to systems facilitating decisions with respect 
+to hiring, advancement, or adverse workplace outcomes, including those based on workplace 
+or performance monitoring. Absent that, the Regulation risks categorising as high-risk an 
+entire sector with numerous functions and services--the vast majority of which do not present 
+risks to fundamental rights and have become the routine means by which job-seekers and 
+employers access, navigate and advance in today’s labour market. We believe that applying 
+heightened obligations to the entire sector may not be the most effective mechanism to protect 
+fundamental rights and freedoms and instead may negatively impact innovation by creating 
+significant compliance challenges, particularly for smaller organisations (which in turn may 
+limit the availability of the tools and services European job seekers need in today’s work 
+environment). 
+We look forward to further engagement on the draft AI Act, and we would welcome the 
+opportunity to share our insights and experience concerning the recruiting and workplace 
+management ecosystem in Europe. 

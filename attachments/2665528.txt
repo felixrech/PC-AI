@@ -1,0 +1,735 @@
+Public consultation on the White Paper on Artificial Intelligence 
+14 June 2020 
+The European Patients’ Forum (EPF) is an umbrella organisation of patients’ organisations across 
+Europe and across disease-areas. EPF represents the interests of over 150 million patients with chronic 
+conditions across the EU who expect and rely on European cooperation to improve healthcare delivery 
+and quality for all. In concert with its 75 members, EPF ensures the patient perspective in European 
+key health debates, including digital health and health data. To achieve this goal, over the past few 
+years EPF has been particularly active in these fields through both policy work​EPF policy and advocacy work related to digital health and data includes our position paper on eHealth (2016), GDPR 
+guide for patients and patients’ organisations (2016), Data and Artificial Intelligence EU Policy Briefing for Patient 
+Organisations (2020), brief summary of our recent EPF survey on Electronic Healthcare Records (2020), EPF Response and 
+accompanying statement - Public consultation on the European strategy on data (2020) 
+2 EPF recent projects related to digital health and data include: Digital Health Europe, EHDEN – The European Health Data 
+and Evidence Network, and Data Saves Lives. ​  and several projects. 
+This statement outlines EPF’s response to the European Commission’s White Paper on Artificial 
+Intelligence consultation, submitted through the EU Consultation portal. The response and this 
+statement have been developed in a consultative process together with our members and the EPF 
+Digital Health Working Group. In this accompanying statement we will further explore some key 
+elements, challenges and core issues related to the White Paper and to artificial intelligence (AI) in the 
+field of health, that we deem crucial for the patient community. 
+Introduction 
+AI together with big data has the potential to transform several care delivery methods, and can 
+provide great benefits at several levels of the healthcare value chain: improving population health, 
+healthcare operations and healthcare-related innovation. ​EIT Health – McKinsey & Company – Transforming healthcare with AI – The impact on the workforce and organisations 
+(2020), 
+https://www.mckinsey.com/~/media/McKinsey/Industries/Healthcare%20Systems%20and%20Services/Our%20Insights/Tr
+ansforming%20healthcare%20with%20AI/Transforming-healthcare-with-AI.ashx ​  The 2020 EIT Health-McKinsey report 
+“Transforming healthcare with AI – the impact on the workforce and organisations” highlights six areas 
+where AI has a direct impact on the patient: self-care, prevention and wellness, triage and early 
+diagnosis, diagnostics, clinical decision support, and care delivery in the context of chronic care 
+management. AI can allow medical professionals to spend time on other activities, such as interacting 
+with patients in a more meaningful way. AI-supported tools can also result in reduced costs, and 
+support patients in taking control of their health. Furthermore, the COVID-19 crisis has shown how 
+artificial intelligence can be an added value to the management of epidemics, and play an important 
+role in diagnosis and modelling the spread of new cases. ​McCall B. COVID-19 and artificial intelligence: protecting health-care workers and curbing the spread. Lancet Digital 
+Health 2020 Apr; 2(4): e166–e167., https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7129544/ ​  
+
+However, as with any new technology, there may also be unrealistic expectations. Artificial 
+intelligence has risks, limitations and concerns including ethical, technical, and legal issues, which are 
+often closely connected. AI depends on the availability of very large amounts of good-quality data. AI 
+also risks making wrong decisions wrong decisions or lead to overdiagnosis, and its reliability and 
+safety are particularly critical in healthcare, where errors can have serious consequences. 
+Furthermore, lack of skills and health literacy, limited human autonomy and potential issues with 
+access to AI solutions can also limit the potential of artificial intelligence in health. 
+The EU can set positive global standards when it comes to technological development in the AI field, 
+but it must do so while ensuring inclusivity, trust, empowerment, and respect of everyone’s 
+fundamental rights. As stated in our Manifesto for the 2019 European elections, “the EU should 
+ensure that Europe’s future digital health tools and systems start from patients’ priorities, and are codeveloped with patients.”5 
+TOWARDS A EUROPEAN FRAMEWORK FOR TRUSTWORTHY, ETHICAL AND 
+SAFE ARTIFICIAL INTELLIGENCE IN HEALTH 
+EPF welcomes the European Commission’s White Paper on Artificial Intelligence and its approach 
+based on excellence, trust, human rights, and fundamental values. The EU now has the chance to 
+develop a strong AI framework that benefits people, businesses and governments, matching 
+innovation with safety and trust. The EU can achieve this goal by involving patient organisations as 
+key stakeholders in shaping policy to ensure trustworthy, ethical, safe, and inclusive artificial 
+intelligence in healthcare. 
+1. Addressing the key challenges of AI in health  
+The application of AI in healthcare raises a series of concerns, in terms of ethics, safety and 
+fundamental rights for citizens and patients. ​EPF, Data and Artificial Intelligence EU Policy Briefing for Patient Organisations ​  The White Paper consultation addresses several crucial 
+issues related to AI: it may endanger safety or lack accuracy; it may breach fundamental rights​Including human dignity, privacy, data protection, freedom of expression, workers' rights etc. 
+8 EPF, Data and Artificial Intelligence EU Policy Briefing for Patient Organisations ​  and 
+lead to discriminatory outcomes; it may take actions for which the rationale cannot be explained; it 
+may make it more difficult for persons having suffered harm to obtain compensation. In our view, they 
+must all be addressed with clarity and transparency to ensure safe and trustworthy AI in healthcare in 
+Europe. 
+Ethicists have also identified a risk on limiting human autonomy in terms of a patient’s right to free, 
+fully-informed choice of, for example, treatment, if an AI system made a certain decision based on 
+what it “thinks” is best for the patient. Clearly, an important limitation and ethical implication of AI 
+is that it does not possess all the human qualities that have a bearing on healthcare – which is 
+fundamentally about human relationships. A specific concern in this regard is that artificial intelligence 
+might be so good at picking up anomalies, for example in medical imaging such as X-rays and MRI 
+5 EPF, Europe for Patients Manifesto, 
+
+scans, that it will end up increasing overdiagnosis and overtreatment. Overdiagnosis by AI can 
+increase the number of unnecessary medical interventions and – as any medical intervention carries 
+potential risks – increase the risk of harming patients. ​https://www.theverge.com/2020/1/27/21080253/ai-cancer-diagnosis-dangers-mammography-google-paper-accuracy ​  To limit these risks, AI’s initial assessment 
+should be complemented by regular human checks and monitoring needs to ensure unbiased and 
+controlled processes. 
+Human oversight of the system and the decisions flowing from it should therefore remain central in 
+healthcare, with AI as an important supporting tool. Furthermore, AI, if used to replace real human 
+contact,​E.g. some systems called “social AI”, such as virtual reality avatars, interact with humans by simulating human social 
+characteristics. ​  may actually increase social isolation cause the patient to get confused. ​“Confusion “between humans and machines could have multiple consequences such as attachment, influence, or 
+reduction of the value of being human. The development of human-like robots should therefore undergo careful ethical 
+assessment.” High-Level Expert Group on Artificial Intelligence, Ethics Guidelines for Trustworthy AI (2019), p.33, 
+https://ec.europa.eu/digital-single-market/en/news/ethics-guidelines-trustworthy-ai, ​  
+Transparency and increased explainability​Guidelines of the High-Level Expert Group and the Communication on Building Trust in Human-Centric Artificial 
+Intelligence, https://ec.europa.eu/futurium/en/ai-alliance-consultation/guidelines#Top ​  on how AI algorithms work and, when possible, on which 
+data sets are used to test, train, and validate algorithms, are also fundamental to increase trust in 
+artificial intelligence in healthcare. 
+EPF calls for particular attention in ensuring that AI in healthcare enhances society, and is an enabler 
+of – and not a threat to – patients’ rights and wellbeing, guaranteeing that the value of real human 
+contact is not minimised or entirely replaced by technological alternatives. 
+2. Better data for safer and better AI 
+In addition to the ethical and human rights-related risks and challenges, harnessing the potential of AI 
+in healthcare also raises important technical questions and concerns. The main one is the dependency 
+of AI on large amounts of good quality, unbiased, standardised, and interoperable data. If the 
+available data are not enough, not of good quality, inconsistent, or biased, this can strongly limit the 
+potential of AI to be useful, accurate and safe and can lead to AI errors or overdiagnosis. 
+Biases in data also introduce ethical issues in terms of the potential for AI-enabled decisions 
+themselves to be biased or discriminatory. Biases in data collection can affect the type of patterns AI 
+will identify. This is an issue since, for example, specific population groups are often underrepresented clinical trials and large data sets used to train AI. Bias in the data will have an effect on 
+the algorithm that is developed, replicating the bias found in society. ​Nuffield Council on Bioethics, Artificial intelligence (AI) in healthcare and research (2018) ​  Patients with multiple or rare 
+diseases may also be affected by this. ​Treviranus J., Sidewalk Toronto and Why Smarter is Not Better (2018), 
+https://medium.com/datadriveninvestor/sidewalk-toronto-and-why-smarter-is-not-better-b233058d01c8 ​  Other issues need to be considered in using data for AI, such 
+as fundamental rights, privacy and protection of personal data. There are risks for unwanted 
+identification of individuals, for example based on their unique brain architecture – visible on MRI 
+scans – or by using their genomic data. Improved and harmonised techniques of pseudonymisation 
+9 Symptom checker apps present an interesting case, as “their recommendations might be overly cautious, potentially 
+increasing demand for unnecessary tests and treatments.”, Nuffield Council on Bioethics, Artificial intelligence (AI) in 
+healthcare and research (2018), https://www.nuffieldbioethics.org/wp-content/uploads/Artificial-Intelligence-AI-inhealthcare-and-research.pdf 
+
+and anonymisation play a central role to ensure data safety for AI, avoid data misuse and increase 
+users’ trust. ​EPF, EPF Response and accompanying statement - Public consultation on the European strategy on data, 2020, 
+https://www.eu-patient.eu/globalassets/library/data-strategy-consultation-response---epf-statement_finalversion.pdf ​  
+Lack of interoperability and standardisation of data sets, such as electronic health record systems, is 
+a major challenge. Sometimes traditional analytical methods outperform machine learning, or the 
+addition of AI does not improve results. ​Austin PC, Tu JV, Lee DS, Logistic regression had superior performance compared with regression trees for predicting inhospital mortality in patients hospitalized with heart failure, J Clin Epidemiol. 2010 Oct;63(10):1145-55. doi: 
+10.1016/j.jclinepi.2009.12.004. Epub 2010 Mar 21.https://www.ncbi.nlm.nih.gov/pubmed/20304609 ​  As with any scientific endeavour, correct use of AI hinges on 
+whether the correct scientific question is being asked, and whether one has the right high-quality data 
+to answer that question. As machine learning is based on patterns in big data, the system is only as 
+good as the data that is fed to it. 
+Availability of well-annotated and appropriately-pseudonymised clinical data is also fundamental for 
+AI research and innovation projects. Data access and data sharing, crucial to the success of these 
+projects, can be a significant bottleneck, incurring long delays in their execution as well as substantial 
+legal and administrative costs. Difficulties in executing data access and data sharing agreements are 
+further compounded when public and private sector priorities clash. Any actions to enhance secure, 
+but rapid access to valuable research and innovation datasets would surely enhance the quality of 
+AI research and innovation at European level. 
+Finally, the importance of data for AI clearly connects the future frameworks and initiatives on artificial 
+intelligence and healthcare to the upcoming EU work on the European Health Data Space, which EPF 
+also commented on via its dedicated public consultation. ​EPF, EPF Response and accompanying statement - Public consultation on the European strategy on data, 2020 ​  The EU strategy on AI should also be 
+aligned with and take into account relevant initiatives and projects on data, such as the EMA strategy 
+on big data. ​HMA-EMA Joint Big Data Taskforce Phase II report: ‘Evolving Data-Driven Regulation’ and key recommendations, (2019) 
+https://www.ema.europa.eu/en/documents/other/hma-ema-joint-big-data-taskforce-phase-ii-report-evolving-datadriven-regulation_en.pdf; https://www.ema.europa.eu/en/documents/other/priority-recommendations-hma-ema-jointbig-data-task-force_en.pdf ​  Furthermore, the EU should explore coordination on data standards at international 
+level, increasing shared knowledge on quality and interoperability beyond EU borders.  
+3. Developing an ecosystem of excellence for AI in healthcare 
+The White Paper includes six key actions deemed fundamental in building an ecosystem of excellence 
+that can support the development and uptake of AI across the EU economy: working with Member 
+States; focussing the efforts of the research and innovation community; skills development; focus on 
+SMEs; partnership with the private sector and promoting the adoption of AI by the public sector. 
+EPF agrees that the six actions are all key in building excellence in AI at European level, but we also 
+emphasise their strong interdependency and need to be adapted to address the uniqueness of AI in 
+healthcare. These actions will have to be tailored to take into consideration the specific challenges of 
+healthcare and to ensure inclusion of the patient perspective in research, development of policy 
+frameworks, and implementation of innovative solutions. 
+
+The efficiency of the proposed actions will be compromised without collaboration across sectors, and 
+in the absence of meaningful citizen and patient involvement at all levels. To reinforce this point, EPF 
+calls the European Commission to ensure the involvement of citizens, patients and other relevant 
+stakeholders – healthcare professionals, in particular – as the seventh key action to achieve a 
+European ecosystem of excellence for AI in healthcare. 
+4. Transparent, effective, and sustainable AI research and innovation 
+Creating an ecosystem of excellence for research on AI in Europe is key, and all the actions mentioned 
+in the White Paper – support the establishment of a world-class research hub, connect research 
+excellence and set up a public-private partnership for industrial research – are surely important. When 
+it comes to healthcare-specific public-private partnerships for industrial research in the AI field, they 
+should be driven by public interest and their results should contribute to public health and wellbeing. 
+If it is true that innovative solutions often require collaboration between multiple stakeholders, there 
+must be clear priority-setting criteria based on potential impact on unmet health needs, and any 
+entanglements between these priorities and other interests must be avoided. Innovative products and 
+services developed with EU funding must be, at the end of the day, accessible and affordable to those 
+who can benefit from them, be it individual patients or health systems. 
+Innovation​EPF calls for a wide definition of innovation that includes people-focused, social, organisational and systems innovation. 
+Research into the design of health and social care and how care is delivered, can add significant value in providing evidence 
+for targeting resources efficiently, thus contributing to the sustainability of health systems. ​  in AI, as in others, should be valued for its potential to improve the quality of care and of 
+life, over and above mere potential for putting a product on the market. 
+EPF would also like to emphasise the importance of sustainability in the context of research and 
+innovation. Investment in this field should also include funding to ensure the sustainability of highvalue assets developed by past and present initiatives, on which future innovation can be built. For 
+health research and innovation projects, ensuring the sustainability of clinical assets would recognise 
+the valuable contributions patients make to these projects, sacrificing their time and, in some cases, 
+exposing themselves to risks. A sustainable ecosystem of excellence for research on AI should 
+therefore aim to guarantee access to data and assets in the post-project period. 
+AI should also be used to develop solutions for health inequalities, including addressing social 
+determinants of health, but also increasing equitable access to high-quality healthcare for all, in line 
+with the fundamental shared values of European health systems. 
+Finally, to strengthen AI research and innovation there is a need for accurate risk assessments that 
+identify the probability and magnitude of potential harms. Consequently, efforts should also be 
+directed towards ensuring that, where required, AI research and innovation projects undergo ethics 
+review, by panels that possess the necessary AI and data science expertise. 
+5. Improve European coordination on AI 
+Improved coordination at European level will be key to advance together on AI while limiting 
+inequalities and harmonising innovation and accessibility to AI-related benefits for patients. 
+The EU should also promote the uptake of AI by businesses and the public sector but possibly adopting 
+different approaches, such as specific regulation and standards for the business sector, and enhanced 
+support and coordination for the public sector (e.g. capacity building and of course ad-hoc regulation 
+
+and standards). EPF welcomes the priority given to the healthcare sector in the White Paper when it 
+comes to the adoption of AI by the public sector. 
+Given the importance of data for artificial intelligence, addressing AI will be fundamental when 
+discussing the European Health Data Space (EHDS). As mentioned in our response to the Data Strategy 
+consultation​EPF, EPF Response and accompanying statement - Public consultation on the European strategy on data, 2020 ​  and considering the peculiarity of the health sector and its specific challenges and risks, 
+a sector-specific approach on healthcare and data is needed. However, the development of the EHDS 
+must include the necessary mechanisms, such as governance structures and appropriate capacitybuilding, to ensure the meaningful involvement of patients from the very beginning, in order to 
+shape a framework that benefits from the unique experience and knowledge of patients and provides 
+benefits for society. 
+Ethical AI governance systems are another area where policy alignment and inter-state coordination 
+are essential, and enhanced cooperation at European level should also look at ensuring equitable 
+access and avoid exacerbation of health inequalities within and across Member States. 
+6. Boost skills and digital health literacy as a precondition to exploit AI at European level 
+Health literacy is a key component of patient empowerment​EMPATHiE Project, https://www.eu-patient.eu/whatwedo/Projects/completed-projects/EMPATHiE/ ​  and a major priority for patients. ​EPF, Charter on Patient Empowerment (2016), https://www.eupatient.eu/whatwedo/campaign/PatientsprescribE/charter-on-patient-empowerment/; EPF, Campaign on Patient 
+Empowerment: Roadmap for Action (2017), https://www.eu-patient.eu/whatwedo/campaign/PatientsprescribE/roadmapfor-action/; 
+EPF, Europe for Patients Manifesto (2019), https://www.europeforpatients.eu/ ​  
+Enhancing digital health literacy and data literacy levels is crucial to increase patients’ knowledge 
+and trust on AI in health and enable them to better understand and exercise their rights while 
+realising the societal benefits of AI innovation in healthcare. Education and health literacy for the 
+public, and for patients specifically, can also increase civil society’s capacity to be engaged in 
+developing policy and practice on AI, especially in healthcare. 
+EPF welcomes the importance given to skills and literacy in the White Paper and stresses the need for 
+active patient’ involvement in shaping future skills, educational and training policies for AI and health. 
+We would like to emphasise that health literacy is not only about the skills of individuals, but a 
+relational concept that requires healthcare professionals, organisations and systems to become more 
+easily understandable and navigable to all individuals, whatever their health literacy levels. Health 
+literacy – including digital and data literacy – is therefore an important strategy for health equity and 
+to avoid exacerbation of the digital divide. ​Roediger A et al. (2019) “Nothing about me without me: why an EU health literacy strategy embracing the role of citizens 
+and patients is needed”, Archives of Public Health vol.77, no: 17. 
+https://archpublichealth.biomedcentral.com/articles/10.1186/s13690-019-0342-4; EPF, Consensus paper: Making health 
+literacy a priority for in EU policy, https://www.eu-patient.eu/globalassets/policy/healthliteracy/health-literacy-consensuspaper_2016.pdf ​  
+Considering the rapid speed of innovation in the AI sector, EPF calls for particular attention to 
+developing skills, health literacy and dedicated education and training for citizens, patients and 
+healthcare professionals, through dedicated resources and initiatives both at European and National 
+level. Also, considering that AI is clearly a constantly evolving sector, it will be crucial to address skills, 
+literacy, education, and training with a dynamic and equally evolving approach. In doing so, healthcare 
+professionals will be able to be up to date with innovation in the field, use AI safely and efficiently, but 
+
+also adequately interact with patients and citizens. Informed patients and citizens, might therefore 
+feel more confident and ready to harness the potential of artificial intelligence and better engage with 
+the underlying digital ecosystem (e.g. data sharing). 
+7. Defining ‘risk’ for AI applications in healthcare 
+The White Paper defines high-risk applications based on two-levels risk-based approach, identifying 
+two key cumulative criteria: sector of employment of AI and use of AI applications. While healthcare 
+is clearly acknowledged as one of the ‘’high-risk’’ sectors, the Paper also highlights that ‘softer’ 
+application of AI in healthcare, for example AI-driven appointment scheduling system in a hospital, 
+would not be necessarily flagged as ‘’high-risk’’. 
+In general terms, the adoption of new and specific rules addressing specific risks related to the 
+application of AI in healthcare should surely be considered. However, especially for AI applications in 
+the healthcare sector, whether the introduction of new compulsory requirements should be limited 
+to high-risk applications depends on how the future EU rules on AI will detail the risk-based approach 
+and therefore the list of high-risk applications uses. Indeed, although the White Paper already clearly 
+considers healthcare to be a ‘high-risk’ sector of application (first principle), AI in healthcare has a 
+series of particular risks that require a thoroughly developed sector-based approach to clearly define 
+what should be considered a ‘high-risk use’ (second principle). 
+EPF calls for particular attention on the definition of high-risk AI in healthcare and a dedicated 
+discussion on this topic inclusive of the views of patients. Since the EU approach to define high-risk 
+will be linked to more restrictive or relaxed assessment procedures, it will be necessary to carefully 
+evaluate what could be considered to be low-risk AI application in healthcare. This should be done not 
+only taking into consideration obvious risks, such as inaccurate diagnosis or prognosis and incorrect 
+treatments,​As mentioned in our briefing paper on big data and artificial intelligence, AI might be so good at picking up anomalies, for 
+example in medical imaging such as x-rays and MRI scans, that it will end up increasing overdiagnosis and overtreatment. 
+Symptom checker apps also present an interesting case as their recommendations might be overly cautious, potentially 
+increasing demand for unnecessary tests and treatments. ​  but also indirect or secondary negative impacts on the life of the patients such as 
+unwanted identification of individuals,​There are for examples risks for unwanted identification of individuals, for example based on their unique brain 
+architecture – visible on MRI scans – or by using their genomic data. 
+27 For example, due to malfunctioning in AI-led systems of hospital management ​  even minimal delays of care, reduced freedom of choice, 
+social isolation or distress. When addressing the balance between potential benefits and potential 
+harms, the balance should always be on the benefits side. 
+8. Establish assessment mechanisms for safe and ethical AI in healthcare 
+High-Risk AI applications in healthcare should be subject to strict assessments procedures, 
+harmonised at EU level, to fully ensure patient’ safety and address ethical questions. In EPF’s view, 
+the best solution would be a combination of ex-ante compliance and ex-post enforcement 
+mechanisms, with the important specification that ex-ante compliance should be assessed by an 
+independent body. These mechanisms, which should include an ethics review, should be transparent, 
+and in the case of healthcare applications, should include end users – patients – as contributors to the 
+assessment procedure, where possible. 
+
+It is crucial to ensure that the assessment mechanisms ensure safety and effectiveness of AI systems 
+as they are used and enable prompt action if problems arise during their lifetime. This is particularly 
+important for AI, considering that machine learning systems adjust themselves as they “learn”. 
+As concerns the proposal of a voluntary labelling system for non-high-risk applications, such an 
+approach could indeed be useful to facilitate the identification of trustworthy applications for both 
+patients and professionals. As previously mentioned, however, the key question here is how to define 
+high-risk and non high-risk applications. We would like to see meaningful and inclusive involvement 
+of end users in the development of labelling systems, to ensure that labelling systems are easily 
+interpretable and tailored to the specific needs of the end user group. 
+9. A fit-for-purpose regulatory framework to increase trust on AI 
+AI-specific risks, safety and liability, when it comes to healthcare in particular, should be addressed 
+specifically in EU legislation, avoiding duplication with existing regulatory frameworks (from data 
+protection to medical devices) while ensuring adequate protection for individuals. EPF calls for 
+inclusion of patients’ views from the very beginning in the process of adaptation and update of the 
+current legislation or, where necessary, the development of new legislation. In addition, given the 
+speed of technological advancement in this field, any new AI-related legislative framework should 
+incorporate requirements for systems to be re-evaluated, and for the new legislation to be adapted, 
+in a rapid and nimble way in response to technological evolution – thereby ‘future-proofing’ the 
+legislation. 
+Furthermore, we believe that any new legislation should be founded on solid ethical principles and 
+recommendations, for example those recently outlined by AI4People and in the Asilomar AI Principles, 
+developed in consultation with all relevant stakeholders – including the individuals that the principles 
+are designed to protect. Respect of these AI-specific, foundational ethical principles should be ensured 
+via expert ethical review of AI applications, particularly in the field of health. 
+Ethical risks and potential harms of AI should be carefully considered to provide more legal certainty, 
+particularly for healthcare products and for products that make use of personal data. Clarity and 
+transparency on liability and responsibility, therefore on who should respond to potential harm 
+caused by AI applications, will be also crucial to increase trust in AI. People should always have 
+effective and transparent mechanisms for redress. 
+In general terms, on top of ensuring ample protection and safety, the exercise of rights defined by EU 
+legislation should be made simple and not overly burdensome. 
+
+Public consultation on European Health Data Space 
+– EPF accompanying paper 
+26 July 2021 
+The European Patients’ Forum (EPF) is an umbrella organisation of patients’ organisations across 
+Europe and across disease-areas. EPF represents the interests of over 150 million patients with chronic 
+conditions across the EU who expect and rely on European cooperation to improve healthcare delivery 
+and quality for all. In concert with its 77 members, EPF ensures the patient perspective in European 
+key health debates, including digital health and health data. To achieve this goal, over the past years 
+EPF has been particularly active in these fields through both its policy work​EPF policy and advocacy work related to digital health and data includes our position paper on eHealth 
+(2016), GDPR guide for patients and patients’ organisations (2016), Data and Artificial Intelligence EU Policy 
+Briefing for Patient Organisations (2020) and a brief summary of our recent EPF survey on Electronic 
+Healthcare Records (2020). Furthermore, EPF responded to the EC Consultations on the Data Strategy and AI 
+White Paper (2020), European Health Data Space roadmap and Data Governance Act (2021). ​  and several projects. ​EPF recent projects related to digital health and data include: Digital Health Europe, EHDEN – The European 
+Health Data and Evidence Network, and Data Saves Lives. 
+3 Europe for patients Manifesto, https://www.europeforpatients.eu/ ​  
+This statement is an addition to the EPF’s response to the European Health Data Space (EHDS) Public 
+Consultation, submitted through the EU Consultation portal. The response and this statement have 
+been developed in a consultative process with our members and our EPF Digital Health Working 
+Group. In this accompanying statement, we further elaborate on some of the key elements included 
+in our response and summarise our views on the EHDS. 
+NOTE – the responses included in the Consultation and in this accompanying paper are based on the 
+current understanding of the European Health Data Space proposal development and on the 
+interpretation of the questions included in the questionnaire. On this point, several of the questions 
+have been identified quite broad and unclear, at least in some of their elements, in particular in terms 
+of prioritisation and identification of what should constitute a precondition for the EHDS design and 
+implementation. For instance, it is essential to note that many of the proposed options, tools, 
+platforms, and policies mentioned in the questionnaire as ways to facilitate health data sharing, can 
+be considered viable choices only if patients are first ensured proper access and control over their 
+health data with a transparent and trustworthy framework. Furthermore, EPF’s responses might not 
+entirely reflect individual organisations views or precisely capture national or disease-specific 
+challenges and suggestions. They should be therefore considered in parallel with the inputs shared by 
+our members, both patients’ national coalitions and European disease-specific organisations 
+Introduction 
+Health is an area where Europe can undoubtedly benefit from the data revolution. Proper use of 
+health data can improve health systems’ sustainability, increase the quality, safety and patientcentredness of healthcare, decrease costs and transform care into a more participatory process.3 
+Health data can support the work of regulatory bodies, facilitating the assessment of medical products 
+and demonstration of their safety and efficacy. Furthermore, the COVID-19 pandemic has 
+demonstrated how accurate and quickly accessible data is also fundamental in the management of 
+cross-border public health emergencies. Nevertheless, the road to fully exploit the potential benefits 
+
+of data in health is only partially built, still extremely fragmented and not yet developed with the 
+patients’ views at the centre. 
+Given this context, the EHDS can be considered as a welcome exercise to better harmonise and 
+clarify the health data panorama in Europe, while also having a potential positive impact on digital 
+health in more general terms (e.g., digital health services, Artificial Intelligence, etc.). If shaped and 
+implemented in the right way, the EHDS can become a crucial pillar of the ‘European Health Union’, 
+and ultimately improve citizens and patients’ lives. 
+At the same time, its broad scope makes prioritisation and planning efforts a necessity in order to 
+ensure that all the elements of the EHDS will be enshrined on a series of principles based on citizens 
+and patients’ needs, to be considered essential preconditions. 
+Indeed, the EHDS must overall: 
+be shaped to ensure barrier-free access and control of health data in an easy and transparent 
+way, with the highest possible level of data protection and based on consent; 
+ensure patient safety at all levels; 
+deliver harmonisation while keeping in mind the differences between different health 
+systems; 
+take into consideration and tackle current and potential inequalities and gaps in health literacy 
+and access to digital; 
+tackle the ethical and practical challenges linked to current and future digital health 
+transformation; 
+foster a digital transformation of healthcare that delivers added value for patients and 
+responds to their true needs and concerns; 
+concretely and meaningfully involve patients in its shaping, governance and implementation. 
+Without building on these elements, the EHDS might not be able to deliver on its promises 
+independently of the choice on specific options, tools, platforms, or guidelines. On the contrary, it 
+might further exacerbate existing inequalities within Europe, potentially increase mistrust and, 
+ultimately, not be accepted by the very individuals that should be at the centre of this initiative. 
+For the European Health Data Space to work, it will have to be more than a large-scale flagship 
+European project. It must reach patients and citizens, be shaped with them, be accepted by them, 
+respond to their needs, and ultimately ensure that health data and the digital transformation of 
+health and care will help delivering better care and increase quality of life. 
+
+In this section of the EPF EHDS consultation accompanying paper, we will focus on the most important 
+elements of our responses to the four pillars of the questionnaire, covering: access to and exchange 
+of health data for healthcare; access and use of personal health data for research and innovation, 
+policy-making and regulatory decision; digital health services and products; Artificial Intelligence (AI) 
+in healthcare. 
+➢ IMPROVING ACCESS AND CONTROL OF HEALTH DATA WHILE ENSURING THE HIGHEST 
+POSSIBLE LEVEL OF DATA PROTECTION – THE KEY TO A PATIENT-CENTRED EUROPEAN 
+HEALTH DATA SPACE 
+In EPF’s view, a European framework on the access and exchange of personal data should have the 
+ultimate goal in improving healthcare delivery for all Europeans, both within and across borders, while 
+ensuring the highest level possible of interoperability, safety, data protection while avoiding the 
+potential misuse of data. 
+To achieve better and more trustworthy use of personal data in the field of healthcare, patients must 
+be in control of their data. They should be able to freely access it, decide who to share it with, and on 
+what conditions. As identified by the EPF community and confirmed by the Inception Impact 
+Assessment (IIA), exercising barrier-free access and control over their own health data is often difficult 
+for patients. For example, electronic health records (EHRs) are not yet a reality across the whole EU, 
+and many patients cannot easily access, understand and use the information they contain, or transfer 
+them between healthcare providers, including when they move across borders. Achieving a higher 
+level of barrier-free​Barrier-free access for patients to control and administer their own healthcare data is essential, especially 
+patients with sensory or cognitive impairment. For instance, the healthcare data for visually impaired patients 
+should be accessible via acoustics and screen reader. ​  access and control should therefore be considered as the key priority of the 
+EHDS, and subject to prioritisation when developing such European framework. 
+Access should also be linked to measures ensuring that failures in providing access and control to 
+patients’ health data, or the eventual unwanted use and sharing of patients’ data, would be linked 
+to sanctions or fines. These measures should be seen as a way to increase patients’ trust in health 
+data, safeguarding their essential rights and they should be based on a clear framework, easy for 
+patients to exercise. Transparency is also key, in particular with regards to how handling and 
+processing of the data will be organised and through which platforms/providers (e.g., if not located in 
+Europe). 
+Furthermore, it is essential to avoid patients' data being leaked or misused as it can have a dramatic 
+impact on the life of individuals. Instances such as the mental health data leak in Finland (2020) or 
+more recent leaks occurred in France, United Kingdom, and Ireland (2021) must not happen under the 
+European Health Data Space. 
+Once the precondition of secure and protected access and control to health data is enshrined and 
+prioritised, it will be important to set a clear framework granting the needed options to patients to 
+
+exercise their essential rights related to health data while ensuring the highest possible level of 
+protection. These should include decisions on how to access such data in the easiest way possible and 
+for the broadest spectrum of the population (e.g., considering different levels of health literacy or 
+access to digital means), how to share it and with whom, for which purposes, how to ensure that 
+such decisions are respected​As indicated in our response to Q3 and Q4 of the EHDS 2021 Public Consultation questionnaire ​ , and, eventually, how to withdraw access.  
+Patients should also be able to feed information and corrections to their health data. Out of date, 
+incomplete or incorrect information has the potential to lead to mistakes and errors, both in care, but 
+also for planning care, policy, and research. ​This was identified as a key ask in our recent EPF survey on EHRs ​  This is essential to improve quality of data. 
+Fundamentally, the EU framework should firstly support and enable barrier-free access for patients 
+to their healthcare data, granting control in the most secure environment possible. The EU should 
+investigate carefully driving minimum standards to ensure that such possibility is granted across 
+Europe, while taking into consideration the existing difference between health systems and ensuring 
+that no one is left behind. 
+• The EHDS as a unique chance to shed light on health data complexity 
+One of the central questions of the EHDS consultation (Question 11) refers to whether additional 
+rules on conditions for access to health data for research, innovation, policy-making and regulatory 
+decisions are needed at EU level. As this is an example of a very broad question with equally broader 
+multiple choices offered within the questionnaire, further clarification on EPF’s position and responses 
+is needed. 
+While in the questionnaire response we have identified how ‘additional rules in all cases’ would be 
+EPF’s preferred option, our position does not intend to call for new, overly burdensome or 
+duplicating efforts not taking into consideration the already available rules and initiatives (e.g., 
+GDPR, guidelines by the European Data Protection Supervisor, European Data Protection Board and 
+national data protection authorities, EU-funded projects). In our view, the EHDS has the chance to 
+set up a framework that sheds light, clarity, and transparency on the complex panorama of health 
+data sharing, addressing the peculiarity of health data, ensuring security and privacy but without 
+creating additional unnecessary hurdles to use data in the public interest. The EHDS should help 
+streamline and navigate health data, in particular for patients, clinicians, and researchers. This could 
+be done through guidance, clarification of rules, better tackling known gaps and in silos approaches, 
+and developing dedicated code of conducts. Of course, particular attention should be dedicated to 
+areas where the EHDS will bring particular innovation in procedures, access and data sharing. 
+On the specific issue concerns data sharing outside of the EU. On this point, rules should be shaped 
+to avoid jeopardising research happening beyond our borders, if health data is shared under clear and 
+transparent circumstances, with a specific focus for data protection. Particular attention must be 
+dedicated to ensuring secure access to health data, in particular if not anonymised or pseudonymised. 
+Independently of the rules/guidelines adopted in shaping the European Health Data Space, the 
+primary focus should always be on ensuring safe, clear, protected and transparent patients’ access 
+and control to their health data. 
+
+• Defining frameworks and mechanisms within the EHDS 
+Several questions of the EHDS consultation concern the definition of possible mechanisms of 
+collaboration between Member States and the EU-level, including the development of standards and 
+technical requirements or their application. 
+In EPF’s view, the choices related to developing standards and technical requirements should be 
+taken in strong collaboration between national digital health bodies and possibly coordinated 
+through a dedicated EU structure/body in charge of overseeing the process and ensuring a 
+harmonised approach as well as the involvement of patients in the governance. 
+Furthermore, better coordination and harmonisation of national approaches on health data 
+exchanges across the EU to build a less fragmented, more accessible and trustworthy framework 
+should be the ultimate goal of the European Health Data Space. This is important, in particular in 
+light of the current implementation challenges of the GDPR. Such approach should also build on 
+common principles such as the FAIR pillars:​https://www.go-fair.org/fair-principles/ ​  data should be findable, accessible, interoperable, and 
+reusable. Building on this, in EPF’s view, a coordinated authorisation scheme managed by national 
+bodies, taking into consideration the specificity of the healthcare sector and the specific risks linked 
+to health data, could be the best option to ensure safe exchanges of data. At the same time, while 
+avoiding too much complexity, it could be interesting to explore the option of a labelling system for 
+interoperability as part of the mandatory prior approval, which may be useful for identifying good 
+practices, increasing trust, transparency, and understandability of the process. 
+In terms of defining possible mechanisms, a key question revolves around the choice of the most 
+appropriate option to facilitate access to health data for research, innovation, policy-making and 
+regulatory decision (Question 10). In EPF’s view, once again, independently of the body selected to 
+handle access to health data, it will be fundamental to ensure full independence and accountability. 
+It should be built on transparent processes and with the inclusion of patients’ representatives in its 
+governance/decision-making structures. 
+Public body and mandatory-based options should be the preferred ways to reduce fragmentation and 
+increase clarity. Private not-for-profit entities, as presented in the Consultation, have been defined as 
+the least preferred option, mainly due to additional questions concerning the nature of such entities, 
+their affiliation and governance. 
+The Consultation also discusses the issue of voluntary data sharing and the ‘data altruism’ term. 
+Concerning ‘data altruism’, as identified in our Data Governance Act​EPF, Response to Data Governance Act Consultation (2021), https://www.eu-patient.eu/news/latest-epfnews/2021/shaping-a-patient-centred-european-health-data-environment/ ​  response and considering the 
+importance granted to it within the DGA and in the EHDS, it is necessary to ensure a harmonised and 
+clear definition of the term to ensure that patients are fully aware of its meaning and impact. 
+The development of protocols or procedures for the practical exercise of such voluntary transfer of 
+data should also be considered and patients should be able to check information on who has had 
+access to their data, on what basis and for what purpose. Furthermore, while many patients are 
+willing to make their healthcare data available to foster new therapies and treatments on a voluntary 
+
+basis, those who are not able nor willing to share their data should still be granted full access to highquality care. 9 
+• Facilitating access to health data for research, innovation, policy-making and 
+regulatory decision 
+Access to data must be subject to the consent of patients, especially where third parties are using 
+data for “innovation” or commercial purposes. Many patients will agree to their data being used for 
+research, policy, and public services, in particular where they believe there is public benefit in doing 
+so. They are in general less inclined to share for the purposes of vaguely defined innovation. 
+There are numerous examples of patients opting out of their data being used, especially because of 
+concerns of these external organisations being involved and because of poor communication around 
+projects or how data will be used, etc. 
+Furthermore, access to data held by private stakeholders should be facilitated for research, 
+innovation, policy-making and regulatory decisions in accordance with existing legal frameworks and 
+based on the initial consent by data subjects. The consent frameworks should be shaped keeping into 
+consideration the potential unwanted impact of data use for research, innovation, policy-making and 
+regulatory decision, for instance taking into consideration broad or dynamic consent. 
+The Consultation also mentions the possibility for the establishment of an EU body governing access 
+to health data for research, innovation, policy making and regulatory decisions (Question 14). Such 
+a body could, for instance, bring together national bodies dealing with secondary use of health data, 
+setting interoperability standards, act as technical intermediary, facilitate cross-border health data 
+sharing. In EPF’s view, this could potentially help harmonise the currently fragmented health data 
+panorama in the European Union. 
+At the same time, such an EU body should be built on enhanced cooperation between national bodies 
+and ensure the inclusion of patient representatives in its governance structure to ensure that patients’ 
+needs are fully taken into consideration. It is also noteworthy to mention that, when adopting an EU 
+pathway, it will be necessary to shape it in a considerate way to avoid more regulatory obstacles and 
+increase the burden of administration, potentially impeding rather than facilitating progress. 
+• Potential benefits and expected impacts of the EHDS 
+Ensuring efficient, safe, and affordable care for patients should be considered as a key goal of the 
+European Health Data Space framework to improve access to health data. Concerning innovation, it 
+will be particularly important that the data used to drive advancements in treatments, medicines, 
+devices, and services will lead to innovation answering the patients’ unmet needs. 
+The EHDS Consultation foresees six (6) potential main benefits from the EHDS: 
+Availability of new treatments and medicines; 
+Increased safety of health care and of medicinal products or medical devices; 
+Faster innovation in health; 
+Better informed decision-making (including risks and errors); 
+9 As concerns the data altruism term, as identified in our Data Governance Act response9 and considering the importance 
+granted to it within the DGA and in the EHDS, it is necessary to ensure a harmonised and clear definition of the term to 
+ensure that patients are fully aware of its meaning and impact. 
+
+Reduced administrative burden in accessing health data; 
+Technological progress. 
+While all these benefits can have a considerable potential high impact, their short to medium term 
+actual impact might be rather moderate if we consider a more realistic forecast for the deployment 
+of the EHDS. As it concerns administrative burdens, it is noteworthy to mention that additional rules, 
+complexity, and processes introduced by the EHDS could potentially have a negative/limited impact, 
+especially if not carefully deployed and implemented at the national level with all stakeholders fully 
+on board, the right platforms and development of skills and literacy. 
+In addition, the availability of new treatments, medicines, etc., is affected by a range of factors well 
+beyond the scope of the EHDS. While the delivery of efficient, safe, and affordable care for patients is 
+a laudable goal for the EHDS, simply increasing the access to (and sharing of) data is only the first step 
+towards this goal. 
+In terms of potential additional impacts, EPF recognises that the increased availability of data can 
+help policy makers and regulators to make better and more effective evidence-based decisions 
+while facilitating research and innovation based on outcomes that really matter to people. However, 
+this must go hand in hand with providing patients with clear assurance on how the data is used and 
+that it is used in line with the purposes for which the personal data were initially collected. Patients 
+should also be made aware of the possible consequences of the intended further processing of data 
+subjects. Adequate safeguards must be ensured (encryption, anonymisation and pseudonymisation). 
+Patients should be also granted opt-out possibility if they believe that their data is used beyond the 
+agreed use. 
+Finally, the creation of a future EHDS may also help identify and ultimately tackle differences and 
+inequalities between Member States (and potentially between sectors) in terms of health data 
+digitisation, access and sharing mechanisms. Said differences and inequalities will have to be carefully 
+considered in the deployment of the EHDS to avoid increasing disparity across Europe in the 
+digitalisation of health and care systems. 
+➢ A FRAMEWORK FOR DIGITAL HEALTH SERVICES AND PRODUCTS WITHIN THE EHDS 
+Broader deployment and use of digital health products and services can surely benefit patients at 
+different levels. Better communication with healthcare professionals, improving self-management 
+and monitoring of their own condition, easier access to their health records and sharing of their health 
+data within and across-borders, improved access to healthcare for patients in remote areas are only 
+few examples of the main positive impacts of digital health. 
+However, the deployment and use of digital health products and services must take into a series of 
+current challenges into consideration, including cultural and link to the potential reticence to use 
+digital health. 
+Digitalisation levels, both in terms of infrastructures, literacy and access to digital means, are highly 
+unequal across the European Union and even within Member States territories. The EHDS 
+framework should therefore keep into consideration this divide to avoid further exacerbating already 
+existing inequalities again, within and across Member States. This should be done by targeted work 
+and support to specific Member States, areas and population categories to limit as much as possible 
+the gap in accessing digital health. 
+
+We need to keep patient choice and control in primary consideration, as some cannot access these 
+services and even those who can, may not wish to use these products. While digitalisation is extremely 
+important, it should be seen as supplementary/complementary to existing models of healthcare and 
+services. 
+• Access and sharing health data nationally and across borders through digital 
+health services and devices 
+Accessing and sharing health data through digital health services and devices must go hand in hand 
+with ensuring and safeguarding proper consent coming from the patients. They must be in full 
+control of what kind of data they want to share/transmit. Indeed, patients are generally willing to 
+provide access to their data provided that proper and clear consent is granted and that they have 
+control over how and what kind of the data is accessed and for what purpose. In EPF’s view, actions 
+to improve how patients control their data, for instance, granting enhanced possibilities to transmit it 
+from their m-health/tele-health tools into both EHRs and an EU health data exchange infrastructure, 
+are important elements for the development of the EHDS framework. 
+Once the consent is clearly granted, and the actual use of data is respectful of such consent, data 
+can be considered as a fundamental tool to improve collaboration between HCPs and patients for 
+the delivery of better care. 
+Furthermore, the relationship between healthcare professionals and patients over health data 
+through digital health services and devices should be integrated in the European Health Data Space as 
+a collaborative interaction to ensure information to patients about the opportunities offered by digital 
+health; exploitation of existing opportunities provided by digital health to improve care and selfmanagement; facilitating control of their data and digital health use. 
+• Minimise risks related to tele-health and improve the relationship between 
+patients and healthcare professionals 
+While the correct application of tele-health solutions can improve the relationship between patients 
+and healthcare professionals, and access to care, there are some essential elements to be taken into 
+consideration: 
+Tele-health should, in normal conditions, not be seen as a replacement for traditional care 
+but rather as an additional tool; 
+Increased trust issues from the patients' point of view; 
+The correct use of tele-health needs adequate skills and access to digital health solutions, 
+both for healthcare professionals and patients; 
+Additional stress for both patients and doctors, from difficulties in accessing and using digital 
+solutions to the de-personalisation of care, and adopting additional tools in already 
+overcrowded schedules; 
+Potential risks of misdiagnosis, errors and miscommunication exacerbated by the use of telehealth solutions; 
+Tele-health also requires proper access to digital tools. The digital divide currently existing 
+within and across EU-countries should be therefore taken into consideration. 
+Patients with hearing, vision or physical impairment, dementia and other conditions are 
+potentially prevented from using technologies related to tele-health. 
+
+Given the broad scope of the European Health Data Space, there is a chance to tackle such issues and 
+promote better harmonisation, to drive a higher level of coordinated protection and clarity for both 
+patients and healthcare professionals. 
+A more coordinated approach could also facilitate patients to travel across the EU without facing too 
+many diverse frameworks that would increase uncertainty and potentially hamper patients’ 
+willingness to engage with telehealth solutions. This could also facilitate healthcare professionals to 
+travel across borders, facilitate more coherent training and education on how to use and communicate 
+about telehealth, and ultimately increase safety for patients. 
+At the same time, stronger harmonisation must take into consideration how the use of tele-health is 
+directly connected and linked to healthcare professionals and to their clinical practice, which operate 
+in very diverse healthcare systems with significant variations. To tackle this while supporting a 
+progressively less diverse European panorama, guidance, certifications and recommendations be 
+developed at EU level, thereby enabling and supporting integration of telehealth in diverse Member 
+State health systems. 
+• Fostering uptake of digital health products and services 
+In EPF’s view, ensuring clear authorisation schemes and the certified interoperability of digital health 
+products and services is essential to foster the uptake of digital health products and services. It is 
+important to consider how mandatory prior approval by national authorities can increase patients’ 
+trust in digital health products and services. Furthermore, assessment of interoperability levels will be 
+essential to drive a true European cross-border adoption of digital health solutions that can help 
+patients travel within the EU. 
+Concerning labelling, especially if voluntary, while it should not be directly preferred to mandatory 
+and prior assessment, it could be already considered as an improvement compared to the current 
+situation. Labelling schemes – when co-developed with patients and clinicians – can help increase the 
+accessibility and understanding of digital health solutions, providing a straightforward means for 
+patients and clinicians to identify solutions that are trustworthy and meet their requirements. 
+Furthermore, creating a more harmonised European approach and guidelines towards 
+reimbursement and assessment of digital health should be seen as an essential building block of the 
+European Health Data Space framework. Such European approach should ensure that all patients in 
+Europe can have the same level of access to digital health services and products, while of course 
+keeping into consideration the differences between European health systems. Without such a 
+harmonised approach there is a risk of moving towards a multi-speed system that would ultimately 
+exacerbate the already existing differences in the digitalisation of health and care systems, with a 
+negative impact on patients’ lives and hampering European coordination. 
+EPF also supports the proposal for a transparent, easy to access and clear repository of digital health 
+products and services assessed according to EU guidelines to aid national bodies, both to facilitate 
+reimbursement decisions and to increase transparency towards patients. National authorities should 
+also make lists of reimbursable digital health products and services available as an additional 
+transparency measure. 
+• Efficient and coordinated use of EU funds to drive digitalisation 
+EU funds dedicated to support the adoption and scale-up of digital health services should be 
+conditional to interoperability within and across borders with EHRs and national healthcare 
+
+services. Ensuring access and control of patients over their health data, but also patients' involvement 
+in the research and innovation process, should be also considered as an essential condition to access 
+EU funds for digitalisation in healthcare. 
+Furthermore, achieving adequate acceptance of the EHDS at a patients’ level will be connected to 
+addressing well-known and underlying issues such as the access to digital means and health literacy. 
+These issues must be tackled through all relevant EU funding programmes, such as the EU4Health 
+Programme to Digital Europe and Horizon Europe, building on pre-existing pilots and ensuring efficient 
+and impactful use of funding responding to the actual needs of patients and health systems. 
+➢ ARTIFICIAL INTELLIGENCE AND THE EUROPEAN HEALTH DATA SPACE – DEPLOYING AI 
+IN THE BEST INTEREST OF THE PATIENTS 
+AI, together with big data has the potential to transform care delivery methods and can provide 
+great benefits at several levels of the healthcare value chain. However, as with any new technology, 
+there may also be unrealistic expectations. Artificial intelligence has risks, limitations and concerns 
+including ethical, technical, and legal issues, which are often closely connected. 
+AI depends on the availability of very large amounts of good/quality data. If the available data are 
+not enough, not good quality, inconsistent, or biased, this limits the potential of AI to be useful. AI also 
+has the potential to make wrong decisions; reliability and safety are particularly critical in healthcare, 
+where errors can have serious consequences. The EHDS can surely play an important role in making 
+sure that European AI solutions will be built on unbiased and good quality data. The 
+EHDS framework can facilitate AI manufacturers' access to data in a secure and compliant framework 
+in line with GDPR rules while minimising potential risks in terms of data protection. The EHDS should 
+also ensure that AI is built on good quality and unbiased data: through technical support, the EHDS 
+can ensure that data will be ‘by default’ suitable for AI purposes. 
+Furthermore, the development of AI and machine learning also creates significant ethical risks, 
+including in relation to the anonymisation and pseudonymisation of data, which poses risks to the 
+privacy of individuals (e.g. through reverse engineering of data to identify individuals). A strong 
+governance approach, that includes patient representation, should be embedded in the EHDS, 
+ensuring that ethical risks are quickly identified and managed. 
+Finally, the EHDS should indeed also serve as a supporting framework to promote a harmonised 
+approach to assess AI products and services for medicines agencies, notified bodies or other 
+competent bodies. 
+Finally, the EHDS should carefully consider the type of data use and AI, between data used for public 
+good versus commercial benefit. Collaboration within the EHDS for businesses and companies should 
+be therefore guided by criteria of value and legitimacy (e.g. through participation in EU funded 
+research, or return of results/data insights). 
+For an overview of EPF’s broader view on AI in healthcare, it is possible to consult our response to the 
+European Commission White Paper on AI. ​EPF, Response and Accompanying Paper - Public consultation on the White Paper on Artificial Intelligence, 
+(2020), https://www.eu-patient.eu/globalassets/documents/1.-ai-white-paper_consultationresponse_epf_statement-final.pdf ​  
+
+• AI and the EHDS – How to shape the new relationships between patients and 
+healthcare professionals 
+AI is already creating a new type of relationship between patients and healthcare professionals. AI 
+can be seen as a way to both facilitate healthcare professionals in delivering better care to patients 
+while, at the same time, provide patients with additional tools to have a more informed dialogue with 
+their doctors through enhanced control and monitoring of their medical condition. 
+However, this potential two-way positive new relationship comes with a series of questions related to 
+human oversight on AI decisions, limiting human autonomy and potentially even issues in terms of 
+increased social isolation and loss of the essential human component in healthcare. In EPF view, the 
+adoption of AI within healthcare should be seen as a support element, and not a replacement, to the 
+traditional way of delivering care. Professionals must have oversight of decisions, as they should be 
+informed by AI, not directly made by AI. 
+This should be supported by adequate skills development guaranteed to healthcare professionals to 
+make them able to understand, securely and efficiently exploit the potential of AI to provide more 
+efficient care to their patients. On the other hand, digital health literacy for patients also plays a 
+crucial role to enhance their trust and understanding of the role of AI in their care and to better engage 
+with it in collaboration, where possible, with healthcare professionals. 
+• AI and the EHDS – Addressing key ethical risks 
+Ethicists have identified a risk of limiting human autonomy if AI were to make a calculation on risk or 
+restrict a patient’s right to free, fully informed choice of treatment. An example would be if an AI 
+system made certain decisions based on what it “thinks” is the best for the patient. Maintaining 
+human oversight of AI-based decisions and the decisions flowing from it is thus particularly important 
+in healthcare. When discussing AI in healthcare, it will be fundamental to keep in mind the essential 
+relation between the AI systems, healthcare professionals and patients. 
+As previously mentioned, AI must be seen as a support tool to improve care delivered by healthcare 
+professionals (from diagnosis to treatment), but not as a replacement. Furthermore, AI, if used to 
+replace real human contact, may increase social isolation and additional stress. This approach should 
+clearly apply beyond clinical practice, when AI is used to inform broader delivery of services, public 
+health interventions, and policy making in the field of healthcare. 
+Biases in data also introduce ethical issues in terms of the potential for AI-enabled decisions 
+themselves to be biased or discriminatory. Biases in data collection can affect the type of patterns AI 
+will identify. This is an issue since, for example, women and ethnic minorities are often 
+underrepresented in clinical trials and large data sets used to train AI. Bias in the data will affect the 
+algorithm that is developed, replicating the bias found in society. Patients with multiple or rare 
+diseases may also be affected by this. This issue should be tackled by making sure that AI is based on 
+good quality and unbiased data. 
+Transparency is another key issue when it comes to Artificial Intelligence: as previously stated, 
+explainable and ethical AI solutions should be preferred over “black box” methodologies, with rules 
+for transparency and data governance. Clear rules, strategies, risk management and certification 
+mechanisms will also have an impact on user confidence in AI-based products and services. 
+
+EPF calls for particular attention in ensuring that AI in healthcare enhances society, and is an enabler 
+of – and not a threat to – patients’ rights and wellbeing, guaranteeing that the value of real human 
+contact is not minimised or entirely replaced by technological alternatives. 
+Finally, a crucial point related to AI in healthcare is linked to the crucial role of information for 
+patients: patients have ‘the right to be fully informed’ about the functionality, consequences, and 
+possible consequences of AI incorporation in e.g., health information, diagnosis and treatment 
+procedures, health monitoring, transactions, and interaction. As matter of prudence, responsible 
+parties (e.g., health professionals, authorities, industry) should follow the existing principles for 
+informed consent and decision making. 

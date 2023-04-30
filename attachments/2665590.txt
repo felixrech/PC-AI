@@ -1,0 +1,33 @@
+Putting startups at the heart of AI innovation - CroAI’s opinion on the European
+Commission’s Artificial Intelligence Act
+In April 2021, the European Commission (EC) published its much-awaited Artificial Intelligence
+Act (AIA), the first global attempt to establish a legal framework for a technology that, as the AIA
+states, carries both benefits and risks to humans and society. The Croatian AI Association
+(CroAI) welcomes the EC’s efforts to set its own approach to AI, as it previously did with privacy.
+However, our main concern is that the AIA does not adequately address the needs of start-ups,
+who are the main drivers of innovation.
+CroAI believes that the AIA must be an enabler of AI innovation and strongly stand behind
+startu-ps, especially during prototyping and testing while pursuing a product-market fit. We
+therefore advocate for the AIA to include unequivocal support for innovators by mandating the
+following measures:
+1.
+Startups are allowed to create their own sandboxes on a case-by-case basis rather than
+a one-size-fits all approach, due to the unique nature of each test.
+2.
+Start-ups will follow a Code of conduct. The Code of conduct will help them mitigate risks
+while testing through tools such as limiting the number of test users, human oversight,
+purchasing insurance, transparency, and accountability.
+3.
+While in their sandboxes, startups do not need to involve supervisory authorities. Still,
+they are accountable for complying with the Code of conduct.
+4.
+When leaving their sandboxes, which means that they have found a product-market fit,
+startups need to invest in fully complying with AIA rules and regulations, which will make
+much more sense at that time in a product’s development cycle.
+The principal concern founders and investors have when thinking about doing AI in Europe is
+the cost and unpredictability of complying with the AIA. They see it as an unnecessary risk and
+a burden that they can easily avoid by moving a start-up to some other innovation hub in the
+world. CroAI believes that by integrating these measures into the AIA, the EC will address most
+of those concerns and make the EU an excellent choice for AI innovation.
+CroAI is at the European Commission’s disposal to elaborate more on the reasoning behind this
+proposal and how to get it to life.

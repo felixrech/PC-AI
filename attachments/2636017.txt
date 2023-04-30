@@ -1,0 +1,241 @@
+Comments on the Commission proposal for a regulation laying down harmonized rules on 
+Artificial Intelligence (AI Act) – June 2021 
+1. Key concerns for UNI Europa regarding the draft AI regulation 
+a) Employees’ participation, social dialogue and collective bargaining 
+The regulation fails to address the crucial role that social partners and collective 
+bargaining play in the deployment of new technologies at the workplace. Participation of 
+workers’ representatives in the development, implementation and governance of AI 
+systems at the workplace is key to ensure the best protection of workers’ rights. 
+Collective bargaining is an essential tool to address technological change. It is flexible as it 
+is possible at different levels (company, sector, national) and effective to provide 
+safeguards against the negative impacts of new technologies (like algorithmic 
+management) that occur when the rules for their implementation have not been agreed 
+between employers and employees beforehand. Collective bargaining agreements can 
+establish limits to AI-enabled surveillance of workers and lay down criteria to improve the 
+transparency of decision-making process of an AI system. (A good example is the Spanish 
+social partner agreement on platforms that stipulates that algorithms impacting on 
+working conditions must be made available to trade unions and meet transparency 
+requirements.) 
+Workers are not mentioned in the proposal. Only “users” are defined as “any natural or 
+legal person using an AI system under its authority”. In a work context the user is rather 
+the employer / HR Manager/ line manager / principal / payer (in the gig-economy 
+concept), not the (possible) employee who is the possible subject of the system. The draft 
+Regulation does not provide for any information, consultation or protection for workers. 
+(Cf. rec. 47, 48 and art. 13). 
+The regulation states that stakeholders’ participation in the design and development of AI 
+and diverse teams should be “encouraged” (art. 69). Though this might apply for trade 
+unions, such a voluntary approach is not enough. We want a structural/systematic 
+involvement of unions and workers’ representatives in all stages of the design, 
+development and implementation of AI systems. 
+Governance (art. 56-59): The regulation lacks focus on general governance of AI systems, 
+as it only covers the governance for implementing the regulation. Trade unions should be 
+part of the governance of the EU AI Board to ensure a democratic process and the 
+protection of workers’ rights. The regulation only mentions “external experts and 
+observers” (art. 57.4). 
+Not only users or companies should be monitored. Also, system developers should be 
+obliged to stick to local regulations. Providing a system to customers, knowing that it is 
+illegal, with the excuse that the customer is not obliged to use it but has a choice should 
+not be possible. Instead, there should be a clear liability throughout the supply chain. If 
+someone produces or uses a system with illegal parameters, the whole chain should be 
+collectively liable. 
+
+b) AI systems used in employment (recitals 27, 36, articles 6-8, Annex III) and 
+fundamental and workers’ rights (recital 28) 
+The Commission focuses in its approach to the use of AI above all on the innovative 
+aspects of new technologies. Though we welcome the beneficial potential of AI systems, 
+we think that the general debate on AI and labour neglects the fact that AI also creates 
+low quality employment. AI systems fuel the growth of “ghost workers”, workers that 
+carry out repetitive tasks such as labelling, editing and moderating data needed in AI 
+systems. Ghost work is often characterized by low pay, stress and is uncredited. When 
+regulating AI in the area of employment, it is important to pay sufficient attention to the 
+negative impact that the use of AI driven technology has on working conditions. 
+Though the draft regulation mentions high-risk AI-systems in the field of employment, 
+workers management and access to self-employment (Article 6.2 and Annex III.4), the list 
+of applications covered is limited. The regulation only mentions systems used for 
+algorithmic management especially in HR (recruitment, selection of candidates, 
+advertising of vacancies, screening applications, interviews) and decision- making 
+(promotion and termination of employees, performance /behaviour evaluation and 
+monitoring) and for task allocation. 
+However, other AI applications with possible consequences for employees do not fall 
+under this scope. We believe that the list in Annex III is not complete as future AI systems 
+that allow for an extended algorithmic management might not be covered by the list in 
+Annex III. 
+Given the huge impact of high-risk applications (especially for surveillance) in the 
+employment area regarding health & safety and fundamental rights, we think that such a 
+limitation of the scope of high-risk applications is not sufficient. We are especially 
+concerned about high-risk applications to 
+o Infringe privacy/data protection rights as employer can access workers’ data, 
+o Allow surveillance to take place outside of company premises and outside of 
+working hours as it invades workers’ homes, 
+o Cause bias, incorrect and discriminating AI decisions due to limited data. 
+New systems currently tested and researched often combine image-based and voice 
+analysis regarding emotion recognition software, personality analysis software and lie 
+detection software. All of these are currently highly unreliable, especially in an ethnically 
+and/or culturally diverse environment. This software is not prohibited so it might end up 
+in the high-risk category, but it is unclear under which category exactly. (E.g., a Belgian 
+Bank considers the further training and development of an algorithm to ‘digitally assist’ 
+the bank employees to work more efficiently.)  
+Though it will be possible to add certain AI systems to the scope of Annex III (art. 7), this 
+can only be updated within the areas already covered. The Commission lays down criteria 
+for this assessment explicitly mentioning harm to health, impact on fundamental rights 
+and a position of imbalance of power and social economic circumstances. This is certainly 
+the case for any AI system impacting on workers given the structural power imbalances 
+between employer and employees, and also the risk to health and safety involved. Adding 
+a high-risk AI system ex post after because it has already caused harm, is too late. Instead, 
+the precautionary principle should be applied and any AI system that is intended for 
+implementation at work should be classified as high-risk. 
+
+Regulatory sandboxes (art. 53): should not be allowed for AI systems that are 
+implemented at the workplace. Sandboxes should provide a possibility for a deeper 
+understanding of the socio-technical nature of the development process. AI research and 
+innovation requires a more interdisciplinary approach to cover social issues and potential 
+hazards that could occur when systems are applied. The focus of innovation should be on 
+developing tools that gain transparency into the AI systems and understand their 
+behaviour in novel situations ahead of time. 
+c) Conformity assessment & third-party supervision of high-risk AI (rec. 78, art. 19, art. 
+43, Annex III, art. 4 & Annex VI): 
+The regulation provides for conformity assessments for high-risk AI that should be done 
+via self-assessment of the provider (Annex III, art 4). 
+The process of internal control combined with a post-market monitoring system for highrisk applications and reporting systems to be established by providers is inadequate given 
+the risks for health & safety and the fundamental rights of people. There is too much 
+reliance on industry that it can self-assess the risks. Instead, conformity assessments for 
+all high-risk applications should be done via an independent notified body/third party. 
+(Example from Norway: Government has put AI monitoring not to the Data Inspectorate 
+but to the auditor general, meaning that it will only be addressing public services and 
+leaving a gap for supervision of services run by private enterprises whether it is for private 
+enterprises or the public sector. That gap should not exist.) 
+Third-party supervisors should not be private companies but an independent public body 
+addressing all implementations of AI – not only high-risk. 
+There is the question of a user organisation downgrading their AI implementation from 
+high-risk to a lower level, there should be mechanisms and a trustworthy body to address 
+that 
+Discrimination and associated bias to the outcomes of the high-risk AI systems that are 
+not assessed by an independent body and left to self-evaluation. There should be 
+financial support for SMEs to enable this kind of assessment for these companies, too. 
+d) Transparency and human oversight 
+Transparency: More transparency is needed for AI systems impacting on workers. So 
+far, the regulation only mentions transparency requirements to support “users” of AI 
+(rec. 47, art. 13) and it only refers to a “certain degree” oft transparency for high-risk 
+applications. This is insufficient and the regulation should oblige employers to ensure 
+that workers are aware of the AI systems at the workplace, including their impact on 
+data, digital footprint and work organisation (“AI literacy”). This is where social 
+dialogue between trade unions and employers plays an essential role. 
+Human oversight (rec. 48, art. 14): The responsibility for false decisions made by an AI 
+system cannot be shouldered alone by an individual engineer or AI system developer. 
+Especially when systems are subject to a self-assessment procedure, the individual 
+developer might be blamed for the deployment of the system, rather than the 
+organisational setting within which the developer operates. Responsibility should be 
+distributed across the process and its stakeholders. This requires a no-blame culture, 
+where taking responsibility includes providing space for empowering and training the 
+
+workforce to ensure human oversight, especially when “the output of the high-risk AI 
+system” is a part of the responsibility. Nothing mentioned in the regulation about 
+special training for those operating these systems or to counteract if necessary. 
+No specification of any right to contest an algorithmic decision and obtain human 
+oversight or provision for remedies when something goes wrong. There should be an 
+effective appeal procedure and remedies enabling individuals to address the AI 
+behaviour and decisions citizens find potentially harmful and illegal. 
+Ethics: The regulation addresses and limits certain uses of AI, which is positive. 
+However, ethics should have a stronger visibility in the regulation. 
+2. Our demands concerning the draft AI regulation: 
+a) Employees' participation, social dialogue and collective bargaining 
+Trade unions and workers’ representatives must be key actors in developing and 
+implementing AI systems. The regulation should acknowledge the importance of social 
+dialogue and collective bargaining for AI systems used in the field of employment, but 
+also in general as regards the implementation of new technologies in the workplace. 
+(Example from Norway: Agreement with Negotia regulating employees’ involvement 
+with important wording regarding AI.) 
+When AI systems are implemented in the workplace, trade union/workers’ 
+representatives need to be involved in the process. Employees’ rights to information, 
+consultation and participation (according to existing legal frameworks) must be 
+respected and should be part of the mandatory compliance obligations. This is the only 
+way to anticipate the impact on the quality of work, working conditions or dismissals 
+due to automation. 
+The regulation needs to ensure the right to workers’ involvement, protection of 
+collective bargaining and national legislation providing for better safeguards and 
+collecting bargaining should not be undermined or overruled by EU regulation. National 
+legislation regarding tech-enabled surveillance is often subject to trade union 
+involvement/social dialogue. It is not the case for this EU regulation. Could be used to 
+introduce only minimum standards for workers’ protection. EU regulation must not 
+override national laws that provide more protection and safeguards for workers as this 
+could lead to deregulation of labour and industrial relations (e.g. the new Spanish law 
+on algorithmic transparency or the German co-decision model). 
+Trade unions should be part of the governance of the EU AI Board. 
+Third-party supervisors should not be private companies but an independent public 
+body addressing all implementations of AI – not only high-risk. 
+Responsibility for decision made by AI systems should be distributed across the process 
+and its stakeholders (do not blame the developer alone). 
+There should be a revision of the different EU legislations, including EU labour law, as 
+regards human oversight (providing labour tax incentives for investment in human 
+capital -lifelong learning and new skills), health and safety both in terms of working with 
+the machines and being exposed to stress due to tracking and surveillance, working 
+conditions and social protection, etc. 
+
+b) Worker Data and Surveillance & monitoring of workers 
+The exemption for the use of “real-time” remote biometric identification systems in 
+public spaces by public authorities (art.5.3.) is controversial. How are public spaces 
+defined as this could lead to mass surveillance when the provision allows deploying such 
+systems without an authorisation “in a duly justified situation of urgency”. This is a threat 
+to fundamental and universal rights and freedoms, including one’s right to privacy, as 
+such systems process biometric data in mass, generally without consent, and therefore 
+should be forbidden. 
+Any AI system (and the data selected to feed the system) in the field of employment and 
+that impacts on workers or working conditions, needs to be categorised as high-risk. They 
+should be subject to a third-party impact assessment by competent authorities with the 
+involvement of trade unions. 
+It is vital for workers’ rights that biometric identification and monitoring of workers 
+should not be allowed. Employers should not use biometric identification like face 
+recognition for tracking and controlling employees, whether the workplace is publicly 
+accessible or not. The data analysed by these tools does not say anything about how 
+motivated or productive a person will be at work. Especially in the context of HR, AI 
+systems are not used to identify a person but to make presumptions and for categorizing 
+employees. A Ban of harmful surveillance practices (neuro-surveillance) is necessary. 
+With regard to surveillance, we have the following demands: 
+o No monitoring of workers in the home environment through cameras. 
+o No permanent monitoring through cameras or other means, except when contributing 
+to increased occupational safety and health in physically dangerous work 
+o Strong regulation on software spies reporting constantly on the employees’ activities 
+(like Nexthink) 
+o All technical information of AI tools used to be given to trade union representatives. 
+o Workers to be clearly told how AI is measuring and assessing them. 
+o Raw data should be given to trade union representatives. This means assessment 
+outcomes and measures divided by gender, age, ethnicity, regional accents etc, to 
+check for bias in a transparent way. 
+o Negotiation with trade union representatives of the rate of output to hours worked 
+matrix. For example, “average handling time” in contact centres, Amazon warehouse 
+workers etc. 
+Workers’ Data: The regulation should improve workers’ data rights, e.g. access to data, 
+redress possibility. GDPR art. 88 mentions the role of collective agreements regarding 
+data processing for recruitment & management to safeguard workers’ & fundamental 
+rights. The implementation of the GDPR provisions at the workplace requires the 
+involvement of social partners. 
+ Issues like the right to privacy, information, transparency of and access to data should be 
+covered by comprehensive legislation and, in addition, dealt with by collective bargaining. 
+Regulation must ensure that the limitation on where data can be stored as set forth in the 
+GDPR regulations is enforced even when data is to be transported to or processed by AI 
+engines. 
+Collective bargaining is crucial to negotiate about the use of monitoring or surveillance 
+technologies at work. It is important to address the collective data rights for workers, not 
+
+only individual rights and access to data. The regulation must be respecting labour rights 
+and data rights at national level and should be an addition, not a substitution, of cogovernance models respecting social relations and dialogue. 
+Regulatory sandboxes should not be allowed for AI systems that are implemented at the 
+workplace. 
+We need an effective appeal procedure and remedies enabling individuals to address 
+harmful or incorrect decisions made by AI. 
+c) Skills and training/employability of workers 
+Training and upskilling regarding AI based systems is essential to provide employees with 
+the necessary skills when AI systems are implemented and to ensure that employees have 
+a basic understanding of how an AI system works or decides. Besides digital literacy, 
+employees also need to understand how an AI system could possibly impact on their 
+working conditions, health and safety and other relevant areas. 
+Collective bargaining is the best way to identifying the training needs in the specific 
+company context. 
+To raise awareness about the ethical aspects of AI and to promote ethical and 
+trustworthy AI, it is important to integrate ethics in training for engineers and to promote 
+a more interdisciplinary approach for R & D. There should be a special training for those 
+operating AI systems or to counteract if necessary. 
+We need diversity of skills and competences, not reduced to STEM related upskilling. 
+With an increase of the use of AI systems, typical “human” skills like empathy or creativity 
+become even more important and should be promoted. Investment in training should not 
+be exclusive but address the career paths of workers across job categories. 

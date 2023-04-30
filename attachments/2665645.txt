@@ -1,0 +1,52 @@
+August 6, 2021 
+APCIA Response to European Commission Proposed AI Regulation 
+The American Property Casualty Insurance Association (APCIA) appreciates the opportunity to 
+provide comments on the European Commission’s (Commission) proposed artificial intelligence 
+Regulation (proposed Regulation). 
+APCIA is a United States trade association representing property and casualty insurers doing 
+business locally, nationally, and globally. Representing nearly 60 percent of the U.S. property 
+casualty insurance market, APCIA promotes and protects the viability of private competition for 
+the benefit of consumers and insurers. 
+While the proposed Regulation does not include provisions specifically targeting the insurance 
+sector, it nevertheless could impact the application of Artificial Intelligence (AI) systems in the 
+insurance sector. The proposed Regulation would grant the right to the Commission to classify 
+further AI uses as high-risk AI systems. In addition, European Insurance and Occupational 
+Pensions Authority (EIOPA) is trying to understand the potential consequences of the 
+Regulations’ provisions from the perspective of the insurance industry and, in the future, could 
+put forward insurance-specific supervisory initiatives as an add-on to the proposed Regulation. 
+Lastly, the proposed Regulation specifically calls for development of and deference to sectoral 
+regulatory frameworks, so the sector will be focusing on insurance-specific regulations. As such, 
+APCIA has a significant interest in the development of this proposed Regulation, and we look 
+forward to continued dialogue with the Commission. 
+Fundamentally, AI has great potential to augment human judgment, improve decision making, 
+and enhance the customer experience. These consumer benefits combined with the evolving 
+nature of AI emphasize why it is so important that the Commission not establish requirements 
+and obligations that are prescriptive and that will stifle rather than foster innovation. 
+Additionally, promoting an innovative private market is also recognizing that owners of AI tools 
+have the right to protect the intellectual property they have expended. Further, promoting an 
+ecosystem of excellence depends on public private collaboration and global consistency in 
+workable regulatory approaches. Finally, AI is a tool or model with many of the same challenges 
+and issues that existing risk-based regulatory frameworks are designed to address and at a 
+fundamental level we are concerned there may still be some ambiguity and overlap in existing 
+regulatory regimes. 
+Based on the foundational observations above, APCIA offers the following initial high-level 
+concerns: 
+
+• As proposed the definition of AI is broad and could capture traditional tools that are not 
+AI. For instance, the definition should not include statistical methods. Respectfully, the 
+Commission should develop a more narrow and meaningful definition. 
+• APCIA supports the risk-based approach to addressing AI; however, APCIA would 
+encourage additional clarity in how the risk-based approach operates without being 
+prescriptive. For instance, risk categorization falls in four tiers (unacceptable risk, high 
+risk, low risk, minimal risk). These might turn ambiguous at some point and what may not 
+be “high-risk” today could be considered “high-risk” in the future creating compliance 
+challenges for companies. The list should be future-proof and only encompass those AI 
+systems that are truly high-risk. 
+• The proposed Regulation should provide more clarity around whether the provisions 
+apply to providers or users. 
+• Consistency in application is just as important as workable standards. AI tools will be 
+deployed across jurisdictional boundaries and, as such, there should be coordination 
+among EU supervisory bodies as to the interpretation and implementation of this rule. 
+The above includes some high-level concerns of a very robust proposal. APCIA appreciates the 
+opportunity to provide comment to-date and looks forward to future engagement and feedback 
+on this proposed Regulation. 

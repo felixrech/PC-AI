@@ -1,0 +1,70 @@
+EuroGeographics feedback on EU 
+Artificial Intelligence Act proposal 
+Ref no.2021-00037.LT 
+TR 51080067776-74 
+Brussels, 2021 
+Key points: 
+Legal certainty, risk assessment levels, regulated use, and concept of trust by increasing 
+the trust for EU made AI products are the main benefits of the proposal from 
+Eurogeographics members’ point of view. 
+The coherence of this Regulation proposal with the Commission’s overall digital and data 
+strategy is very much appreciated. 
+EuroGeographics members’ authoritative data, high quality datasets, are back bones to 
+many of the critical infrastructures as defined in the proposed Regulation. 
+This Regulation represents a good start for regulated development and deployment of AI 
+systems within geo spatial community. 
+We understand that the Commission intends to revise the Liability legal framework by 
+taking into account innovative technologies including AI, and we will be reviewing these 
+with a specific interest. 
+EuroGeographics is an independent international not-for-profit organisation representing Europe’s 
+National Mapping, Cadastral and Land Registration Authorities (NMCAs). We are a passionate 
+advocate for European geospatial data from official trusted sources, in particular when it is 
+harmonised to standard specifications. We are providers of a range of products and services and 
+expertise which supports navigation, automated vehicles management, emergency response, a 
+reliable and secure land and property market, fiscal and many more government and business 
+decisions and services. 
+NMCAs developments of AI systems is still very much at proof-of-concept stage. However, our sector 
+has proved its ability to embrace new technologies and we reckon that what is new now will certainly 
+go mainstream soon. 
+
+At this stage, EuroGeograpphics members are both, AI users and providers of data that are very widely 
+feeding AI services and business. AI is used for processing geospatial information, in particular for 
+increasing the efficiency of their quality assurance and management – the calling card of NMCA data. 
+For example, some of our members have been combining high-resolution elevation analysis with deep 
+learning techniques, to provide policy-makers with vital information for the transition to solar energy, 
+exploring how to use AI for a wide range of activities including land cover mapping and the creation 
+of 3D data is high on the agenda. 
+Furthermore, our members have fully embraced the European strategy for data, and they already 
+contribute substantially to make it a success story. The crucial contribution is primarily by 
+implementing the Open data and PSI directive, which will establish trusted mechanisms and services 
+for the re-use, sharing and pooling of data that are essential for the development of data-driven AI 
+models of high quality. 
+The Regulation proposal confirms that some areas of AI deployment will fall under existing legislation 
+and will be fully coherent with the Commission’s overall digital strategy. This is a strong stir for our 
+members, since the stable governance principles and data protection established thereof, encourages 
+our members to create and test high–risk AI systems, for example in the transport field. This possibility 
+will provide many opportunities for NMCAs to contribute to the digital single market. The 
+development of programmes, research, projects, or support, that will allow the growing of the 
+diffusion of AI within our member organizations, will be highly welcomed. 
+We are aware that this Regulation applies to providers placing on the market or putting into service 
+AI systems and we are not there yet. Nevertheless, our members' authoritative data, high quality 
+datasets, are back bones to many of the critical infrastructures as defined in the proposed Regulation. 
+In recent years, we have seen an explosion in location-based AI systems. Some of our members are 
+already in the testing phase of geospatial data-based AI applications, and this regulatory framework 
+is the supportive direction for that, which is considered a good start. 
+The Regulation proposal has positively raised awareness of AI and is intended to balance very sensitive 
+issues such as fundamental rights, public safety, and innovation. It is highly desirable to have 
+definitions in a flexible manner, not to hamper innovations. 
+Legal certainty, risk assessment levels, regulated use, and concept of trust by increasing the trust for 
+EU made AI products are the main benefits of the proposal from Eurogeographics members’ point of 
+view. 
+We express our interest in further development of this legal debate. If you need any further 
+clarifications, please do not hesitate to contact: lea.bodossian@eurogeographics.org 
+Léa Bodossian 
+Secretary General & Executive Director 
+w. www.eurogeographics.org 
+e. lea.bodossian@eurogeographics.org 
+m. + 32 485 68 79 05 
+EuroGeographics Head Office 
+Rue du Nord 76/Noordstraat 76 
+1000 Brussels, BELGIUM 

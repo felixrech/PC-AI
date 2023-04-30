@@ -1,0 +1,79 @@
+1 of 2 
+Merck KGaA contribution to the Public Consultation on the European Commission’s 
+proposed regulation of Artificial Intelligence (“AI Act”) 
+First of all, we would like to thank the EU Commission for the opportunity to participate and 
+discuss this important act and commend the effort to draft regulation on such a complex and 
+multi-faceted topic. 
+AI has a huge potential to solve today and future challenges. We welcome Europe taking this 
+important step to develop regulatory certainty, which is essential to foster innovation and advance 
+Europe’s competitive position. In addition to managing the risks of AIs, the broader approach of 
+the EU should also create a positive AI innovation ecosystem and contribute to public acceptance. 
+It is an important signal if governments also adopt and employ AI systems, bringing real-world 
+experience and allowing the exchange of best practices. Furthermore, governments should fund 
+critical research and public-private partnerships, invest in workforce development and 
+infrastructure. 
+Public acceptance requires trust in the technology, the producers, and the data. One can gain 
+trust through proven ethical behavior based on ethical standards and proven adherence to them 
+in a self-regulating approach. When Merck initiated AI projects, these ethical principles needed 
+to be defined first, and we launched a scientific project which resulted in a set of principles for 
+responsible use of data & algorithms/AI [1]. Based on our long experience in operationalizing 
+bioethical standards, we set an early benchmark by implementing this in our development 
+processes and have gained recognition by the public & private sectors. 
+Taking a risk-based approach to AI is indispensable, and we welcome that the EU Commission 
+has embraced this concept. It is in line with our experiences of applying AI in areas subject to 
+compliance and regulation [2,3,4,5]. We hope that the concept of self-governance and 
+accountability will be further strengthened. The development of AI is a continuous process of 
+piloting, reassessing, and improving. Constant self-assessment can govern the development very 
+well, instead of a rigid ex-ante 3rd-party approval, which would come potentially in addition to 
+existing ex-ante-assessments, such as software as a medical device. Self-assessment will also 
+avoid additional competition on talents between developers and approval bodies, jeopardizing 
+innovation power. To operationalize this approach, the regulator must proactively accompany 
+standardization activities. 
+Ultimately, providers with proven best practices, such as companies with independent advisory 
+panels, digital ethics codes, could have better ways to show compliance and get faster to market, 
+reducing administrative burden. 
+We encourage the EU to consider alignment with key international partners. Regulatory 
+cooperation can avoid unnecessary barriers to collaboration and innovation, e.g., around crossborder data exchange. An even regulatory playing field will prevent companies and start-ups from 
+developing AI systems in more favorable markets and coming to Europe only in a second moment 
+after customers validation. 
+Regulatory certainty is imperative for companies. While the draft AI Act sets the frame well, some 
+aspects remain open to interpretation. Requirements and definitions need to avoid generalization, 
+
+2 of 2 
+abstract terms, or variables that depend on subjective interpretation. To name a few examples: 
+the definition of AI in Annex I seems to be extremely broad. Restrictions such as “free of errors” 
+in a dataset seem unnecessary and, in some cases, impossible to fulfill (Title III, Chapter 2, Article 
+10). The quality of the AI has to be assessed on the final outcome since even a perfect data set 
+does not guarantee perfect algorithmic outcomes. In terms of logging, some aspects remain 
+ambiguous and/or unclear on how to implement. For example, the term “Reference database” 
+may not be applicable for many systems (Title III, Chapter 2, Article 12). Additionally, the 
+attributes required for the log need careful consideration in order to follow the principle of data 
+minimization and avoid records subject to data privacy regulation in the general log data. When 
+considering high-risk, the act points towards the annex list, which brings additional uncertainty 
+that the annex could change constantly. Predictability is crucial to direct medium and long-term 
+investments. 
+Moreover, in regulated markets, it is essential to avoid uncertainty by duplicating the regulatory 
+authority. Regulations for AI applications in the area of medical devices or in-vitro diagnostic 
+tools, for example, should be integrated into those existing frameworks and rely on wellestablished authorities. 
+Lastly, since use cases are the basis of the risk assessment, strong AI may not fall under the 
+regulation. Therefore, even though there is still a considerable way to reach strong AI, it would 
+be relevant to have harmonized rules that are more futureproof and ready for the next pipeline 
+of breakthroughs. 
+We are happy to exchange more deeply on the aspects outlined above and share our experiences 
+on AI applications and compliance with ethical standards. 
+Sources 
+[1] Merck Code of Digital Ethics 
+https://www.merckgroup.com/company/responsibility/us/products-businesses/CoDE-Code_of_Digital_Ethics.pdf 
+[2] Mrowiec et al. (2020); Digital pathology to evaluate PD-L1 IHC scoring as a predictor of outcome with second-line 
+avelumab treatment in patients with non-small cell lung cancer (NSCLC); Journal of Clinical Oncology; Vol. 38; No. 15 
+https://ascopubs.org/doi/abs/10.1200/JCO.2020.38.15_suppl.e21539 
+[3] Schlaps et al. (2020); Automation of Unstructured Data Transformation for Regulatory and Identification of Medicinal 
+Products - Text Mining for Merck Pharma Regulatory Intelligence; Die Pharmazeutische Industrie; Vol. 82; P. 1354 
+https://www.ecv.de/beitrag/pharmind/Automation_of_Unstructured_Data_Transformation_for_Regulatory_and_Identifi
+cation_of_Medicinal_Products 
+[4] Gurulingappa et al. (2020); Text mining for regulatory intelligence: taking an automated approach; Regulatory 
+Rapporteur; Vol. 17; No. 11; P. 25 
+https://www.topra.org/TOPRA_Member/TOPRA/TOPRA_Member/REGRAP/Public/Regulatory_Rapporteur_Issue_Summar
+y.aspx?DocumentKey=3C841163-C8FE-466C-9C7E-30724D1EE2D6 
+[5] AI in Drug Discovery 
+https://www.emdgroup.com/en/research/science-space/envisioning-tomorrow/precision-medicine/generativeai.html 

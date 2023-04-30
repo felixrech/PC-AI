@@ -1,0 +1,160 @@
+Moje Państwo Foundation
+25/31 Nowogrodzka Street
+00-511 Warsaw, Poland
+Transparency Register no.: 020222326905-75
+Remarks of Moje Państwo Foundation
+on the European Commission’s Proposal for a Regulation Laying
+Down Harmonised Rules on Artificial Intelligence
+(Artificial Intelligence Act) 2021/0106(COD)
+Warsaw, 6th August, 2021
+
+I. Introduction
+Moje
+Państwo
+Foundation
+(“Foundation”)
+is
+an
+organization
+working
+for
+the
+development of democracy, open and transparent public authority and civic engagement.
+By exercising the right of access to public information and the right to re-use public
+sector information, the Foundation collects publicly available data sets and makes them
+available to citizens through the Foundation's services.
+Due to the fact that the context of the consultations run by the European Commission
+from 26th April to 6th August 2021 are related to many relevant aspects for the
+Foundation’s activity, we present our position in regards to the Proposal for a Regulation
+Laying Down Harmonised Rules on Artificial Intelligence (Artificial Intelligence Act) (“the
+AI Act” or “the European Commission’s Proposal”) below – with particular emphasis
+on the use of artificial intelligence systems (“AI systems”) by public institutions.
+II. General remarks
+We appreciate the work of the European Commission undertaken to create a regulation
+aims
+ensure that artificial intelligence is safe, lawful and in line with EU
+fundamental
+rights.
+The
+European
+Commission’s
+Proposal
+contains
+many
+valuable
+solutions creating a legal framework for artificial intelligence.
+From the perspective of our Foundation, the AI Act should – to a greater extent
+– ensure transparency of the public sector in relation to the use of artificial
+intelligence systems.
+AI systems can be used by public institutions in many key areas, such as, for example,
+health protection, education, social services, the judiciary and the economy. As a
+consequence, these systems can have a very broad and varied impact and can affect
+many different social groups, including those particularly vulnerable to discrimination.
+The use of AI systems by the state in many situations may lead to shaping the scope of
+rights and obligations of citizens by these systems.
+The European Commission’s Proposal presupposes measures to regulate the use of AI
+systems in relation to public authorities - for example, the proposal prohibits AI-based
+social scoring for general purposes done by public authorities; the use of ‘real time’
+remote biometric identification systems in publicly accessible spaces for the purpose of
+law enforcement is also prohibited unless certain limited exceptions apply; Annex III
+
+High-Risk AI Systems referred to in article 6(2) points out that many high-risk artificial
+intelligence systems which are listed in specific areas, are listed in areas of state
+operation.
+The preamble to the European Commission’s Proposal (point 40) states that: “Certain AI
+systems intended for the administration of justice and democratic processes should be
+classified as high-risk, considering their potentially significant impact on democracy, rule
+of law, individual freedoms as well as the right to an effective remedy and to a fair trial.
+In particular, to address the risks of potential biases, errors and opacity, it is appropriate
+to qualify as high-risk AI systems intended to assist judicial authorities in researching
+and interpreting facts and the law and in applying the law to a concrete set of facts.
+Such
+qualification should not extend, however, to AI systems intended for purely
+ancillary administrative activities that do not affect the actual administration of justice in
+individual cases, such as pseudonymisation of judicial decisions, documents or data,
+communication between anonymisation or personnel, administrative tasks or allocation
+of resources.”
+The Foundation points out that there may be a situation where the AI system –
+seemingly intended for ancillary administrative activities – will actually have an impact
+on the exercise of public authority (e.g. in the administration of justice), including the
+direct situation of citizens. A misinterpretation in determining whether a given AI system
+is a high-risk system or not, in particular when this system is used by public authorities,
+may have a wide range of negative consequences for citizens, due to the lower degree of
+transparency in the operation of such a system. Due to the fact that most of the AI
+systems used by public institutions will have a potentially significant impact on shaping
+the rights or obligations of citizens, we postulate that in the European Commission's
+Proposal the measures controlling the use and implementation of artificial intelligence by
+public authorities should be strengthened.
+We
+propose
+all
+systems
+based
+on
+artificial
+intelligence,
+which
+are
+implemented in public institutions, should be properly subject to the obligations
+provided for in the European Commission's Proposal for high risk AI systems.
+We believe that all AI-based systems that are implemented in public institutions can
+potentially affect the rights and obligations of citizens. Not all of these AI systems will
+appear to be high-risk, but most of them will have the potential to have a broad and
+deep impact on society, including possible undesirable effects.
+
+We enthusiastically embrace the concept of establishing an EU database for stand-alone
+high-risk AI systems (“EU Database”) (art. 60). We have been supporting this idea
+since it appeared in WHITE PAPER On Artificial Intelligence - A European approach to
+excellence and trust, which was subject to public consultation. We recommended this
+solution in 2019 in the Foundation’s report: “alGOVrithm. The State of Play” on the use
+of algorithms and systems based on Automatic Decision Making in state-citizen relations.
+The Foundation proposed then the creation of an appropriate governmental body or
+equipping the existing one with additional competences in the area of supervision of the
+development, implementation and use of automatic decision-making.
+Pursuant to art. 60 of the European Commission's Proposal: “The Commission shall, in
+collaboration with the Member States, set up and maintain a EU database containing
+information referred to in paragraph 2 concerning high-risk AI systems referred to in
+Article 6(2) which are registered in accordance with Article 51.”
+The EU Database is to include only those AI systems that qualify as high-risk AI systems,
+which means that some of the systems will operate outside the EU Database. We
+appreciate that Annex III listing high-risk AI systems is quite broad in scope, but does
+not cover all systems that may be used by the public sector and that may have a
+negative impact on fundamental rights. This applies, for example, to systems that
+allocate judges or officials to specific court cases.
+We
+would
+also
+like
+point
+out
+the
+EU
+Database
+will
+be
+established
+and
+administered by the European Commission, while information about the systems will be
+posted there by their suppliers, not by competent officials. The Foundation sees the risk
+in the mechanism that allows suppliers to self-assess, especially in high-risk systems. At
+the same time, we strongly support the idea that the information contained in the EU
+Database is publicly available.
+In 2019, we recommended creating a publicly available database (at the
+national level) containing all AI-based systems used by state institutions. We
+are reiterating this recommendation because we believe that any use of the AI
+system in the public sector may have an impact on the situation of citizens and
+as such may generate a high risk for their rights and obligations. A database
+should contain at least: basic information about the AI system along with an indication of
+the public sector entity using the system and the contact information of this entity. Such
+a database would allow interested citizens to obtain information that a given public
+institution uses AI-based solutions in the performance of its tasks, and in the next stage
+
+verify
+whether the AI systems comply with the requirements contained in the
+European Commission’s Proposal.
+III.
+The European Commission’s Proposal will have its impact not only on the EU and its
+Member States but also on other countries and will shape the rights of citizens in the
+context of the use of artificial intelligence for decades. Due to this fact, we consider it
+extremely important to ensure proper regulation of issues related to AI systems used in
+any way by public institutions.

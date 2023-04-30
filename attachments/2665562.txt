@@ -1,0 +1,428 @@
+05 August 2021
+Input to the Commission Adoption Feedback on
+the Proposal for a Regulation Laying Down
+Harmonised Rules on Artificial Intelligence
+Artificial Intelligence Act)
+Openness, harmonised standards and clarity as a
+way forward to European AI innovation and trust
+Strong support of the regulatory approach taken
+OpenForum Europe (OFE welcomes the European Commission’s draft for the EU
+Regulation on AI and appreciates the opportunity to provide a response and with it
+highlight some points and possible issues. With this response we build on previous
+submissions by OFE, in particular the one provided in relation to the White Paper on
+Artificial Intelligence in June 2020, but also on the European standardisation strategy.
+Our input to this consultation is focused on our specific areas of expertise, which
+include Open Standards and Open Source. We strongly believe that openness can help
+achieve the twin objective of promoting the uptake of AI and of addressing the risks
+associated with certain uses of this new technology.
+OFE supports the regulatory approach taken by the European Commission with a clear
+focus on high-risk areas and with proposing processes that are largely modelled on
+the European New Legislative Framework (NLF. We believe that the focus on high-risk
+areas provides for clarity in the marketplace, allows for differentiation of application
+scenarios and for the right focus of regulation of AI technologies. It builds on a
+risk-based approach which is the foundation for bringing innovative and trusted AI to
+the market and which is also already addressed in international standardisation
+activities - such as ISO/IEC JTC 1/SC 42.
+Building on standards as the key path for achieving and demonstrating compliance is a
+highly successful and efficient way for bringing safe and trusted technologies to the
+single European market. OFE supports this path to address the novel regulatory
+challenge AI is posing. At the same time we understand that with AI being the subject
+of such new regulation modelled largely according to the NLF  which deals with
+physical/tangible products put on the European market - everyone involved enters a
+new regulatory terrain / learning curve and thus an inclusive and fact-based
+collaboration is critical. OFE is ready to support this journey based on our
+organisation’s expertise in open processes and our ecosystem which include a number
+
+of the leading global providers of AI technologies as well as pioneering open source
+software practitioners.
+Definition may be misinterpreted and should be clarified
+The definition of AI as currently laid down in Article 3 and Annex I may be
+misinterpreted, both in terms of breadth and depth. OFE understands that
+misinterpretation of such a definition is not intended by the European Commission.
+However, we believe that some clarification and improvement to the definition is
+important to avoid uncertainties in the market place and thus support a seamless
+implementation of the future regulation.
+The current text states that “AI system means software that is developed with one or
+more of the techniques and approaches listed in Annex I … ”; Annex I (c) lists
+“Statistical approaches”. In this broad combination, even the use of some simple
+spreadsheet when developing software might qualify the software as an “AI system” in
+the sense of this definition. Narrowing the definition and listed techniques to exclude
+software systems that are not commonly understood as AI will provide greater
+certainty to the software ecosystem.
+The current definition can also be misinterpreted in depth: to include AI system
+sub-components and precursors. In particular, the definition as written could be
+interpreted to include AI-related software code, including pre-trained models, that are
+not fully AI systems. Although a pre-trained model is software that is commonly
+developed with techniques listed in Annex I and can yield an output from an input, if
+prompted using additional code, it does not constitute an AI system because it cannot
+interact with its environment unaided.
+Below OFE offers a proposal for an amendment to the definition of AI systems essentially adding two characteristics for AI systems which we believe should make
+the definition clear.
+Text in draft regulation
+Amendments proposed by OFE
+‘artificial intelligence system’ AI system)
+means software that is developed with
+one
+or more of the techniques and
+approaches listed in Annex I and can, for
+a given set of
+human-defined objectives, generate
+outputs such as content, predictions,
+recommendations, or decisions
+influencing the environments they
+‘artificial intelligence system’ AI system)
+means software that is developed with
+one or more of the techniques and
+approaches listed in Annex I and
+(a) Demonstrates intelligence in
+particular the ability to learn and
+adapt,
+
+interact with;
+(b) For a given set of human-defined
+objectives, generate outputs such
+as content, predictions,
+recommendations, or decisions
+(c) Must be based on a rule base or
+model,
+(d) Influences the environment that it
+interacts with;
+OFE is ready to further discuss and work on improvements. We would like to
+encourage the European Commission to support some amendments - for instance in
+the form as proposed by OFE  in the context of the co-regulation process and the
+discussions with Parliament and Council.
+Scope should be clarified for open source developers
+Open source developers should be free from provider obligations unless they provide a
+fully functioning AI system for placing on the EU market. OFE believes that the
+proposal is not intended to hamper open source developments, communities and open
+source code hosting platforms in the sphere of AI systems; however, we suggest it be
+clarified.
+When an open source developer collaborates with fellow developers under established
+OSI/FSF licensing on AI-related code, such developers should be free of obligations
+under the regulation unless they place a fully functioning AI system on the EU market.
+Uncertainty of possible obligations and liabilities could have a chilling effect on
+innovation, particularly among European developers who are collaborating and sharing
+ideas related to potentially break-through research and collaboration. Insofar as the
+EU AI Act intends to support EU innovation, the Commission should clarify that sharing
+open source AI code, proof of concept AI research, or simply experimenting with AI
+models should be expressly excluded from the regulation. We suggest three changes
+to clarify this scope:
+First, the proposal’s recital 16 demonstrates the intention that the AI Act should
+not curtail “Research for legitimate purposes” on certain high-risk AI systems “if
+such research does not amount to use of the AI system in human-machine
+relations….” However, the definition by reference of “provider”--as a natural
+person that develops an AI system “with a view to placing it on the market”,
+defined as “first making available” on the market, defined as “supply of an AI
+system for distribution or use on the Union market in the course of a
+commercial activity, whether in return for payment or free of charge”--may be
+
+interpreted to include developers who are openly sharing AI-related code.
+Clarification is warranted to ensure that sharing of AI-related code for research
+and development purposes is out of scope.
+Second, open source gives end-users the freedom to use, inspect, distribute,
+and modify software. When an AI system is made available under OSI/FSF
+licenses, end-users are empowered to alter the system for their purposes. In
+the limited cases where AI systems are available open source,
+provider-obligations should be placed on the end-user, who is empowered to
+inspect, retrain, and deploy the system. In effect, this alteration would
+incentivize the production of open source AI systems in the EU market,
+conferring a strategic advantage in AI development that aligns with European
+values.
+Third, developers’ ability to collaborate openly on a wide range of
+software-developing and sharing platforms may also be inadvertently impacted
+by this regulation. If such platforms are understood as “distributors” they would
+need to ensure that AI systems built openly on their platform are compliant.
+Similar to the EU Copyright Directive, a carve out from “distributor” obligations
+for code-hosting platforms could help open source developers, ensuring that
+their access to source code and ability to share and co-create their AI-related
+code are preserved.
+The principles above are also applicable to other types of tools and platforms. The
+Commission should clarify the Proposal’s scope so as to not inadvertently include
+software developers in the regulation which is targeted at AI systems deployed in the
+EU, their providers, and their professional users.
+Support for the approach with harmonised standards
+OFE strongly supports the approach laid down in Article 40 to rely on harmonised
+standards for demonstrating compliance and operate under the presumption of
+conformity. With the draft Regulation thus being modelled according to the processes
+of the New Legislative Framework it builds on the well established and well proven
+framework for technical regulation in Europe.
+With the CENCENELEC JTC 21 the infrastructure for the development of harmonised
+standards in Europe is available which will allow an early and fast support of the
+regulatory needs. CENCENELEC JTC 21 also establishes close linkages to
+international standardisation, in particular ISO/IEC JTC 1 SC 42, where a number of
+highly relevant international standards are developed - some of them already available
+- on topics that have relevance in the context of the proposed AI regulation. This
+
+includes standardisation on governance of AI systems, transparency, trustworthiness
+and explainability.
+A major strength of the European standardisation system has been its close linkage to
+international standardisation including the possibility to adopt international standards
+as European standards and the possibility of co-development. OFE would like to
+encourage the European Commission to promote a close linkage with international
+standardisation and the adoption and use of international standards whenever
+possible.
+Regarding the standardisation requests for the development of harmonised standards
+OFE would like to recommend the following considerations:
+1. Standardisation requests should be available early - ideally the first standardisation
+requests should be issued before adoption of the AI Regulation so that work can start
+early without undermining the legislative process.
+2. Standardisation requests should be developed in close interaction with the ESOs
+and the experts in the respective technical committees.
+3. Avoid standardisation requests that are too prescriptive. The clear strength of the
+NLF is that the technical realisation of how to meet legal requirements is developed by
+experts provided by all stakeholders and agreed by consensus. This promotes that
+European standards reflect the state-of-the-art. It also facilitates the adoption of
+international standards.
+4. Keep a close dialogue between the European Commission and the technical experts
+throughout the entire development process. This is important to avoid
+misunderstandings and prevent that standards might not meet the needs and
+expectations as outlined in the respective standardisation requests.
+5. Fast citation of harmonised standards in the Official Journal of the EU OJEU. This
+is important to make the standards available for presumption of conformity.
+Following these considerations above will also be of high importance for supporting
+that the harmonised standards can be available in time and that the transition time of
+24 months will be sufficient between the coming into force of the Regulation and the
+moment it applies. As a number of harmonised standards will have to be available, and
+given the scarcity of actual experts in the field of AI and available for doing the
+standardisation work 24 months is not much and it will be very important that all
+actors will work together very collaboratively and in close interaction and exchange.
+
+Clarify that the adoption of common specifications is
+pursued in exceptional cases only
+Article 41, Common Specifications, provides for the European Commission, via
+implementing acts, to adopt “common specifications” instead of harmonised
+standards. This situation should, however, be avoided, above all by a close interaction
+between the respective technical committees and the experts working therein on the
+one hand and the European Commission on the other hand. Regular and early
+feedback to technical committees is required if there should be concerns that a
+harmonised standard meets the expectations and needs as outlined in the respective
+standardisation requests.
+Moreover, OFE proposes a clarification to Article 41.1. It its current version the
+paragraph may be misunderstood in the following ways:
+(i) that if no harmonised standards are available the European Commission may right
+away - via a delegated act - adopt “common specifications”. As harmonised standards
+always require a standardisation request to be issued first it is, as it were, the rule that
+they don’t exist if no respective standardisation had been issued. Therefore it seems
+appropriate to add the requirement that for any lack of harmonised standards the first
+step is the issuing of a standardisation request;
+(ii) that for matters of safety or fundamental rights it were generally an option for the
+European Commission to adopt “common specifications” without requesting the
+development of respective harmonised standards. It should be clarified that only if a
+harmonised standard does not meet the requirements and needs may the European
+Commission take the step to adopt “common specifications”.
+OFE therefore offers the following amendments as provided in the table below:
+Text in draft regulation
+Amendments proposed by OFE
+‘Where harmonised standards referred to
+in Article 40 do not exist or where the
+Commission considers that the relevant
+harmonised standards are insufficient or
+that there is a need to address specific
+safety or fundamental right concerns,
+the Commission may, by means of
+implementing acts, adopt common
+specifications in respect of the
+requirements set out in Chapter 2 of this
+Title. Those implementing acts shall be
+adopted in accordance with the
+examination procedure referred to in
+‘Where harmonised standards referred to
+in Article 40 do not exist the
+Commission shall issue respective
+standardisation requests in accordance
+with Article 10 of Regulation
+1025/2012. If or where the Commission
+considers that the resulting relevant
+harmonised standards are insufficient
+and fail to or that there is a need to
+address the specific safety or
+fundamental right concerns as outlined
+in the standardisation requests, the
+Commission may, by means of
+
+Article 742.
+implementing acts, adopt common
+specifications in respect of the
+requirements set out in Chapter 2 of this
+Title. Those implementing acts shall be
+adopted in accordance with the
+examination procedure referred to in
+Article 742.
+We believe that these amendments add clarity and help to avoid misunderstandings
+and misreadings of the Regulation. Once again we hope that the European
+Commission may be able to support the introduction of such amendments during the
+co-legislative process.
+Standards should be preferred over Codes of Conduct
+OFE is concerned about Title IX, Codes of Conduct, and the respective Article 69. OFE
+would like to caution the European Commission and Member States to “encourage and
+facilitate the drawing up of codes of conduct intended to foster the voluntary
+application to AI systems other than high-risk AI”. We believe that also for AI systems
+other than high-risk AI the use of standards should be promoted and standards should
+clearly be preferred over codes of conduct.
+The major reasons for this are:
+Standards are developed in open, transparent and inclusive processes and
+represent the consensus of technical experts. For codes of conduct such clear
+and open development processes are not defined.
+A large number of relevant standards are already available or under
+development globally. They can be used already or in the near future, i.e.
+without much delay. Codes of conduct, however, would have to be initiated and
+development would take time thus significantly delaying their availability
+compared to standards.
+The development of codes of conduct encouraged and facilitated by the
+European Commission or Member States presents a risk of duplicating efforts
+without providing additional benefits to activities that have already been carried
+out in standardisation processes.
+Standardisation with its open and well-established processes gives an
+opportunity for participation to all stakeholders including societal stakeholders
+and SMEs.
+The draft Regulation rightly provides for further areas to be added as high-risk
+in the future. Moreover, the evolution of technologies will almost certainly lead
+to new and updated requirements in the future. In this context it will be
+
+important that standards may evolve into harmonised standards - in other
+words that stakeholders may build on a broad spectrum of standards when
+developing harmonised standards. A parallel world of codes of conduct will
+create barriers for such linkages.
+The development of the respective standards may be initiated via the EU Rolling Plan
+for ICT Standardisation which has proved to be highly successful in other policy areas
+already. Moreover, the European Commission may also issue standardisation requests
+for other than harmonised standards.
+OFE would, therefore, like to propose the following amendments:
+Text in draft regulation
+Amendments proposed by OFE
+Article 69 Codes of conduct
+1. The Commission and the Member
+States shall encourage and facilitate the
+drawing up of codes of conduct intended
+to foster the voluntary application to AI
+systems other than high-risk AI systems
+of the requirements set out in Title III,
+Chapter 2 on the basis of technical
+specifications and solutions that are
+appropriate means of ensuring
+compliance with such requirements in
+light of the intended purpose of the
+systems.
+2. The Commission and the Board shall
+encourage and facilitate the drawing up
+of codes of conduct intended to foster
+the voluntary application to AI systems
+of requirements related for example to
+environmental sustainability, accessibility
+for persons with a disability,
+stakeholders participation in the design
+and development of the AI systems and
+diversity of development teams on the
+basis of clear objectives and key
+performance indicators to measure the
+achievement of those objectives.
+3. Codes of conduct may be drawn up by
+individual providers of AI systems or by
+organisations representing them or by
+Article 69 Codes of conduct Standards
+and technical specifications for AI
+systems other than high-risk AI
+1. The Commission and the Member
+States shall encourage and facilitate the
+drawing up and use of standards and
+technical specifications codes of
+conduct intended to foster the voluntary
+application to AI systems other than
+high-risk AI systems of the requirements
+set out in Title III, Chapter 2 on the basis
+of technical specifications and solutions
+that are appropriate means of ensuring
+compliance with such requirements in
+light of the intended purpose of the
+systems.
+2. The Commission and the Board shall
+encourage and facilitate the drawing up
+and use of standards and technical
+specifications codes of conduct
+intended to foster the voluntary
+application to AI systems of
+requirements related for example to
+environmental sustainability, accessibility
+for persons with a disability,
+stakeholders participation in the design
+and development of the AI systems and
+diversity of development teams on the
+basis of clear objectives and key
+performance indicators to measure the
+
+both, including with the involvement of
+users and any interested stakeholders
+and their representative organisations.
+Codes of conduct may cover one or
+more AI systems taking into account the
+similarity of the intended purpose of the
+relevant systems.
+4. The Commission and the Board shall
+take into account the specific interests
+and needs of the small-scale providers
+and start-ups when encouraging and
+facilitating the drawing up of codes of
+conduct.
+achievement of those objectives.
+3. In order to initiate the development
+of standards for addressing specific
+needs the Commission may leverage
+the EU Rolling Plan for ICT
+standardisation or may initiate a
+standardisation request.
+3.4. Where standardisation is not an
+appropriate tool, codes of conduct may
+be drawn up by individual providers of AI
+systems or by organisations representing
+them or by both, including with the
+involvement of users and any interested
+stakeholders and their representative
+organisations. Codes of conduct may
+cover one or more AI systems taking into
+account the similarity of the intended
+purpose of the relevant systems.
+4. 5. The Commission and the Board
+shall take into account the specific
+interests and needs of the small-scale
+providers and start-ups when
+encouraging and facilitating the drawing
+up of codes of conduct. Moreover,
+governance and structures for
+developing Codes of Conduct should
+be defined.
+Equip market surveillance authorities with the appropriate
+access to technology they need
+The NLF relies on market surveillance to monitor the market and ensure proper
+implementation of the Regulation and the functioning of the single market. Article 64
+of the draft Regulation makes provisions for market surveillance authorities to get full
+access to “training, validation and testing datasets used by the provider” Art. 64.1 as
+well as “upon a reasoned request” get access to source code (Art 64.2.
+OFE would like to propose some further thinking and exchange on the exact parts of
+an AI system that need to be shared with a relevant market surveillance authority.
+There are several elements of AI systems that would be helpful to a market
+surveillance authority such as human-readable goals of a given system, information
+
+about algorithms and several other features that allow the authority to verify
+compliance with the Regulation.
+These discussions may also consider the numerous open source tools currently
+available for assessing AI systems and the role that market surveillance authorities
+should play in incentivizing further development of such tools. Finally, these
+discussions should also consider the precedential and geopolitical implications of any
+market surveillance requirement on AI systems within the proposal. Finally the
+statement in Art 64.3 that national public authorities or bodies which supervise or
+enforce the respect of obligations under Union law protecting fundamental rights in
+relation to the use of high-risk AI systems referred to in Annex III shall have the power
+to request and access any documentation, needs further clarification.
+Concluding remarks
+OFE welcomes and supports the draft Regulation on AI AI Act). We strongly believe
+that the approach taken with a risk based approach focussing on high-risk AI only for
+regulation, with using harmonised standards for demonstrating compliance and with
+including self-assessment and the presumption of conformity is the right approach following proven paths of technical regulation in Europe.
+The comments we make in this Commission address very specific, but very important
+aspects where we see a clear need for improvements and clarification. Our proposals
+aim at increasing certainty and avoid confusion or even negative impacts for
+innovation.
+We thank the European Commission for considering our comments and we hope that
+the Commission may be ready to propose and support respective comments during
+the process of co-legislation. OFE shall be available anytime to discuss and exchange
+further or to provide clarifications to our proposals if required.

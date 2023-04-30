@@ -1,0 +1,157 @@
+Brussels, 02/08/2021 
+AIOTI Input to the Artificial Intelligence Act 
+Overarching themes 
+AIOTI appreciates the use of a Regulation as a legal instrument to help building an EU digital Single 
+Market for trustworthy AI and to avoid regulatory fragmentation. 
+AIOTI welcomes the risk-and New Legislative Framework (NLF) based approach and to introduce 
+specific rules for specific uses, rather than legislating the technology as such. We recommend that 
+this framework is maintained during the legislative work on the file. 
+AIOTI supports that the proposal seeks to create obligations for all entities involved in the design, 
+development, and deployment of AI. However, given that extensive exchanges between stakeholders 
+across the AI value-chain will be necessary for the purposes of appropriate compliance and 
+enforcement mechanisms, we stress that the corresponding obligations should be placed on the 
+entities best placed to respond to them. 
+We welcome that the Proposal allows for self-assessment in most cases, which benefits the 
+development of industrial AI, a strategically important sector in Europe. We also support the use of 
+the principles of the NLF which has proven to be a technological-neutral way of regulation. 
+AIOTI’s Main Priorities 
+1. Definitions 
+AIOTI stresses that a clear definition of AI is paramount to ensure that a trustworthy, flexible and 
+innovation-friendly approach to regulating AI is implemented in a harmonized approach. 
+In this context, while the definition of AI and related techniques in Annex I is based upon the OECD’s 
+definition, we note that this may lead to a broad application of the Regulation, including software not 
+normally considered AI, and even going beyond the Regulation’s risk-based approach. Clarification in 
+that regard is crucial. Not every search algorithm, not every optimization problem, not every 
+statistical calculation is an AI problem. For this reason, we suggest removing point (c) of Annex I, 
+therefore focusing only on AI approaches and techniques listed in points (a) and (b) of Annex I. 
+
+We advise to keep the scope “narrow” to real AI systems, avoid including conventional algorithms or 
+statistical methods in the scope that could increase legal uncertainty and harm global competition. 
+The definition of AI is too broad and captures software which are not AI systems. It should be limited 
+to AI systems which generate outputs that are not predetermined by the natural person developing 
+the system. For example, some AI tools often have no broader purpose beyond serving as building 
+blocks for various user-designed applications, which in turn serve more specific user-generated 
+intended purpose. Such general-purpose tools are not in and of themselves AI systems, but rather 
+serve as components or precursors of AI systems. 
+Annex III lists high-risk sectors that would cast a broad net to regulating many AI applications, some 
+of which do not have direct impact for the public or customers. It also lacks clarity. For instance, it 
+should be clear that the notion of "road infrastructure" excludes any AI applications embedded in a 
+vehicle. 
+Most AI systems will not be high risk and shall be aligned with the NLF. AI component should be recategorized as standard component that can be covered under the future Machinery Regulation since 
+product behaviour is predictable, without opacity, assessed through complex function analysis, can 
+be standard compliant, and algorithms are deterministic. 
+The notion of safety component should be clarified and aligned with the product safety legislation of 
+the NLF. When assessing an AI system for the purposes of paragraph 1, of Article 6, a safety 
+component should be understood in the meaning of the relevant Union harmonisation legislation 
+listed in Annex II. 
+We welcome the risk-based concept to limit the high-risk classification of AI-systems in Annex II to 
+safety-relevant components and products. This must remain in the upcoming legislative process 
+because it is a central element for a smooth and innovation-friendly interplay with existing productsafety regulation. 
+2. Obligations 
+AIOTI recommends providing for obligations on AI development that are more process and 
+transparency-oriented, rather than a rigid set of requirements that may create obligations that are 
+impossible to fulfil (“data free of errors”) and may not always be the correct ones for achieving the 
+objectives of fostering AI uptake and protecting citizens. 
+The obligation for the provider of high-risk AI systems of putting in place a quality management 
+system according to Article 17 shall not impose a dedicated AI quality management system but should 
+be covered by existing quality management system such as defined by ISO 9001. 
+We also have concerns around the possibility for market surveillance authorities to request access to 
+source code. Disclosure of source code could seriously put at risk important trade secrets and IP rights 
+and contravenes widely accepted best international practices for digital trade. 
+
+As noted above, AIOTI supports creating different obligations for AI providers and AI users. Finetuning should be done to Article 28, where obligations almost exclusively focused on the 
+responsibilities of the AI providers. We believe that clearer guidance is necessary, in particularly as 
+Article 28 contemplates for obligations to shift from the provider to users and third parties modifying 
+AI components or interfering with their products under some narrow circumstances. 
+The notion of provider should also be formulated in order to prevent a too big burden on the industry 
+value chain. The differentiation of roles across the AI value chain should be taken into account, so 
+that entities developing toolkits, software libraries are not considered “providers”, for example, by 
+stating that these relevant third parties are not considered “providers of AI systems” as defined by 
+the Regulation. 
+We recommend refining Article 29 and carefully review and clarify the obligations contained in the 
+various paragraphs related to product liability legislation. AI users should be strongly encouraged to 
+share with the provider the data on performance of high-risk AI system during lifecycle. 
+In general, distinction in allocating responsibility could also be drawn from existing EU legislation for 
+the purposes of creating different obligations for AI providers and AI users under the AI Act. In our 
+view, this would be a more proportional approach as it more accurately allocates responsibility 
+depending on who determines the purposes and means by which an underlying model is trained 
+and/or used. 
+We welcome, in principle, the NLF based approach of Chapter 5. However, we do not support the 
+introduction of an obligation for registration of certain AI systems as foreseen in Article 51. Such a 
+registration obligation is neither an element of conformity assessment under the NLF nor is it 
+necessary or proportionate. 
+In order to ensure that the harmonized standards (Article 40) are available when the regulation 
+comes into force, standardization requests to the European Standardisation Organisations should be 
+issued in a timely manner. 
+In the exceptional case the common specifications are adopted (Article 41), all relevant stakeholders 
+must be consulted and involved in the development of such common specifications. 
+In the B2B context, AI is often developed to the specifics of the customer needs, where the 
+responsibilities on how it is deployed are not exclusive to the developer. 
+The introduction of the notion of "intended purpose" is a very positive step which would solve several 
+potential issues around liability. 
+The industry shall follow internal market legislation where internal rules for the placing on the market 
+and putting into service of AI systems must be aligned with the NLF. In particular, the NLF specifies 
+the general rules for the conformity assessment which allows self-certification as a fundamental 
+pillar. 
+
+3. High-Risk Uses of General-Purpose Systems 
+AIOTI strongly supports the approach for the AI Act to regulate high-risk AI and creating 
+corresponding responsibilities. 
+The text of the Regulation should be more explicit regarding the allocation of responsibilities when it 
+comes to general purpose tools. General purpose tools and APIs are developed by users – generally 
+with their own data – into AI systems across various industry sectors. Therefore, it is the user who 
+ultimately decides on the intended use of the AI system they have built, so the text should explicitly 
+state that it is up to the user to comply with the requirements in case the tool is developed by the 
+user into a high-risk use. 
+Product safety shall be jointly applied (e.g. AI embedded in products) and the layered risk-based 
+approach with the assessment of the technology for high-risk use cases needs to take place in order 
+to cover risks to health, security, and safety. Most AI systems ensuring safety functions will not be 
+high risk and shall be aligned with the NLF. According to the current draft Regulations for Machinery 
+and for Artificial Intelligence, a system which for the AI Regulation is not high-risk, on the contrary it 
+is high-risk for the Machinery Regulation if it ensures safety functions. Instead, we believe that not 
+all these AI systems shall be considered high-risk according to Machinery Regulation. 
+AI systems for machineries including agriculture ones, should be re-categorized as standard systems 
+that can be covered under self-certification in the future Machinery Regulation since product 
+behaviour is predictable, without opacity, assessed through complex function analysis, can be 
+standard compliant, and algorithms are determinist. 
+Finally, in the definition of a machinery product, the inclusion of software as a safety component 
+must not bring all Electronic Control Unit under the AI proposal for the systems. At the end the 
+conformity assessment procedure for such component shall remain under the future Machinery 
+Regulation as a complex system, and not fall under a high-risk machinery because of a least square 
+regression, which can be considered as supervised learning and is the fundamental tool for complex 
+systems. 
+4. Measures In support of Innovation 
+The legal basis for regulatory sandboxes should be in accordance with the Council’s Communication 
+(11/2020) be represented by experimentation clauses, that are already used by many EU Member 
+States, to be activated on a case-by-case basis in order to guarantee flexibility. 
+Lessons learned from sandboxes shall be taken into account in amendments and updates of the 
+regulation. 
+
+5. Governance/Enforcement 
+AITOI is strongly supportive of a cohesive and efficient system for enforcing the AI Act, to ensure a 
+trustworthy approach to AI in Europe. 
+It is critical to ensure that the EU standardisation process will be aligned with relevant international 
+developments and delivers on time for the availability of the necessary standards to demonstrate 
+compliance with this regulation. 
+AIOTI strongly supports the Commission plans to establish an Expert Group for monitoring and 
+guiding the implementation and enforcement of the Act. We suggest a broad inclusion of 
+stakeholders, modelled after the High-Level Expert Group on AI and thus Include industry 
+representatives (or associations) and ESO’s on an equal footing with public stakeholders. 
+About AIOTI 
+AIOTI is the multi-stakeholder platform for stimulating IoT Innovation in Europe, bringing together small and 
+large companies, start-ups and scale-ups, academia, policy makers and end-users and representatives of 
+society in an end-to-end approach. We work with partners in a global context. We strive to leverage, share 
+and promote best practices in the IoT ecosystems, be a one-stop point of information on all relevant aspects 
+of IoT Innovation to its members while proactively addressing key issues and roadblocks for economic 
+growth, acceptance and adoption of IoT Innovation in society. 
+AIOTI’s contribution goes beyond technology and addresses horizontal elements across application domains, 
+such as matchmaking and stimulating cooperation in IoT ecosystems, creating joint research roadmaps, 
+driving convergence of standards and interoperability and defining policies. We also put them in practice in 
+vertical application domains with societal and economic relevance. 
+AIOTI is a partner for the European Commission on IoT policies and stimulus programs, helping to identifying 
+and removing obstacles and fast learning, deployment and replication of IoT Innovation in Real Scale 
+Experimentation in Europe from a global perspective. 
+AIOTI is a member driven organisation with equal rights for all members, striving for a well-balanced 
+representation from all stakeholders in IoT and recognizing the different needs and capabilities. Our 
+members believe that we are the most relevant platform for connecting to the European IoT Innovation 
+ecosystems in general and the best platform to find partners for Real Scale Experimentation. 

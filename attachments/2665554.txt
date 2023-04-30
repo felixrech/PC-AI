@@ -1,0 +1,125 @@
+Feedback to the European Commission 
+on the ‘Proposal for a legal act of the European Parliament 
+and the Council laying down requirements for Artificial Intelligence’ 
+6 August 2021 
+Trilateral Research is a UK and IE-based ethical technology development and research company. We 
+believe that knowledge advancement and technology development can enhance societal 
+wellbeing. Collaborating across the technology-social divide, our experienced interdisciplinary 
+teams apply rigorous, cutting-edge research when developing and assessing new technologies to ensure 
+they achieve sustainable innovation and measurable impact. We are actively involved in creating 
+practical solutions and technologies for social good and using that expertise to inform regulatory and 
+policy development.  
+We strongly support secure, trustworthy, and ethical artificial intelligence (AI) for Europe and globally. As 
+a small and medium-sized enterprise (SME) actively engaged in this space, we are very invested in the 
+creation of an EU regulatory framework that is robust, balanced, and clear. Regulation should be a part of 
+the governance framework for AI, as it will help ensure AI systems are safer, more reliable, and better 
+suited for inclusion as part of the fundamental infrastructure of society.  
+Trilateral Research is aware of the potential harms that can come from unregulated use of AI and the 
+pressures to rapidly make use of this new technology. We have been the recipient of competitive funding 
+from the European Commission to study precisely these issues and this work has included impact 
+assessments and scenario development to explore actual and potential harms related to AI (for examples, 
+see the SHERPA and SIENNA projects). We are also deeply familiar with the philosophy behind this 
+regulation, in particular the Ethics Guidelines for Trustworthy AI from the High-Level Expert Group on AI. 
+We share this principled approach to AI and have already adopted practices in line with many elements 
+of the proposed Regulation. We view an EU regulatory framework for AI as part of necessary AI 
+governance, and we will continue to advance our own research and technology development for safe and 
+ethical AI, pushing the boundaries to constantly improve.  
+Additionally, Trilateral Research has an established history of doing research for and with Data Protection 
+Authorities and on the General Data Protection Regulation (GDPR). From this we understand that both 
+enforcement strategies, and support and guidance from regulators will be very important to the eventual 
+impact of the Act. It will be particularly important that regulators develop cooperation mechanisms and 
+adequate support for SMEs.  
+
+The following comments and recommendations are based on our interdisciplinary expertise with AI 
+development and use, and our experience implementing regulatory requirements as an SME.  
+We support establishing red lines for AI systems that pose unacceptable levels of risk. We agree that 
+some AI systems and applications are inconsistent with European values and fundamental rights and 
+should be prohibited. We caution the Commission against too narrowly defining those prohibited AI 
+systems, which makes it easier to argue against application of the prohibition. We also recommend that 
+the list of prohibited AI systems be non-exhaustive and a process established for other AI systems to be 
+added in the future as the risks and harms related to AI are better understood.  
+We support mandatory requirements that are clear, implementable and support the development 
+of secure, trustworthy, and ethical AI for high-risk AI systems. We agree that mandatory ex-ante and expost requirements are appropriate to ensure that AI is developed, deployed, and used in safe and 
+responsible ways. Trilateral Research is actively engaged in building AI systems for social good 
+and we have many internal practices in place that are consistent with the fundamental principles of the 
+proposed Regulation, including ethics-by-design and explainable AI initiatives. As a SME that 
+supports regulation of AI, it is extremely important to us that the mandatory requirements are laid out 
+with sufficient clarity and guidance and are practically implementable by those without the resources of 
+a large company. Mandatory requirements should not place unnecessary or onerous burdens 
+on developers, especially SMEs, because these burdens could discourage proactive measures to 
+support compliance.  
+We recommend that impact assessment becomes an explicit and mandatory requirement of the risk 
+management system for high-risk AI systems. Impact assessments could also be encouraged for low and 
+minimal risk AI systems. In some fields and industry sectors, an impact assessment that considers the 
+potential impact on stakeholders is integrated into a broader risk management process. Such assessment 
+should include, at a minimum, thoughtful assessment of bias, discrimination, invasion of privacy, misuse 
+of personal data and damaging trust. Privacy and data protection impact assessments required under the 
+GDPR could serve as a model. Trilateral Research is actively engaged in multiple initiatives to develop a 
+baseline framework for AI impact assessment.  
+We welcome regulatory sandboxes and other support measures for SMEs and small-scale 
+providers. Regulatory sandboxes, for example, allow for a controlled environment for development, 
+testing, and validation of innovative AI systems for a limited time before their placement on the market 
+or putting into service. As the modalities and conditions are set out in implementing acts, we recommend 
+that the selection criteria are strictly, carefully, and transparently defined (avoiding vagueness) to avoid 
+the potential for misuse by participants to gain unfair competitive advantages both in regulatory advice 
+and in being first to the market. The rules for participants should address transparency, accountability, 
+oversight and assessment, allocation of risks, safeguards, and operational restrictions such as limits on 
+the number and location of users, limits on types of uses, and special testing requirements. Human rights 
+
+and ethical impacts could be factored into the assessment process, along with impacts on gender and the 
+environment. Additionally, regulatory sandboxes should include mechanisms for regular review and 
+assessment. The competent authorities should provide information about the AI projects in the 
+sandboxes on their websites, including data protection safeguards, particularly where these projects 
+involve further processing of personal data collected for other purposes. 
+We support the creation of an independent, centralised EU body to ensure cooperation, coordination 
+and consistent application of EU law related to AI. The proposed European Artificial Intelligence Board is 
+a welcome suggestion but is too closely aligned with the Commission to be fully effective, as it would only 
+provide advice and assistance to the Commission. Instead, a centralised body for AI should be 
+independent, supporting across the EU and providing opinions and recommendations to the Commission, 
+Parliament 
+and 
+Council. It 
+should 
+include representation 
+from other relevant 
+EU 
+bodies, 
+including the Fundamental Rights Agency, and draw on the expertise of diverse stakeholder groups 
+on permanent standing committees (e.g., ethics, scientific and technical, human rights). Like the 
+European 
+Data 
+Protection 
+Board, 
+the independent, 
+centralised body 
+should be 
+tasked 
+with developing and promulgating general guidance on legal concepts and regulatory issues associated 
+with AI, including specific guidance for SMEs. As part of the SHERPA project, Trilateral Research explored 
+the feasibility of creating such an agency and developed a Terms of Reference for a European Agency for 
+AI.  
+We recommend strengthening and expanding enforcement mechanisms to better protect fundamental 
+rights and whistleblowers.  Stronger measures are needed to protect European values and 
+fundamental rights from harms associated with AI, and to ensure that individuals and citizens can 
+adequately and effectively raise concerns about harmful AI systems and be protected from retaliation if 
+such concerns are voiced. Therefore, we recommend addressing reporting and redress mechanisms and 
+protection of whistleblowers, both of which are absent from the current draft. These mechanisms could 
+complement other complaint and redress tools, including those under GDPR and within national human 
+rights institutions. In creating such mechanisms within the AI regulatory framework, consideration should 
+be given to effective investigatory and enforcement powers and processes for implementing mitigation 
+strategies.  
+We support the instrumental role that standards will play in regulatory compliance. The use of the 
+New Legislative Framework approach, which relies heavily on standardisation for high-risk systems, 
+means that a significant proportion of innovation and industry actors are familiar with the process, 
+thereby reducing uncertainty. However, it is pertinent that any of the European Standard Organisations 
+– CEN, CENELEC or ETSI, responsible for developing harmonised standards for AI – mirror the ongoing 
+activities taking place in the international arena and strive to reduce duplication of work and effort. This 
+would reduce the onerous burden for SMEs, who may have to navigate through all the forthcoming 
+standards to determine which ones are functional. Furthermore, we recommend the use of standards to 
+meet regulatory requirements as opposed to the alternative use of common specifications. It is unlikely 
+
+that common specifications can better reflect the state of the art than a standard developed by experts 
+in an open process. Recognising the many barriers that prevent public interest organisations from 
+participating in standards development, it is imperative that these be addressed by making resources 
+available to support their active participation. Trilateral Research is actively engaged in numerous 
+standardisation activities aimed at developing global standards for AI and adjacent technologies.  

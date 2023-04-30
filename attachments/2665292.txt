@@ -1,0 +1,149 @@
+Position paper 
+Bitkom 
+Bundesverband 
+Informationswirtschaft, 
+Telekommunikation 
+und Neue Medien e.V. 
+Lukas Klingholz 
+Head of Cloud, Gaia-X & AI 
+T +49 30 27576 101 
+l.klingholz@bitkom.org 
+David Adams 
+Manager EU Public Affairs 
+T +32 471 927890 
+d.adams@bitkom.org 
+Albrechtstraße 10 
+10117 Berlin 
+Präsident 
+Achim Berg 
+Hauptgeschäftsführer 
+Dr. Bernhard Rohleder 
+04. August 2021 
+General Remarks 
+Bitkom welcomes the Commission proposal’s risk-based approach of the AI Act presented 
+in April 2021. In order to achieve the intended results it needs to be more precise as out-
+lined below in this paper. 
+We welcome that the Commissions’s proposal is cleary linked to existing horizontal 
+and vertical regulatory dossiers (Such as the NLF at the horizontal level which is well 
+known, established and has a already demonstrated its ability to support future proof 
+legislation. In addition existing sector-specific and application-related regulations at 
+the vertical level). A clear, lean and coherent legal framework should be at best enable 
+and incentivize the integration and application of AI systems in Europe, which is needed 
+to stay competitive on a global level. At the same time, the Proposal should cater for 
+the particularities of AI and, where necessary, make necessary changes. Concretely, 
+while extending the NLF to AI-systems embedded in products makes sense, the limits of 
+adopting a product-safety based approach to stand-alone and foundational AI-systems 
+should be further reflected upon. Policy makers regularly emphasise the overarching 
+strategic goal of their AI policy: The creation of a European ecosystem of excellence in 
+AI that is closely linked to an environment of trust in the use of AI. This should be the 
+benchmark for the further evaluation of the present proposal. 
+The central question for companies that want to develop and produce AI systems is 
+how the process of market access, ongoing operation and market monitoring for high-
+risk AI applications will look in the future concretely. The use of artificial intelligence in 
+high-risk application areas in the sense of the AI Act is highly desirable from a social 
+and economic policy perspective and will increase steadily over time. Therefore, the reg-
+ulatory framework has to be future proof allowing for the seamless integration of AI 
+technology across all industries for companies of all sizes, while being flexible enough 
+to address current and future challenges alike. The goal must therefore be to create a 
+framework in which European excellence in trustworthy AI is encouraged and enabled 
+in high-risk areas, which also means that the requirements and obligations laid out un-
+der the proposed framework should be proportionate and should enable both public 
+and private sector in integrating and applying trustworthy high-risk AI applications by 
+taking into account the context how the technology is used. The main success criterion 
+for the AI Act is therefore to make the ethical and technical requirements underlying 
+
+Seite 2|4 
+trustworthiness in AI practical and operationalizable for economic operators, in particular 
+through harmonized standards. 
+Central for the success of the proposed European legal framework are: clarity and simple 
+implementation with regard to requirements​Articles 8-15 are defining a variety of requirements regarding a.o. risk management, data governance , technical documentation, transparency, robustness, accuracy, human oversight etc. ​ , obligations​Articles 16-29 are defining a variety of obligatins such as setting up a quality management system, 
+information duties and the duty to undergo a conformity assessment procedure ​ , conformity assessment, plac-
+ing on the market and continuous monitoring during the life cycle. It is important to note 
+that clarity and ease of implementation include much more than questions of the wording 
+and legal interpretation of the future AI Act. In particular, it is also about which institu-
+tional framework the EU and the Member States will design for conformity assessment, 
+market access and market surveillance and the concrete practical operationalisation of the 
+requirements should they remain as layed out by the Commission. The goal and guiding 
+principle of the digital EU’S Digital Single Market (DSM) must be at the centre of this EU-
+wide design. Lessons and negative experiences from data protection should be analysed 
+carefully and should be taken into account in this context. Overall, we see the risk that the 
+sum and overlap of requirements and obligations, including in parts vaguely defined high 
+risk applications, and the associated legal uncertainty in operationalisation, creates a com-
+plexity and compliance burden that inhibits the development of AI systems in the high risk 
+area in the EU. We also see risks of overlap of requirements and obligations with other leg-
+islations, i.e. Medical Device Regulation and the newly proposed draft for a Machinery Reg-
+ulation. 
+In addition to the general comments outlined above, the following three clusters are cen-
+tral in our view. 
+I Definition of AI & scope of high-risk. 
+The definition of AI in the proposal is extremely broad​Especially the “techniques and approaches”: “inference and deductive engines” and “statistical approaches” (Annex I) ​  and thus a very large number of 
+software applications would be covered by the regulatory framework. Therefore, we rec-
+ommend the deletion of the terms: “inference and deductive engines” and “statistical ap-
+proaches” from Annex I. Moreover, in many cases it is unclear and open to interpretation 
+whether specific applications in certain application scenarios are high-risk systems or not. 
+Also, a systematic risk-assessment and risk differentiation of high-risk AI systems, has to 
+
+Seite 3|4 
+be developed in a timely manner, specififcally the possibility for a targeted assessment 
+taking into account the AI’s particular context and specific application. ​In this context Bitkom recommends to adopt “ISO/IEC 23894 Information Technology — Artificial 
+Intelligence — Risk Management” (ISO/IEC JTC1/SC 42) into the Europeans catalogue with the option 
+to use it as a harmonizend European standard. ​  
+The cumulative approach to classification as a high-risk system from the AI White Paper 
+(both sector and intended use are causing significant risks) should also be an essential part 
+of the AI Act:. The definition & scope of"significant risks" in this context should be clearly 
+and unambiguously defined in Art. 3 in order to ensure legal certainty. 
+Furthermore, controlled environments and ecosystems​AI regulatory sandboxes, article 53 ​  should play a central role in allow-
+ing AI applications to develop and be tested in a safe environment. 
+II. Requirements & obligations, harmonized standards. 
+Harmonised standards as defined in Regulation 1025/2012​According to Regulation 1025/2012 Article 2 paragraph 1c a „harmonized standard“ is a „ a European standard adopted on the basis of a request made by the Commission for the application of Union harmonisation legislation”. ​  according to article 40 are key 
+to show compliance with the requirements. Bitkom expressly welcomes this approach. 
+The use of common specifications according to article 41 should only take place in abso-
+lute and justified exceptional cases when safety or fundamental rights are not properly 
+addressed in the standards requested by the EC Therefore, one of the two central fields of 
+action for the innovation-friendly implementation of the AI Act is an active-strategic de-
+sign of the landscape of horizontal and vertical standards that enable proof of compliance 
+with the respective requirements. The regulator must proactively and strategically accom-
+pany these standardisation activities, e.g. by timely issuing standardization requests to 
+the European standardization organizations (CEN, CENELEC, ETSI) to specify the technical 
+details of the requirements from Chapter II of the AI Act. One potential problem emerges 
+from the fact that the proposal refers to harmonized standards, which do not yet exist. 
+Relevant standards need to be worked out and specified quickly. Therefore, Bitkom asks 
+the Commission to submit standardisation requests for the AI Act even before the Act is 
+officially published. Furthermore, the Commission needs to be involved in the develop-
+ment of the standards from the very beginning to ensure that the published standards ful-
+fil the requirements for harmonised standards and will be listed in the Official Journal of 
+the European Union.  
+Industry participation in establishing these standards need to be ensured. Existing and ex-
+isting standards should be used and further developed where available. In addition, it is 
+important that overlap and redundancies with international standards is avoided. In this 
+
+Seite 4|4 
+context Bitkom welcomes the activities from CEN and Cenelec building the European AI 
+standardisation infrastructure, especially the works from CEN/Cenelec JTC21 which en-
+sures the connection to international standardisation (ISO/IEC JTC1/SC42). 
+III Conformity assessment, Governance design and market access. 
+The conformity assessment bodies, the notified bodies, the notifying authority, the na-
+tional competent authority and the market surveillance authority on the member state 
+level as the governance institutions of the AI Act proposal are key for the respective con-
+formity assessment procedure and lifecycle governance of high-risk AI systems have to im-
+plement. In this context the interplay and interaction between the AI Act and existing NLF 
+legislation still needs to be clarified. With regards to conformity assessment, it is not clear 
+exactly how bodies (including notified bodies) should be enabled to cover AI Act based re-
+quirements & obligations. 
+A legal framework and governance design based on it, which focuses on clear and easy-to-
+handle requirements is essential. It is equally important that, sector by sector, the relevant 
+governance institutions have sufficient capacity and resources at their disposal so as not 
+to create additional delays in market access. Therefore, EC standardisation requests, har-
+monised European standards and a timely listing in the OJEU ​Offiical Journal of the European Union according to arcitle 40. ​  is absolutely necessary. 
+This is particularly the case in those areas where AI systems from application scenarios are 
+affected that are not within the scope of the NLF and the resulting conformity assessment 
+procedures. On the EU-level the European AI board is the central governance institution. 
+In our opinion, the focus of the AI board should be on two issues: support for the opera-
+tionalisation of requirements and the ongoing exchange on governance designs in the 
+member states with the aim of creating a framework that is as uniform as possible across 
+the member states. Ittakes into account future legal uncertainties and inconsistenties 
+which the different economic operators will face in the concrete daily application of the 
+future AI Act. In this context, it should in this context be assisted by a committee of ex-
+perts made up of representatives from business, science and research to create a frame-
+work that takes these perspectives into account. Bitkom stands ready to support the AI 
+board with its expertise in AI and regarding the NLF. 

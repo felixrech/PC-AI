@@ -1,0 +1,45 @@
+[Status] 
+EIT Health AI consultation response 
+ EIT Health welcomes the proposed AI Regulation and its ambition to create horizontal 
+legislation overseeing AI and to maximise the safety and trustworthiness of this technology. 
+We welcome the creation of a risk-classification of AI and prohibition of certain AI in 
+alignment with the OECD, as this type of risk management is vital to ensuring uptake of this 
+important technology. 
+ With the importance of AI in the healthcare context in mind, the AI Act should support – not 
+supress – innovation. Additional requirements and conformity assessments imposed by the 
+foreseen legislation should therefore be combined or simplified to the greatest extent 
+possible, and accompanied by clear guidance and support to innovators of all sizes to 
+provide certainty and ensure they are not inhibited by additional regulatory requirements. 
+ To avoid delays both in terms of innovations coming to market and patient access to new 
+technologies and treatments, notified bodies and other authorities should be supported by 
+the EU to ensure they are able to assess AI coming to market quickly whilst complying with 
+the necessary safety assessments. 
+ We welcome the European AI Board but stress the need for cohesion with other EU level 
+boards to ensure complete harmonisation of legislation to reduce regulatory burden. The 
+proposed independent expert group is a positive inclusion, and EIT Health would welcome 
+the opportunity to participate to provide insight and real-world evidence generated from its 
+network of health innovators. 
+ Other stakeholders within the healthcare ecosystem need to be supported in the uptake 
+and use of AI, notably patients and healthcare professionals. Appropriate education and 
+upskilling on all the relevant aspects of AI and its utility in healthcare should be incorporated 
+within existing and future curricula, and continued professional education for healthcare 
+professionals is a vital foundational step. EIT Health’s education pillar has trained or 
+educated 43,000 graduates and professionals, through activities including Summer Schools, 
+Fellowships and Master’s/PhD programmes. On AI specifically, the EIT Health project HelloAI 
+RES Online (https://eithealth.eu/project/helloairis/) was designed to introduce medical 
+professionals to AI and equip them with the skills needed to allow them to benefit from the 
+ongoing evolution of the healthcare field. 
+ The proposed Regulation must have appropriate flexibility to accommodate sector specific 
+issues, notably in health, where the risks are greater and the level of regulation already high. 
+The proposal finds itself overlapping with many health sector specific and horizontal 
+legislation (DGA, EHDS, MDR, IVDR, EHDS) and appropriate measures must be taken to 
+ensure that health innovation is still allowed to thrive whilst of course ensuring patient 
+safety. 
+ Further clarity is needed on how healthcare AI outside of the scope of the MDR and IVDR 
+will be regulated, notably when used for research purposes. 
+
+[Status] 
+ Finally, EIT Health welcomes the assurances created by looking at the whole value chain, 
+and calls upon the Commission to find the right balance between support for innovation and 
+building public trust in clear regulation, enabling safe and secure exchange of data and the 
+development of new innovative AI. 

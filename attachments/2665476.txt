@@ -1,0 +1,263 @@
+BVMed positions on the draft of the "Artificial Intelligence Act" (AIA) 
+With the publication of the draft of an "Artificial Intelligence Act" (AIA), the European Commission has issued a proposal for a regulation which outlines how artificial intelligence (AI) and its 
+use shall be regulated in the EU. The Act intends to create a uniform legal framework across all 
+sectors for the development, use and marketing of AI, i.e. regardless of whether it is used in a 
+computer game, a self-driving car or digital medical devices, in particular. The German Medical 
+Technology Association (BVMed) welcomes in principle the draft on the harmonization of AI 
+regulations. 
+AI as a revolution for prevention, diagnosis and therapy in medicine 
+AI technologies have the potential to revolutionize an area of medicine in the way that the discovery of penicillin did.1 AI medical devices in particular can make a highly relevant contribution to the emergence of innovations in this regard. Such disruptive innovations are urgently 
+needed to meet the challenges of an ageing society. Moreover, AI systems are increasingly enabling better outcomes in the treatment of patients. There are numerous examples of studies 
+with AI medical devices in the areas of prevention, diagnosis and therapy. Although many examples are currently still at the experimental stage, the disruptive potential of this technology 
+for medicine is already notable. 
+A good example of the contribution that medical devices can make in the area of prevention is 
+the identification of a biomarker for heart attacks which is shown by research from the UK. Experts at Oxford University have used AI to discover a biomarker that could be used to identify 
+people at high risk of a fatal heart attack up to five years before the person suffers a heart attack. 2 Medical examination methods which are used to reliably predict a heart attack risk and 
+can be started at an early stage have not existed until now. 
+In the field of diagnosis, Alzheimer's research is making progress due to AI medical devices. Researchers have found that an AI system can detect Alzheimer's disease on average more than 
+six years earlier than conventional methods. ​Ding/Sohn/Kawczynski et al. Radiology 290 (2019), 456 - 464, doi:10.1148/radiol.2018180958, https://pubmed.ncbi.nlm.nih.gov/30398430/ (accessed July 12, 2021). 
+4 Blunden The Standard, June 17, 2020. ​  With early detection of Alzheimer's disease, there 
+are options for early therapeutic intervention to possibly delay the progression of the disease. 
+There is also a spectacular development regarding the suturing of wounds after a surgical intervention (therapy) by AI robots.4 This development could mean that certain routine activities, 
+such as surgical wound closure in the operating theatre, could be taken over by machines in 
+the future so that doctors can concentrate on more complex tasks. 
+1 Handelsblatt: Die Medizin der Zukunft - Wie uns KI vor Krebs und Herzinfarkt schützt, https://www.handelsblatt.com/technik/medizin/digitalisierung-und-gesundheit-die-medizin-der-zukunft-wie-uns-ki-vor-krebs-undherzinfarkt-schuetzt/23919382.html?ticket=ST-12304104-KpswqtcNXTHII2Y7lvbD-ap4 (zul. abgerufen am 
+12.07.2021). 
+2 Than et. al. Circulation 140 (2019), 899 - 909, https://www.ahajournals.org/doi/epub/10.1161/CIRCULATIONAHA.119.041980 (accessed July 12, 2021). 
+
+Page 2 of the BVMed position paper on the draft of the "Artificial Intelligence Act" (AIA) 
+These few examples already show that AI can have enormous potential for healthcare and that 
+numerous new AI-based medical products for the healthcare market can be expected in the 
+coming years. 
+Avoiding over-regulation of AI medical devices 
+Against the background of the EU Commission's cross-sectoral, horizontal approach, however, 
+it is important to BVMed that overregulation of AI developments and applications in the field 
+of medicine and healthcare is avoided at all costs, in order to guarantee access for all patients 
+to highly innovative, affordable AI medical products in Germany and the EU in the future. Additional costs and uncertainties in the approval of AI medical devices must not lead to barriers to 
+innovation. In addition, the draft regulation should take greater account of the fact that with 
+the implementation of the Medial Device Regulation (MDR), medical devices that are already 
+CE-certified today, e.g. algorithm-based solutions, have a very high level of safety and quality 
+for patients. 
+The cross-product framework of the AIA should therefore be as broad as possible to ensure 
+that the harmonised standards mentioned in Art. 40 of the AIA can be used to create specific 
+requirements which are adapted and tailored to the area of AI medical devices and take into 
+account existing regulatory requirements in this area. For example, the classification of the 
+vast majority of AI medical devices in the category of "high-risk products" seems too general 
+and should be more strongly oriented to the context of the specific use. Excessive requirements for the avoidance of systematic bias should not lead to barriers to innovation. With regard to approval, Notified Bodies must also be adequately staffed for future tasks. 
+Furthermore, it is important that access to data in medicine is proactively enabled for the development of AI solutions - also for medtech companies. 
+Specific comments on the Artificial Intelligence Act (AIA) 
+In detail, BVMed identifies a need for change in the "Artificial Intelligence Act" (AIA) regarding 
+the following points: 
+1. The classification as "high-risk AI systems" is too general. The context of the application 
+must be taken into account. 
+According to Art. 6 AIA in conjunction with Annex II No. 11, AI medical devices that undergo a 
+conformity assessment procedure by a Notified Body are classified as high-risk AI systems. According to the corresponding classification rule 11 of Chapter III of Annex VIII of the MDR, almost all software used in medicine is subject to Class IIa or higher and thus must undergo a 
+conformity assessment procedure before a Notified Body. Therefore, AI medical devices are almost invariably regarded as "high-risk devices". Here, Art. 14 AIA obviously assumes that the AI 
+independently carries out the essential functional steps and that humans only observe and intervene in case it’s necessary ("oversight"). 
+However, classification in the category of high-risk medical devices is too general and does not 
+sufficiently take into account the context of the medical device's application. As can be seen 
+taking a look at the examples given in the introduction, it makes a big difference whether an AI 
+medical device merely supports medical staff or completely replaces them. The event in which 
+the, the AI merely supports doctors and serves only as an additional point of information (prevention of heart attacks or the diagnosis of Alzheimer's disease), this should be assessed differently than from a surgical robot that operates on people independently. Here, the AIA has so 
+far not distinguished sufficiently. The (medical) context of the application should therefore be 
+more strongly integrated into the considerations. 
+
+Page 3 of the BVMed position paper on the draft of the "Artificial Intelligence Act" (AIA) 
+2. The definition of artificial intelligence in Art. 3 No. 1 AIA is too broad. In order to prevent 
+market access barriers for medical device manufacturers, a narrowing of the definition is 
+urgently needed. 
+The aim of the AIA is to create a uniform legal basis across the Union for, among other things, 
+the development and distribution of AI. According to point 3.5 of the explanatory memorandum, the essential characteristics of AI (e.g. complexity, autonomy), which can give rise to risks 
+for fundamental freedoms, are justification for an independent regulation of the matter. However, these essential characteristics are at best indirectly addressed in the very broad definition 
+of AI in Art. 3(1) AIA, according to which AI is essentially "that is developed with one or more of 
+the techniques and approaches listed in Annex I...". 
+For such a complex subject matter as AI, it is generally to be welcomed from a regulatory point 
+of view that the essential conceptual features are listed in an annex which contains the "techniques and concepts" currently relevant for AI and which can be adapted to the evolving state 
+of the art. However, such a reference to technical terms is only appropriate as long as these 
+terms actually describe AI-typical functions clearly and unambiguously. However, Annex I of 
+the AIA in the list of allegedly AI-typical "techniques and concepts" contains descriptions of 
+technical functions that have no compelling reference to AI technology alone, but also describe 
+the functionality of conventional software applications, such as those used in everyday life in 
+calculators or spreadsheet programs, cf. in particular lit. c) of Annex I: "Statistical approaches, 
+Bayesian estimation, search and optimization methods". 
+In particular, "statistical approaches" and "search and optimization methods" are already frequently used in non-AI-supported software. In addition, the other criteria of the definition in 
+Art. 3 (1) 1 AIA are so generic that they can also apply to non-AI-supported software without 
+further ado ("...software that ... generate outputs such as content, predictions, recommendations, 
+or decisions influencing the environments they interact with"). These requirements would also 
+be met, for example, in the case of non-AI-supported software with a medical purpose that 
+serves to monitor vital functions, measures vital functions (e.g. pulse rate), compares them 
+with reference values for the respective patient group, generates a warning if the respective 
+limit values are exceeded and thus interacts with the environment. 
+If the "Techniques and Approaches" in Annex I are not clearly redefined, there is a risk of considerable uncertainty in the product differentiation between AI and the associated regulatory 
+requirements on the one hand and other software on the other, e.g. in the field of medical 
+technology. 
+3. Bias can be avoided through sufficient access to medical data. This requires uniform legal 
+bases in data processing. 
+Another point to be considered is systematic bias. This is addressed in various places in the AIA, 
+in particular in Art. 10 ("Data and data Governance"). Even though it is important to exclude 
+bias as much as possible during the development of an AI system, this topic should not be 
+overloaded in regulatory terms and no unfulfillable requirements should be placed on the industry. For example, in our view, it should not be ruled out from the outset to use AI medical 
+products despite a bias, as long as the AI reliably detects the heart attack or Alzheimer's disease. 
+In addition, it must be taken into account in the discussion about bias that the main cause of 
+bias is inadequate training data. If bias is to be avoided, a correspondingly comprehensive data 
+basis must be created. 
+
+Page 4 of the BVMed position paper on the draft of the "Artificial Intelligence Act" (AIA) 
+In the sense of optimally adapting medical device care to the individual needs of patients, 
+there is a high demand for the processing of sensitive, personal health data. Therefore, regular 
+access to clear data is necessary for the medtech industry. Performing machine learning processes based on anonymized data is often not an option in medicine. 
+In addition, AI systems by their very nature process large amounts of data ("big data"). In this 
+context, Art. 12 (1), (3) AIA provides for logging and monitoring of all processes and events during the operation of high-risk AI systems, whereby these logs are to be handed over to the market surveillance authorities for audit purposes upon request (Art. 23 MDR). Due to the specific 
+characteristics of AI, special challenges arise here for medical device manufacturers that are 
+not regulated by the MDR, in that data processing must be ensured on the basis of the legal 
+bases available under the General Data Protection Regulation (EU) 2016/679 ("GDPR"). For example, the requirement of consent tailored as much as possible to a specific processing operation under Article 9(2)(a) of the GDPR must be reconciled with the processing of large amounts 
+of data from different databases to train a system that may evolve dynamically on its own. 
+In the AIA, there are only rudimentary and partly contradictory indications of how the AIA relates to the GDPR. At least for high-risk CI, the wording of Art. 10(5) AIA suggests that the regulation contains an independent legal basis for data processing: 
+" To the extent that it is strictly necessary for the purposes of ensuring bias monitoring, detection and correction in relation to the high-risk AI systems, the providers of such systems may 
+process special categories of personal data referred to in Article 9(1) of Regulation (EU) 
+2016/679, Article 10 of Directive (EU) 2016/680 and Article 10(1) of Regulation (EU) 
+2018/1725, subject to appropriate safeguards for the fundamental rights and freedoms of 
+natural persons, including technical limitations on the re-use and use of state-of-the-art security and privacy-preserving measures, such as pseudonymisation, or encryption where 
+anonymisation may significantly affect the purpose pursued.". 
+Such a sector-specific legal basis for processing sensitive data is to be welcomed: it directly 
+benefits the well-being of the individual patient due to the accompanying reduction of AI-related biases, and AI manufacturers are at least partially relieved of the complexities of processing under Art. 9 GDPR. 
+It is therefore difficult to understand that, apparently in contradiction to the wording of Art. 
+10(5) AEOI, Recital No. 41 .sentence 3 reads as follows: 
+"This Regulation should not be understood as providing for the legal ground for processing of 
+personal data, including special categories of personal data, where relevant." 
+This sentence contradicts Art. 10 (5) AIA, which is clearly not formulated as a legal basis reference (for this, reference should have been made to the legal bases in Art. 9 (2) GDPR and not to 
+the definition of special categories of personal data in Art. 9 (1) GDPR). In order to avoid uncertainties, it is therefore advisable to reword recital no. 41 sentence 3 as follows: 
+"This Regulation should not be understood as providing for the legal ground for processing of 
+personal data, including special categories of personal data, unless otherwise provided. “ 
+Finally, it should be taken into account that data from different regions must be merged. In 
+Germany, however, there is a veritable patchwork of data protection regulations for research. 
+In addition, when it comes to product development, it is often difficult for industry to meet the 
+high demands on the concept of research. A standardization of the legal framework in the research area is therefore just as desirable as easier access for industry to this data. 
+
+Page 5 of the BVMed position paper on the draft of the "Artificial Intelligence Act" (AIA) 
+4. Only basic safety and performance requirements should be regulated in the regulation. 
+Specific requirements adapted for the field of AI medical devices should be laid down in 
+harmonized standards mentioned in Art. 40 AIA. 
+In order not to limit the possibilities of highly innovative AI medical devices from the outset, 
+the set framework of the AIA should be defined as broadly as possible in the sense of promoting innovation in accordance with the "New Approach" and only provide for basic safety and 
+performance requirements. The harmonized standards mentioned in Art. 40 AIA should be 
+used to create specific requirements adapted and tailored to the field of AI medical devices, 
+which also take into account existing requirements or regulation in this field. 
+It should also be taken into account that with the increasing development of horizontal as well 
+as product-specific norms and standards, the complexity of the requirements to be fulfilled by 
+the manufacturers of innovative AI medical devices is increasing considerably. Since new, independent series of standards have already been launched for the standardization of AI software 
+reference, the "standards jungle" is likely to become even more impenetrable in the future. The 
+observance of the "generally recognized state of the art" (Annex I No. 1 MDR/IVDR) required of 
+manufacturers will in this way become increasingly burdensome, especially since established 
+safety standards also concretize the standard of care relevant for civil liability. 
+5. In the context of the territorial scope of the AIA, clarification is needed to ensure that the 
+secondary use of the results of the AI obtained in a third country does not retroactively 
+lead to the application of the AIA. 
+According to Art. 2 (1) lit. c. AIA, the Regulation applies to " providers and users of AI systems 
+that are located in a third country, where the output produced by the system is used in the Union". 
+It is not clear whether the term "used" refers only to the original use of the AI by the user according to the purpose Art. 3 (12) AIA or also covers any secondary use of the results by third 
+parties outside the purpose of the AI. 
+According to Art. 3 (1) AEOI, the term "result" includes any form of "content" - among other 
+things, also protocol data of the AI, etc. The applicability of the AIA would thus theoretically already be open to providers and users of AI in a third country if data published as research results of their AI in the EU are used by a third party for the development and/or conformity assessment of their own AI. This already reveals ambiguities as to what measures providers and 
+users of AI systems in third countries should actually take in order to avoid that the ultimately 
+incidental use of the results of their AI by third parties in the EU retroactively (!) leads to the 
+applicability of the AIA. 
+In order to avoid significant uncertainties about the scope of application, it is at least advisable 
+to clarify that Art 2(1) lit. c) AIA is only relevant if the result produced by the system is used as a 
+direct consequence of the use of the AI in the Union in accordance with the purpose of the AI. 
+6. Due to the regulation in Art. 67 AIA, there is a risk of "double" post-market control of AI 
+medical devices that is not objectively justified. Contradictions with the requirements of 
+the MDR and duplication of efforts for medical device manufacturers must be avoided. Existing regulatory requirements can already counteract the risks associated with AI. 
+For medical devices, the MDR already provides a differentiated system and specifies under 
+which conditions manufacturers or the competent authorities must take corrective measures, 
+if necessary withdrawals and recalls, in case of non-compliance or health risks (cf. Art. 10 para. 
+
+Page 6 of the BVMed position paper on the draft of the "Artificial Intelligence Act" (AIA) 
+12 MDR Art. 95 ff. MDR). In addition, Chapter VII of the MDR imposes comprehensive post-market surveillance and vigilance obligations on economic operators as well as close market surveillance by the competent authorities. 
+AI-based medical devices are mostly software which, as part of a medical device, is covered by 
+the CE marking of the overall device or, in the form of stand-alone software, is a medical device 
+with its own CE marking. 
+has to be. In this respect, the much stricter authorisation procedure defined under the MDR 
+provides a good starting point to ensure, for example, the safety and reliability of AI applications. While possible AI-specific adaptations are necessary, it should be avoided that manufacturers have to comply with a multitude of regulatory requirements from different sets of rules 
+(MDR, GDPR and AIA). 
+Art. 65 AIA in conjunction with Art. 67 (1) AIA provides for regulatory after-market control of 
+medical devices by the market surveillance authorities competent under the MDR with powers 
+up to and including a recall request for products, for example, if the product presents a health 
+risk ("poses a risk to the health or safety of persons, to compliance with obligations under Union 
+or national law for the protection of fundamental rights or to other aspects of the protection of 
+public interests"). In view of the already very close post-market control regarding health-related 
+risks under the vigilance system of the MDR, an additional control and intervention possibility 
+of the same market surveillance authority regarding health-related risks on the basis of the 
+AIA seems superfluous and not justified. 
+Furthermore, an intervention according to Art. 67 (1) AIA should already be possible in the case 
+of a risk regarding compliance with the "obligations under Union law or national law for the 
+protection of fundamental rights". This theoretically already includes violations of the provisions of the GDPR to protect the rights of data subjects. The interference standard - applicable 
+to any AI - of Art. 67 (1) AIA therefore undermines the differentiated and specifically tailored 
+system of corrective measures under the MDR. In particular, the generally applicable standard 
+of Art. 67 (1) AIA cannot provide the balancing implicit in the MDR that corrective measures 
+are only justified if the risks triggering the intervention are likely to exceed the harm caused to 
+patients by withholding the medical devices for therapeutic and diagnostic purposes or by restricting the marketability of these medical devices. Furthermore, the AIA seems to contradict 
+the requirement of free movement according to Art. 24 MDR: 
+"Unless otherwise specified in this Regulation [MDR], Member States shall not refuse, prohibit or restrict the making available on the market or the putting into service within 
+their territory of devices which comply with the requirements of this Regulation. 
+Among other things, Art. 67 (1) AEOI would run counter to the provision under Art. 24 MDR, 
+without it being apparent that the legislator of the AEOI is even aware of this conflict with the 
+MDR. 
+Medical device manufacturers would be "doubly" burdened by the additional control measures 
+without ensuring added value in health protection and safety. Overlapping regulations can 
+thereby enormously slow down the market introduction of life-saving products. Conflicting 
+regulations can lead to reduced compliance, as it may be unclear which regulations apply. 
+Moreover, two regulations - if not identical - are very likely to lead to arbitration due to the risk 
+and benefit of different interpretations of the same facts. As a result, innovation potential as 
+well as competitiveness in the field of AI will be enormously inhibited. 
+
+Page 7 of the BVMed position paper on the draft of the "Artificial Intelligence Act" (AIA) 
+7. The scope and end point of trader obligations must be clearly defined so that there is no 
+ambiguity in the obligations of economic operators in the supply chain. 
+According to Art. 3 (34) MDR, distributors are defined as "any natural or legal person in the supply chain, other than the manufacturer or the importer, who makes a device available on the 
+market up to the time of placing it on the market". In Art. 3 (7) AIA, the end point of responsibility "up to the moment of placing on the market" is missing, which means that distributor obligations for one and the same AI system under MDR and AIA can diverge without any apparent 
+objective justification. In order to avoid uncertainties regarding the scope of the trader obligations, the specification "until the time of placing on the market" should be included in Art. 3(7) 
+AIA. 
+In addition, Article 27 of the AIA provides that traders should verify whether the manufacturer 
+or importer "complies with the obligations laid down in this Regulation [AIA]". To do this, however, the trader would theoretically have to have full access to the technical documentation of 
+the AI system, which in many cases will not be the case or may not be desired by the manufacturer, e.g. to protect its business secrets. The inspection obligations of dealers should therefore 
+be defined more precisely and narrowly, for example limited to the presence of the CE marking 
+and whether the required documentation and instructions for use are enclosed. Otherwise, the 
+implementation of the AEOI threatens to create ambiguities regarding the reciprocal control 
+rights and obligations of economic operators in the supply chain. 
+8. The requirement of common technical documentation under Art. 11 (2) Artificial Intelli-
+gence Act can make cooperation between companies more difficult. A clarification in this 
+regard is needed. 
+The requirement for common technical documentation for 'high-risk AI', which would include 
+AI for medical devices under Art. 6 AIA in conjunction with Annex 2, poses challenges for cooperating companies. 
+For example, the technical documentation must now also be submitted in full by the legal 
+manufacturer at the request of the competent authorities. A problem known from the MDR is 
+exacerbated here if, according to the AIA, AI manufacturers and medical device manufacturers 
+may even have to merge two technical documentations. This can be a deterrent for companies 
+from the point of view of protecting trade secrets and the respective IP rights and thus inhibit 
+innovative cooperation. 
+A clarification in Article 11 (2) AIA that exceptions are possible if the manufacturer of the AI 
+and the "related product" are not identical would be useful in this respect. 
+9. An additional overload of the Notified Bodies due to increased requirements for medical 
+devices must be avoided. Extensive re-testing of devices must be excluded. 
+Due to the new requirements resulting from the start of application of the MDR from May 
+2021 and the IVDR from May 2022, the recruitment of qualified personnel at Notified Bodies is 
+already becoming increasingly difficult. Further requirements for the conformity assessment 
+procedure of medical devices could lead to an overload of Notified Bodies. 
+
+Page 8 of the BVMed position paper on the draft of the "Artificial Intelligence Act" (AIA) 
+Furthermore, it is to be feared that manufacturers of medical device software and/or medical 
+devices with software components will have to expend considerable additional effort to establish and, if necessary, prove that their products do not have to meet the additional requirements for AI due to the unclear demarcation of AI from classic medical device software. 
+In order to guarantee the supply of products that are already innovative today, such comprehensive retesting must be avoided. 
+Conclusion 
+The medical device sector is one of the most intensively regulated and harmonized product 
+sectors in the European Union. Companies should therefore not be additionally obliged to 
+make efforts for AI regulation if the minimum requirements demanded in an AI regulation are 
+already met or exceeded within the framework of the MDR. A concrete review and harmonization of the respective regulations is therefore indispensable. 
+In future discussions, it should also be kept in mind that access to standardized data for research purposes is essential for technological progress and thus also for the medtech sector. 
+Here, further regulations must be made in the sense of data use and the establishment of AI 
+systems. 
+Berlin, 2 August 2021 
+Contact: 
+Natalie Gladkov, Digital Medical Devices Officer 
+gladkov@bvmed.de | www.bvmed.de/digitalhealth  

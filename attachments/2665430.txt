@@ -1,0 +1,310 @@
+COMMENTS ON THE PROPOSAL FOR THE ARTIFICIAL INTELLIGENCE ACT (EC)​European Commission, Proposal for a Regulation of the European Parliament and of the Council Laying Down Harmonised 
+Rules on Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union Legislative Acts (COM (2021) 206 final), 
+April 21, 2021) (EC Proposal for the AI Act). ​  
+Anastasiya Kiseleva​Anastasiya Kiseleva is a PhD candidate at Vrije Universiteit Brussel and is a member of its research groups Health and Ageing 
+Law Lab (HALL) and Law, Science, Technology and Society (LSTS) and at CY Cergy Paris University (ETIS Reserch Lab). For 
+correspondence: anastasiya.kiseleva@vub.be. 
+She is doing hew PhD research on “Balancing Transparency of AI in Healthcare with Safety and Quality (Legal and Technical 
+Perspectives).”She is awarded by the EUTOPIA PhD scholarship and is one of the winners of the 4IP Council Research Award 
+2018 with the paper "What is artificial intelligence and why does it matter for Copyright". Her previous paper titled ‘AI as a 
+Medical Device: Is it Enough to Ensure Performance Transparency and Accountability?’ is featured as on of the top-5 article in 
+2020 of the journal that published it – the European Pharmaceutical Law Review. 
+The position expressed here is the individual position of Anastasiya Kiseleva and does not present the official position of affiliated 
+organizations. ​  
+General overview: 
+The proposed AI Act is an impressive work and provides a great start for the legislative process. 
+Highly welcome things are the risk-based and data-focusing approaches, level of specifications for 
+the core requirements (transparency, human-oversight, data governance, risk management, recordkeeping, accuracy, robustness, and security), the introduction of different roles for subjects 
+involved in the AI life cycle with their relevant rights and obligations. The great achievement of 
+the AI Act is the implementation of the proposed requirements into the existing conformity 
+assessment procedures (or when there are no applicable existing procedures – the suggestion of 
+similar ones). 
+While generally supporting the AI Act, below I suggest six topics that invite the legislator for 
+additional considerations and hopefully, might help making the AI Act even better. 
+Key takeaways: 
+1. THE ROLE OF THE SUBJECTS WHO ARE AFFECTED BY THE DECISIONS MADE WITH THE USE OF 
+AI SYSTEMS SHALL BE DEFINED  
+Reasoning: it is greatly appreciated that the AI Act defines the roles of different subjects engaged 
+in the development, deployment and use of high-risk AI systems​If not stated otherwise, AI systems here refer to high-risk AI systems (which are the main regulatory scope of the EC Proposal 
+for the AI Act). ​  (provider, user, operator, 
+importer, distributor, supervisory authorities). This way the proposed regulatory approach 
+complements the ones that already exist in the specific sectors of AI’s use (such as the medical 
+devices framework),​In this paper, the Medical Devices Framework includes the Medical Devices Regulation (EU) 2017/745 (MDR) and the In-vitro 
+Diagnostic Medical Devices Regulation (EU) 2017/746 (IVDR). ​  increases accountability of the relevant actors and generally ensures trust in 
+AI systems at all the stages of its life cycle. 
+However, the role of one subject – the one who is affected by the decisions made with the use 
+of AI systems – is missing. Although sometimes this kind of subject can overlap with a user of AI 
+system, very often it is not the case. For example, in the healthcare context​In this area in the majority of cases, the use of AI applications will be considered as high-risk and thus will be subject to the 
+requirements established in the proposed AI Act. ​  the one who actually 
+uses AI systems is a medical professional, while the one who is affected by the decisions of AI 
+systems is a patient. The rights and obligations of healthcare professionals (as users) in the context 
+of AI are defined in the AI Act – they are entitled to receive instructions to use an AI system, 
+information about its purposes, capabilities, and limitations. ​EC Proposal for the AI Act, art. 13 (2) and art. 13 (3). ​  The AI Act also establishes their 
+relevant obligations – to use an AI system in accordance with the given instructions and monitor 
+
+its functioning. ​EC Proposal for the AI Act, art. 29. ​  There is nothing similar to this in the AI Act in relation to patients. But they need 
+to be informed too - to make their own decisions about health and to enjoy their dignity and 
+self-determination. Also, their relevant obligations might be an important element of AI 
+safety and quality. 
+Although the requirements of informed medical consent and transparency obligations under the 
+GDPR​The transparency requirements under the GDPR include, for example, informed consent when applicable and obligations to 
+provide information to data subjects in articles 12-15. But the scopes of the relevant legislations are different and thus influence 
+the types, form, and amount of information provided to beneficiaries of decisions made with the use of AI systems. While the aim 
+of transparency obligations under the GDPR is to protect the interests of data subjects in relation to the use of their personal data, 
+their rights as the subjects affected by decisions made with the use of AI shall be concentrated around the decision and its 
+consequences (like safety and quality of the decisions, respect for fundamental rights, risks and benefits of the use AI). For example, 
+respect for their right to self-determination (referring generally to AI-assisted decisions) is broader than informational selfdetermination (which is relevant to data protection). Although the specific requirements might be tailored in accordance with the 
+narrow sector of AI use, some broader guidance on the rights of subjects affected by decisions made with the use of AI is needed. ​  partly cover this issue, a technology-related and harmonized approach is needed. The rules 
+on informed medical consent are not tailored to AI features (opaqueness, complexity, autonomy, 
+self-learning). It might lead to negative effects both for patients (in receiving accessible and 
+meaningful information) and for healthcare professionals (in deciding on their own what kind of 
+information and how to provide to patients). In addition, the rules on informed medical consent are 
+defined by the national EU legislations and the lack of the harmonized approach (that sets at least 
+minimum standards) can hinder the development of the EU-wide relevant initiatives such as the 
+proposed AI Act and creation of the common EU data spaces. ​European Commission, Communication to the European Parliament, the Council, the European Economic and Social Committee 
+and the Committee of the Regions ‘A European Strategy for Data’ COM (2020) 66 final (EU Strategy for Data). ​  
+Another aspect is the obligations of subjects affected by the decisions made with the use of AI. 
+In the age of the information society, correcting and update of the information about a specific 
+person​Which is guaranteed by the GDPR. ​  might be seen not only as a right, but also as an obligation. Taking the healthcare example, 
+it is a patient who observes the final outcomes of the AI system’s use. In many cases, it is made in 
+collaboration with doctors, but sometimes the outcome is visible only outside the environment of 
+medical organizations and patients do not always report about the experienced side effects or 
+benefits. This affects not only the non-reporting patient but also the other population (because in 
+this case, AI does not receive the proper information to learn from it). ​Of course, this obligation might be seen as the limitation of informational self-determination, but neither privacy nor data 
+protection are the absolute rights, and they shall be balanced with other important interest (defined by law). ​  
+The AI Act requires AI users ‘to ensure that input data is relevant in view of the intended purpose 
+of the high-risk AI system (to the extent the user exercises control over the input data).’​EC Proposal for the AI Act, art. 29 (3). ​  
+Considering this, the relevant obligation for subjects whose data is used in AI system to provide 
+updates of the information to users seems to be justifiable. It would not only increase the safety and 
+quality of AI applications but also support responsible and sustainable data use. ​See more about sustainable data usage in Linnet Taylor and Nadezhda Purtova, ‘What Is Responsible and Sustainable Data 
+Science?’ (2019) 1 Big Data & Society July–December 6, 1. How the AI Act is related to data initiatives such as the EU Data 
+Strategy see in Kiseleva, A. & de Hert, P. ‘Creating a European Health Data Space: Obstacles in Four Key Legal Areas’, European 
+Pharmaceutical Law Review, Volume 5, Issue 1 (2021), pp. 21 – 36. ​  In addition, it 
+would enable AI users to properly comply with their obligations – on the basis of the information 
+provided by beneficiaries of AI’s use. 
+In a similar way all other requirements for high-risk AI systems and built in the already existing 
+current conformity assessment procedures, the minimum requirements in relation to the role of 
+subjects affected by the decisions made with the use of AI, can complement already existing rules 
+(such the GDPR and domain-specific rights and obligations). 
+
+2. THE CONCEPT OF AI USER SHALL BE CLARIFIED (ESPECIALLY IN MULTI-STAKEHOLDERS 
+ENVIRONMENTS) 
+Reasoning: in environments with several actors, it is not clear who shall be deemed as a user of an 
+AI system. ​A. Kiseleva, ‘AI as a Medical Device: Between the Medical Devices Framework and the General AI Regulation’, accepted for 
+the conference and relevant publication at the Time to Re-shape the Digital Society (International Conference celebrating the 40th 
+(+1) Anniversary of CRIDS to be held on 18th and 19th of November 2021, Namur, Belgium). ​  For example, in the healthcare context, at least two types of actors are involved in the 
+usage of AI systems: healthcare organizations and healthcare professionals (physicians or other 
+specialists (such as radiologists)). ​ibid. ​  But the AI Act does not explain how the rights and 
+responsibilities in relation to the usage of AI systems shall be divided between them. 
+‘Since the definition of AI user​Article 2 (4) of the AI Act: ‘user’ means any natural or legal person, public authority, agency or other body using an AI system 
+under its authority, except where the AI system is used in the course of personal non-professional activity. 
+17 Kiseleva (n 14). ​  includes both natural persons and legal entities, formally it can be 
+both. Healthcare organization as a legal entity has the authority to apply the specific AI system 
+within its structure. Moreover, a healthcare organization is the entity making decision to purchase 
+an AI system for its physicians and start using it. At the same time, physicians provide the input 
+data to the AI system and interpret its outcome, thus they are the subjects who make actions with 
+AI systems. The definition of the ‘user’ requires authority in AI’s usage, but in the healthcare 
+context, this authority is shared between healthcare organizations and physicians. Thus, it is not 
+really clear who shall be deemed as a user of AI system in a medical context (or any other multistakeholders environment).’17 
+‘The other rules of the proposed AI Act do not add clarity. On the one side, the proposed act requires 
+AI to be sufficiently transparent to its users meaning that the outcomes of an AI system shall be 
+interpretable to them. Supposedly, interpretation is the activity of the human brain and in 
+healthcare, it is deemed to be done by physicians. It means that it is not the activity carried out by 
+the organization. On the other side, the AI Act states that the user of an AI system has its own 
+discretion in organizing its resources and activities in the implementation of human oversight 
+measures specified by the provider. Resources and activities allocations are usually attributed to 
+organizations, in a medical context – to healthcare organizations. Physicians are not required to 
+allocate resources in the context of AI’s use. It seems that the concept of the ‘user’ suggested in the 
+proposed regulation has a dual character and applies both to organizations applying AI systems and 
+natural persons doing so inside the organization. In this case, the roles and obligations of these 
+subjects have to be clearly distinguished. Otherwise, their proper accountability can be difficult to 
+ensure.’​ibid. ​  
+Generally, the concept of AI user shall be defined with more clarity. Article 52 that is devoted to 
+transparency obligations for certain AI systems introduces another category of subjects involved in 
+an AI life cycle – natural persons that interact with AI systems. The article establishes their right – 
+‘to be informed that they are interacting with an AI system unless this is obvious from the 
+circumstances and the context of use.’​EC Proposal for the AI Act, art. 52 (1). ​  It is not clear how this type of subject differs from AI user 
+(it probably does, but the difference shall be explained) and in case if the category of AI beneficiary 
+is introduced in the AI Act in the future, how these categories of subjects are differentiated shall be 
+explained too. In other words, the system of roles for three subjects – AI user, AI beneficiary, 
+and a natural person interacting with AI – shall be introduced in the AI Act. 
+
+3. ‘TRANSPARENCY’ TERMINOLOGY SHALL BE USED CONSISTENTLY 
+Reasoning: ‘there are two Articles of the AI Act devoted to transparency: the transparency 
+obligation applicable to providers of high-risk AI systems (Article 13) and the transparency 
+obligation applicable to providers of AI systems that interact with natural persons (Article 52). The 
+AI Act does not explain how these two transparency rules relate to each other.’​A. Kiseleva, ‘MAKING AI’S TRANSPARENCY TRANSPARENT: notes on the EU Proposal for the AI Act’ (European Law 
+Blog, July 2021), https://europeanlawblog.eu/2021/07/29/making-ais-transparency-transparent-notes-on-the-eu-proposal-for-theai-act/ (accessed July 29, 2021). ​  
+‘These rules have similar names but imply different concepts. For high-risk AI systems 
+transparency refers to interpretability, for interactive AI systems transparency refers to 
+communication about AI’s presence. ​The rule from Article 52 (1) is also applicable for emotion recognition (Article 52 (2)), biometric categorization (Article 52 (3)), 
+and ‘deep fake’ systems (Article 52 (4). ​  It might lead to a situation when we would label as 
+transparency one thing (interpretability) for one type of AI systems (high-risk) and another 
+one (communication) – for the other type (interactive). The lack of legal certainty and the 
+inconsistency in legal compliance are the possible consequences of such a situation.’​Kiseleva (n 20). ​  To solve 
+this issue, I suggest introducing the hierarchy of transparency-related concepts where transparency 
+shall be viewed as the broadest one (see below in section 5). 
+4.  ‘TRANSPARENCY-INTERPRETABILITY’ REQUIREMENT IN ARTICLE 13 SHALL BE CLARIFIED 
+Reasoning: the main element of the ‘transparency’ obligation imposed to the providers of highrisk AI systems (which will be applied to a large number of applications in important sectors such 
+as healthcare)​ibid. ​  is the interpretability of AI’s system output by its users. However, the AI Act does 
+not explain the concept of interpretability and its correlation with explainability. ‘Of course, a very 
+strict definition is not welcome because it would decrease the flexibility of AI providers in defining 
+the measures that are appropriate for the type of technology and the context of use. However, some 
+guidance on interpretability is needed.’​ibid. ​  
+All the policy documents that preceded the AI Act​The Ethics Guidelines for Trustworthy AI issued by the High-Level Expert Group on AI as of December 2018; the White Paper 
+on AI issued by the European Commission in February 2020 and the European Parliament’s Framework of ethical aspects of AI, 
+robotics and related technologies as of October 2020. ​  focused on the requirement of explainability 
+instead of interpretability. ​Kiseleva (n 20). ​  ‘In the AI Act, the explainability element disappeared.’​ibid. ​  ‘While one 
+concept is included as the obligation for the providers of AI systems (interpretability) and the other 
+one is not (explainability), it is necessary to understand the difference between them, which is not 
+the easiest task.’​ibid. ​  
+‘Scholars and policymakers from different domains have developed their distinct views on 
+interpretability and its correlation with explainability.’​ibid. ​  ‘Some people working with or on AI use 
+the terms interpretability and explainability interchangeably,​ibid referring to: J. Johnson, ‘Interpretability vs Explainability: The Black Box of Machine Learning’ (BMC Machine Learning 
+& Big Data Blog, July 2020) < https://www.bmc.com/blogs/machine-learning-interpretability-vs-explainability/> accessed August 
+02, 2021. ​  others distinguish them.’​Kiseleva (n 20) referring to C. Molnar, Interpretable Machine Learning. A Guide for Making Black Box Models Explainable.’ 
+< https://christophm.github.io/interpretable-ml-book/> accessed August 02, 2021. ​  ‘For 
+example, some define explainability as ‘that you can explain what happens in your model from 
+
+input to output.’​Kiseleva (n 20) referring to E. Onose, ‘Explainability and Auditability in ML: Definitions, Techniques, and Tools’ (Neptune 
+Blog, July 2021) < https://neptune.ai/blog/explainability-auditability-ml-definitions-techniques-tools> accessed August 02, 2021. ​  At the same time, other scholars define interpretability in the same way: ‘when 
+one can clearly trace the path that your input data takes when it goes through the AI model.’​Kiseleva (n 20) referring to B. Dickson, ‘AI models need to be ‘interpretable’ rather than just ‘explainable’ (Neural Today, 
+August 2020) < https://thenextweb.com/news/ai-models-need-to-be-interpretable-rather-than-just-explainable> accessed August 
+02, 2021. ​  The 
+specified definitions might require opening the black-boxes of the most sophisticated algorithms 
+which is not always possible. That is why it is crucial to understand whether the specified or similar 
+definitions (that might lead to the obligation to open black boxes) are intended by the legislator to 
+be applicable to one of the concepts and if so, to which one. This would define whether the 
+opaquest AI models are eligible for application in high-risk AI systems because if opening the 
+black box is needed for interpretability, providers of such AI systems would not be able to 
+comply with this obligation. 
+How interpretability is distinguished (or not) from the explainability requirement of automated 
+decision-making established in the GDPR​GDPR, recital 71. ​  is another relevant question. The issues with alignment 
+of the AI Act with the GDPR has been already mentioned by scholars and policymakers,​J. Bergholm, ‘The GDPR and the Artificial Intelligence Regulation – it takes two to tango?’ (CiTiP Blog, July 2021) < 
+https://www.law.kuleuven.be/citip/blog/the-gdpr-and-the-artificial-intelligence-regulation-it-takes-two-to-tango/> 
+accessed 
+August 02, 2021 and EDPB-EDPS Joint Opinion 5/2021 on the proposal for a Regulation of the European Parliament and of the 
+Council laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) as of June 18, 2021 < 
+https://edpb.europa.eu/system/files/2021-06/edpb-edps_joint_opinion_ai_regulation_en.pdf> accessed August 02, 2021. ​  and 
+correlation between interpretability-transparency requirement in the AI Act and 
+explainability​Together with the provision of the meaningful information, recital 71 of the GDPR. ​  in the GDPR is the example of such non-alignment. 
+Clarification of the transparency-interpretability requirement is needed not only for defining 
+models that are eligible to be used in high-risk AI systems and for correlating it with explainability, 
+but also for guiding their providers in compliance. It is much appreciated that the AI Act gives 
+providers discretion in determining their obligations: ‘an appropriate type and degree of 
+transparency shall be ensured, with a view to achieving compliance with the relevant obligations 
+of the user and of the provider set out in Chapter 3 of the Title III.’​EC Proposal for the AI Act, art. 13 (1). ​  This way the legislator ensures 
+the risk-based approach established in the AI Act and takes into consideration the technical 
+limitations of AI interpretability that can be an issue for AI providers. 
+The reference to other obligations of AI providers and users is important for clarifying the 
+interpretability requirement. Obligations of AI users refer to the use of AI systems in accordance 
+with instructions and quality monitoring. The possibility of quality monitoring by users can be 
+deemed as good guidance for interpretability - a user shall be able to interpret AI’s system outcome 
+to such degree that is necessary to see the deviations from expected/normal outcome. Another 
+clarification relates to the human-oversight requirement – it is needed, inter alia, to enable users to 
+interpret the outcome of AI system. Thus, human oversight measures can be deemed as part of 
+interpretability measures. 
+While these correlations with other requirements are important to direct AI providers in their 
+understanding of the interpretability requirement, more is needed. Considering the variety of 
+interpretability definitions by scholars from different areas, it can be understood very differently. 
+At least the direction of what shall be deemed as an interpretable outcome of AI system or 
+what is the scale of AI interpretability would be of much help to AI providers. Otherwise, they 
+are left alone with the most challenging element of AI systems where the highest extent of the 
+compliance with the obligation is not always possible (opening black-box) and the lesser extents 
+
+are risky to providers because they can’t be sure if they fulfilled the obligation since the legislator 
+did not clarify what is deemed as a proper fulfilment. One of the ways to clarify interpretability is 
+to define what kind of choices/decisions/actions a user or beneficiary of AI systems shall be able 
+to make after interpretations (like assessing the risks and benefits, trust or doubt about the outcome 
+of AI system). 
+5. THE HIERARCHY BETWEEN TRANSPARENCY AND THE RELATED CONCEPTS SHALL BE DEFINED 
+Reasoning: the AI Act uses several concepts that are related to transparency: communication, 
+interpretability, records-keeping and communication, information provision. The correlation 
+between these concepts and their hierarchy with transparency shall be specified in the AI Act. 
+Besides the complexities with the interpretability requirement itself, another issue with this 
+concept is its correlation with transparency. ‘It is not clear if transparency fully overlaps with 
+interpretability, or whether it is a wider category. Article 13 says that transparency is needed for 
+interpretability, but at the same time implies that there are different types and degrees of 
+transparency. However, the AI Act does not explicitly provide examples of types of transparency 
+besides interpretability. It makes it unclear for providers of AI systems whether ensuring 
+interpretability is enough to comply with the transparency requirement. It is also obscure for them 
+what kind of transparency measures besides interpretability are available.’​Kiseleva (n 20). ​  
+Another concept that shall be correspondent to transparency is information provision. ‘Article 13 
+of the proposed AI Act has two main types of obligations – transparency and the provision of 
+information to AI users.’​ibid. ​  But again, the correlation between the two obligations - information 
+provision and transparency - is not clear. The text of the legal provision implies that the concepts 
+are very related but still separate: the Article’s title uses separate names and different parts of the 
+Article are devoted to two concepts (paragraph 1 – for transparency; paragraphs 2 and 3 – for 
+information provision). However, the provision of information is traditionally one of the main 
+elements of transparency. The EU General Data Protection Regulation (GDPR) is one of the 
+examples of such correlation. Also, all the AI policy documents preceding the AI Act​supra note 21. ​  included 
+the provision of information into the general transparency obligation. To avoid a lack of clarity in 
+applying the two concepts, I suggest that the AI Act should continue the line taken in the previous 
+AI policy documents and consider information provision as part of the general transparency 
+obligation.’​Kiseleva (n 20). ​  
+‘The same situation applies to the correlation between transparency and the obligations of 
+documentation and record-keeping. In this case, these obligations are even more explicitly 
+divided because they are stated in different Articles of the proposed AI Act: Article 11 for the 
+technical documentation, Article 12 for record-keeping, and Article 13 for transparency and 
+information provision.’​Kiseleva (n 20). ​  The inclusion of these obligations and the level of the specification are 
+highly appreciated. But again, they should be correlated with transparency. ‘In the previous AI 
+policy documents, either one of these two obligations or both of them were included in transparency 
+obligations.’​ibid. ​  ‘Transparency is needed for the ex-ante and ex-post control mechanisms that ensure 
+that AI technologies are safe, accurate, and respect fundamental rights. Keeping the records and 
+documentation of all the steps taken during AI’s development and use is a good way to organize 
+
+such control and thus to ensure transparency. Due to this, the AI Act should consider the relevance 
+between transparency, documentation, and record-keeping.’​ibid. ​  
+A good solution to correlating all the mentioned concepts between each other would be 
+establishing their hierarchy where transparency is suggested to be the broadest category. ​ibid. ​  
+‘In a legal sense, it can be seen as the principle protected under the AI Act. This way, the other 
+relevant elements analysed here can be seen as the measures to ensure the principle. This hierarchy 
+would follow the approach already existing in the legislation. For example, the GDPR establishes 
+the transparency principle (Article 5) and the obligation to provide the information as the measure 
+to ensure the principle (such as Articles 12-15). In addition, it would follow the approach taken in 
+the previous AI policy documents that also consider transparency as the wider category.’​ibid. ​  
+6. CLARIFICATION ON THE CONCEPT OF ‘BIAS’ IS NEEDED 
+Reasoning: the AI Act requires AI providers to use data governance practices that allow examining 
+an AI system in view of possible biases. Preventing of bias is a very important element of AI’s 
+ethical use. Especially appreciated that the legislator connected it with data governance because it 
+is one of the most efficient ways to control and check AI. ​Opaque and autonomous algorithms are more challenging for human control. ​  However, there is no common 
+understanding of ‘bias’ and the lack of its definition (or of at least of the description of its 
+nature) makes it difficult for AI providers to understand how to comply with the requirement. 
+Different views on the nature of biases exist. One way to look at bias is to consider it as a social 
+construct. The main element that distinguishes bias in a social sense is the existence of opinions 
+or perceptions by a certain group of people concerning others. In this case, discrimination and 
+stigmatization are the concepts that are relevant to bias in a social sense. The other perspective to 
+look at bias is to perceive it in a statistical sense - as a deviation from the output expected from 
+the algorithmic model and the input data. ​Will Goodrum, ‘Statistical & Cognitive Biases in Data Science: What is Bias?’(Elder Research, Data Science, AI, Machine 
+Learning, October 2017) < https://www.elderresearch.com/blog/statistical-cognitive-biases-in-data-science-what-is-bias/> 
+accessed July 26, 2021. ​  This point of view is especially important for AI 
+activities because statistics is part of data science and is correlated with machine learning. ​Course ‘Elements of AI’, section II ‘Related fields’, University of Helsinki and Reaktor. <https://course.elementsofai.com/1/2> 
+accessed July 23, 2021. ​  But it 
+is important to understand that bias is just a precondition of negative outcomes of AI systems. How 
+bias is understood would define its main consequences and thus what kind of measures shall be 
+applied to prevent them. 
+If bias is seen in a social sense - as a possible source of discrimination - then the datasets of AI 
+systems shall be checked on discriminatory elements (which are limited to those listed in the EU 
+or national legislations). If bias is viewed in a statistical sense - as a precondition for the inaccuracy 
+of decisions made with the use of AI - then datasets and algorithms shall be checked on the 
+representativeness, accuracy, completeness, relevance to the purposes of AI systems. Of course, 
+these consequences often overlap – when AI makes inaccurate decisions about a specific group of 
+people, in many cases it would lead to discrimination of this group (if the characteristic in question 
+is protected). And vice versa – in the majority of cases (except for intention discrimination) if one 
+group is discriminated it means that the model is trained on non-representative or on non-relevant 
+data. But this shall be clarified in the AI Act – if bias is viewed from the social perspective, 
+
+from the statistical, or from both. ​Actually, the AI Act in its recital 44 makes the correlation between statistical and societal views: ‘High data quality is essential 
+for the performance of many AI systems, especially when techniques involving the training of models are used, with a view to 
+ensure that the high-risk AI system performs as intended and safely and it does not become the source of discrimination prohibited 
+by Union law.’ ​  Otherwise, AI providers would not understand what the 
+appropriate way is to prevent or minimize bias. 
+More information: 
+These comments are based on the author’s post ‘MAKING AI’S TRANSPARENCY 
+TRANSPARENT: notes on the EU Proposal for the AI Act’ published on the European Law Blog, 
+article ‘AI as a Medical Device: Between the Medical Devices Framework and the General AI 
+Regulation’ accepted for the conference and for the relevant publication ‘Time to Re-shape the 
+Digital Society’,​International Conference celebrating the 40th (+1) Anniversary of CRIDS to be held on 18th and 19th of November 2021, Namur, 
+Belgium ​  and the article in progress on legal implications of biases in AI’s clinical 
+genetics. It is recommended to read the published article for more detailed explanations of the main 
+points provided herein. 

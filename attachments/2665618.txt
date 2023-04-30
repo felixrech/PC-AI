@@ -1,0 +1,141 @@
+MAILING ADDRESS: 
+5GAA c/o MCI Munich 
+Neumarkter Str. 21 
+81673 München, Germany 
+Copyright © 2021 5GAA. All Rights Reserved. 
+www.5gaa.org 
+
+5GAA feedback on the public consultation on the Proposal for a Regulation 
+of the European Parliament and of the Council laying down harmonised 
+rules on artificial intelligence and amending certain Union legislative acts 
+(hereinafter referred to as the “Artificial Intelligence Act”) 
+5GAA welcomes the opportunity to provide feedback on the Artificial Intelligence 
+Act and share our recommendations to help the EU adopt future-proof 
+legislation accelerating the market entry of connected and automated vehicles 
+and smart mobility services while ensuring innovation in the long run. The EU is 
+likely to become one of the first, if not the first, regions of the world to define 
+rules about the placing on the market of artificial intelligence solutions. This will 
+contribute to defining world-class standards and improve the trust of 
+consumers. We respectfully invite European policymakers to recognise the 
+evolutionary path of emerging technologies, such as artificial intelligence, while 
+stimulating an effective competition on the merits by providing the wider 
+industrial ecosystem of connected and automated vehicles with clear, 
+predictable and concise criteria for the application of the Artificial Intelligence 
+Act. 
+
+5GAA would like to draw the attention of European policymakers to the following points: 
+We recognise the difficulty to unambiguously define artificial intelligence; however, the 
+current definition of an AI System as proposed in the Artificial Intelligence Act is overly 
+broad. We support the necessity to further qualify it by spelling out the specific techniques 
+currently used to develop AI systems. 
+Not every search algorithm, not every optimisation problem, not every statistical 
+calculation is an AI issue. For this reason, 5GAA suggests removing point (c) of Annex I, 
+therefore focusing only on AI approaches and techniques listed in points (a) and (b) of 
+Annex I. Otherwise, software developed using AI techniques could end up being classified 
+as AI applications, which would give the legislation a disproportionate scope. For instance, 
+a self-driving software that has been developed using some AI techniques would qualify 
+as an AI application, even if it doesn’t use machine learning or a knowledge-based 
+approach. 
+The definition of high-risk AI is intrinsically linked to the notion of safety component. The 
+proposed definition of what constitutes a “safety component” (Article 3 (14)) could be open 
+to interpretation and remains a source of uncertainty for the qualification of high-risk AI 
+systems. To reduce this ambiguity, we believe it is of paramount importance that the 
+assessment of a “safety component” refers back to EU harmonised legislation to ensure 
+regulatory consistency with any relevant sectoral requirements, notably the legislation 
+listed in Annex II. When assessing an AI system for the purposes of the application of 
+Article 6(1) of the Artificial Intelligence Act, a safety component is to be understood within 
+the meaning of the relevant Union harmonisation legislation listed in Annex II of the 
+Artificial Intelligence Act. 
+
+Article 6(2), read in conjunction with Annex III of the Artificial Intelligence Act, classify as 
+high-risk application any AI system which is, inter alia, “intended to be used as safety 
+components in the management and operation of road traffic”. It makes sense to ensure that 
+applications for which the intended purpose is to improve road safety undergo a 
+thorough market authorisation process. That being said, we consider that the Artificial 
+Intelligence Act should not lead to a situation where various AI applications used for road 
+traffic management and operation, and not necessarily having a safety-related intended 
+purpose, could be classified as high-risk AI systems. This would be disproportionate and 
+detrimental to both innovation and competition in the market. 
+Some AI applications used in vehicles are not covered by their sectorial legislation, in this 
+case, the type-approval process (for example, an in-vehicle voice assistant), because they 
+are not considered safety-critical by the legislator. The wording used in the Artificial 
+Intelligence Act lacks precision and risks including these applications in the set of high-
+risk AI applications, when sectoral legislation has considered that this is not necessary. In 
+this regard, the provisions on high-risk AI systems which could be applicable to motor 
+vehicles and/or their components and systems embedding safety-critical artificial 
+intelligence algorithms in light of Article 80 of the Artificial Intelligence Act should be 
+clarified. Therefore, we recommend that the Artificial Intelligence Act provides for clear, 
+objective and non-discriminatory criteria allowing to ascertain with a reasonable degree 
+of predictability which requirements will be mandatory for the industry. Compliance 
+requirements related to high-risk AI systems referred to in Annex III read in conjunction 
+with Article 6(2) of the Artificial Intelligence Act, shall not apply to any AI systems which 
+are embedded in a vehicle, irrespective of whether these requirements are subjected to 
+a type-approval process within the meaning of Regulation (EU) 2018/858. 
+We consider that AI systems in the road infrastructure used for connected and automated 
+mobility should be classified as high-risk only if it is clear that their intended purpose is 
+dealing with a safety-critical issue. In this case, it is absolutely logical that they undergo a 
+conformity assessment procedure, keeping in mind that some AI systems are integrated 
+in devices that are also subject to sectorial legislation. 
+
+Article 40 of the Artificial Intelligence Act sets out the requirement for harmonised 
+standards. 5GAA considers that harmonised standards developed by SDOs and published 
+in the OJEU are an essential cornerstone of the product regulatory framework in the EU. 
+The development of these standards in Europe has generally been very successful, to the 
+extent that they are often cited by regulators globally. We are pleased that the 
+Commission recognises the importance of harmonised standards and sees these as 
+central to the proposed Artificial Intelligence Act. 
+With regards to Article 41(1) of the Artificial Intelligence Act, to the extent that relevant 
+harmonised standards do not exist, or where they do exist but might be deemed 
+insufficient, 5GAA would recommend that the Commission issue mandates to European 
+SDOs on a case-by-case basis to create or amend such harmonised standards, rather than 
+for the Commission to create common specifications itself via implementing acts. This is 
+especially pertinent in cases where the standards address highly technical subjects and 
+would benefit from the experience and knowledge available in European SDOs. In any 
+case, the use of these standards should remain voluntary. 
+5GAA furthermore understands that a Standardisation Request will be issued to ESOs in 
+support of the AI Regulation. In particular, such a Standardisation Request may require 
+the ESOs to develop related Harmonised Standards. 5GAA would like to invite the 
+European Commission to consider the following items in this context: 
+i) 
+Sufficient time should be given to ESOs and industry to develop the 
+Harmonised Standards and to adapt existing products to the new framework; 
+ideally, a period of 5 years should be granted (2 years for the development of 
+the Harmonised Standards plus 3 years as a transition period for the industry 
+which is a typical R&D cycle time); 
+ii) 
+Any requirements must be identified through a suitable risk analysis to be 
+performed by ESOs and; 
+iii) 
+Suitable (novel) methodologies need to be considered for the testing of 
+identified requirements. In traditional Harmonised Standards, requirements 
+often relate to physically observable metrics. In the context of AI, it is expected 
+
+that rather functional requirements require verification, and the classical 
+testing method may be insufficient for such purposes. New approaches need 
+to be identified. 
+In Articles 56, 57 and 58 of the Artificial Intelligence Act, the Commission sets out its 
+plans to establish European Artificial Intelligence Board. Specifically, Article 57 states: 
+Article 57 Structure of the Board 
+1. 
+The Board shall be composed of the national supervisory authorities, who 
+shall be represented by the head or equivalent high-level official of that 
+authority, and the European Data Protection Supervisor. Other national 
+authorities may be invited to the meetings, where the issues discussed are of 
+relevance for them. 
+2. 
+[…] The Board may establish sub-groups as appropriate for the purpose of 
+examining specific questions. 
+4. 
+The Board may invite external experts and observers to attend its meetings 
+and may hold exchanges with interested third parties to inform its activities 
+to an appropriate extent […]. 
+We note that AI is a highly technical and specialised field, and it involves highly diverse 
+and complex ecosystems and supply chains. While AI is still in its infancy in the context of 
+widespread adoption and deployment, it is important to ensure that its regulation is 
+balanced and that we learn from ongoing experiences. 
+For the above reasons, we consider that the Commission would benefit from the expertise 
+and experience of the industry in informing the governance of AI. As such, we consider 
+that the representation of industry at the European AI Board would be essential. We 
+would recommend that the Commission formally allows the active participation of 
+industry representatives in the Board’s various sub-groups and as observers at the Board 
+itself. 

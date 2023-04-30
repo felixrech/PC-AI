@@ -1,0 +1,997 @@
+Roche feedback to the European Commission’s proposed Regulation
+of Artificial Intelligence (the “AI Act”)
+F. Hoffmann-La Roche (Roche) is a global pioneer in pharmaceuticals and diagnostics focused on advancing science to improve
+people’s lives. The combined strengths of pharmaceuticals and diagnostics under one roof have made Roche the leader in
+personalised healthcare – a strategy that aims to fit the right treatment to each patient in the best way possible.
+Roche welcomes the opportunity to provide feedback to the European Commission’s proposed regulation on Artificial
+Intelligence (the “AI Act”) as an important step towards Europe’s vision to become a global hub for trustworthy Artificial
+Intelligence (AI). Roche is supportive of the Commission’s focused intent on trying to guarantee the safety and fundamental
+rights of people and businesses, while strengthening AI uptake, investment and innovation across the EU.
+Roche fundamentally believes in the vast potential for AI within healthcare for patients, businesses and society at large, but
+also acknowledges the need to manage and mitigate any associated risks of introducing such new technologies. We believe it
+will therefore be very important to proportionately manage risks through this regulation and ultimately strike the right
+balance between preserving innovation in this sector whilst also ensuring the rights, privacy and protection of European
+citizens and patients.
+Context for Roche Feedback
+Roche’s perspective on the proposed act is based on its role within the health sector and relevant to the AI/ML related
+projects and applications currently in development across different parts of our business. The intent is that this feedback
+supports considerations of a cross sectoral nature within this AI act but also be considered to support any necessary health
+sector specific AI frameworks expected within the provisions of the European Health Data Space (EHDS) legislative proposal
+due in Q1/Q2 2022.
+The Commission’s plans to create a single market for health data, digital services and AI in health through the creation of the
+EHDS promises to unlock the power of data for AI-enabled healthcare and a well-functioning EHDS should incentivise data
+sharing and harmonise applicable rules to remove barriers to the collective benefits across Europe. In order for all
+stakeholders, including providers and operators, to train, test, develop and apply a trustworthy, reliable AI system, clear rules
+on health data access and processing within EHDS should be laid out. To this effect Roche is also engaging in efforts to support
+the creation of the EHDS through direct consultations (for example the current EHDS public consultation), multi-stakeholder
+forum discussions, panels and workshops, and also at the national EU level through the joint action towards the EHDS
+(TEHDAS) lead by Sitra.
+It is also important for us to note that existing EU Medical Device Regulations (Regulation (EU) 2017/745 and Regulation (EU)
+2017/746) provide a targeted, sector-specific, and risk-based approach to the regulation of AI systems with a medical device
+intended purpose that ensures their safe and effective use. Efforts should be made to avoid the implementation of regulatory
+requirements that overlap and/or conflict with these Regulations. As described in our detailed comments, AI medical and in
+vitro diagnostic devices should be regulated in the same manner as all other medical devices, based on their intended use and
+according to the MDR/IVDR. Such an approach simultaneously supports speed of innovation while ensuring that safe and
+effective AI medical devices reach patients and healthcare professionals in an expeditious manner.
+
+General considerations:
+Within our feedback below we provide comments, suggestions and recommendations reflecting those areas we consider most
+important to the healthcare and health data sector, in addition to further more specific comments and legal text
+recommended clarifications.
+At a high level for consideration within this Act, Roche’s main response points are built around the following key themes:
+Roche consider the AI techniques and approaches described, including the definition of an AI system, as too
+general and broad in scope
+We strongly recommend making a clearer distinction between AI driven analysis techniques and more
+traditional (non-AI driven) approaches to data analysis to avoid misinterpretation.
+Roche believes the proposed Act is too heavily focused on the potential risks of AI
+We recommend a more balanced benefit risk methodology be employed when approaching the assessment
+of AI systems.
+Roche believes it is of paramount importance to ensure real harmonisation of the interpretation and
+implementation of this Act at the EU National Member state level to avoid the issues now seen with the GDPR
+We recommend a more prescriptive approach and enforcement mechanism for the national bodies and
+European Artificial Intelligence Board to ensure a robust and consistent implementation of this regulation
+across member states.
+Roche believes that the existing Medical Device Regulation (MDR, Regulation (EU) 2017/745) and In-Vitro
+Diagnostic Medical Device Regulation (IVDR, Regulation (EU) 2017/746) address the identified risks of AI systems
+with a medical device intended purpose, and any AI-specific requirements for such devices should be managed
+under the existing Regulations
+We strongly recommend that AI systems with an intended medical purpose should be excluded from the
+proposed AI act to avoid duplication and additional burden that could ultimately stifle innovation.
+Roche believes the proposal for national regulatory sandboxes to provide a safe and controlled environment to
+test innovative technologies needs more flexibility
+If the direct supervision and guidance by national authorities is employed in a way which is too strict and
+controlling, it could impair innovation and be counterproductive to the aims of enabling more flexible and
+agile testing approaches.
+Roche believes that both the technical (interoperability) and legal barriers which hinder cross border exchange of
+data for AI development must be addressed
+We recommend the Commission address both the technical and legal barriers impacting cross border
+exchange and scalability of health data so crucial to the development of Artificial Intelligence and Machine
+Learning in healthcare
+Roche believes access to high quality health data sets for training, validation and testing of AI for use in health is
+of paramount importance and should follow recognised standards
+We recommend the Commission make more explicit reference to existing well recognised standards. For
+example, in order to implement the practices outlined in a consistent way it is important to ensure that the
+underlying data as a minimum meets the FAIR principles.
+Roche believes the role and interplay between the European Artificial Intelligence board (EAIB) and the European
+Data Protection Board (EDPB) as it relates to data governance needs further clarification
+We support the creation of the EAIB to ensure a smooth, effective and harmonised implementation of this
+AI Act, however, we recommend more clarity is set out around its interplay with the EDPB related to data
+governance and access for the development of AI.
+
+Specific areas of feedback and comment
+AI Act Mechanism /
+Provision
+Roche Comments and suggestions
+Relevant section / text of proposed Act
+AI techniques and
+approaches,
+including the
+definition of an AI
+system, are too
+broad and general
+The range of techniques described and in scope of this Act
+are considered very wide and too general, to the point
+where one could interpret almost any system which receives
+data as a form of input considered in scope. This is a concern
+because it also means that even traditional (non-AI driven)
+biometric analysis of clinical data (for example standard
+epidemiology modelling) could be considered as in scope
+here. Roche believes a fundamental distinction and
+separation between traditional analytical approaches and AI
+driven approaches needs to be reflected in the description
+of techniques in scope of Annex 1. Such a separation could
+be described by focusing on the purpose of AI rather than
+the specific technical approach, or another element to focus
+on could be the "black-box" aspect and character of AI which
+is not an issue with traditional analytical approaches.
+In addition and more specifically related to software, Roche
+believes the current language could apply to almost any
+software. For example, Annex I (in conjunction with Article
+3(1)) indicates that software that is developed using
+“statistical approaches” is an artificial intelligence system.
+This language is overly broad and will consequently require
+most software to be subject to this proposed Act.
+This also applies to the medical technology sector for
+software that is traditionally not considered to be artificial
+intelligence software. For example, “expert systems” have a
+specific meaning in the medtech sector (see Annex I of the
+MDCG 2019-11 guidance) and do not always leverage
+artificial intelligence. However, according to the definition
+provided in this proposed Regulation, they are always
+subject to its requirements.
+As a result, we urge the Commission to reconsider the
+definition of “artificial intelligence” in the context of this
+Regulation. While we agree that the fundamental definition
+of AI can include a number of forms, we propose that the
+Regulation focus on those AI systems that have been
+developed using machine learning approaches – those
+applications that use data to learn without being explicitly
+programmed. This provides a clearer definition that is more
+readily understood and interpretable by all stakeholders.
+Our suggestion is for Annex I to be modified in the following
+manner (deletion of b) and c)):
+(a) Machine learning approaches, including supervised,
+unsupervised and reinforcement learning, using a wide
+variety of methods including deep learning;
+(delete) (b) Logic- and knowledge-based approaches,
+including knowledge representation, inductive (logic)
+programming, knowledge bases, inference and deductive
+engines, (symbolic) reasoning and expert systems;
+Annex 1 - ARTIFICIAL INTELLIGENCE
+TECHNIQUES AND APPROACHES and Article 3
+(definition of AI system)
+
+(delete) (c) Statistical approaches, Bayesian estimation,
+research and optimization methods.
+Ensuring a balanced
+assessment of both
+the risks and benefits
+of AI systems
+Regarding the assessment of AI systems, the risk based
+approach dictates that the primary (and seemingly only)
+component for assessment of any AI system is that of risk (in
+terms of citizen safety, health and rights). We recommend
+greater consideration is given to the potential benefits of
+any given AI system, and that the overall assessment would
+therefore be a more balanced, ratio-based assessment
+similar to those e carried out in the review of medicinal
+products. In such cases, what drives the ultimate decision to
+approve a medicine is a clear assessment weighing the risks
+vs. the benefits with a positive benefit/risk ratio meaning the
+benefits are overall worth the potential and known risks. All
+medicinal products have a certain risk (similar to AI systems)
+but in each case, the fundamental assessment relies on
+whether the benefits outweigh those risks. Employing a
+similar methodology would enable a more balanced
+approach to the assessment of AI.
+(1) “This Regulation pursues a number of
+overriding reasons of public interest, such as a
+high level of protection of health, safety and
+fundamental rights”
+(14) “In order to introduce a proportionate and
+effective set of binding rules for AI systems, a
+clearly defined risk-based approach should be
+followed. That approach should tailor the type
+and content of such rules to the intensity and
+scope of the risks that AI systems can generate.
+It is therefore necessary to prohibit certain
+artificial intelligence practices, to lay down
+requirements for high-risk AI systems and
+obligations for the relevant operators, and to lay
+down transparency obligations for certain AI
+systems”
+Article 7 point 2 "When assessing for the
+purposes of paragraph 1 whether an AI system
+poses a risk of harm to the health and safety or
+a risk of adverse impact on fundamental rights
+that is equivalent to or greater than the risk of
+harm posed by the high-risk AI systems already
+referred to in Annex III, the Commission shall
+take into account the following criteria: then
+lists lots of examples"
+Ensuring
+Harmonisation of
+interpretation and
+implementation of
+the AI Act at EU
+National Member
+state levels
+We believe it is imperative to avoid the issues seen with the
+GDPR in terms of inconsistent interpretation and
+implementation of an EU wide legislation at the national,
+cross EU member state level due to further impact on
+confusing legal landscapes which make it difficult for
+businesses to navigate (and can negatively impact
+investments in the areas of digital and data in Europe).
+The GDPR was a much needed and welcomed piece of
+legislation, however a fully harmonised approach to the
+rules on processing of data (including health data) across the
+EU has not been achieved. Currently, access to, sharing of,
+and reuse of health data for research and innovation
+remains fragmented. This fragmentation has recently been
+re-confirmed within the Commission's recent report
+"Assessment of the EU Member States' rules on health data
+in the light of GDPR" released on 11th Feb 2021.
+It is therefore essential to ensure uniform application and
+implementation of this AI act across member states to avoid
+confusion within the single market. However, some of the
+language included within the proposal is not specific enough
+to allow a truly uniform approach at the member state level.
+For example, stating "each Member State should designate
+one or more national competent authorities for the purpose
+of supervising the application and implementation of this
+(2): “Certain Member States have already
+explored the adoption of national rules to
+ensure that artificial intelligence is safe and is
+developed and used in compliance with
+fundamental rights obligations. Differing
+national rules may lead to fragmentation of the
+internal market and decrease legal certainty for
+operators that develop or use AI systems. A
+consistent and high level of protection
+throughout the Union should therefore be
+ensured”
+(77): “Member States hold a key role in the
+application and enforcement of this Regulation.
+In this respect, each Member State should
+designate one or more national competent
+authorities for the purpose of supervising the
+application and implementation of this
+Regulation. In order to increase organisation
+efficiency on the side of Member States and to
+set an official point of contact vis-à-vis the
+public and other counterparts at Member State
+and Union levels, in each Member State one
+national authority should be designated as
+national supervisory authority”
+
+Regulation" without specifying a unified process and
+approach to identifying and designating such a CA across the
+EU (or aligning on consistent capabilities of staffing within
+such CAs) could lead to gaps in the application and
+enforcement of this Regulation.
+We recommend a more prescriptive approach be described
+and employed to ensure a consistent management and
+enforcement of this regulation in the EU. We do
+acknowledge the role of the European Artificial Intelligence
+Board here as a board that will aim to help facilitate a
+smooth, effective and harmonised implementation of this
+act, but the finer details on how it will be enforced are
+currently lacking.
+(84) “Member States should take all necessary
+measures to ensure that the provisions of this
+Regulation are implemented, including by laying
+down effective, proportionate and dissuasive
+penalties for their infringement. For certain
+specific infringements, Member States should
+take into account the margins and criteria set
+out in this Regulation. The European Data
+Protection Supervisor should have the power to
+impose fines on Union institutions, agencies and
+bodies falling within the scope of this
+Regulation”
+(86) In order to ensure uniform conditions for
+the implementation of this Regulation,
+implementing powers should be conferred on
+the Commission. Those powers should be
+exercised in accordance with Regulation (EU) No
+182/2011 of the European Parliament and of
+the Council"
+AI systems with a
+medical device
+intended purpose
+should be excluded
+from the proposed
+act with clarifying
+language added to
+ensure that AIrelated requirements
+for medical and in
+vitro diagnostic
+devices are
+harmonized under
+the MDR (Regulation
+(EU) 2017/745) and
+the IVDR (Regulation
+(EU) 2017/746)
+Existing EU Medical Device Regulations (MDR and IVDR)
+were developed to be technology agnostic and regulate
+devices based on their intended use. These Regulations,
+especially in combination with the GDPR, already provide a
+targeted, sector-specific, and risk-based approach to the
+regulation of AI systems with a medical device intended
+purpose that ensures their safe and effective use. Further,
+the requirements the Regulations espouse in areas such as
+risk management, quality system management, technical
+documentation, cybersecurity, transparency and information
+to users, accuracy and robustness, economic operators, and
+postmarket surveillance are more extensive and often much
+more detailed than those described in the proposed AI act.
+For example, one must simply compare the General Safety
+and Performance Requirements (Annex I) and Technical
+Documentation requirements (Annex II) of the MDR/IVDR to
+the Technical Documentation requirements (Annex IV) of the
+proposed AI act to identify the robustness of the medical
+device requirements and their significant overlap with those
+of this proposed AI act.
+Given that most AI medical devices will be considered “high
+risk” under the proposed AI act, such duplication in
+requirements will result in significant and unnecessary
+additional burden for the medical and in vitro diagnostic
+device industry. Under the current proposal, AI medical
+devices will need to undergo a conformity assessment with
+respect to both the proposed AI act and the MDR/IVDR, and
+manufacturers may be required to develop two sets of
+technical documentation. Further, parallel incident
+reporting communications will be required, and AI medical
+device manufacturers will likely need to comply with two
+different sets of harmonized standards and related guidance
+documents. There are a number of other duplications that
+will lead to unnecessary burdens on AI medical device
+manufacturers, and this will stifle innovation in the EU and
+prevent patients and healthcare professionals from receiving
+timely access to safe, effective, and innovative technologies.
+(30) As regards AI systems that are safety
+components of products, or which are
+themselves products, falling within the scope of
+certain Union harmonisation
+legislation, it is appropriate to classify them as
+high-risk under this Regulation if the
+product in question undergoes the conformity
+assessment procedure with a third-party
+conformity assessment body pursuant to that
+relevant Union harmonisation legislation.
+In particular, such products are machinery, toys,
+lifts, equipment and protective
+systems intended for use in potentially
+explosive atmospheres, radio equipment,
+pressure equipment, recreational craft
+equipment, cableway installations, appliances
+burning gaseous fuels, medical devices, and in
+vitro diagnostic medical devices
+Annex IV technical documentation referred to in
+Article 11(1)
+
+As such, we recommend that medical and in vitro diagnostic
+devices are explicitly excluded from the scope of this act and
+that clarifying language is added to ensure that AI-related
+requirements for medical devices are harmonized under the
+existing Medical Device Regulations. There are a number of
+regulatory mechanisms by which such an approach can be
+achieved, such as through the publication of an AI-focused
+implementing act under the MDR/IVDR, the publication of
+an AI-specific guidance for medical and in vitro diagnostic
+devices, and/or the recognition of an AI-focused harmonized
+standard under the MDR/IVDR. Such approaches provide a
+viable alternative to the duplicitous and burdensome
+regulatory framework that will be realized if medical devices
+are subject to the proposed AI act and would provide a
+cohesive set of requirements for AI medical devices within
+the context of their established regulatory framework. This,
+in turn, would support speed of innovation and enable safe
+and effective AI medical devices to reach patients and
+healthcare professionals in a timely manner.
+Our specific proposal is to include within Article 2 (“Scope”)
+the following statement and to exclude from Annex II,
+Section A the Medical Device Regulations:
+Add to Article 2:
+“This Regulation shall not apply to AI systems that are safety
+components of products or systems, or which are themselves
+products or systems, falling within the scope of Regulation
+(EU) 2017/745 and Regulation (EU) 2017/746. For such AI
+systems, specific requirements are managed within the
+framework of those Regulations. Once the marking has been
+obtained, such products or systems, having regard to that
+function, may be placed on the market and circulate freely in
+the European Union without having to undergo any
+additional procedure.”
+Delete from Annex II, Section A:
+(delete) Regulation (EU) 2017/745 of the European
+Parliament and of the Council of 5 April 2017 on medical
+devices, amending Directive 2001/83/EC, Regulation (EC) No
+178/2002 and Regulation (EC) No 1223/2009 and repealing
+Council Directives 90/385/EEC and 93/42/EEC (OJ L 117,
+5.5.2017, p. 1;)
+(delete) Regulation (EU) 2017/746 of the European
+Parliament and of the Council of 5 April 2017 on in vitro
+diagnostic medical devices and repealing Directive 98/79/EC
+and Commission Decision 2010/227/EU (OJ L 117, 5.5.2017,
+p. 176).
+The availability of
+Notified Bodies to
+conduct conformity
+assessments and
+additional
+requirements
+The number of Notified Bodies available to conduct
+conformity assessments according to the MDR and IVDR is
+quite limited, leading to enormous bottlenecks in device
+manufacturers being able to commercialize products under
+these Regulations. When the AI act is finalized, medical and
+in vitro diagnostic device Notified Bodies will also need to be
+designated under these new requirements.
+Chapter 4 (NOTIFYING AUTHORITIES AND
+NOTIFIED BODIES)
+
+Despite the identified need for notified body capacity to be
+progressively ramped up over time, this could again lead to
+bottlenecks and significant delays for medical and in vitro
+diagnostic devices that leverage AI. As such, a pragmatic
+solution that enables Notified Bodies to be designated under
+the AI act in an expeditious manner and in alignment with
+MDR/IVDR requirements is needed.
+The proposal for
+national regulatory
+sandboxes to provide
+a safe and controlled
+environment to test
+innovative
+technologies needs
+to be more flexible
+We appreciate the Commission thinking through how to
+create opportunities and a safe environment to develop and
+test innovation. However we see two issues which need to
+be considered:
+If regulatory sandboxes are intended to be implemented at
+the national level, this may be counterproductive to the
+development of AI systems that generally benefit from largescale, broadly representative data. We therefore encourage
+the Commission to think about mechanisms here to avoid
+issues with development, validation or later wide-scale
+deployment of solutions of EU market-wide AI systems.
+In addition, while developing AI solutions under "the direct
+supervision and guidance" (Art. 53 1.) of authorities and in
+cooperation with them "following their guidance" could
+impair innovation and be counterproductive to the aims of
+enabling more flexible and agile approaches, especially given
+no real risk for natural persons exist as sandboxes are for
+development, testing and validation only (i.e. prior to golive). We recommend wording that reflects a less
+prescriptive oversight in terms of supervision and guidance
+from the authorities to allow a more agile testing ground
+and process.
+5.2.5 Title V contributes to the objective to
+create a legal framework that is innovationfriendly, future-proof and resilient to disruption.
+To that end, it encourages national competent
+authorities to set up regulatory sandboxes and
+sets a basic framework in terms of governance,
+supervision and liability. AI regulatory
+sandboxes establish a controlled environment
+to test innovative technologies for a limited
+time on the basis of a testing plan agreed with
+the competent authorities.
+(72) and Art. 53 - regulatory sandboxes
+Both technical
+(interoperability) and
+legal barriers which
+hinder cross-border
+exchange of data for
+AI development must
+be addressed
+Interoperability at all established levels (technical, syntactic,
+semantic, organisational) is a critically important aspect
+within the health sector. It could bring key benefits to health
+related data ecosystems, for example by facilitating
+seamless communications among healthcare providers and
+with patients throughout a patient's care pathway, which
+can help create longitudinal patient data. It also provides the
+right information to the right person, at the right time, to
+improve patient care and outcomes. Interoperability is also a
+foundational enabler for Artificial Intelligence and Machine
+Learning in healthcare also aimed at optimizing patient care
+e.g. Interoperable RWD can be generated by and leveraged
+in large scale national and international observational
+studies, which would support and accelerate research and
+innovation.
+AI-based applications rely heavily on access to quality,
+accurate, representative, and interpretable datasets that
+follow standardized formats for training, validation, and
+testing purposes. Therefore, the current fragmented data
+landscape and lack of interoperable health systems severely
+limit realizing the true power of AI. As such, it will be vital
+that the EHDS overcome these data infrastructure
+limitations so that the true potential of AI can be realized.
+(81) “The Commission may develop initiatives,
+including of a sectorial nature, to facilitate the
+lowering of technical barriers hindering crossborder exchange of data for AI development,
+including on data access infrastructure,
+semantic and technical interoperability of
+different types of data”
+
+We therefore appreciate the Commission’s aims to address
+the technical barriers hindering cross border exchange of
+data but would also appreciate if efforts could be made to
+address legal barriers too as national and even within
+country barriers in addition to regional barriers for data
+exchange exist (in particular for personal data)
+The role of the
+European Artificial
+Intelligence board
+(EAIB) and its
+connection with the
+European Data
+Protection Board
+(EDPB) needs further
+clarification
+We support the set up of an EAIB however find it unclear
+how this board will interact with the EDPB and if the
+relationship between the two may cause confusion over
+responsibilities, especially given data governance is such a
+fundamental part of the development and use of AI. The act
+states that the EAIB will consult the EDPB on certain topics
+but broader questions remain as to the relationship between
+the two e.g. will they periodically meet, could the
+membership at member state level be the same on both
+boards and who will take final decisions related to access to
+data for the development of AI.
+5.2.6: “Title VI sets up the governance systems
+at Union and national level. At Union level, the
+proposal establishes a European Artificial
+Intelligence Board (the ‘Board’), composed of
+representatives from the Member States and
+the Commission. The Board will facilitate a
+smooth, effective and harmonised
+implementation of this regulation by
+contributing to the effective cooperation of the
+national supervisory authorities and the
+Commission and providing advice and expertise
+to the Commission. It will also collect and share
+best practices among the Member States.”
+(76) “In order to facilitate a smooth, effective
+and harmonised implementation of this
+Regulation a European Artificial Intelligence
+Board should be established. The Board should
+be responsible for a number of advisory tasks,
+including issuing opinions, recommendations,
+advice or guidance on matters related to the
+implementation of this Regulation, including on
+technical specifications or existing standards
+regarding the requirements established in this
+Regulation and providing advice to and assisting
+the Commission on specific questions related to
+artificial intelligence.”
+Access to high quality
+health data sets for
+training, validation
+and testing of AI for
+use in health is of
+paramount
+importance and
+should follow FAIR
+principles
+Roche believes data quality is an integral element in realizing
+the quality of care for patients and health system
+sustainability. In particular, access to high quality data can
+help enable the full potential of Personalised Healthcare
+(PHC) in numerous ways, including being foundational to
+tools and solutions used in healthcare that deploy or are
+based in Artificial Intelligence/Machine Learning (AI/ML), in
+addition to contributing to effective deployment of Clinical
+Decision Support tools. Health systems can also leverage
+quality data to measure the effect of various quality
+improvement interventions or programs, to ensure
+appropriate adoption.
+Roche is committed to working with health systems in
+defining a set of data quality principles, and educating data
+partners on their use and value as a foundational
+requirement for data ecosystems. Accessibility of highquality data and the ability to generate insights from those
+data are critical steps towards enabling personalised
+healthcare, improving both treatments and outcomes for
+patients, and contributing to overall healthcare system
+(44) “High data quality is essential for the
+performance of many AI systems, especially
+when techniques involving the training of
+models are used, with a view to ensure that the
+high-risk AI system performs as intended and
+safely and it does not become the source of
+discrimination prohibited by Union law. High
+quality training, validation and testing data sets
+require the implementation of appropriate data
+governance and management practices.
+Training, validation and testing data sets should
+be sufficiently relevant, representative and free
+of errors and complete in view of the intended
+purpose of the system. They should also have
+the appropriate statistical properties, including
+as regards the persons or groups of persons on
+which the high-risk AI system is intended to be
+used. In particular, training, validation and
+testing data sets should take into account, to
+the extent required in the light of their intended
+purpose, the features, characteristics or
+
+sustainability. With the emergence of new technologies such
+as digital tools, one of the requirements to realize the full
+value and benefit of these tools is for these data to be of
+sufficient quality. Thus, there is a clear need to have a
+defined set of data quality principles to guide data sources
+towards a minimum level of fit-for-purpose usability.
+The FAIR principles published in 2018 describe a wellorganized state of data that enable it to be readily and
+widely used for generating scientific insights and driving
+more informed clinical decisions. Roche is committed to
+building on the FAIR data principles and driving a set of
+quality standards across the healthcare ecosystem to enable
+insightful and responsible use of data. We uphold this
+commitment through the following principles:
+Accuracy, Consistency, Completeness, Timeliness, and
+Interpretability, and we recommend the Commission
+explicitly state these principles within the act. For example it
+is noted that in Article 10 (Data and Data Governance), there
+is no specific mention of FAIR data principles or other data
+quality measures, but in order to implement the practices
+outlined it is important to ensure that the underlying data is
+FAIR and of a high enough quality.
+elements that are particular to the specific
+geographical, behavioural or functional setting
+or context within which the AI system is
+intended to be used. In order to protect the
+right of others from the discrimination that
+might result from the bias in AI systems, the
+providers should be able to process also special
+categories of personal data, as a matter of
+substantial public interest, in order to ensure
+the bias monitoring, detection and correction in
+relation to high-risk AI systems”
+(45) “For the development of high-risk AI
+systems, certain actors, such as providers,
+notified bodies and other relevant entities, such
+as digital innovation hubs, testing
+experimentation facilities and researchers,
+should be able to access and use high quality
+datasets within their respective fields of
+activities which are related to this Regulation.
+It must be recognised
+that
+“completeness” of
+data within certain
+sectors (including the
+health sector) can be
+difficult to attain and
+should therefore not
+be a strict
+requirement
+Completeness of data may not be always fully attainable
+across all sectors and all data types due to the inherent
+nature, nuances and limitations of how data are captured
+and collected, therefore this act needs to allow some
+flexibility around this concept.
+In the health sector, the completeness of data can be
+influenced by variations in routine clinical care based on
+regional or disease specific variations. For example, in
+oncology it is well known that performance status (such as
+the Eastern Cooperative Oncology Group (ECOG)), is often
+not well maintained in Electronic Medical Records (EMR),
+and this causes structured missingness that is due to the
+nature of the collected data. In such cases, it would not be
+feasible to conduct prospective data collection, rather, the
+developers need to be aware of the limitations and
+implications for training, validation and testing, and need to
+take appropriate account in the design of the AI systems.
+In addition, the health sector can commit to being
+transparent on the measures taken to assure or describe the
+representativeness of the variance and variables in the
+training data assumed to be relevant for the deployment
+population, but completeness cannot really be shown to be
+"sufficient", as it is often simply unknowable. Trained
+models will always suffer when unforeseen, rare cases occur,
+and it seems unfeasible to require all of these scenarios to
+be thought through.
+It is also important to note that the proposed wording would
+likely prevent the use of Real World Data, which has huge
+potential for advancing healthcare.
+As such, we recommend that Article 10(3) is modified in the
+(44) “Training, validation and testing data sets
+should be sufficiently relevant, representative
+and free of errors and complete in view of the
+intended purpose of the system”
+
+following manner:
+“Training, validation and testing data sets shall be relevant,
+and representative of the intended purpose free of errors
+and complete.”
+The potential for
+leakage of data from
+training sets to
+validation or testing
+sets must be avoided
+Particular care should be given to ensuring that there is no
+data leakage from training sets to validation or testing sets
+when evaluating the performance of an AI system, as such
+data leaks can inadvertently occur if complex modelling
+processes are being followed.
+The splitting of data into training, validation, test sets should
+be carefully considered to maximise the external validity
+being demonstrated by the AI system. Multiple external
+validation data sets collected from different sources give a
+higher level of confidence than when the training and
+validation sets are generated as a random split of the same
+data set, only giving a measure of internal validity within
+that one dataset.
+We recommend the Commission consider wording to
+address and account for this within the regulation.
+(44) “Training, validation and testing data sets
+should be sufficiently relevant, representative
+and free of errors and complete in view of the
+intended purpose of the system. They should
+also have the appropriate statistical properties,
+including as regards the persons or groups of
+persons on which the high-risk AI system is
+intended to be used. In particular, training,
+validation and testing data sets should take into
+account, to the extent required in the light of
+their intended purpose, the features,
+characteristics or elements that are particular to
+the specific geographical, behavioural or
+functional setting or context within which the AI
+system is intended to be used. In order to
+protect the right of others from the
+discrimination that might result from the bias in
+AI systems, the providers should be able to
+process also special categories of personal data,
+as a matter of substantial public interest, in
+order to ensure the bias monitoring, detection
+and correction in relation to high-risk AI
+systems”
+Access to Training
+Data
+The proposed act requires AI developers to provide Notified
+Bodies and postmarket surveillance authorities full access to
+training datasets. This may not be possible in a number of
+scenarios. For example, manufacturers may not have direct
+access to training data if the AI system has been developed
+using federated learning. There may also be copyright or
+privacy restrictions regarding training data sets.
+As such, we recommend that this requirement is removed
+from the proposed AI act. Regulatory authorities should
+have access to test data sets, as these are necessary to
+provide objective evidence of the AI system performance.
+Article 64 and Annex VII
+Entry into Force and
+Application
+The MDR/IVDR experience has demonstrated that an
+adequate amount of time is necessary to ensure that the
+entire ecosystem is prepared for a regulatory transition.
+This includes time to ensure the publication of supporting
+guidance documents and implementing/delegating acts,
+sufficient Notified Body capacity and preparedness, and
+manufacturer readiness.
+Given the number of elements that need to be in place to
+ensure a successful transition, we recommend that the
+transitional period is extended to 48 months following the
+entering into force of the Regulation.
+Article 85
+
+Learning system
+assessments
+Many AI tools and systems will be "learning systems" i.e.
+continuously learning, evolving systems rather than products
+and solutions fixed in time. There is therefore a need and
+expectation for continuous data additions to improve
+performance, and the need for continuous AI iteration
+related assessments in time that have to be considered,
+along with the methods and criteria to assess them. This
+evolving nature has not been sufficiently covered in this
+proposal
+N/A – recommended area of focus not
+discussed in the proposed Act
+Education of domain
+specialists
+Specific to healthcare, multiple roles within the healthcare
+system will be impacted by the development and
+deployment of AI. Some, for example clinicians, cannot be
+expected to keep up with the fast developments and deeper
+inner workings of AI systems (e.g. correlation vs causality),
+bringing up the need for education of benefits and
+limitations of these tools, to eliminate fear, mistrust or
+scepticism, in addition to being clear on the aspect of
+augmented results by an AI system plus human judgement,
+vs AI alone.
+N/A – recommended area of focus not
+discussed in the proposed Act
+Miscellaneous/other comments, clarifications and recommendations including those of a legal nature
+AI Act Mechanism /
+Provision
+Roche Comments and suggestions
+Relevant section / text of proposed Act
+Social scoring of
+patient health status
+Scoring of patient health status in comparison to their
+community could help motivate and improve overall patient
+outcomes. Clarification of beneficial scoring with examples
+may help this section
+(21) "AI systems providing social scoring of
+natural persons for general purpose by public
+authorities or on their behalf may lead to
+discriminatory outcomes and the exclusion of
+certain groups. They may violate the right to
+dignity and non-discrimination and the values of
+equality and justice. Such AI systems evaluate or
+classify the trustworthiness of natural persons
+based on their social behaviour in multiple
+contexts or known or predicted personal or
+personality characteristics. The social score
+obtained from such AI systems may lead to the
+detrimental or unfavourable treatment of
+natural persons or whole groups thereof in
+social contexts, which are unrelated to the
+context in which the data was originally
+generated or collected or to a detrimental
+treatment that is disproportionate or unjustified
+to the gravity of their social behaviour. Such AI
+systems should be therefore prohibited.”
+Usage of biometric
+samples to match
+patient data in public
+spaces
+It may be helpful to clarify if this prohibits usage of biometric
+samples to match patient data in public spaces (e.g.
+hospitals) in real time before treatment or diagnostic
+procedure.
+(21) "The use of AI systems for ‘real-time’
+remote biometric identification of natural
+persons in publicly accessible spaces for the
+purpose of law enforcement is considered
+particularly intrusive in the rights and freedoms
+of the concerned persons, to the extent that it
+may affect the private life of a large part of the
+population, evoke a feeling of constant
+surveillance and indirectly dissuade the exercise
+of the freedom of assembly and other
+fundamental rights."
+
+Process for Defining
+high risk AI systems
+Certain areas where AI plays a role may be high risk by
+nature of the process (e.g. hazardous material, diseases).
+Suggest wording to differentiate "high-risk" when AI reduces
+such risk but continues to pose some risks. It may be better
+to look at the role of AI in increasing risk of harm for
+individuals as a "high-risk".
+(3) “The proposal lays down a solid risk
+methodology to define “high-risk” AI systems
+that pose significant risks to the health and
+safety or fundamental rights of persons
+Reliability and
+accuracy in health
+diagnostics
+Absolute reliability/accuracy are ambiguous terms in this
+context. In health applications the existing human
+intelligence is certainly far from reliable and accurate.
+We recommend amending the wording to state that
+increasingly sophisticated diagnostics systems and systems
+supporting human decisions should “offer demonstrable
+additional medical benefit compared to care in the absence
+of the AI”.
+It could also be considered to add wording to highlight that
+the performance and boundary conditions of the algorithms
+should be well understood and accounted for in the
+implementation to ensure a positive benefit/risk profile in
+use.
+P.25(28) "Similarly, in the health sector where
+the stakes for life and health are particularly
+high, increasingly sophisticated diagnostics
+systems and systems supporting human
+decisions should be reliable and accurate"
+Additional definitions
+We believe it would be important to add additional
+definitions for important key terms such as high-risk,
+transparency and benefit. For example for the term highrisk, it appears 286 times in the legal text but is more in
+reference and around. The decision-making and definition of
+what qualifies as high-risk is critical.
+Article 3
+Legal persons
+Stating that there are high risks to legal persons is
+inconsistent with the general approach that the Regulation
+shall protect natural persons. To avoid confusion, we
+recommend deleting "legal persons".
+(37) 2nd last sentence: Nonetheless, this
+Regulation should not hamper the development
+and use of innovative approaches in the public
+administration, which would stand to benefit
+from a wider use of compliant and safe AI
+systems, provided that those systems do not
+entail a high risk to legal and natural persons.
+Legal ground for
+processing of
+personal data
+Considering recital (44), it is unclear whether or not the
+situations described in Art. 10 5. and 54 1. a) would be a
+legal basis for personal data processing. A clarification that
+personal data processing mentioned in the two articles are
+justified and a legal basis in accordance with GDPR. We
+recommend a clarification here.
+(41), (44), Art. 10 5., Art. 54 1. a) [(41)]: This
+Regulation should not be understood as
+providing for the legal ground for processing of
+personal data, including special categories of
+personal data, where relevant.
+Personal nonprofessional activity
+It is unclear what "personal non-professional activity" in this
+context means, we recommend providing clarification.
+(59 It is appropriate to envisage that the user of
+the AI system should be the natural or legal
+person, public authority, agency or other body
+under whose authority the AI system is
+operated except where the use is made in the
+course of a personal non-professional activity
+Privileges for smallscale providers
+Privileges for "small-scale providers" could be seen as
+discriminating by some considering their activities may cause
+the same risks for natural persons as any AI system
+developed or used by larger entities. This could be
+addressed in the proposed regulation
+(73) and Art. 55: small-scale providers
+Biometric
+Classification data
+Hair colour, eye colour and tattoos are not considered
+biometric classicisation data. These are rather attributes
+which can be deduced from data collected for biometric
+recognition purposes. We recommend specifying this or
+Art. 3 (35) biometric categorisation system
+
+deleting those items not considered as biometric data
+Record keeping
+retention time
+We recommend defining a specific retention time for clarity
+Art. 12 Record-keeping
+Reasons to consider
+AI use presenting a
+risk
+The wording "have reasons to consider" is vague and
+requires further clarification and description, especially
+considering the potential penalties involved.
+Art. 29 4. When [users] have reasons to
+consider that the use in accordance with the
+instructions of use may result in the AI system
+presenting a risk within the meaning of Article
+65(1) they shall inform the provider or
+distributor and suspend the use of the system.
+Notifications once
+provider has
+established a causal
+link between AI
+system and incident
+or malfunctioning or
+the reasonable
+likelihood of such a
+link
+We consider the 15 day notification period as reasonable.
+However with consideration to the required 72 hours for
+personal data breaches according to GDPR, we wonder what
+this means if a GDPR breach and an AI Regulation breach
+occur at the same time. In such scenarios of a breach in both
+regulations we would consider two notifications
+unnecessary and redundant and therefore suggest that a
+notification under the AI regulation is not necessary if a
+notification was or has be done under any other EU law.
+Art.62 1. Such notification shall be made
+immediately after the provider has established a
+causal link between the AI system and the
+incident or malfunctioning or the reasonable
+likelihood of such a link, and, in any event, not
+later than 15 days after the providers becomes
+aware of the serious incident or of the
+malfunctioning.
+AI system
+compliance with EU
+AI regulation vs
+national laws
+It remains unclear and vague as to why member state
+authorities should challenge a system that complies with the
+EU regulation. Such a concept will challenge the common
+market approach of the EU and could lead to uncertainty
+and negatively impair EU market dynamics.
+Art. 67 1. Where, having performed an
+evaluation under Article 65, the market
+surveillance authority of a Member State finds
+that although an AI system is in compliance with
+this Regulation, it presents a risk to the health
+or safety of persons, to the compliance with
+obligations under Union or national law
+intended to protect fundamental rights or to
+other aspects of public interest protection, it
+shall require the relevant operator to take all
+appropriate measures to ensure that the AI
+system concerned, when placed on the market
+or put into service, no longer presents that risk,
+to withdraw the AI system from the market or
+to recall it within a reasonable period,
+commensurate with the nature of the risk, as it
+may prescribe.

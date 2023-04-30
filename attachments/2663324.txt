@@ -1,0 +1,219 @@
+08 September 2021 
+Rue Marie de Bourgogne, 58 – 1000 Brussels – Tel 0032 2 842 69 82 - www.eucope.org 
+AI IN HEALTHCARE: A EUROPEAN 
+OPPORTUNITY 
+1. INTRODUCTION 
+As demonstrated by the fight against COVID-19, Artificial Intelligence (AI) has the potential to drive change 
+and improve efficiency and accessibility in healthcare. ​Jin, C., Chen, W., Cao, Y. et al. Development and evaluation of an artificial intelligence system for COVID-19 
+diagnosis. Nat Commun 11, 5088 (2020). https://doi.org/10.1038/s41467-020-18685-1 ​  
+From compounds design​For example: screening of compounds, automatic design of chemical compounds, appropriate synthetic route to 
+make compounds, models to predict efficacy / ADMET properties of compounds ​  in medicines development to faster patient screening and diagnosis to hospital 
+management (to name but a few applications), AI-based solutions can help upgrade our healthcare 
+systems towards more sustainability, while helping to address patients’ unmet needs. AI represents 
+a historic opportunity to redesign healthcare in Europe, but realizing its full potential will require some 
+structural, behavioural and societal adjustments. It is undeniable that digital applications and innovations in 
+health have not experienced the massive uptake seen in other sectors (e.g. security, finance, automotive). 
+As AI’s potential in health attracts interests and enthusiasm, its limitations due to its adaptive nature, data 
+availability and appropriate regulatory framework have also come to the fore. In the EU, the COVID-19 
+pandemic has accelerated reflections about the role of policy in enabling companies to lead globally in 
+digital health and innovation. Leaders need to ensure small to medium-sized companies (SMEs) can access 
+capital, data and skills to develop AI-solutions in healthcare. 
+As a follow-up to its White Paper on Artificial Intelligence​https://ec.europa.eu/info/publications/white-paper-artificial-intelligence-european-approach-excellence-and-trust_en ​ , the European Commission released its Data 
+Strategy​https://ec.europa.eu/info/strategy/priorities-2019-2024/europe-fit-digital-age/european-data-strategy_en ​  which aims to boost healthcare data sharing and interoperability through the creation of a 
+European Health Data Space​https://eur-lex.europa.eu/legal-content/EN/ALL/?uri=COM:2018:0232:FIN ​  – which will enable – and further foster – the effective use of AI-related 
+technologies in healthcare. Moreover, the European Medicines Agency explicitly highlights the value and 
+need for enhanced regulatory clarity for AI in the Regulatory Science Strategy for 2025​https://www.ema.europa.eu/en/documents/regulatory-procedural-guideline/ema-regulatory-science-2025-strategicreflection_en.pdf ​  and the HMA-EMA 
+Joint Big Data Taskforce Recommendations. ​https://www.ema.europa.eu/en/documents/other/hma-ema-joint-big-data-taskforce-phase-ii-report-evolving-datadriven-regulation_en.pdf ​  Hence, it appears certain that a fit-for-purpose regulatory 
+
+framework that enables safe data-sharing, accelerates the rollout of personalised medicine and 
+diagnostics solutions, and drives innovation in AI is essential in enabling Europe to lead this race. 
+AVAILABILITY – DRIVING INNOVATION 
+The recent months have seen numerous legislative proposals flourishing in the Member States to allow for 
+the reimbursement of digital health solutions, including AI-based solutions. Pricing and reimbursement 
+systems need to adapt to ensure the greatest availability of these new products for the benefit of patients 
+in Europe. Similar to more traditional medicinal products, the systems for allowing reimbursement vary 
+greatly from one country to another, creating disparities amongst European patients. With more and more 
+AI-based solutions applying for reimbursement, it is essential Member States come together with 
+stakeholders to find a coherent and balanced approach to reimbursement processes. 
+2. MAKING IT HAPPEN – BARRIERS TO ADOPTION 
+Moving to an environment in which AI-based solutions can deliver significant and consistent improvements 
+in healthcare is a long road. Here are the biggest barriers and challenges we see. 
+DATA CHALLENGES 
+Access to data 
+AI relies critically on the availability of rich data. High quality, reliable and interoperable data is the sine qua 
+non condition of any solution utilizing artificial intelligence. It is the key to training unbiased, robust and safe 
+AI. ​The socio-economic impact of AI in healthcare, Report, October 2020, Eliana Biundo, Andrew Pease, Koen Segers, 
+Michael de Groote, Thibault d’Argent, Edouard de Schaetzen. ​  Despite the vast amount of data available in healthcare institutions, or generated in a non-medical 
+context​For example, a watch can record health pulse, applying AI to analyze those records can allow to predict/diagnose 
+heart attack ​ , the majority is either not accessible, or usable, making the development of AI healthcare solutions 
+extremely challenging. 
+The other underlying challenge with data accessibility is the fragmented landscape the data providers 
+operate in and the variability in data format. Very often, when data is available, the dataset is not viable, 
+with systems not able to synthesise data, communicate with and use information from different systems. 
+Interoperability and unified standard format are among the main barriers to the adoption of any digital 
+health solutions for a long time, and the problem only exacerbates when applied to AI. The siloed 
+environment resulting from the very different systems operating in the different countries of the European 
+Union makes it very difficult for digital solutions to live up to the expectations. 
+Data quality 
+
+Data quality issue is not unique to AI. It is a long-existing problem for any study. Some data collected using 
+AI tools can have higher quality than those collected using standard techniques. 
+However, due to the fragmented landscape, the data, when available, can be of disparate quality and 
+complexity. Curating this information and evaluating its appropriateness for an application in an AI-based 
+solution requires a lot of skills, resources and time, which is beyond the scope for smaller biotechs or health 
+solutions developers. 
+Healthcare data is a very particular type of data. It can influence diagnosis, treatment options, it can expand 
+the span of research, it can assess the outcome of a treatment. The quality of such data is paramount 
+for the success of AI and even more critically for a patient’s life. 
+As for in any medical practice, data needs to be accurate, representative and interpretable to deliver 
+meaningful insights. ​Ibidem. ​  A poor dataset can lead to misinterpretation, and in turn, influence another important 
+step in patients’ access: the evaluation of AI-based technologies. 
+Data disparity 
+Combining datasets from different sources, even when they are all high quality, is complicated because of 
+their disparity. This disparity is two-fold: 
+1. Different entities may not measure the same thing. Studies led by different companies, with different 
+objectives, do not necessarily collect the same, or even similar data. Having access to multiple 
+datasets of this kind hardly provides any benefit over any single one. 
+2. Even when different datasets contain the same measurements, these measurements themselves 
+might not be comparable, especially if they are subject to human subjectivity. Different researchers 
+do not necessarily come to the same conclusions or scores when presented with the same sample. 
+In that perspective, EUCOPE recommends regulators at the EU level to establish a standard set of data 
+to be collected and encourage the use of automated tools that allow reproducible data collection enabling 
+combining existing datasets. 
+Recommendations 
+EU Level 
+National level 
+Define data collection standards​Including on data annotation and labelling ​  
+Training healthcare professionals 
+
+Establish a unified standard for data exchange 
+Incentives for organizations/vendors that align 
+with common data standards 
+Promote data interoperability and exchange 
+protocol, based on the experience of ERNs 
+(Collaboration between several member states on 
+the same topic) 
+Allow transfer of data between local centres 
+Centralise data collection from regional data sets 
+REGULATORY CHALLENGES 
+Validation process and Reimbursement 
+Member States are slowly but surely adopting national legislatures allowing for digital health solutions to 
+apply for reimbursement. While it is far from being general practice, the trend is growing, and regulatory 
+agencies or Health Technology Assessment (HTA) bodies are adapting their pathways to include the 
+assessment of digital health solutions, including AI-based solutions. 
+While AI providing health data based on continuous monitoring (both passively and actively) of daily 
+activities has a greater potential for reimbursement, the solutions utilizing AI without immediate health 
+benefits might find a more challenging process. 
+The data set used by the AI applications or used as secondary data (for instance, when an AI-based tool 
+provides information on an internal decision point) in the application dossier for HTA, reimbursement 
+process or post-marketing studies must be of the highest standards of quality. It is crucial to demonstrate 
+the relevance of the data in a lifecycle approach: in the context of approval and, at a later stage, 
+reimbursement. Should the regulator dispute the quality and/or the validity of the data used by the algorithm, 
+the entire process could be severely delayed, henceforth, delaying access to patients. 
+While one can understand the challenge in adapting to an extremely changing world, as well as to the 
+massive disruption AI is about to bring to healthcare, it is indisputable that regulators need to issue clear 
+guidance on quality requirements for validation processes, reimbursement criteria, and post-marketing 
+studies. ​Be it for surveillance or studies in the context of real-world evidence generation. ​  We also call for clearer visibility on the possible evolution of the regulatory framework, to take 
+into account the coming development of technology (e.g.: adaptive AI). 
+
+International Cooperation 
+The immense value of international cooperation through forums like the International Medical Device 
+Regulatory Forum (IMDRF) and ICH
+13 helps driving the necessary convergence for global 
+companies/access. 
+For the EU to close the gap with other important players – the United States of America, Japan or China – 
+it needs to provide clearer guiding documents and risk-proportionate requirements so the sector can 
+adequately prepare and act in consequence. 
+Further guidance is also required when it comes to the flow of data or data transfer for the purpose of 
+research. In the case of many rare diseases, most often the patient population in one country, or even one 
+continent is not enough to have a sufficient dataset to ensure proper clinical research. In that case, the 
+transfer of data between research institutions has proven very efficient in bridging this deficit. The General 
+Data Protection Regulation represents a proud asset of the EU’s arsenal to safeguard personal data, and 
+rightly so. The regulation offers some provisions in relation to data for scientific and research purposes, but 
+more clarity, notably on the ability to transfer pseudonymized research data out of the EU, is absolutely 
+crucial. 
+Another important aspect that would require more clarity is the question of Intellectual Property (IP). As 
+an AI model itself and the data used to create that model are strongly related to each other, the owner, and 
+therefore the ownership of IP rights of such AI model can become unclear. Clear definitions and potential 
+adjustments to IP legislation should be produced to clarify the legal framework. 
+The European Commission is about to publish some ambitious legislative proposals in the field of AI, and 
+EUCOPE and its members welcome such prioritization of AI, especially in the healthcare sector. It is 
+imperative, however, that the additional regulations or guidance documents do not represent a further 
+barrier to the adoption of AI services, but rather act as an accelerator to stimulate innovation, to the 
+benefit of the EU competitiveness, and ultimately, to the benefits of European patients. 
+Recommendations 
+EU Level 
+National level 
+Ensure appropriate incentives to foster innovation 
+Free flow of data for research purposes 
+Clear guidance on quality requirements for HTA 
+Set of criteria enabling faster reimbursement 
+13 International Council for Harmonisation of Technical Requirements for Pharmaceuticals for Human Use 
+
+Appropriate data-sharing framework to foster 
+collaboration between academia and industry 
+Clarify Intellectual Property rights 
+Provision of regulatory support from EMA and, 
+where appropriate, from ECDC 
+Provide specific training for regulatory and 
+reimbursement professionals 
+Ensure value-based assessment 
+Harmonise regulations across the Member States 
+ORGANISATIONAL AND SOCIAL CHALLENGES 
+Digitalisation and AI inclusion will require substantial investments in many areas. Such an investment 
+can prove to be burdensome and challenging for smaller biotechs and pharmaceutical companies. Without 
+proper support from external actors (public sector, investors), some medical technologies developers might 
+hesitate to make that effort, with an uncertain return on investment. 
+We, therefore, call for the European Institutions and regulatory bodies to urgently come up with unified data 
+security standard across platforms, industries, countries, etc, such that the barriers in data transfer, storage 
+and analysis can be minimized. 
+The European Union is home to leading technologies and excellence centres in the world, with 
+supercomputers, AI sandboxes environments and testing centres available. The next European Health 
+Data Space will aim to ensure data is easily transferrable and usable by many players, small and big. 
+On that basis, EUCOPE calls on the necessary collaboration between private and public stakeholders to 
+build trust for investment and ensure access to public infrastructures and capital to smaller 
+developers or companies. 
+Like any disruptive technology, the adoption of AI-based solutions very much depends on the acceptance 
+and utilization by the end-users, be it the health institutions, the healthcare professionals, the payers or the 
+patients themselves. Trust in data management, in its governance, its transparency, is paramount to full 
+adoption by the larger public. Too often we have seen new technologies being overhyped and not living to 
+the expectations because of lack of trust from the end-users. Let’s learn from past examples and make 
+sure proper training and education are in place. 
+Recommendations 
+EU Level 
+National level 
+Provide legal frameworks to ensure public trust 
+Provide specific training and education for the 
+public 
+
+Allow access to public infrastructures 
+Build a network of AI centres 
+Ensure a balanced approach to favour ethics and 
+governance without hampering innovation 
+Provide a stimulus for investments in AI, including 
+via small venture companies and academia 
+Include digital literacy in professional training and 
+education 
+Ensure coherence between local, regional fund 
+structures and EU funding programmes. 
+3. CONCLUSION 
+AI-based solutions can help upgrade our healthcare systems towards more sustainability, while 
+helping to address patients’ unmet needs. To realise this potential, it appears certain that a fit-forpurpose regulatory framework that enables safe data-sharing, accelerates the rollout of personalised 
+medicine and diagnostics solutions, and drives innovation in AI is essential. 
+Important hurdles remain for the EU to lead this race (data challenges, clear guidance on quality 
+requirements for validation processes), but the plans from the European Commission indicate a strong 
+ambition from policymakers. We believe it is paramount that any upcoming legislative steps act as an 
+accelerator to stimulate innovation, to the benefit of the EU competitiveness, and ultimately, to the 
+benefits of European patients. 
+EUCOPE – the European Confederation of Pharmaceutical Entrepreneurs 
+EUCOPE is Europe’s trade body for small to medium-sized innovative companies working in the field of 
+pharmaceuticals and medical technologies. 
+Based in Brussels, EUCOPE gives voice to more than 900 research-orientated innovative companies and 
+associations active in research, development of pharmaceuticals, biotechnologies and medical devices. 
+Many of its members are developing therapeutic solutions for persons living with a rare disease, who had 
+little to no treatment available just a few years ago.  
+For further information please contact: 
+Laurent Louette: 
+EUCOPE Communications & Public Affairs 
+louette@eucope.org 
++32 (0) 2 842 69 85 

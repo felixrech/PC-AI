@@ -1,0 +1,433 @@
+Regarding the Commission’s proposal to regulate Artificial Intelligence 
+(COM/2021/206 final) 
+The consultation response 
+The response is performed by Håkan Burden and Susanne Stenberg, senior researchers at the 
+Research Institute of Sweden, RISE (www.ri.se), working within software engineering, law 
+and policy development. We welcome the opportunity to provide feedback on the European 
+Commission’s proposal on the regulation of Artificial Intelligence. 
+The proposed regulation [1] covers several topics and is intertwined with existing and coming 
+regulations and frameworks (e.g. [8-15]), making it a steep task to see the full width of the 
+consequences. From our perspective it is still clear that numerous activities and organizations 
+will be affected if the proposal is accepted. Thus, the response has been prepared and drafted 
+based on an initial analysis on our side. In our work, we have had the opportunity to obtain 
+views from several others (e.g. researchers in computer science, regional authorities, startups, government agencies and private innovation actors). The views have been obtained 
+through seminars organized by AI.se, RISE AI agenda and industry organizations. 
+Our response tries to meet the challenge by both digging deeper into a few aspects as well as 
+taking a broader perspective by relating the proposed regulation to overarching themes. Even 
+if this is our formal response to the Commission, we do not claim to have a final analysis. To 
+fully understand the complicated network of ongoing regulation within the EU in relation to 
+digitalization and related artefacts is a moving target full of complexity, therefor this is to be 
+seen as a first step towards an analysis of the consequences that will evolve together with the 
+proposed regulations and in interaction with the relevant stakeholders. 
+Structure of the response 
+Our reply towards the proposed regulation of AI is organized as to … 
+… one, relate the motivation for a regulation of AI to the content of the proposal, 
+… two, high-light some possible consequences of the regulation in terms of innovation and 
+future investments in areas concerning AI, 
+… three, look at the effect of the regulation from a technical perspective in terms of 
+obligations for different actors within the eco-system 
+… four, illustrate how the proposed regulation could affect public governance, 
+… five, introduce the concept of sustainable development to show the limits of the proposed 
+regulation, and 
+.. six, place the proposed regulation in a broader context by the synergies with on-going 
+changes to existing regulations and the shift of who decides what within the EU. 
+These topics are not orthogonal, there are common aspects shared among the topics. The upside is that the topics raises questions worth considering when assessing the proposed 
+regulation – how do we promote sustainable innovation in regard to AI and what do we 
+perceive as sustainable innovation? Who should be responsible for what, both in terms of 
+developing and using AI-systems but also in terms of governing those activities? Which role 
+should AI play in relation to governance and digitalisation? And not least, will the proposed 
+regulation resonate with the underlying motivation? 
+
+Motivating AI regulation 
+This section views the proposed regulation in the light of how it is motivated and the 
+definitions of AI and high-risk. 
+Trust towards AI as technology 
+The Explanatory Memorandum lists four objectives with the proposed regulation (1.1): 
+1) Ensure that the AI-systems placed on the market are safe and respect fundamental 
+rights, 
+2) Create a predictable legal foundation for innovations and investments, 
+3) Broaden the governance and surveillance of existing regulations concerning 
+fundamental rights and safety requirements to encompass AI-systems, and 
+4) Facilitate a common market for legal, safe and trustworthy AI-systems as well as 
+ensure that the playing field is not fragmentised along national borders. 
+The importance of the triad health-fundamental rights-safety recurs throughout the proposal. 
+Yet the chosen areas of regulation, deducted from the proposals wording, seems to build upon 
+two, rather than three, thus prompting how come health does not need the same explicit 
+emphasis? For instance, we can see how fundamental rights are covered by points 1) and 3). 
+Annex III lists areas where the usage of AI is regarded as introducing a high risk in terms of 
+fundamental rights. We can also see how safety is covered by points 1), 3) and 4), while 
+Annex II lists products that pose a high risk in terms of safety if AI is a part of their safety 
+components. 
+It is to us unclear how the given triad motivates the chosen items listed in Annex III. For 
+instance, there is no coverage of AI systems used for distributing health services while health 
+is a key motivation for regulating AI systems. We are not arguing for or against regulating AI 
+systems within the health sector, but from our perspective the motivation and the regulated 
+activities are unaligned. Working environment is not mentioned either. The only mentioning 
+of health is in 54.1.a.ii where it says that exemptions from GDPR can be approved if it serves 
+the purposes of training an AI for proactive, controlling and/or treating diseases. Are these 
+areas already governed by existing or coming regulations, in the same way as the financial 
+sector (Memorandum 1.2)? Is health to be seen in the light of physical and psychological 
+harm (Article 5)? But health can be so much more than (the absence of) harm. Or are there 
+other reasons why health is not regulated in the same way as fundamental rights and safety? 
+Reading the proposal as it stands, it is unclear for us why health is used for motivating the 
+regulation. 
+Since infrastructure and water supplies are listed as fundamental resources in Annex III, it is 
+interesting that other fundamental resources such as agriculture and forestry are not 
+mentioned as well. AI-systems can be used for determining where and when to fertilise, when 
+to harvest or limit the waste from timbering [2]. So why are these areas not listed in Annex 
+III? If the machinery uses AI as part of the safety system, then the products would be 
+regulated according to the proposal, but not the activity they are used for. Is this by purpose? 
+It is difficult to see how the Commission motivates the scope to regulate. Is it products 
+(Annex II) and areas (Annex III) that are to be regulated and thereby ensure that health, 
+fundamental rights and safety are not compromised? Since it is not clear on what basis which 
+products and areas have been included or excluded from the annexes there is a risk that the 
+regulation is seen as covering arbitrary usage of AI instead of being a step towards a 
+systematic approach for sustainable digitalization. 
+
+Defining AI and AI systems 
+We know from talking to other actors in Sweden that the definition of AI as proposed in 
+Annex I will be scrutinised in detail. We still want to raise a perspective, in relation to the 
+ambition that regulation will improve the trust towards the technology. 
+If the definition is ambiguous or does not resonate with that of the users and/or developers 
+there is a risk that actors do not report their perspectives on the proposal, making the final 
+regulation less effective since it only reflects a subset of interests in relation to AI. An 
+ambiguous or vague definition of AI also raises the risk that relevant actors do not take the 
+regulation seriously. The usage of different definitions of AI within the EU’s work on 
+regulating AI does not make it easier to understand the scope and purpose of the proposal nor 
+how different initiatives interact with each other. See for instance the definition used by the 
+High-Level Expert Group [3] or in relation to ethics [14]. 
+The term “stand-alone” is not defined in Article 3. It is a concept of importance in the 
+proposed regulation, just as “safety component of a product or system” and “high-risk”, and 
+the proposal would benefit from a clear definition of what is referred to when the concept is 
+used. 
+High-risk systems 
+Article 6 defines what is to be regarded as a high-risk system. It contains two unclarities. The 
+first unclarity is in Article 6.1 where a word-by-word reading of the proposal gives that an 
+AI-system is to be regarded as high-risk if it both 
+a) Is a part of or is in its own right a safety component used in a product listed in Annex 
+II, and 
+b) Is a part of or is in its own right a safety component used in a product listed in Annex 
+II and requires a third party in the certification process. 
+Since all systems that fulfill b) also fulfill a), a) is either redundant or the intention is that a) 
+or b) should be fulfilled. We would like to see that the formulation is clarified to avoid 
+redundancy or to describe the distinction between a) and b). In Explanatory memorandum 
+(5.2.3) it says that an AI-system is seen as entailing high risk if it is used as part of a safety 
+component that requires the participation of a third party during certification or within an area 
+listed in Annex III. From that perspective it makes sense to delete the first sentence (a) 
+(article 6.1.a). 
+The second unclarity regarding Article 6 derives from Article 60 that refers to Article 51, that 
+refers to Article 6.2, that refers to Article 6.1 with the formulation “In addition to the highrisk AI systems referred to in paragraph 1”. Is it just the systems defined under article 6.2 that 
+are relevant for article 60, or does article 60 also refer to the systems defined under article 
+6.1? Since the interpretation of article 6.1 is open for different interpretations it is both 
+unclear if article 60 refers to the systems under article 6.1 and in turn which systems article 
+6.1 refers to. 
+The activities listed under Annex III are uncontroversial when performed by a human. The 
+regulation should make it clear why the same activities are high-risk when performed by an 
+AI, even if the outcome could be more reliable and consistent behaviour. Article 5 lists 
+activities that are prohibited to perform with an AI. The activities mentioned under Article 
+5.1 are already regulated when performed by a human. There are regulations prohibiting a 
+human from using subliminal messages to manipulate someone to harm themselves or others, 
+
+such as through commercials or the free forming of opinions. The question is then how come 
+the activities under Article 5.1 need new (more or another) regulation, is it to clarify who is 
+responsible for the effects or so that we can impose other penalties if the activities are 
+performed through an AI rather than by other means? 
+Article 16.i states that providers of high-risk AI systems should affix the CE marking to their 
+systems in accordance with Article 49. There is an underlying assumption that the marking is 
+visible in the same way it is for physical products. If the intention is that the marking will 
+have the same effect as for instance on machines, it requires that the documentation is shown 
+every time the high-risk AI system is launched which will have an impact on the user 
+experience. If the AI is embedded in a machine there will still only be one marking on the 
+product so that it is not obvious for a user or other actors that the embedded high-risk AI is 
+compliant with the regulations, perhaps not even that the product has an embedded high-risk 
+AI system. While the CE marking has had success on the market for physical products it is 
+not obvious that the concept can be applied to digital systems. Further investigations could be 
+carried out on user experience and public perception before a straight application of 
+regulations used for physical products is mandatory for digital systems. 
+We have been in touch with appointed representatives from public organisations in Sweden 
+that state that they have read the definition of AI and high-risk AI systems and do not 
+understand which systems are affected and what the consequences will be. The risk is that the 
+proposal will cause more uncertainty than it will clarify the role of AI and its usage in a 
+harmonized market. 
+The innovation system 
+In terms of the proposed regulation’s impact on the innovation system we have focused on 
+how it will affect systems governed under the Old Approach Legislation (OAL) and the New 
+Legislative Framework (NLF) as well as the role of the regulatory sandboxes. 
+Old and new regulations 
+In terms of product safety, Annex II lists both products regulated under OAL and NLF. At the 
+same time, Article 2.2 states that products regulated under OAL are exempt from the 
+proposed regulation in all respects except Article 84. However, Article 84 says nothing about 
+what is expected of actors in relation to products regulated under OAL. It is therefore unclear 
+why they are listed in Annex II and why they should comply to Article 84. 
+Since products regulated under OAL is out of scope in terms of the proposed AI regulation, a 
+manufacturer of products within both OAL and NLF can choose to focus R&D within one 
+segment to avoid the added investments needed for developing high-risk AI systems for 
+products under NLF. That could in turn result in a shift from R&D in machine safety towards 
+autonomous systems for vehicles, with a slow uptake of developed features in the NLF 
+segment despite the AI systems already being in place. Not only could the difference in how 
+the proposed regulation is implemented then have an impact on where R&D is conducted, it 
+could also have an impact on how existing safety systems are deployed between different 
+product segments. 
+The exempt for OAL from the proposed regulation is a temporal solution. Ingress (29) states 
+that “it is appropriate to amend those acts to ensure … the mandatory requirements for highrisk AI systems laid down in this Regulation when adopting any relevant future delegated or 
+
+implementing acts on the basis of those acts”. A formulation with the same intent can be 
+found in Memorandum 1.2. 
+This is not the first time that the EU has incorporated new harmonized regulation when 
+adapting or implementing acts within OAL. It has been done both for the general product 
+safety [4] as well as for the Evidence Reporting Devices (ERD) in relation to UNECEs acts 
+on vehicle types and safety. The way this has been done previously has caused both 
+uncertainty and tensions within the affected industry and actors. We have talked to 
+automotive representatives that claim it could be easier to conduct R&D outside of the EU if 
+this is the initial steps of a long-term process where regulations imply more administration 
+and market uncertainty. In terms of the ERD there are reports that when the initial US 
+initiative was implemented in a EU setting, an additional 100 new functional requirements 
+were added iteratively. New functional requirements imply new technical requirements which 
+in turn drive new negotiations and procurement procedures. One source of disturbance is 
+when compliance must be ensured in shorter loops than the manufacturers normal cadence 
+for planning and designing new products since existing agreements with suppliers become 
+obsolete and new ones have to be settled. 
+One area of products that will be covered by the proposed regulation is machines and their 
+safety systems. If you take the current version, Annex IV states that machines with devices 
+for identifying the presence of persons need third-party involvement in their conformity 
+assessment and therefore qualify for being high-risk AI systems according to Article 6.2 of 
+the proposed AI regulation. In the proposal for a new machine directory, Annex I states that 
+machines with devices for detecting the presence of persons, logical units ensuring safety 
+functions and/or AI systems ensuring safety functions need third-party involvement in the 
+conformity assessment process. Similarly, these machines are also classified as having highrisk AI systems. This means that existing machines will need to be certified according to the 
+proposed AI regulation if it is accepted as is. The question is to what extent actors on the 
+harmonised market realise the extent of the proposed regulation and what the effect will be 
+on what kind of safety systems we see on future machines. Reducing the number of safety 
+systems, or their complexity, will probably also reduce the work needed for certification. 
+The proposed regulation can therefore create different possibilities for similar market 
+segments within the EU, uncertainty among the actors, unforeseeable costs for R&D, hamper 
+market uptake of AI-based safety systems in one product segment which are available and 
+used in other segments as well as cause tension with international bodies regulating large 
+product segments such as vehicle standards and aviation. 
+Regulatory sandboxes and SMEs 
+The Commission recognizes that the proposed regulation will result in more administration 
+for the concerned actors. Small and medium sized enterprises (SMEs) will probably be more 
+affected since they lack the possibilities of larger organisations to handle the administration. 
+We agree, not least because we have heard representatives from multinational companies 
+state that regulation is beneficial since it makes the market more stable and therefore more 
+difficult to upset with innovations from SMEs. The proposed mitigation strategy is to create 
+regulatory sandboxes that allow for SMEs to hand over some of the administration to a 
+competent national authority. How the authorities will balance that responsibility with their 
+other assignments, such as market surveillance, or how to achieve a harmonized usage of 
+sandboxes across the EU is not specified. 
+
+From our perspective we wonder if there is evidence that regulatory sandboxes are an 
+effective strategy for facilitating innovation. We would like to see a more elaborate report on 
+the consequences of the regulation in terms of its effect on innovation, specifically in relation 
+to regulatory sandboxes and SMEs. 
+Another way forward would be for an SME to partner with a larger actor with the ability to 
+take the full administrative work onboard. The deal could have an impact on IP rights and 
+revenue streams which in turn could mean that the regulation serves to protect the established 
+actors on the market. The benefit for SMEs would be that they can focus on their innovative 
+ideas and make the administration of the AI system a question of commercial contracts 
+instead of a negotiation with national authorities. The latter demands another set of 
+competences that not all SMEs have made a priority to recruit. 
+The proposed regulation mentions another possibility in Article 17.2 that states that the 
+quality management system ensuring compliance with the regulation should be in relation to 
+the size of the organization. This could be used by SMEs instead of regulatory sandboxes or 
+difficult negotiations with large and established actors. But it could also be used by large 
+organisations that want to reduce their administration by relating the quality management 
+system to the size of the unit developing the AI system, not the whole organization. 
+Regulatory sandboxes is a topic we will return to from the perspective of public governance 
+further down in our response. 
+Responsibilities in a system-of-systems 
+In this section we will focus on AI systems and their development as systems-of-systems, but 
+also on AI systems as components in other systems and what effects the proposed regulation 
+can have in terms of responsibilities among and between actors. 
+System boundaries 
+A challenge for actors with the proposed regulation is that artefacts and systems developed 
+for other purposes can be used for future development of high-risk AI systems and therefore 
+covered by the regulation (Annex IV.2). It could be services and platforms providing data 
+regarding road conditions [5] or the placement of wastewater wells [6] (depending on the 
+interpretation of the definition in Annex I they might be high-risk AI systems or mere data 
+sources). If the supplied data is used for developing AI systems which can be used for 
+managing vital infrastructure like roads and water supply (Annex III) they will be part of the 
+technology chain behind the AI system and need to be administered as such. 
+The same goes for developers of models, such as digital twins, if they are used for developing 
+AI systems that are classified as high-risk systems. Providers of data regarding populations 
+face the same uncertainty if the data covers for instance taxable income, number of residents 
+at a specific address or fluctuation of property prices since they can be used to determine 
+strategies or decisions for social benefits or targeted interventions against social exclusion 
+(Annex III.5 and III.8). In the long run all providers of digital artefacts face the probability 
+that their service, data or technology will be used for developing high-risk AI and therefore 
+need to have the right documentation to conform with the regulation and avoid fines. 
+At the same time there are political initiatives that promote public authorities and actors to 
+facilitate data sharing as well as a need for digital simulations and models for societal and 
+business planning. These artefacts could be high-risk AI systems in themselves or become 
+
+parts of such systems, either as components or in the product line, which could hamper public 
+transparency and increase the risks across market segments as digital assets are withdrawn or 
+not used. 
+Regulatory scope 
+There are two concrete markets worth discussing in more detail; social platforms that can be 
+used for subliminal messages and digital artefacts used by employers and employees for 
+promoting and responding to potential employments. 
+In the case of subliminal messages, it is important to recognize that the message itself does 
+not have to be created by an AI for the regulation to be invoked. The message could be 
+designed and posted by a human and then spread by social platforms through technology 
+listed as AI in Annex I. Then that technology could fall under Article 5.1.a with subsequent 
+consequences for the responsible actor. In this way the proposed regulation can be used to 
+regulate social media and platforms. It is not clear from the proposition if the intention is to 
+regulate the responsibilities of providers of social platforms or not. 
+In the case of employments, the proposed regulation is relevant for two different scenarios. 
+The first scenario is when employers and employees use digital platforms to inform of open 
+positions if the distribution of the post is done by a technology listed in Annex I. The 
+platform is then a high-risk AI system. The same would hold if a company uses a digital 
+artefact, like an app, to distribute assignments among a set of job seekers if the distribution is 
+done by a technology listed in Annex I. The proposed regulation could then be used to 
+regulate what is known as the gig economy but also networking platforms. It is not clear from 
+the proposition if the intention is to regulate the gig economy or not, neither is it clear if 
+digital networking platforms are to be seen as high-risk AI systems. 
+Contracts and licenses 
+One way for actors to reduce or transfer their responsibilities is through contracts and 
+licenses. An open question is to what extent the proposed regulation will recognise such 
+licenses or contracts. There is a risk that such agreements could have a negative effect on the 
+willingness to use the resources or that actors enforce more restrictive terms of usage through 
+their licenses and contracts to ensure that they are not within the scope of the AI regulation. 
+Either way, the proposed regulation can result in actors being more careful in making their 
+digital assets available for other actors, hampering both innovation and business. 
+A specific concern is to what extent a supplier can negotiate their responsibilities towards a 
+buyer or end user. The question is not only in terms of if the buyer or end user will agree to 
+the terms, but also if it is within the intention of the regulation. As it is difficult for a supplier 
+to see in advance the full scope of possibilities that their service or product can be used for in 
+the future the question needs to be addressed to avoid unclear situations and expensive 
+lawsuits determining who is to pay which fines if the documentation is not conforming to the 
+proposition as it stands. 
+As an employee it is also important to know to which degree you will be personally 
+responsible for the system you are developing or using (developing in this case also refers to 
+activities concerning the resources and tools used for designing, implementing, testing and 
+maintaining the AI system). As an example, Annex IV.3.g states that all test logs should be 
+signed by a responsible person. Responsible for what is not made explicit; is it the test case, 
+running the test, the AI system, or the organization? To what extent can an employee be 
+
+responsible for the AI system and take the consequences if it does not conform to the 
+proposed regulation? To what extent can a developer or manager of one part of the AI system 
+be responsible for the system as a whole or its future usage? 
+Public governance 
+The proposed regulation will also affect public governance and could conflict with growing 
+trends of digitalization of public administration. 
+Digitalisation 
+Within public governance there are on-going attempts to make administration more effective, 
+transparent, and deterministic through digitalisation, “rule as code” [7]. The aim is to 
+automate repetitive and simple tasks so that trained personnel can focus on more demanding 
+issues and improvements. With the proposed definition of what is to be regarded as an AI 
+system (annex I) and the list of activities perceived as high-risk (annex III), one plausible 
+interpretation is that activities as the calculation of compensations for taking care of children 
+or social benefits, deciding the right to housing allowance and/or administrating congestion 
+taxes are high-risk when performed by a software system but mundane when a human carries 
+them out. In the long run this could hamper the digitalization of public governance in general, 
+and more specifically initiatives for open access and more informed decisions through 
+digitalisation, as actors refrain from using and developing systems that need to be reported 
+and certified according to the proposed regulation. 
+Another area that might be affected is the usage of databases, both for national and 
+international regulations, such as Eurlex. They could be seen as AI systems according to the 
+definition, using statistical models for optimising search results and knowledge for listing the 
+output according to relevance. So could popular search engines used to access the databases 
+through browsers. All of these systems would then need to be compliant with the proposed 
+regulation if they are to be used in public administration or judiciary. It is not given that 
+developers of search engines will comply. It could be more economically sane to reduce the 
+functionality of the systems and services within the harmonized market or challenge the 
+applicability of the regulation for their products and services, leading to a public debate that 
+not necessarily would increase the public trust in AI as a technology or how it is regulated 
+within the EU. 
+Regulatory sandboxes and national competent authorities 
+Article 3.43 defines the concept of “national competent authority” as “the national 
+supervisory authority, the notifying authority and the market surveillance authority”. It might 
+be the case that all three functions will not be carried out by one and the same national 
+authority. Specifically, since different authorities already are responsible for the product 
+safety of toys and medical devices at a national level and both market segments will be 
+affected by the proposed regulation in general, but also more specifically in relation to the 
+regulatory sandboxes. 
+It is an open question if the national authorities should be aligned so that they implement the 
+surveillance in the same fashion, to the same level of detail for the same aspects regardless of 
+the AI system being a safety component in a machine, a toy, radio equipment or medical 
+devices. If they are to be aligned on national level, how will the same alignment be organized 
+de facto between national authorities? If they are not aligned, it might be easier to place R&D 
+in one member state rather than the others for quicker and easier compliance with the 
+
+proposed regulation, which could have a negative effect on product safety and trust but yield 
+positive effects in terms of investments and job opportunities on national level. 
+Since it is the national competent authorities that decide on the usage of regulatory sandboxes 
+it is also important that each authority is aware of who can establish a regulatory sandbox for 
+which AI system. 
+Raising our heads 
+The task of analyzing the proposed regulation and its possible effects is daunting. There are 
+interactions with other regulations, either as they stand today [4,8] or might be formulated in 
+the future [11,12,13,15], across diverse activities such as the production of toys, social 
+interaction on digital platforms and public governance. To grasp the full picture and describe 
+the most important issues at hand requires both time and resources. 
+It is therefore difficult to determine what the impact of the regulation will be in terms of 
+innovation, public governance, and trust. There are aspects on how SMEs will fare in relation 
+to large and established actors where the regulation could serve to hamper innovation but also 
+lead to new kinds of partnerships and business opportunities. There are aspects of how the 
+regulation can hamper open access to public assets, the usage of digital services and products 
+in public governance as well as the relationship between national governance and the EU 
+institutions. If these aspects are not resolved in a satisfactory manner there can be 
+implications on public trust, not necessarily towards AI as technology but towards the 
+regulation as such and the intensions to regulate AI as technology. 
+We have so far mainly focused on the content of the proposed regulation. If we instead look 
+at what is not in the proposition, there is one global aspect missing – sustainable 
+development. The impact of AI on sustainable development is substantial. If one wants to, 
+you can see an attempt to address some of the social aspects in the current proposal, such as 
+in article 5 and annex III. Some of the economical sides can also be identified by a willing 
+eye in terms of annex II and article 6. There are of course more examples of where 
+sustainable development can be induced from the proposition. 
+However, it is far more difficult to see any attempt to regulate the climate impact of AI. Still, 
+there is an opportunity to align the visions of leading responsible digitalization and 
+sustainable development. The question is why the opportunity has not been grasped? Is it 
+because it is too difficult to determine the amount of resources used for AI development and 
+how to regulate that consumption? Or is it too sensitive? There might be many, and more, 
+reasons, so stating a clear intent in terms of how AI and sustainable development are to be 
+aligned within the harmonized market would reduce the uncertainty. Regulating how AI is 
+used within sustainable development is a complex task but if the regulation is going to serve 
+its objectives and fit in with the needs of today and future generations it needs to be 
+addressed. If not now, when? 
+References 
+[1] Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE 
+COUNCIL LAYING DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE 
+(ARTIFICIAL INTELLIGENCE ACT) AND AMENDING CERTAIN UNION 
+LEGISLATIVE ACTS COM/2021/206 final 
+
+[2] Garske B, Bau A, Ekardt F. Digitalization and AI in European Agriculture: A Strategy for 
+Achieving Climate and Biodiversity Targets? Sustainability. 2021; 13(9):4652. 
+https://doi.org/10.3390/su13094652 
+[3] High-Level Expert Group on Artificial Intelligence, A Definition of AI: Main Capabilities 
+and Disciplines, Apr. 8, 2019 
+[4] Directive 2001/95/EC of the European Parliament and of the Council of 3 December 2001 
+on general product safety 
+[5] Swedish Transport Administration, API, https://api.trafikinfo.trafikverket.se/API/Model 
+[6] Naturvårdsverket, Avloppsreningsanläggningens utsläppspunkter - utsläppspunkter av 
+avloppsvatten (Urban Waste Water Directive, 91/271/EEG), 
+https://oppnadata.naturvardsverket.se/dataportaldetails.html#esc_entry=10563&esc_context=69&esc_org=http%3A%2F%2Fdataportal.se%2Forganisation%2FSE2021001975 
+[7] Mohun, J. and A. Roberts (2020), "Cracking the code: Rulemaking for humans and 
+machines", OECD Working Papers on Public Governance, No. 42, OECD Publishing, Paris, 
+https://doi.org/10.1787/3afe6ba5-en. 
+[8] Regulation (EU) 2019/881 of the European Parliament and of the Council of 17 April 
+2019 on ENISA (the European Union Agency for Cybersecurity) and on information and 
+communications technology cybersecurity certification and repealing Regulation (EU) No 
+526/2013 (Cybersecurity Act) (Text with EEA relevance) PE/86/2018/REV/1 
+[9] Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 
+2016 on the protection of natural persons with regard to the processing of personal data and 
+on the free movement of such data, and repealing Directive 95/46/EC (General Data 
+Protection Regulation) (Text with EEA relevance) 
+[10] Directive (EU) 2019/1024 of the European Parliament and of the Council of 20 June 
+2019 on open data and the re-use of public sector information PE/28/2019/REV/1 
+[11] Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE 
+COUNCIL on a Single Market For Digital Services (Digital Services Act) and 
+amending Directive 2000/31/EC COM/2020/825 final. 
+[12] Proposal for a Regulation on European data governance (Data Governance Act) 
+COM/2020/767 
+[13] Proposal for a REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE 
+COUNCIL on contestable and fair markets in the digital sector (Digital Markets Act) 
+COM/2020/842 final 
+[14] European Parliament resolution of 20 October 2020 with recommendations to the 
+Commission on a framework of ethical aspects of artificial intelligence, 
+robotics and related technologies, 2020/2012(INL). 
+
+[15] European Commission, Proposal for a Regulation of the European Parliament and of the 
+Council on machinery products, COM(2021)202, 21 April 2021 

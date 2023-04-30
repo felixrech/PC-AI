@@ -1,0 +1,159 @@
+About the FFA 
+The French Insurance Federation (FFA) represents 280 insurance and reinsurance companies operating in France, accounting for over 
+99% of the French insurance market. We represent the interests of insurers to national, European and international public authorities; to 
+institutions and to administrative or local authorities. We produce and make available statistical data essential to the industry and provide 
+information for the general public and the media. The French Insurance Federation also contributes in raising the awareness and 
+attractiveness of the industry by promoting insurance and risk management culture. FFA is a member of Insurance Europe and GFIA. 
+In an ever-changing environment, faced with the emergence of new political, economic, social, technological and environmental risks, the 
+French insurance industry constantly innovates to be more competitive, support the economy and extend the boundaries of insurability. 
+FEEDBACK OF THE FFA ON THE EUROPEAN COMMISSION’S AI 
+ACT PROPOSAL 
+The use of AI offers key economic, societal, and competitive advantages to European citizens and 
+businesses. An appropriate ethical and legal framework based on European values, and which is in 
+line with the EU Charter of Fundamental Rights, will allow the roll out of a trustworthy and useful 
+European and non-European AI uses in the EU. This framework must be created at European level 
+to avoid fragmentation in the single market, ensure fair competition and protect European citizens 
+and businesses from unreliable AI. 
+The use of algorithms is essential in insurance. Algorithms are at the heart of the actuarial science 
+supporting the calculation of premiums, the determination of claims or the computation of reserves 
+and AI can significantly improve operational efficiency and customer experience. The use of artificial 
+intelligence in insurance is not new. For a very long time, insurers have been using algorithms for a 
+wide range of purposes: from marketing or email classification to risk assessment. Each use relies 
+on very different forms of AI: AI for automatic character recognition; internal automation processes; 
+consumer relationship and assisting system such as chatbots. Insurance is a large industry with a 
+variety of activities, AI fits at various parts of the insurance value chain. Innovation represents an 
+opportunity for insurers and policyholders to strengthen their relationship thanks to faster, more 
+efficient, and better suited services. In accordance with EU values and rules, insurers can use AI to 
+go further in services personalization to the benefit of policyholders. 
+As early adopters, insurers are keen to ensure a high level of protection in the use of AI. They are 
+already ensuring that European fundamental rights are respected while applying the numerous rules 
+governing insurance (insurance regulations, GDPR, etc.) and industry initiatives on ethics and on 
+bias management, the explicability of AI results, transparency of algorithms, etc. 
+Therefore, the French Insurance Federation (FFA) supports the implementation of a framework for 
+an ethical use of AI: human-centric, unbiased, transparent, explainable, and secure. French insurers 
+welcome the Commission's proposal for a risk-based regulatory framework with differentiated rules 
+according to the risks presented by AI uses that makes it possible to encourage technological 
+innovation, while guaranteeing European values. However, FFA believes that the introduction of a 
+Date: 06 08 2021 
+EU Transparency Register No. 5149794935-37 
+
+regulation establishing harmonized rules on AI requires a very clear and precise definition of several 
+notions: the definition of an AI system, the notion of negative impact and the difference from the 
+concept of fundamental rights infringement as well as a precise definition of the actors of AI. Indeed, 
+on this last point, insurers insist on the need to clearly define the role of each actor in the AI value 
+chain in order to better identify responsibilities of each one of them. 
+French insurers are grateful for the opportunity to share their views and contribute to the European 
+Commission consultation. 
+On the classification of high-risk AI systems 
+Access to and enjoyment of essential private services and public services and benefits 
+FFA agrees with the objective of ensuring access to and use of public and private services. A relevant 
+classification of high-risk AIs is essential to ensure that the activities of private companies providing 
+essential services are not inappropriately impaired. Insurers call for a commitment from the EC to 
+ensure that the list of high-risk AIs always shows a correct balance between consumer protection 
+and a framework conductive to innovation. 
+The criteria for updating the list of high-risk AI areas 
+The FFA welcomes the possibility to update the list of high-risk AI areas according to different criteria 
+in order to keep the text evolving. However, the FFA stresses the need to clearly define the notion 
+of impact on fundamental rights and to distinguish it from other impacts (e.g. economic) which may 
+constitute a negative impact without affecting fundamental rights. As a reminder, and as underlined 
+in the report of the High-Level Expert Group on AI, various aspects related to innovation such as AI 
+are already strongly regulated in Europe (e.g. GDPR, non-discrimination rules). Moreover, according 
+to core principles of insurance such as non-discrimination and mutualization, we believe 
+policyholders are already protected adequately from fundamental rights violations such as exclusion. 
+On the obligations of AI operators 
+Transparency 
+FFA believes that companies should use the concept of explainable AI which presents the decisionmaking process of an AI to users in a transparent way. According to the EU High Level Experts 
+Group and the OECD, explicability is one of the principles that underpin a responsible approach to 
+trustworthy AI. When talking about the explicability of an AI system, all components are concerned: 
+the input data (the training data), the model and the output data (the results, the predictions). The 
+criteria for transparency introduced in Art. 52 of the proposal should perhaps be defined more 
+precisely. The notion of explicability should be given priority in the regulation. (cf. “Transparency and 
+information of users”, Art 13) 
+Human focused 
+Human control must be adapted, i.e. carried out by technical profiles (data scientists) but also 
+business profiles or a new specialized professionals (e.g. an expert). Human control must be done 
+in a proportionate way (e.g. by sampling) so as not to lose the benefits of automation, obtained 
+through AI. Moreover, in a logic of continuous improvement of quality, AI use in real situation must 
+be supervised (model monitoring). Therefore, FFA welcomes rules on technical documentation 
+(Art.11) and the need of human control (Art.14). The need for human control has already been noted 
+by many French bodies (e.g. the French High Authority for Health). 
+Quality datasets 
+
+Regarding the requirement to use quality datasets, the proposal foresees the use of error-free 
+datasets, which is disproportionate and unworkable in practice. The requirement for an error-free 
+dataset is even contrary to the notion of AI, which conceptually incorporates this ability to replicate 
+human analysis. The notion of reliability and long-term control of a dataset should be privileged. 
+Recording keeping 
+Article 12 of the proposal provides for an obligation to automatically record events during the 
+operation of high-risk AIs. Although relevant, this obligation needs to be clarified (terms, duration, 
+etc.) and to consider practical impossibilities: the difficulty of versioning data, the storage of heavy 
+data which can be too voluminous. 
+Access to the source code of AI systems & Information 
+For high-risk AI, Art. 64 of the proposal provides the possibility for supervisory authorities to require 
+access to the source code of AI systems for compliance monitoring. This requirement should be 
+reviewed for cyber security reasons, a traceability or explicability requirement seems more 
+proportionate and relevant. 
+Beyond access to the source code, in a logic of transparency, it seems important that the user is 
+informed that he interacts with an AI as a chatbot. Of course, they must also have the choice and 
+the possibility to be redirected to a human if they wish. 
+Other comments 
+The articulation with other texts and existing supervisory bodies 
+Insofar as data are very important for the development of AI, it is necessary to articulate the proposal 
+for a regulation on AI with European texts relating to data already in force or under discussion 
+(GDPR, Data Governance Act, Data Act, etc.) as well as with the competence of supervisory bodies 
+in order to ensure the complementarity of legislative environment. A proper interplay between all 
+legal tools is crucial to ensure that there are no inconsistencies or overlapping obligations (accessing 
+to, processing and sharing of data, obligations regarding its reliability, sanctions, etc.). Indeed, FFA 
+wonders about the impact that the creation of a new supervisory body would lead to, especially 
+regarding the risk of significant legal uncertainty for all users due to associate political prerogatives 
+and potentially conflicting conclusions with those of other European bodies. 
+The European Community labelling 
+FFA is in favor of the labelling of AI systems and its harmonization at EU level but expresses 
+concerns about the articulation of these new certification requirements with the standardization tools 
+already in place (ISO standards, EC marking, Machinery Directive, etc.) in order to not confuse users 
+and for small player to remain competitive. FFA which underlines that the implementation of labels 
+AI raises the issue of developing a costly and hard to fit label for small actors. Such system would 
+then only benefit to well-established companies or large companies active in other market sectors. 
+Moreover, with the increasing development of AI systems, a labelling of each AI system would 
+represent a huge labelling task. A solution could be for the EU to encourage labelling by providing a 
+clear, simple and inexpensive model of label. As an example, the French National Institute of 
+Intellectual Property (INPI) has launched a labelling and recognition mechanism easy to process and 
+at extremely limited costs. Furthermore, the European Union could propose a system of labelling of 
+companies’ processes which allow an AI to be labelled if it responds to the labelled process. 
+The conformity assessment 
+FFA welcomes self-assessment compliance and third-party compliance schemes for certain types 
+of AI. AI is used in many fields for general use cases (e.g. office automation) or very specialized 
+ones (e.g. automotive expertise through AI). The use of AI systems differs according to the type of 
+
+activity. Each sector ultimately has its own field of activity, which puts it in a position where it has the 
+tools and knowledge to assess the compliance of the AI system it is about to use for its activities 
+with horizontal legislation. Indeed, among the various advantages of a self-assessment system is its 
+adaptation to the entity's activity. However, to ensure a uniform assessment at European level, selfassessment should be based on common basic criteria. 
+The liability insurance for conformity assessment bodies 
+Insurers call for clarification of the meaning and implications of the term "appropriate" in order to 
+avoid the consequences of scenario where liability turns out not to be "appropriate". 
+In conclusion, FFA believes that AI solutions offer opportunities that must be seized 
+in order to provide useful, safe and innovative products and services to 
+policyholders. The development of AI must be done in compliance with European 
+values. Insurers are convinced that a certain number of existing rules already frames 
+the use of AI but that the Artificial Intelligence Act can give more clarification, 
+provided that it does not slow down innovation and the adoption of AI by European 
+companies as well as not add any disproportionate layer of regulation introducing 
+irrelevant obligations. It is, thus, necessary to consider the extensive legislative 
+framework already regulating to the insurance sector (GDPR, IDD, legislation specific 
+to different types of insurance contracts, etc.). Finally, EU must pay attention to 
+maintain a proportionality in the regulation in order to make Europe a pole of 
+excellence and trust in AI (e.g. risk of becoming less efficient than outside the EU). 
+Contacts 
+Jérôme BALMES 
+Director for Digital and Innovation 
+26 Boulevard Haussmann 
+75311 Paris Cedex 09 
+France 
+Phone: +33 1 42 47 93 30 
+Stéphane de MAUPEOU 
+Head of European Office 
+Rue du Champ de Mars 23 
+1050 Brussels 
+Belgium 
+Phone: +33 1 42 46 92 24 

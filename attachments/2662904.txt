@@ -1,0 +1,241 @@
+Draft of the EU Commission on a European AI regulation 
+(Artificial Intelligence Act) 21 April 2021 
+Established in 1947, the Commission nationale consultative des droits de l’Homme 
+(CNCDH) [National Advisory Commission on Human Rights] is a national institution which 
+promotes and protects human rights in France, as defined by the United Nations. It is 
+accredited with A status by the United Nations, which attests to its compliance with the Paris 
+Principles. The CNCDH is thus recognised as an independent institution with a pluralist 
+operation and broad mandate for promoting and protecting human rights. Through its 
+opinions, studies and recommendations, it independently plays an advisory role and makes 
+proposals to Government and Parliament in matters of human rights, international 
+humanitarian law and humanitarian action. It makes a major contribution to international 
+mechanisms for monitoring France’s international commitments, interacting with United 
+Nations bodies and those of the Council of Europe. It participates in monitoring and 
+evaluating a number of public policies relating to rights protected by European and 
+international human rights conventions. 
+For several years, the CNCDH has been interested in certain artificial intelligence 
+applications. It recently published an opinion on preventing online hate, which includes 
+developments on how moderation algorithms work. Next November, it will give a more 
+general opinion on the impact of artificial intelligence on human rights. 
+The CNCDH welcomes the proposal for a regulation from the European Commission 
+establishing a regulatory framework for artificial intelligence. It has developed considerably in 
+recent years, as much in the private as in the public sector, with no specific and appropriate 
+legal framework. In order to remedy this, the draft regulation sets a number of requirements 
+“to foster the development, use and uptake of artificial intelligence in the internal market that 
+at the same time meets a high level of protection of public interests, such as health and 
+safety and the protection of fundamental rights, as recognised and protected by Union law” 
+(recital 5). 
+On reading the document and its annexes, the primary objective of the text is to help 
+develop the European AI market, primarily targeting economic and government actors 
+(suppliers, distributors, users). It lays down requirements for them that vary according to the 
+level of risk posed by the AI applications considered. Regarding the guarantees granted to 
+individuals in relation to an AI system – a user or person targeted by an algorithm, the draft 
+regulation refers to other EU texts, in particular the General Data Protection Regulation 
+
+(GDPR). Finally, the CNCDH regrets the lack of consideration of fundamental rights within 
+this draft regulation and wishes to make some observations on this subject. 
+The legitimisation of measures that violate fundamental rights 
+The draft regulation prohibits a number of AI applications deemed to be contrary to 
+EU values, in particular fundamental rights (art. 5). 
+However, the CNCDH questions the limited scope of certain restrictions, as well as 
+the absence of restrictions with regard to several types of AI use. 
+First of all, although the draft regulation lays down a prohibition in principle on the use 
+of “real-time” remote biometric identification systems in publicly accessible spaces for the 
+purpose of law enforcement, it allows a number of exceptions. The third in particular (iii) is 
+especially concerning: by authorising the use of facial recognition, in particular, for the 
+purposes of detection, localisation, identification or prosecution of a perpetrator or suspect, 
+for more than thirty criminal offences​The AI Act refers to Article 2 (2) of the Council Framework Decision of 13 June 2002 on the 
+European arrest warrant and the surrender procedures between Member States. ​ , the draft regulation calls into question the theoretical 
+prohibition initially stated. 
+This wide use of remote biometric identification technologies established by the 
+European Commission departs from the recommendations made by certain international 
+bodies. In its guidelines on facial recognition, the Consultative Committee of the Convention 
+for the Protection of Individuals with regard to Automatic Processing of Personal Data 
+(Council of Europe) considers that, in public spaces, “the use of live facial recognition 
+technologies in uncontrolled environments, in light of the intrusiveness it bares upon the right 
+to privacy and the dignity of individuals, coupled with a risk of adverse impact on other 
+human rights and fundamental freedoms, should be subject to a democratic debate on its 
+use and the possibility of a moratorium pending complete analysis”. ​Guidelines on Facial Recognition, 28 January 2021. ​  
+More recently, in a joint opinion on the draft regulation, the European Data Protection 
+Supervisor and the European Data Protection Board called on the Commission to stick to a 
+general ban on facial recognition. ​Joint Opinion 5/2021 on the proposal for a regulation laying down harmonised rules on artificial 
+intelligence, 18 June 2021. ​  
+Due to the impact on fundamental rights and freedoms of a technology that is still 
+very uncertain, which particularly calls into question the anonymity guaranteeing the actual 
+exercise of these rights in public spaces, the CNCDH fully supports these recommendations. 
+Moreover, the draft regulation does not prohibit the use of AI for the purpose of 
+detecting people’s emotions. The draft regulation mentions this type of use in Annex 3, which 
+lists the “high-risk AI systems” subject, as such, to a number of requirements. In doing so, it 
+gives a form of legitimacy to measures that are particularly detrimental to fundamental rights 
+and freedoms. By deducing the mental state of a witness or suspect, or even an asylum 
+seeker, from the results of emotion recognition technology, again far from being infallible, it is 
+the word of the person and their dignity which are called into question. 
+
+In the interest of respecting human dignity and fundamental rights such as the 
+presumption of innocence or the right to asylum, the CNCDH recommends banning the use 
+of emotion detection applications by law enforcement agencies. More broadly, the CNCDH 
+agrees with the wish expressed by the Convention 108 Committee to ban this type of 
+software for restricting access to goods and services, as well as employment. ​Guidelines on Facial Recognition, 28 January 2021. ​  
+The CNCDH more generally asks the Commission to initiate the development of more 
+specific studies on the impact of AI on fundamental rights, both across the board and by 
+activity sector, before considering a general marketing authorisation for a given application. 
+Few guarantees of respect for fundamental rights 
+The draft regulation only refers to a few rights for people interacting with an AI system 
+or targeted by it: in the event of interacting with software, only the right for an individual to be 
+informed is expressly provided for unless the AI is used for the purpose of preventing or 
+prosecuting an offence (art. 52). In addition, the text stipulates that any decision made on the 
+basis of results from a remote biometric identification system shall be verified and confirmed 
+by two natural persons (art. 14). The CNCDH is concerned about the few rights thus 
+recognised, and the particularly restricted scope of the second requirement. 
+The text certainly takes care to refer to other reference texts, in particular GDPR. 
+However, the reference to the latter does not seem sufficient for several reasons. 
+Firstly, if the data is not personal, or if it feeds an AI system after an anonymisation 
+process, GDPR no longer applies. 
+Secondly, GDPR does not necessarily provide sufficient guarantees to protect 
+people’s fundamental rights, including the right to non-discrimination. For example, it 
+provides that a person “shall have the right not to be subject to a decision based solely on 
+automated processing” (Art. 22 of GDPR). Regardless of the possibilities permitted for 
+departing from this right (in particular if the person consents), the mere reference to human 
+intervention is not sufficient: it should further specify the procedures for human confirmation 
+of a decision having an impact on a person’s situation or rights. 
+The uncertain transposition of fundamental rights into technical standards 
+The CNCDH wonders how the standardisation bodies, first and foremost the 
+European Committee for Electrotechnical Standardization (CENELEC), will transpose the 
+requirements related to fundamental rights into standards. Concerns about standardisation 
+and the development of standards also apply to the assessment of the conformity of AI 
+applications to these standards by notified bodies in charge of conformity assessment. The 
+latter, familiar with standardised control procedures, and intervening ex ante, before the 
+marketing authorisation, will not necessarily have the skills to detect negative effects on 
+fundamental rights that may occur belatedly. 
+Either because this impact has not been sufficiently anticipated upstream, or – and 
+this is a risk specific to AI – because, by its very mode of operation, when the technology 
+used is based on deep learning, the algorithm is not defined definitively, but is likely to evolve 
+in a direction unforeseeable at the time of its design. 
+
+Draft of the EU Commission on a European AI regulation 
+(Artificial Intelligence Act) 21 April 2021 
+Créée en 1947, la Commission nationale consultative des droits de l’Homme 
+(CNCDH) est l’Institution nationale de promotion et de protection des droits de l’Homme 
+française au sens des Nations unies. Elle est accréditée de statut A par les Nations unies, ce 
+qui atteste sa conformité aux Principes de Paris. La CNCDH est ainsi reconnue comme une 
+institution indépendante, au fonctionnement pluraliste, et ayant un mandat large de 
+promotion et de protection des droits de l’Homme. Par ses avis, ses études et ses 
+recommandations, elle assure, de manière indépendante, un rôle de conseil et de 
+proposition auprès du Gouvernement et du Parlement en matière de droits de l’Homme, de 
+droit international humanitaire et d’action humanitaire. Elle contribue largement aux 
+mécanismes internationaux de surveillance des engagements internationaux de la France, 
+interagissant avec les organes des Nations unies et avec ceux du Conseil de l’Europe. Elle 
+participe au contrôle et à l’évaluation de nombre de politiques publiques se rapportant aux 
+droits protégés par les conventions européennes et internationales des droits de l’Homme. 
+Depuis plusieurs années, la CNCDH s’intéresse à certaines applications de 
+l’intelligence artificielle. Elle a récemment publié un avis relatif à la lutte contre la haine en 
+ligne (voir également le focus sur ce sujet dans son dernier rapport sur le racisme, 
+l’antisémitisme et la xénophobie) qui inclue des développements sur le fonctionnement des 
+algorithmes de modération. En novembre prochain, elle adoptera un avis plus général sur 
+l’impact de l’intelligence artificielle sur les droits de l’Homme. 
+La CNCDH salue la proposition de règlement de la Commission européenne 
+établissant un cadre de régulation en matière d'intelligence artificielle. Cette dernière s’est 
+considérablement développée ces dernières années, autant dans le secteur privé que dans 
+le public, sans encadrement légal spécifique et approprié. Afin d’y remédier, le projet de 
+règlement fixe un certain nombre d’exigences afin de « favoriser le développement, 
+l'utilisation et l'adoption de l'intelligence artificielle dans le marché intérieur, tout en 
+respectant un niveau élevé de protection des intérêts publics, tels que la santé et la sécurité 
+et la protection des droits fondamentaux, tels que reconnus et protégés par le droit de 
+l'Union » (cons. 5). 
+A la lecture du document et de ses annexes, le texte se présente avant tout pour 
+contribuer au développement du marché européen de l’IA, en visant essentiellement les 
+acteurs économiques et étatiques (fournisseurs, distributeurs, utilisateurs). Il pose des 
+
+exigences à leur égard qui varient en fonction du niveau de risque présenté par les 
+applications d’IA envisagées. S’agissant des garanties accordées aux personnes en relation 
+avec un système d’IA – un utilisateur ou une personne visée par un algorithme, le projet de 
+règlement renvoie à d’autres textes de l’UE, en particulier le RGPD. En définitive, la CNCDH 
+regrette la faible prise en compte des droits fondamentaux au sein de ce projet de 
+réglementation, et souhaite formuler quelques observations à ce sujet. 
+La légitimation de dispositifs attentatoires aux droits fondamentaux 
+Le projet de règlement prohibe un certain nombre d’application de l’IA, jugées 
+contraires aux valeurs de l’UE, notamment aux droits fondamentaux (art. 5). 
+La CNCDH s’interroge toutefois sur la portée limitée de certaines interdictions, ainsi 
+que sur l’absence de prohibition à l’égard de plusieurs types d’utilisation de l’IA. 
+Tout d’abord, bien que le projet de règlement pose une interdiction de principe à 
+l’utilisation de systèmes d'identification biométrique à distance "en temps réel" dans des 
+espaces accessibles au public, à des fins de préservation de l’ordre public, il admet un 
+certain nombre d’exceptions. La troisième en particulier (iii) est particulièrement 
+préoccupante : en autorisant l’utilisation de la reconnaissance faciale, notamment, à des fins 
+de détection, de localisation, d'identification ou de poursuite d'un auteur ou d'un suspect, 
+pour plus d’une trentaine d’infractions pénales​Le Règlement renvoie à l’article 2 (2) de la Décision-cadre du Conseil du 13 juin 2002 relative au 
+mandat d'arrêt européen et aux procédures de remise entre États membres. ​ , le projet de règlement remet en cause 
+l’interdiction de principe affirmée de prime abord. 
+Cette large utilisation de technologies d’identification biométrique à distance 
+consacrée par la Commission européenne s’écarte des préconisations formulées par 
+certaines instances internationales. Dans ses lignes directrices sur la reconnaissance 
+faciale, le Comité consultatif de la convention pour la protection des personnes à l’égard du 
+traitement automatisé des données à caractère personnel (Conseil de l’Europe) estime que, 
+dans les espaces publics, « le recours aux technologies de reconnaissance faciale à la volée 
+devrait être soumis à un débat démocratique comprenant la possibilité d’un moratoire en 
+attendant une analyse complète du fait de leur nature intrusive pour la vie privée et la dignité 
+des personnes, ajouté à un risque d’impact préjudiciable sur d’autres droits de l’Homme et 
+libertés fondamentales ». ​Lignes directrices sur la reconnaissance faciale, 28 janvier 2021. ​  
+Plus récemment, dans un avis conjoint relatif au projet de règlement, le Contrôleur et 
+le Comité européen de la protection des données, ont appelé la Commission à s’en tenir à 
+une interdiction générale de la reconnaissance faciale. ​Avis conjoint 5/2021 sur la proposition de règlement établissant des règles harmonisées sur 
+l’intelligence artificielle, 18 juin 2021. ​  
+En raison de l’impact sur les droits et libertés fondamentaux d’une technologie encore 
+très incertaine, qui remet tout particulièrement en cause l’anonymat garant de leur exercice 
+effectif dans l’espace public, la CNCDH souscrit pleinement à ces recommandations. 
+Le projet de règlement ne prohibe pas, par ailleurs, l’utilisation de l’IA aux fins de 
+détection des émotions des personnes. Le projet de règlement mentionne ce type d’usage 
+
+dans son annexe 3, qui dresse la liste des systèmes d’IA à haut risque – soumis, en tant que 
+tels, à un certain nombre d’exigences. Ce faisant, il accorde une forme de légitimité à des 
+dispositifs particulièrement attentatoires aux droits et libertés fondamentaux. En déduisant 
+l’état mental d’un témoin ou d’un suspect, ou encore d’un demandeur d’asile, à partir des 
+résultats d’une technologie de reconnaissance des émotions, là encore loin d’être infaillible, 
+c’est la parole de la personne et sa dignité qui sont remises en cause. 
+Au nom du respect de la dignité humaine, et des droits fondamentaux tels que la 
+présomption d’innocence ou le droit d’asile, la CNCDH recommande d’interdire l’utilisation 
+des applications de détection des émotions par les forces de l’ordre. Plus largement, la 
+CNCDH rejoint la volonté exprimée par le Comité de la Convention 108 d’interdire les 
+logiciels de ce type pour conditionner l’accès aux biens et services, ainsi qu’à l’emploi. ​Lignes directrices sur la reconnaissance faciale, 28 janvier 2021. ​  
+La CNCDH invite plus généralement la Commission à initier l’élaboration d’études 
+plus précises sur l’impact de l’IA à l’égard des droits fondamentaux, tant d’un point de vue 
+transversal que par secteurs d’activité, avant d’envisager une autorisation générale de mise 
+sur le marché de telle ou telle application. 
+De rares garanties du respect des droits fondamentaux 
+Le projet de règlement ne consacre que très peu de droits au bénéfice des personnes 
+interagissant ou visées par un système d’IA : en cas d’interaction avec un logiciel, seul le 
+droit pour la personne d’en être informée est expressément prévu – sauf si l’IA est utilisée à 
+des fins de prévention ou de poursuite d’une infraction (art. 52). Par ailleurs, le texte 
+subordonne à la vérification et à la validation de deux personnes toute décision prise à partir 
+des résultats d’un mécanisme d’identification biométrique à distance (art. 14). La CNCDH 
+s’inquiète du peu de droits ainsi reconnus, et du champ d’application particulièrement 
+restreint de la seconde exigence. 
+Le texte prend certes le soin de renvoyer à d’autres textes de référence, en particulier 
+le RGPD. Ce dernier ne paraît cependant pas suffisant pour plusieurs raisons. 
+D’abord, si les données ne sont pas personnelles, ou si elles alimentent un système 
+d’IA au terme d’un processus d’anonymisation, le RGPD n’est plus applicable. 
+Ensuite, le RGPD n’offre pas nécessairement les garanties suffisantes pour protéger 
+les droits fondamentaux des personnes, y compris le droit à la non-discrimination. Il prévoit 
+par exemple qu’une personne « a le droit de ne pas faire l'objet d'une décision fondée 
+exclusivement sur un traitement automatisé » (art. 22 du RGPD). Indépendamment des 
+possibilités admises de déroger à ce droit (notamment si la personne y consent), la simple 
+référence à une « intervention humaine » n’est pas suffisante : il conviendrait de préciser 
+davantage les modalités de validation par l’humain d’une décision ayant une incidence sur la 
+situation ou les droits d’une personne. 
+La transposition incertaine des droits fondamentaux dans les normes 
+techniques 
+La CNCDH s’interroge sur la manière dont les organismes de normalisation, au 
+premier rang desquels le CENELEC, traduiront dans les normes techniques les exigences 
+
+relatives aux droits fondamentaux. Les inquiétudes vis-à-vis de la normalisation et de 
+l’élaboration des normes harmonisées, valent également pour l’évaluation de la conformité 
+des applications de l’IA à ces normes par des organismes de certification. Ces derniers, 
+rompus à des procédures de contrôle standardisées, et intervenant ex ante, avant 
+l’autorisation de mise sur le marché, ne disposeront pas nécessairement des compétences 
+pour détecter des effets négatifs sur les droits fondamentaux susceptibles de survenir 
+tardivement. 
+Soit parce que cet impact n’a pas été anticipé suffisamment en amont, soit – et c’est 
+un risque spécifique à l’IA – parce que, par son mode de fonctionnement même, lorsque la 
+technologie utilisée repose sur un mécanisme d’apprentissage renforcé (deep learning), 
+l’algorithme n’est pas défini une fois pour toute, mais susceptible d’évoluer dans un sens 
+imprévisible au moment de sa conception. 

@@ -1,0 +1,73 @@
+Deutsche Börse Group 
+Comments on the European Commission´s legislative proposal for 
+harmonised rules on Artificial Intelligence (Artificial Intelligence Act) and 
+amending certain Union legislative acts 
+Frankfurt am Main, 6 August 2021
+
+Introduction 
+Deutsche Börse Group (DBG) in its capacity as a financial market infrastructure provider uses 
+modern IT and technological solutions to operate, and service the financial sector worldwide. 
+DBG’s technologies are at the core of its operations and are an integral part of the regulated 
+services we operate. We ensure the efficient functioning of markets, including but not limited to 
+market data, trading, provision of indices, clearing, securities custody. 
+DBG clearly sees the advantages of new technologies and is actively seeking to use them. We 
+have been familiar with the handling of critical and confidential financial market data for decades 
+and we understand very well the risks associated with a significantly increased use of data. We 
+are currently working on the use of cloud technology and distributed ledger technology (DLT) / 
+blockchain as well as automation of processes. We use these technologies in a rather gradual, 
+granular and tested manner, hence continuing to guarantee transparency, stability and investor 
+protection at all times. Therefore, the AI regulation is an important topic for our current and future 
+activities. 
+We welcome the European Commission´s (EC) legislative proposal, which embeds AI in a proper 
+regulatory framework. From a regulatory perspective, we advocate effective risk management, 
+especially since fundamental prohibitions on use would only lead to a significant competitive 
+disadvantage compared to markets and jurisdictions with a more liberal approach to data and big 
+data technologies. 
+Instead, responsible and trustworthy handling of financial data and develop safe AI solutions 
+should be promoted by creating a secure (i.e. financial) data infrastructure in Europe. The EU 
+can thus become a pioneer in the use of high-quality, secure and validated big data and AI 
+applications. Especially as this explicitly promotes the development of technologies for the 
+protection of data and AI applications and can thus become a global standard. 
+The development of a central, secure and supervised data infrastructure for the financial industry 
+can be a key factor for the competitiveness of German and European companies. At the same 
+time, it can act as a global beacon for the highest standards in data security and encryption 
+technology. 
+DBG is actively working on this topic in the “Financial Big Data Cluster” (FBDC), which is also a 
+use-case of the GAIA-X project. The FBDC is a platform which will integrate the previously 
+unconnected financial data of companies / banks, authorities and science in a common data pool 
+and be optimized for the development of AI applications and systems, especially with focus on 
+AML/ joint fraud detection. It is a joint effort with the industry and the Hessian Government. 
+
+Key DBG comments 
+Clear and efficient legal framework necessary: With regard to the implementation of rules and 
+as 
+a 
+general 
+statement, 
+the 
+clearer/precise 
+and 
+ideally 
+standardised 
+the 
+requirements/definitions/obligations of any given legislation are, the easier companies can adapt. 
+This is true for the whole process of designing a product, the authorization and the monitoring 
+during the life cycle of the AI solution as well and should be kept in focus of the legislative 
+process. 
+Definition and high-risk applications: We think that the definition of AI in the proposal is rather 
+broad, given that it needs to capture all industry-solutions and aims to be sufficiently flexible. 
+Here and in the context of high-risk application we welcome the examples in the annex and the 
+overall approach chosen. From a financial market perspective, we share the EC´s view that the 
+finance sector does not fulfill the criteria to be categorized as high-risk (e.g. due to the lack of the 
+risk of harm to health and safety or negative effects on fundamental rights, in Art 7 (1) b). 
+We support a certification of high-risk AI applications: For AI applications which are not 
+considered high-risk, we welcome the possibility for companies to receive a voluntary certification. 
+We prefer an official harmonized procedure for forms of AI applications with clear requirements 
+and an official certification process performed by a formally authorized actor. In the context of AI, 
+we are opposing “self-certification” systems in general. However, it is crucial that the necessary 
+capacities are in place at the respective authorities to assess the AI, to ensure the efficiency of 
+the assessment-process to support the launch of AI products in a timely-manner. 
+Application of existing rules welcome: From our point of view as a financial market infrastructure, 
+most activities/services performed by AI applications in the financial sector would be regulated by 
+already existing rules and legislation. Therefore, the “same business, same risk, same rules” 
+principle should apply. 

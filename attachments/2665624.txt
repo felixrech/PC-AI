@@ -1,0 +1,610 @@
+Input to the European Commission public 
+consultation on the proposed 'Regulation laying 
+down harmonized rules on artificial intelligence (AI 
+Act)' by the Johner Institute 
+1. Preliminary remarks 
+First of all, we would like to thank the EU Commission for the opportunity to discuss and comment 
+on this important proposal. The Johner Institute’s mission is to help companies to develop safe 
+medical devices and enable IT for better healthcare.  
+In our statement we not only included our experience, but also the feedback of 47 medtech 
+companies from Germany and Austria. The entire feedback is tailored to medical devices only. 
+We welcome the EU Commission’s undertaking to provide a harmonized AI regulation, as AI 
+already is and will be even more in the future the technological basis for innovation and 
+progression. However, in order to foster advancements, regulations need to be lean and precise as 
+well as prevent over-regulation.  
+2. Feedback 
+Proposal AI-Act 
+Comment 
+Recommendation 
+The proposal not only includes 
+machine learning as methods 
+of artificial intelligence, but 
+also: 
+Logic and knowledgebased concepts, including 
+knowledge representation, 
+inductive (logic) 
+programming, knowledge 
+bases, inference and 
+As a result of this broad 
+definition many medical 
+devices which contain 
+software, could fall under the 
+scope of the AI act, because 
+every software-based 
+decision tree would be 
+considered an AI system. 
+The regulation should be 
+restricted to machine learning 
+methods only. Classic rulebased software, e.g. decision 
+trees, should not fall under the 
+scope of the regulation. 
+
+deduction engines, 
+(symbolic) reasoning and 
+expert systems 
+Statistical approaches, 
+Bayesian estimation, search 
+and optimization methods 
+The AI act requires 
+cybersecurity, risk 
+management, post-marketsurveillance, a vigilance system, 
+technical documentation, a 
+QM system, etc. And the 
+regulation addresses explicitly 
+also medical and in-vitro 
+devices. 
+This results in duplication of 
+requirements. MDR and IVDR 
+already demand 
+cybersecurity, risk 
+management, post-marketsurveillance, a vigilance 
+system, technical 
+documentation, a QM system, 
+etc. Manufacturers will have 
+to prove compliance with two 
+regulations. 
+In addition, it should not be 
+expected of manufacturers to 
+check for any discrepancies, 
+redundancies as well as 
+tightening within the two 
+regulations. 
+The regulation should either 
+clarify that there are no 
+additional requirements to 
+MDR / IVDR related to risk 
+management, cybersecurity 
+usability engineering, vigilance 
+and post-market surveillance 
+or it should explicitly list these 
+additional requirements. 
+Terminology like “serious 
+incident” should be 
+synchronized with other 
+regulations. The AI act could 
+for example describe in an 
+annex, which specific demands 
+need to be fulfilled in addition 
+to the MDR/IVDR. 
+The regulation applies 
+regardless of what the AI is 
+used for in the medical device. 
+Even an AI with which a lowwear operation of an engine 
+is to be realized, would fall 
+within the scope of the AI 
+regulation. As a consequence, 
+manufacturers will ponder if 
+they will use the AI. This 
+could have a negative impact 
+on innovation but also on 
+security and performance. As 
+manufacturers usually 
+implement AI to improve the 
+security, performance and/or 
+efficiency of their products. 
+Software as a medical device 
+(class I* and higher) should not 
+be considered a high-risk 
+product per se. Rather, the AI 
+act should follow its own 
+reasoning and base this 
+decision on the risk, specifically 
+based on the AI and not based 
+on the medical device which 
+contains the AI. This decision 
+should also be based on the 
+actual risk and not only on the 
+severity of potential harm. 
+The EU has already made this 
+mistake with the MDR rule 11 
+
+Otherwise they would not be 
+allowed to apply the AI. 
+and has only inadequately 
+addressed it with the MDCG 
+document 2019-11.  
+Article 14 of the AI act states: 
+High-risk AI systems shall be 
+designed and developed in 
+such a way, including with 
+appropriate human-machine 
+interface tools, that they can 
+be effectively overseen by 
+natural persons during the 
+period in which the AI system 
+is in use. 
+This requirement rules out 
+the use of AI in situations in 
+which humans can no longer 
+react quickly enough. Yet it is 
+precisely in these situations 
+that the use of AI could be 
+particularly helpful. If we have 
+to put a person next to each 
+device to "effectively 
+supervise" the use of AI, that 
+will mean the end of most AIbased products. It is possible 
+that the regulation meant 
+something else. But at least 
+there is a risk of 
+misinterpretation 
+A precise definition of the term 
+“human oversight” has to be 
+added. The AI regulation 
+should not require that a 
+natural person can intervene at 
+any time and during any 
+application. In addition, the 
+duty to supervise should be 
+risk-based.  
+The requirement could be that 
+the manufacturer needs to 
+assess during the risk 
+management if interference or 
+oversight by a person is a 
+suitable measure for risk 
+control. 
+In article 3 (14) the regulation 
+defines ‘safety component’ by 
+using the not defined term 
+‘safety function’: 
+‘safety component of a 
+product or system’ means a 
+component of a product or of 
+a system which fulfils a safety 
+function for that product or 
+system or the failure or 
+malfunctioning of which 
+endangers the health and 
+safety of persons or property; 
+Also, other terms’ definitions 
+are not in accordance with the 
+MDR, e.g. “post-market 
+This will cause controversy 
+about what is a safety 
+function. It could be for 
+example a feature that risks 
+patients’ safety, when it does 
+not behave according to 
+specifications. But it could 
+also mean a feature that 
+implements a risk reducing 
+measure. 
+Non-aligned definitions 
+increase the effort required 
+by manufacturers to 
+understand and align the 
+various concepts and 
+associated requirements 
+The terms “function” and 
+“safety functions” should be 
+defined. In the process the 
+definitions in the IEC 60601-1 
+and the ISO 14971 should be 
+considered. 
+
+monitoring” or “serious 
+incident 
+A device is considered a highrisk AI system, if the following 
+two conditions are met (article 
+6):  
+(a) the AI system is intended to 
+be used as a safety component 
+of a product, or is itself a 
+product, covered by the Union 
+harmonization legislation listed 
+in Annex II; 
+(b) the product whose safety 
+component is the AI system, or 
+the AI system itself as a 
+product, is required to 
+undergo a third-party 
+conformity assessment with a 
+view to the placing on the 
+market or putting into service 
+of that product pursuant to the 
+Union harmonization 
+legislation listed in Annex II. 
+Medical devices are covered 
+by the regulations listed in 
+Annex II, because the MDR 
+and IVDR are mentioned. To 
+fulfill the MDR, medical 
+devices class IIa and higher 
+must undergo a conformity 
+assessment procedure.  
+Does this mean all software 
+as medical device using AI is 
+considered to be a high-risk 
+product? 
+MDR rule 11 classifies 
+software, independent of risk, 
+in most cases in class IIa or 
+higher. Thus, the extensive 
+requirements for high-risk 
+products would apply for 
+medical devices. The negative 
+effects of rule 11 would be 
+amplified by the AI act. 
+Recital (31) states: The 
+classification of an AI system as 
+high-risk pursuant to this 
+Regulation should not 
+necessarily mean that the 
+product whose safety 
+component is the AI system, or 
+the AI system itself as a 
+product, is considered ‘highrisk’ under the criteria 
+established in the relevant 
+Union harmonization 
+legislation that applies to the 
+product. This is notably the 
+case for Regulation (EU) 
+2017/745 of the European 
+Parliament and of the 
+Council47 and Regulation (EU) 
+2017/746 of the European 
+Parliament and of the 
+Council48, where a third-party 
+conformity assessment is 
+provided for medium-risk and 
+high-risk products. 
+→ This should be considered in 
+the AI act 
+In article 10 the AI act requires  
+„training, validation, and 
+testing data sets shall be 
+relevant, representative, free of 
+errors and complete. “ 
+Real-world data is rarely “free 
+of error” and “complete”. It is 
+also unclear what “complete” 
+means. Do all datasets need 
+to be available (whatever this 
+means) or is the complete 
+data of one dataset required? 
+This requirement should be 
+annulled. More suitable seems 
+the requirement, that 
+manufactures must define 
+quality standards and verify 
+their compliance. Another 
+possible requirement could be 
+the claim that the definition of 
+the quality standards has to be 
+risk-based.  
+Further, definitions i.a. “correct” 
+are needed.  
+
+Article 64 (1) demands “Access 
+to data and documentation in 
+the context of their activities, 
+the market surveillance 
+authorities shall be granted full 
+access to the training, 
+validation and testing datasets 
+used by the provider, including 
+through application 
+programming interfaces (‘API’) 
+or other appropriate technical 
+means and tools enabling 
+remote access.” 
+Making confidential patient 
+data accessible via remote 
+access conflicts with the legal 
+requirement of data 
+protection by design. Health 
+data belongs to the 
+particularly sensitive category 
+of personal data.  
+To develop and provide an 
+external API in addition to the 
+training data means high 
+additional effort for the 
+manufacturer. It is unrealistic 
+that authorities will be able to 
+download, analyze and assess 
+the data or the AI respectively 
+with reasonable effort and in 
+a reasonable amount of time. 
+For other, often even more 
+critical, data and information 
+related to the design and 
+production of products (e.g., 
+source code or CAD 
+drawings), no one would 
+seriously require 
+manufacturers to give 
+authorities remote access. 
+This requirement should be 
+deleted without replacement. 
+Access to data on site is 
+already part of the conformity 
+assessment procedures. 
+The regulation regularly 
+mentions “validation”, but 
+means as a rule only the model 
+validation of AI systems. This 
+terminology appears multiple 
+times in context with “training, 
+validation and test data”.  
+Sometimes also “training, 
+testing and validation 
+processes” (recital 46), 
+examination, test and 
+The manufacturers will have 
+difficulties to differentiate 
+between the different types 
+of “validation”. There is a 
+validation in the context of 
+testing the Ai model. There is 
+the validation of medical 
+devices and there is software 
+validation. By not addressing 
+product validation, the AI 
+Regulation risks losing focus 
+The AI regulation should define 
+the term “validation” and 
+delimit this from the product 
+validation.  
+In addition, the AI act shall 
+require that the target metrics 
+(e.g. sensitivity) and their target 
+values (e.g. 85%) are 
+
+validation procedures (article 
+17) or development, testing 
+and validation (article 53). 
+In addition, article 9(6) states 
+that “Testing procedures shall 
+be suitable to achieve the 
+intended purpose of the AI 
+system and do not need to go 
+beyond what is necessary to 
+achieve that purpose.” In 
+article 9(5) it is mentioned that 
+“High-risk AI systems shall be 
+tested for the purposes of 
+identifying the most 
+appropriate risk management 
+measures. Testing shall ensure 
+that high-risk AI systems 
+perform consistently for their 
+intended purpose and they are 
+in compliance with the 
+requirements set out in this 
+Chapter.” And according to 
+article 9(7) “Testing shall be 
+made against preliminarily 
+defined metrics and 
+probabilistic thresholds that 
+are appropriate to the 
+intended purpose of the highrisk AI system.” 
+Article 17 (1b) requires 
+“techniques, procedures and 
+systematic actions to be used 
+for the design, design control 
+and design verification of the 
+high-risk AI system;” 
+on the actual intended 
+purpose and creating the 
+misconception that validation 
+of the AI system is sufficient. 
+comprehensively derived from 
+the intended purpose.  
+The introduction talks about 
+measures that, for AI systems, 
+"adequately address both the 
+The unilateral focus on risk 
+independent of the benefit 
+will result in fewer products 
+The AI regulation should 
+require that, like the MDR / 
+IVDR in Annex I(1), “provided 
+
+benefits and risks of AI at the 
+Union level." Further, a wellbalanced risk-benefit ratio 
+plays an important role in the 
+“HLEG AI” whitepaper. 
+The AI regulation itself only 
+considers the risk-side and 
+does not allow any 
+considerations towards the 
+potential benefit of a system.  
+Article 9(4a) requires a 
+“elimination or reduction of 
+risks as far as possible through 
+adequate design and 
+development;” 
+reaching the EU market, 
+because the lowest risk is 
+ostensibly achieved when 
+there are no products.  
+The statement “as far as 
+possible” will lead to 
+discussion, because an 
+auditor could always require 
+additional measures. This 
+would increase the effort, 
+without improving the riskbenefit-ratio. 
+that any risks which may be 
+associated with their use 
+constitute acceptable risks 
+when weighed against the 
+benefits to the patient” 
+The AI Regulation should also 
+require that, like the MDR / 
+IVDR (Annex I (2)) “The 
+requirement (in this Annex) to 
+reduce risks as far as possible 
+means the reduction of risks as 
+far as possible without 
+adversely affecting the benefitrisk ratio.” 
+Article 13 (3e) requires a 
+description of “the expected 
+lifetime of the high-risk AI 
+system and any necessary 
+maintenance and care 
+measures to ensure the proper 
+functioning of that AI system, 
+including as regards software 
+updates.” 
+It is not clear how “lifetime” is 
+defined. Software 
+applications undergo regular 
+modifications, if only to 
+minimize cybersecurity risks. 
+A continuous update of the 
+model rather increases the 
+security and performance. 
+The AI regulation should define 
+the lifespan for software and 
+data. 
+Article 28 (1) states that i.e. 
+user “shall be considered a 
+provider for the purposes of 
+this Regulation and shall be 
+subject to the obligations of 
+the provider under Article 16” 
+if “(c) they make a substantial 
+modification to the high-risk AI 
+system.” 
+The term “substantial 
+modification” is not defined 
+and thus probably not 
+harmonized with the 
+definition used in the MDCG 
+documents. This will lead to 
+uncertainties and more effort 
+for users and manufacturers. 
+The AI act should define the 
+term “substantial 
+modification”.  
+Within the scope of intended 
+use, "modifications" (e.g. 
+further training) must be 
+permitted by the users. 
+
+3. Summary 
+a) EU’s general approach 
+Additional regulation 
+While Dr. Jeff Shuren, director of FDA‘s Center for Devices and Radiological Health, fears that 
+overregulation will cause the US to lose against China in the domain of digital health, the EU plans 
+an additional extensive regulation.  
+Additional versus existing regulatory framework 
+The Johner Institute acknowledges the need for more specific guidance for manufacturers of AI 
+based medical devices. Using the existing framework of EU medical device regulations, harmonized 
+standards, common specifications and guidance documents such as by MDCG most probably 
+would have been a less burdensome approach for medical device manufacturers.  
+Evidence and risk-based regulation 
+The proposed draft reveals the general considerations. But an evidence-based approach is not 
+made obvious.  
+While the EU requires medical device manufacturers to provide evidence for risk and for benefits 
+and to make sure that the benefits outweigh the risk, the EU does not provide this transparency. 
+The new regulation rather seems to follow — such as the MDR and IVDR — a notion that stronger 
+regulation will lead to less risks. This, however, is not proven and this is only correct if one does not 
+take into account  
+the risks of lacking products (e.g. ignoring the benefits of these products) and 
+the consequences for the European market such as the 
+competitiveness of European manufacturers, 
+innovative power in particular of smaller medical device manufacturers such as 
+digital health startups, 
+dependency on Chinese imports (to cite Dr. Shuren). 
+It is a misapprehension to believe that the playing field already is leveled as manufacturers outside 
+the EU have to stick to EU regulations for imported devices:  
+
+The development of medical devices in Europe is so expensive (also due to existing regulations) 
+that manufacturers have to market their products world-wide. Like in automotive industry, 
+European manufacturers are rather dependent on their competitiveness in the Chinese market, 
+than Chinese manufacturers are on the European market. If EU regulations are too restrictive, 
+innovation and competitiveness of European manufacturers is constrained. 
+Target of the regulation 
+The AI regulation in particular targets manufacturers of AI based products such as medical devices. 
+Any regulation is only as effective as its enforcement. Already previous and existing medical device 
+regulations (MDD, IVDD, AIMD, MDR, IVDR) have proven that there is a lack of enforcement.  
+Many European authorities are unable to cope with the regulations due to a lack of resources, in 
+particular highly trained experts and information technologies. Also notified bodies suffer from a 
+lack of personnel and declare already now to be unable to deal with the demand for recertifications due to the shift to MDR and IVDR. 
+As a result, additional regulation leads to additional bureaucracy, but not necessarily to devices 
+that are superior with respect to safety, performance and clinical benefits. 
+b) Summary specific feedback  
+Scope 
+The scope of the KI regulation has to be narrowed down to 
+algorithms that are not(!) hard coded by humans, in particular to machine learning 
+methods, 
+to medical devices with an AI that can harm patients (and not just to any device embedding 
+AI). 
+On the other hand, the regulation should target the products and not just the KI components. 
+Decisive for the safety, performance and clinical benefit of medical devices for patients are the 
+devices, not just KI components that work as specified. Therefore, KI requirements have to be 
+derived from the intended purpose, and the validation of products has to proof, that the intended 
+purpose actually is achieved. 
+Classification 
+The classification into high-risk products, in particular for Software as a Medical Device (SaMD), 
+should not be based on the MDR/IVDR classification (only), as this classification is not risk based. 
+
+MDR’s rule 11 only takes the severity of harm into account, not the probability. Hence, it is not a 
+risk-based, as risk is defined as the combination of severity and probability of harm. 
+An approach aligned with IMDRF‘s concept for risk classification of SaMD seems to be more 
+appropriate.  
+Conciseness and alignment 
+There is a lack of definitions as partially described in the table above such as: 
+validation (several definitions required) 
+safety function 
+oversight by natural person 
+data free of error 
+complete data 
+Existing definitions and concepts (e.g. post-market surveillance, risk management, cybersecurity) 
+are not aligned with relevant medical device regulations. This should be changed and 
+complemented. 
+Least burdensome approach and power of Notified Bodies 
+The draft claims „to reduce the regulatory burden and to support Small and Medium-Sized 
+Enterprises (‘SMEs’) and start-ups.“ It is unclear how the regulation lives up to this claim. 
+The medical device regulations (MDR and IVDR) allow manufacturers to assess the conformity itself 
+(e.g. under the umbrella of a certified quality management system). Notified bodies „only“ sample 
+devices that are developed and produced within the scope of the respective certificate dependent 
+on the class of these devices. Is the involvement of a Notified Body required for every medical 
+device that contains AI? This would substantially increase the burden — also for SMEs. 
+It is also unclear how the requirement to develop and provide a remote API-access to training, 
+validation and test data jars with GDPR‘s requirement of IT security by design and with a least 
+burdensome approach. 
+c) Closing remarks 
+Next steps 
+The Johner Institute is dedicated to contribute to a next version of this AI regulation e.g. by 
+Providing definitions 
+
+Proposing specific changes 
+Aligning concepts (as described above) 
+Compiling additional guidance such as gap analysis between medical device regulations 
+and AI regulation 
+Acknowledgements 
+The Johner Institute acknowledges the input and feedback provided by 47 medical device 
+manufacturers and Prof. Dr. Haimerl (Hochschule Furtwangen) and Prof. Dr. Dr. Christian Dierks 
+(Dierks + Company). 
+About Johner Institute 
+The Johner Institute already supported several thousand medical device manufacturers, in particular 
+manufacturers of devices that are or that contain software. 
+It compiled an AI checklist, that has been adapted and is applied by the German Notified Bodies. The Johner 
+Institute drives the further development of this guideline at the WHO.  
+Notified Bodies, state and federal ministries as well as national authorities make use of Johner Institute‘s 
+support. Its research team collects evidence for a more specific, efficient and effective regulation. 

@@ -1,0 +1,157 @@
+CONSIDERACIONES DE CEDRO A LA PROPUESTA DE REGLAMENTO SOBRE 
+INTELIGENCIA ARTIFICIAL 
+(ARTIFICIAL INTELLIGENCE ACT) 
+Estas 
+son 
+las 
+contribuciones 
+del 
+CENTRO 
+ESPAÑOL 
+DE 
+DERECHOS 
+REPROGRÁFICOS EGDPI (CEDRO) a la propuesta de Reglamento COM(2021)206 
+sobre Inteligencia Artificial (Artificial Intelligence Act). 
+CEDRO es una entidad de gestión de derechos de Propiedad Intelectual establecida en 
+España, autorizada por el Ministerio de Cultura y Deporte, de conformidad con la 
+legislación española, para el desempeño de sus fines. CEDRO lleva desarrollando su 
+actividad desde 1988 y es la única entidad de gestión autorizada en España para 
+representar a escritores, traductores, periodistas y editores de libros, revistas, periódicos 
+y 
+partituras. 
+Puede 
+obtenerse 
+más 
+información 
+sobre 
+la 
+Entidad 
+en 
+https://www.cedro.org/ 
+Las consideraciones que se realizan en este documento se basan en las posibles 
+implicaciones que pueda tener la Inteligencia artificial (IA) en los derechos de propiedad 
+intelectual del colectivo al que CEDRO representa. 
+En primer lugar, esta parte desea manifestar que, en nuestra consideración, el texto 
+propuesto debería abordar y dar respuesta a los interrogantes que esta tecnología está 
+suscitando en el ámbito de la propiedad intelectual. 
+A este respecto, queremos señalar que en la Resolución del Parlamento Europeo sobre 
+los derechos de propiedad intelectual para el desarrollo de las tecnologías relativas a la 
+inteligencia artificial (2020/2015(INI)) de 20 de octubre de 2020 ya se señalan aspectos 
+que deben ser regulados de forma armonizada en todo el territorio de la Unión y que, 
+sin embargo, en el Reglamento propuesto no llegan a abordarse. 
+En primer lugar, en la Resolución del Parlamento (2020/2015(INI)) se señala que los 
+sistemas de IA pueden impedir que los creadores humanos, cuyo trabajo original se 
+utilice para alimentar dichas tecnologías, reciban una remuneración justa (Considerando 
+
+D). Por otro lado, indica esta Resolución que la aplicación de los derechos de propiedad 
+intelectual (DPI) a los materiales, los contenidos o los datos generados por la IA es 
+cuestionable y, por ello, es importante diferenciar entre las creaciones humanas 
+obtenidas con ayuda de IA y las creaciones generadas por la IA de forma autónoma 
+(Considerando J); 
+Consideramos que estos dos importantes aspectos tendrían que haber sido abordados 
+en la propuesta de Reglamento. A continuación, señalaremos por qué entendemos que 
+debe adoptarse con prontitud una solución a los mismos, de forma homogénea en todo 
+el territorio de la UE. 
+PRIMERO: SOBRE EL USO DE CONTENIDO PROTEGIDO POR DERECHOS DE 
+PORPIEDAD INTELECTUAL POR PARTE DE LOS SISTEMAS DE IA 
+Los sistemas de IA requieren del análisis y procesamiento de grandes cantidades de 
+datos, contenido, obras y prestaciones protegidas por derechos de propiedad 
+intelectual. Ello afecta generalmente a los derechos de reproducción, transformación y 
+comunicación pública que ostentan los creadores sobre sus obras y prestaciones. 
+A este respecto, es importante poder garantizar que el uso de obras y prestaciones 
+protegidas por DPI se realice de forma lícita, esto es, que solo se lleve a cabo esta 
+utilización contando con autorización de los titulares de derechos o al amparo de un 
+límite o excepción legalmente previsto, como los límites para minería de textos y datos 
+recogidos en los artículos 3 y 4 de la Directiva de derechos de autor en el mercado único 
+digital. ​Directiva (UE) 2019/790 del Parlamento Europeo y del Consejo, de 17 de abril de 2019, sobre los 
+derechos de autor y derechos afines en el mercado único digital. ​  
+Para poder garantizar que el uso de contenido protegido por DPI se realiza de forma 
+lícita se exige el establecimiento de aquellas medidas de transparencia que resulten 
+necesarias para detectar usos ilícitos. Por tanto, además de las citadas en la propuesta 
+de Reglamento, también se deben imponer obligaciones de transparencia a aquellos 
+sistemas que se nutren, que son entrenados, con material protegido por DPI. Además 
+de la obligación de indicar que el contenido consistente en imágenes, audio o video que 
+
+parezca real ha sido elaborado por medios automáticos, en nuestra opinión, también se 
+debe exigir la divulgación de qué contenido concreto ha sido empleado para la 
+elaboración de ese nuevo contenido. Ello es indispensable para garantizar que los 
+creadores y otros titulares de derechos sean remunerados por la utilización de sus obras 
+o prestaciones. 
+Por otro lado, se exige la regulación de un sistema de responsabilidad para aquellos 
+casos en los que sistemas autónomos generen contenido que vulnere DPI. Si el 
+resultado generado por un sistema autónomo transforma o reproduce contenido ajeno 
+¿ante quién deben reclamar los titulares de derechos afectados?. La falta de respuesta 
+legal a esta cuestión no puede dejar desamparados a los creadores. 
+En este sentido, en la Resolución del Parlamento Europeo, de 20 de octubre de 2020, 
+con recomendaciones destinadas a la Comisión sobre un régimen de responsabilidad 
+civil en materia de inteligencia artificial (2020/2014(INL)) se considera que es necesario 
+realizar adaptaciones específicas y coordinadas de los regímenes de responsabilidad 
+civil para evitar situaciones en las que personas que sufran un daño o un menoscabo a 
+su patrimonio por el empleo de sistemas de IA acaben sin indemnización. 
+SEGUNDO: CONTENIDO CREADO POR SISTEMAS DE INTELIGENCIA ARTIFICIAL 
+Buena parte de la doctrina se ha volcado en el planteamiento del reto que supone la 
+protección de los resultados o contenido obtenido mediante sistemas de IA. Mientras 
+que el empleo de sistemas de IA por parte de un creador como una mera herramienta 
+en la creación no debe suponer ningún reto ni variación a la legislación existente, sí que 
+plantea dudas la protección de los resultados de aquellos sistemas que puedan llegar a 
+crear de forma autónoma. 
+En primer lugar, queremos destacar que la posible protección de los contenidos creados 
+por sistemas autónomos no debe suponer un menoscabo a los intereses o derechos de 
+los creadores humanos. Las creaciones obtenidas por máquinas no deben llegar a 
+competir ni a sustituir a las creaciones humanas. Es altamente probable que las 
+creaciones obtenidas de forma autónoma por sistemas artificiales lleguen a ser 
+monopolio de unas pocas empresas tecnológicas, por lo que se ha de evitar que estas 
+
+obtenciones puedan suponer un menoscabo al reconocimiento y a los derechos de los 
+creadores humanos. 
+Queremos señalar que en el punto 14 de la Resolución del Parlamento Europeo sobre 
+los derechos de propiedad intelectual para el desarrollo de las tecnologías relativas a la 
+inteligencia artificial (2020/2015(INI)) se indica que “la «autonomización» del proceso de 
+generación de contenidos artísticos puede plantear cuestiones relacionadas con la 
+titularidad de los DPI sobre esos contenidos; considera, en este sentido, que no sería 
+adecuado tratar de dotar a las tecnologías de IA de personalidad jurídica y pone 
+de relieve el impacto negativo de esta posibilidad en los incentivos para los 
+creadores humanos”. 
+No podemos estar más de acuerdo con esta afirmación. No se debe dotar de 
+personalidad jurídica a los sistemas de IA y, por ello, no pueden ser consideradas obras 
+protegibles por derechos de autor las creaciones de sistemas autónomos de IA. 
+Sólo las creaciones fruto del intelecto humano deben ser consideradas obras originales 
+protegibles por derechos de autor, tal y como se desprende de los tratados 
+internacionales (art. 2, pfo. 5º del Convenio de Berna en el que se establece que la 
+protección de las obras literarias o artísticas han de constituir una “creación intelectual”) 
+y derecho de la Unión (considerando noveno de la Directiva 2001/29/CE y artículo 6 y 
+considerando 16 de la Directiva 2006/116/CE). Ello, además, ha sido recalcado por la 
+jurisprudencia del TJUE, entre otras, en la sentencia del asunto C-5/08 (Infopaq), que 
+claramente establece que el derecho de autor sólo aplica a las obras que constituyen 
+creaciones intelectuales atribuibles a este (apdo. 37). 
+Como decimos, atribuir derechos de autor al contenido creado de forma autónoma por 
+sistemas artificiales podría llegar a tener un impacto negativo en los creadores. No 
+obstante, sí consideramos que deben gozar de algún tipo de protección para no 
+desincentivar la innovación en este terreno. Una opción podría ser la atribución de 
+derechos vecinos o conexos a favor de la persona física o jurídica que edite o divulgue 
+de forma lícita este contenido. 
+
+Por otro lado, al igual que señalamos en el punto anterior, resulta imprescindible la 
+introducción de una obligación de informar a los usuarios de cuándo se encuentran ante 
+contenido creado de forma autónoma por máquinas. 
+TERCERA: NECESARIA PROTECCIÓN DE LOS DPI FRENTE A FAKE NEWS, DEEP 
+FAKE Y OTRAS FORMAS DE DESINFORMACIÓN 
+En muchas ocasiones se emplean obras y prestaciones protegidas para la creación de 
+las conocidas Fake News, Deep Fakes u otros, con el objeto de confundir o engañar a 
+los consumidores. Esto tiene un impacto muy negativo en el público destinatario y 
+también en los titulares de derechos, que ven cómo sus obras son reproducidas, 
+transformadas y/o descontextualizadas sin su autorización y control. Ello puede poner 
+en riesgo también el prestigio y credibilidad del creador, editor o productor del contenido 
+original que es fraudulentamente manipulado. 
+Por ello, insistimos en la necesidad de que el contenido creado por máquinas sea 
+identificado como tal. Además, se requiere una trazabilidad y transparencia en la 
+utilización de obras y prestaciones protegidas por DPI, para que sus titulares de 
+derechos puedan detectar usos ilícitos y oponerse a ello. Y, por último, resulta 
+indispensable establecer un régimen de responsabilidad ante tales conductas. De lo 
+contrario, como ya hemos señalado, estas quedarán impunes y los titulares de derechos 
+y consumidores no podrán obtener un resarcimiento por los daños que les ocasionen 
+estas prácticas. 
+Por todo lo señalado, consideramos que la propuesta de Reglamento sobre inteligencia 
+artificial (Artificial Intelligence Act) tendría que dar respuesta a las cuestiones que esta 
+tecnología plantea en relación con los derechos de propiedad intelectual. 
+Madrid, 13 de julio de 2021 

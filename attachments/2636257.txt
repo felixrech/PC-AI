@@ -1,0 +1,139 @@
+Die WKÖ ist die gesetzliche Vertretung der gesamten österreichischen 
+Wirtschaft und repräsentiert alle österreichischen Unternehmen - rund 
+540.000 Betriebe aus den Bereichen Gewerbe und Handwerk, Industrie, 
+Handel, Banken und Versicherungen, Information und Consulting, 
+Tourismus und Freizeitwirtschaft, Transport und Verkehr. 99,6% unserer 
+Mitglieder sind KMU. 
+Transparenz-Register-Nr.: 10405322962-08 
+WKÖ-Positionspapier zum 
+Rechtsrahmen für Künstliche Intelligenz (COM (2021) 206) 
+22.6.2021 
+Die technische Entwicklung schreitet voran und KI-Anwendungen finden immer vielfältigere 
+Einsatzfelder, daher sind eigene einheitliche Regelungen grundsätzlich zu begrüßen. Um ein 
+Level-Playing-Field zu garantieren, muss jedes KI-System im Binnenmarkt denselben Vorgaben 
+entsprechen. 
+Die WKÖ begrüßt grundsätzlich den Plan der Europäischen Kommission („Kommission“), einen 
+Rechtsrahmen für KI zu schaffen. Dieser muss jedoch sicherstellen, dass das Potenzial 
+künstlicher Intelligenz in Zukunft weiter ausgeschöpft werden kann und Rechtssicherheit 
+geschaffen wird, während gleichzeitig ein hohes Schutzniveau gewährleistet wird. Ein positives 
+Narrativ 
+gegenüber 
+KI-Technologien 
+ist 
+eine 
+Voraussetzung, 
+um 
+Europas 
+digitale 
+Eigenständigkeit zu erreichen. Besonders die ethischen Aspekte sind zu beachten. 
+1. Klare Definition von KI 
+Der zukünftige europäische Rahmen für KI sollte sich auf eine einfache, klare und harmonisierte 
+Definition von "Künstlicher Intelligenz" stützen, technologieneutral sein und sich auf das 
+Erreichen wünschenswerter Ergebnisse konzentrieren, anstatt Werkzeuge zu regulieren. 
+Insbesondere ist eine Konkretisierung der technischen Anforderungen notwendig, um 
+Rechtssicherheit und Transparenz für die Unternehmen zu schaffen und das reibungslose 
+Funktionieren des Wirtschaftslebens zu fördern. 
+Die derzeitige Definition und der Anwendungsbereich, die der Verordnungsvorschlag vorsieht, 
+würden jedes Softwareprogramm umfassen, das z. B. statistische Ansätze, programmierte 
+Berechnungen oder Suchmethoden verwendet. Diesen Anwendungen fehlt eindeutig die 
+Eigenschaft, "intelligentes Verhalten zu zeigen, indem sie ihre Umgebung analysieren und - mit 
+einem gewissen Grad an Autonomie - Maßnahmen ergreifen, um bestimmte Ziele zu erreichen", 
+die die Kommission früher zur Definition von Systemen der künstlichen Intelligenz verwendet 
+hat ("Künstliche Intelligenz für Europa", COM(2018) 237 final). Mit einer so weiten Definition 
+würde die Verordnung für viele Anbieter und Nutzer solcher etablierter Softwaresysteme einen 
+unnötigen Aufwand und hohe Verwaltungskosten verursachen. Die Definition von KI-Systemen 
+in Art. 3 (1) sowie die in Anhang I des Verordnungsentwurfs für vertrauenswürdige KI genannten 
+Techniken und Ansätze müssen deshalb entsprechend überarbeitet werden, um einen 
+gezielteren Anwendungsbereich der Verordnung zu ermöglichen. 
+2. Über- und Doppelregulierung vermeiden 
+Die WKÖ erachtet es als besonders wichtig, dass bereits bestehende Normen und Vorgaben 
+in einer Gesamtbetrachtung einbezogen werden. KI-Anwendungen sind nur funktionsfähig, 
+wenn sie entsprechende Daten zur Verfügung haben. Daher spielt das Datenschutzrecht und vor 
+allem die Datenschutz-Grundverordnung (DSGVO) eine zentrale Rolle. Sobald ein KI-System mit 
+personenbezogenen Daten arbeitet, kommt das Regime der DSGVO zur Anwendung, d.h. die 
+Datenverarbeitung muss einem legitimen Zweck dienen, transparent ausgestaltet und durch 
+eine Rechtsgrundlage gedeckt sein. In der DSGVO verankerte Grundsätze, wie zum Beispiel das 
+
+2 
+Informations- und das Auskunftsrecht, das Verbot der Diskriminierung und das Prinzip der 
+Zweckbindung sind auch für den Einsatz von KI relevant. Der Einsatz und die Entwicklung von 
+KI-Anwendungen bedürfen klarer Prozesse und nutzbare Daten (z.B. anonymisierte Daten). 
+Für natürliche Personen ist seit dem Inkrafttreten der DSGVO ein Regulatorium wirksam, 
+welches die Einhaltung von Informations- und auch Sicherheitspflichten vorsieht. Daher werden 
+zusätzliche Regulierungen, die kumulativ Erschwernisse oder Strafen für einzuhaltende 
+Vorgaben vorsehen, abgelehnt. Außerdem muss der Schutz von Geschäftsgeheimnissen 
+entsprechend aufrechterhalten werden. 
+Für die Bundessparte Banken und Versicherungen der WKÖ besteht auch die Gefahr von 
+Doppel- und Überregulierung beim Einsatz von KI-Systemen für Kreditscoring. Nach der derzeit 
+vorgeschlagenen Klassifizierung von KI-Systemen mit hohem Risiko würden KI-Systeme, die zur 
+Bewertung der Kreditwürdigkeit natürlicher Personen und zur Ermittlung ihres Kreditscores 
+eingesetzt werden, in den Anwendungsbereich dieser Verordnung fallen und müssten die für KISysteme mit hohem Risiko festgelegten Anforderungen erfüllen. Die Verwendung von KISystemen für Bonitätsbewertungen und Kreditscoring durch Kreditinstitute ist bereits 
+durch die Bestimmungen der Verordnung (EU) Nr. 575/2013 (CRR) geregelt. 
+Überschneidungen oder widersprüchliche Regelungen müssen vermieden werden, und 
+sektorspezifische Rechtsvorschriften wie zum Beispiel CRR sollten beachtet werden. 
+3. Vorsichtige Abwägung geboten 
+Die Einteilung in verschiedene Risikoklassen, vom minimalen Risiko über geringes und hohes bis 
+hin zum unannehmbaren Risiko, bietet die Möglichkeit jeweils gezielt zu regulieren und somit 
+ein maßgeschneidertes und ergebnisorientiertes System zu schaffen. Es muss sichergestellt 
+sein, dass die verschiedenen Risikoklassen genau abgegrenzt werden können und 
+hinreichend definiert wird, was erlaubt ist. Bezüglich KI-Anwendungen mit hohem Risiko wird 
+die ex-ante Bewertung in Verbindung mit der Konformitätsvermutung („presumption of 
+conformity“) des Art 42 im Sinne der Rechtssicherheit grundsätzlich befürwortet. 
+In gewissen Bereichen bedarf es einer sehr vorsichtigen Nutzen-Risiko-Abwägung bei der 
+Einstufung von KI-Systemen; eine Pauschalisierung ganzer Bereiche muss vermieden werden. 
+Beispielsweise beim Einsatz von KI-Systemen bei der Bewertung des Kreditscores oder der 
+Kreditwürdigkeit natürlicher Personen. 
+Auch eine generelle Zuordnung von KI-Anwendungen im Bildungs- und Trainingsbereich zu 
+„High-Risk-KI-Systems“ ist überschießend. KI macht nicht nur ein inhaltlich und hinsichtlich der 
+Lernformate und Lernhilfen individualisiertes Lernangebot möglich, sondern trägt auch zur 
+Verbesserung der Bildungsformate bei. 
+4. Rechtssicherheit und Verhältnismäßigkeit muss gewahrt werden 
+Im Zusammenhang mit den empfindlichen Strafen warnt die WKÖ vor zu hohen Pönalen und 
+betont, dass der Grundsatz der Verhältnismäßigkeit beachtet werden muss. 
+Die Risiken von KI-Anwendungen beziehen sich primär auf die Bereiche (Produkt)Sicherheit und 
+Grundrechte. Das Regelwerk muss Rechtssicherheit durch gestreamlinte, einheitliche 
+Anwendung und Definitionen schaffen. Sicherheitsrisiken von KI müssen mit den bestehenden 
+Rechtsvorschriften zur Produktsicherheit verknüpft werden. Grundrechtsschutz bei KI bedeutet 
+insbesondere, dass Algorithmen, die Entscheidungen mit Wirkung für Individuen treffen, Grund- 
+und Freiheitsrechte achten müssen. 
+
+3 
+Der vorgeschlagene Text sieht vor, dass die Liste von KI-Systemen mit hohem Risiko in Annex III 
+durch delegierte Rechtsakte erweiterbar sein soll. Der Entwurf sieht jedoch keine 
+Übergangsfrist für KI-Systeme vor, die neu in Annex III aufgenommen werden. Um 
+Rechtssicherheit für Unternehmen zu ermöglichen, fordern wir, dass die Verordnung für in 
+dieser Hinsicht eine Übergangsfrist von zwei Jahren nach Inkrafttreten vorsehen soll. 
+5. Menschliche Aufsicht und Freiräume für Forschung- und Innovation schaffen 
+Der Einsatz menschlicher Aufsicht, um diskriminierende Ergebnisse auszumerzen wird positiv 
+beurteilt. Die Einführung von freiwilligen Verhaltenskodizes für KI-Anwendungen, die ein 
+minimales Risiko darstellen, wird unterstützt. 
+Weiters ist es aus unserer Sicht wichtig, Forschungsräume zu schaffen, innerhalb derer ein Test 
+solcher Systeme unter weniger strengen Voraussetzungen möglich ist. Deshalb begrüßt die WKÖ 
+den Vorschlag, „regulatory Sandboxes“ einzuführen, um verantwortungsvolle Innovationen zu 
+erleichtern. Um Wettbewerbsverzerrungen zu verhindern und um ein Level-Playing-Field zu 
+gewährleisten müssen KMU, Start-Ups, und Großunternehmen in diesem Zusammenhang an 
+dieselben Regeln gebunden sein. Außerdem sollte hier der bürokratische Aufwand so gering wie 
+möglich gehalten werden. 
+Die WKÖ betrachtet die Errichtung von Zentren für digitale Innovation für KMUs, die im 
+Koordinierten Plan für KI verankert sind, für eine besonders wichtige Maßnahme, um KIExzellenz „vom Labor bis zum Markt“ zu fördern. 
+6. Delegierte und Durchführungsrechtsakte 
+Den in der Maschinen-Produkte-VO und dem Konzept für vertrauenswürdige KI angestrebten 
+Einsatz von delegierten und Durchführungsechtsakten sehen wir kritisch, da der 
+Ermächtigungsspielraum in den Rechtsakten oft sehr großzügig definiert ist, und es hierfür keine 
+ausreichende Begründung gibt. 
+Die Kommission ist aktuell bestrebt, harmonisierte Europäische Normen (hEN) durch technische 
+Spezifikationen (Durchführungsrechtsakte) zu ersetzen. Durch diese Vorgehensweise wird der 
+New Legislative Framework (NLF) sukzessive ausgehöhlt, was nicht im Sinne der Wirtschaft ist. 
+Die Normung bietet den essenziellen Vorteil einer breiten Stakeholderbeteiligung im Rahmen 
+eines transparenten, konsensbasierten und für alle offenen Verfahrens. Ergänzend spielt auch 
+die internationale Dimension eine nicht unwesentliche Rolle, da zahlreiche maßgebliche 
+Normen gemeinsam mit den internationalen Normungsorganisationen entwickelt werden. 
+Ansprechpartner in der Abteilung für Innovation und Digitalisierung: 
+Dr. Florian Moosbeckhofer 
+Leiter Innovation und Digitalisierung 
+T +43 (0)5 90 900-3994 | M +43 (0)664 817 91 21 
+E florian.moosbeckhofer@wko.at 
+DI Wolfgang Lindner 
+Referent Innovation und Digitalisierung 
+T +43 5 90 900 4910 | M +43 (0) 664 817 97 86 
+E Wolfgang.Lindner@wko.at 

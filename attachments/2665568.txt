@@ -1,0 +1,97 @@
+BVI​BVI represents the interests of the German fund industry at national and international level. The association promotes 
+sensible regulation of the fund business as well as fair competition vis-à-vis policy makers and regulators. Asset 
+Managers act as trustees in the sole interest of the investor and are subject to strict regulation. Funds match funding 
+investors and the capital demands of companies and governments, thus fulfilling an important macro-economic function. 
+BVI’s 116 members manage assets some EUR 4 trillion for retail investors, insurance companies, pension and retirement 
+schemes, banks, churches and foundations. With a share of 27%, Germany represents the largest fund market in the EU. 
+BVI’s ID number in the EU Transparency Register is 96816064173-47. For more information, please visit www.bvi.de/en. ​  position on the Commission’s proposal laying down harmonised rules on artificial 
+intelligence 
+BVI welcomes the opportunity to provide its views on the European Commission’s proposal laying down 
+harmonised rules on artificial intelligence. 
+The use of artificial intelligence (AI) and machine learning (ML) in asset management bears great 
+potential. An increasing degree of automation of processes and interfaces has been common practice 
+in the asset management industry for decades and is described with the keywords ‘business process 
+automation’ (BPA) or ‘robotic process automation’ (RPA). RPA aims to automate even more complex 
+process steps along the value chain in the asset management industry. An example of this would be a 
+standardised online client check and initial advice in the securities business, possibly using language 
+programmes. The use of AI is a major issue in the financial sector, as these technologies will bring 
+about a profound change in society and the economy. AI goes beyond BPA and RPA by combining the 
+use of large or increasingly available, but often unstructured and internal and/or external data sets with 
+the improved possibilities for using these data. Through a combination of analytics and mass available 
+data, new insights are to be gained that would not be possible with traditional research methods. The 
+German supervisory authority BaFin was one of the first supervisors to analyse the challenges and 
+implications for supervision and regulation of financial services in its report ‘Big Data meets artificial 
+intelligence’. BaFin concludes that big data and AI bring about a profound change and enable 
+innovation, successful implementations can spread rapidly, and supervision and regulation must 
+address innovative developments early. Thus, we welcome the European Commission’s proposal on 
+harmonised rules on artificial intelligence to establish a principal-based regulatory framework in the EU. 
+Asset management will be significantly influenced by improved availability of data, algorithms, 
+digitalisation of assets, new processes in custody and settlement, and reporting. Quality data is a 
+prerequisite for the provision of any service along the entire value chain in asset management, from 
+research, portfolio and risk management, trading to clearing and settlement. Secure access to and 
+availability of high-quality financial market data at all times is also indispensable in fund distribution or in 
+regulatory and reporting. In the future, more and more non-traditional data sources ("big data") will be 
+integrated into the asset managers' business operations. 
+Financial market data are often offered by natural monopolies and oligopolies such as stock exchanges 
+and companies with a dominant market position. These have great market power and can set onesided conditions, since the users on the asset manager side rely on such data and any disruption would 
+jeopardise their business. The use of financial market data has therefore for years been associated with 
+regular, sometimes massive price increases and the conclusion of increasingly complex data licences 
+Frankfurt, 
+6 August 2021 
+
+for the asset managers. With increasing cost pressure and the change of business models to more 
+quantitative or passive investment, data costs are becoming more and more a success factor for many 
+asset managers. The BVI advocates a revision of the existing EU regulations for the provision and use 
+of financial market data on appropriate commercial terms, e.g. in MiFID/MiFIR, Credit Rating Agencies 
+Regulation (CRAR), and an implementation of data user effectively protective regulations, e.g. in the 
+Benchmark Regulation and the various EU regulations on regulatory reporting. Data charges should be 
+determined on the basis of the marginal cost of producing and disseminating the data. 
+Important aspects to be considered in relation to the supervision and regulation of AI 
+A key question related to AI models from the supervisory perspective is how they can be 
+integrated/classified into existing regulatory frameworks. In our view, this depends on the businesses’ 
+ability to continue operating without accountability or intermediaries. This is evident in the area of 
+blockchain technology for instance. The application of technologies based on decentralised computing 
+structures pushes regulation to its limits. Thus, supervisors face the challenge of how to regulate 
+companies whose business models are based on technologies that cannot be regulated. In this case, 
+the focus should not be on the classification in existing regulatory frameworks but rather on the 
+business models and the technologies used. 
+In general, we believe the classification of AI applications should not be based on the function as such 
+but rather on the share of the value chain within the company. A chatbot, for example, could be highly 
+critical if it is used as the primary medium for customer contact and for concluding contracts. Other 
+areas of application of a chatbot could in turn be completely uncritical. We therefore welcome the 
+proportionality principle in the Commission’s proposal. 
+We recommend that additional requirements be carefully examined and internationally coordinated as 
+we see the risk that different regions will be regulated to varying degrees. This means that a locational 
+disadvantage could arise in highly regulated countries (keyword "regulatory arbitrage"). Furthermore, 
+this could hamper innovation if regulation is applied to different degrees. With Luxembourg and 
+Singapore, financial centres are already emerging that are very open to new technologies and provide a 
+corresponding infrastructure (also in terms of regulation). A race should be avoided here. 
+Another aspect relates to documentation. We support the idea that there should be documentation of 
+the algorithms. This is necessary for further development of the technology but should already be 
+sufficiently regulated. AI applications sometimes make decisions based on several million data points, 
+i.e. although the original algorithm can be documented, the characteristics depend on the data used to 
+train the algorithm. A simple rule-based description of which decisions are made for which reason is 
+then no longer possible (this is also obvious, if this were possible, a simple rule-based system could be 
+used). 
+Promotion of open global standards 
+For the success of big data and AI applications in the market and with consumers, there is a need to for 
+regulators to promote the development and application of open global standards that can be freely used 
+by all market participants: 
+1. AI is based on standards. AI needs at least standards for data structure, model interpretation, 
+identification of the AI application and AI governance. 
+
+2. AI and big data: leading big data and AI applications require large, parallel computer systems to 
+process large data sets to identify patterns and correlations. However, the data sets required for selflearning systems – including those from the public sector – are often not available to the public or only 
+at unreasonable conditions. The open data / eGovernment initiatives in Germany, the EU, but also the 
+USA are to be supported in order to enable the development of a big data and AI market. 
+3. Big data and AI applications are reliant on other capabilities such as speech recognition, universal 
+translation systems and text analysis tools. In addition to voice, photo, image and video streaming 
+sources of all kinds are other high-volume data sources that applications must be able to process. 
+However, the best algorithm, e.g. for investment advice between (bank) sales and the 
+customer/consumer, cannot be offered if speech recognition is necessarily performed by "Alexa", "Siri" 
+or similar proprietary applications. In contrast to the Internet with open http/html standards that can be 
+freely used by all market participants, the communication channels mentioned are legally and 
+practically sealed off and can contribute to the formation of monopolies by predominantly US and Asian 
+providers. BDAI must therefore not be seen as the application of various scientific findings but should 
+be regarded as a science in its own right, which must be based on global standards that are open and 
+freely usable for all market participants. 

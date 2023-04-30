@@ -1,0 +1,111 @@
+ Page 1 of 3 
+Response of the Global Legal Entity Identifier Foundation (GLEIF) to 
+the European Commission Proposed EU Artificial Intelligence 
+Regulation 
+August 6th, 2021 
+The Global Legal Entity Identifier Foundation (GLEIF) is pleased to provide comments to the European 
+Commission's Proposed EU Artificial Intelligence Regulation. GLEIF will focus its comments on how using 
+the Legal Entity Identifier (LEI) in the AI framework can enhance traceability and transparency. 
+First, GLEIF welcomes the Commission's decision to harmonize the rule setting pertaining to AI across 
+the Member States to prevent a patchwork of divergent national rules, potentially would create 
+additional legal uncertainty and barriers and slow market uptake of AI in the EU. A solid European 
+regulatory framework for trustworthy AI will also ensure a level playing field for all citizens and 
+businesses. 
+GLEIF agrees that the nature of AI often relies on large and varied datasets, which significantly impacts 
+the quality and reliability of the AI systems. Algorithms rely on quality data, and most firms recognize 
+the need for quality data inputs. In particular poor-quality identification data renders AI and machine 
+learning approaches less reliable, and worse, may result in missing the signal in the data and or 
+unexpected behavior of the algorithm. For example, in the financial industry, a 
+GLEIF research demonstrates that financial firms use on average 4 identifiers for their legal entity clients 
+which leads to low confidence in the reliability of the associated client reference data. Considering the 
+interconnectedness of the financial sector and institutions, several institutions' use of low-quality data 
+can negatively impact risk assessment and exposure analysis and create a challenge for financial 
+stability. This is also applicable in the usage of AI for financial risk solutions. These new solutions use AI 
+technology to aggregate and analyze client data across financial crime detection systems such as know 
+your customer (KYC) and anti-money laundering (AML) to improve outcomes. The success of these 
+solutions will be dependent on the data input that is leveraged. Given the Commission's proposal aims 
+to strengthen the Union's role significantly to shape global norms and standards and promote 
+trustworthy AI and provide the Union with a powerful basis to engage further with its external partners, 
+an explicit reference to the global data standards, including the LEI for legal entity identification as part 
+of the dataset, should be key in international fora on issues relating to the identification in AI. 
+The LEI is a 20-character, alpha-numeric code, based on the ISO 17442 standard, is used for uniquely 
+and unambiguously identifying legal entities globally. Each LEI contains information about an entity's 
+ownership structure and thus answers the questions of 'who is who' and 'who owns whom'. Besides the 
+regulatory use of the LEI by supervisors, the private sector, particularly financial institutions, use the LEI 
+as part of their data-driven approach in their client management procedures for being able to identify 
+their clients in a standardized way and connecting internal and external databases through the LEI; so as 
+to speak the same language in entity identification and verification. 
+GLEIF would like to highlight that each AI solution is a product of multiple components. Each algorithm 
+develops its patterns based on the input and the parameter set. The lack of labeled data is one of the 
+most often encountered challenges when it comes to application of AI approaches. With the LEI code 
+
+ Page 2 of 3 
+and the accompanying publicly available reference data, GLEIF offers a high quality labeled data set, that 
+could be used for (i) different learning problems, (ii) as a benchmark data, or (iii) to be mapped to 
+additional internal data in order to enhance the internal data and provide the data label. 
+For example, GLEIF is the Maintenance Agency for the ISO 20275 Entity Legal Form (ELF) Code List. The 
+list contains legal forms/types in their native language, such as limited liability companies (Ltd), 
+Gesellschaft mit beschränkter Haftung (GmbH) or Société Anonyme (SA). The ELF Code List assigns a 
+unique code to each entity legal form. ISO points out that understanding the legal form of an entity “is 
+an important component of financial services transactions. Entering into a business relationship requires 
+distinguishing the type of entity that is being transacted with. Parties (and their organizational structure) 
+involved in financial transactions need to be identified within these transactions. Standardization of the 
+legal or organizational construct will aid flexibility and provide greater understanding of exposure to risk 
+and access to capital.” ELF code is a data field in the LEI reference data. The LEI reference data with the 
+ELF code as a label can be used to develop an AI model to automatically assign ELF codes to new legal 
+entities. This would facilitate (i) the mapping exercise for all type of businesses within the existing 
+client/legal entity portfolio; and (ii) assign the right legal liability to the legal entity. 
+In the proposed Regulation, it is mentioned that for high-risk AI systems, the requirements of high 
+quality data, documentation and traceability, transparency, accuracy and robustness, are strictly 
+necessary to mitigate the risks to fundamental rights and safety posed by AI and that are not covered by 
+other existing legal frameworks. Harmonized standards and supporting guidance and compliance tools 
+will assist providers and users in complying with the requirements laid down by the proposal and 
+minimize their costs. To satisfy these requirements, GLEIF would like to suggest that the Commission 
+adds the LEI to the requirements under the "ANNEX VIII INFORMATION TO BE SUBMITTED UPON THE 
+REGISTRATION OF HIGH RISK AI SYSTEMS IN ACCORDANCE WITH ARTICLE 51" and “ANNEX V EU 
+DECLARATION OF CONFORMITY” to uniquely and unambiguously identify the AI system provider. 
+Regarding traceability and transparency discussions, GLEIF suggests that the algorithms' results would 
+have to be traceable to the extent that the supervisory authorities can monitor them. In addition to 
+performing comparisons with specific minimum standards that may need to be developed, supervisory 
+authorities could also determine the effectiveness of algorithms by benchmarking them against other 
+providers' algorithms. Without the use of the global data standards as part of these specific minimum 
+standards, comparison of data and benchmarking across borders cannot be achieved. 
+In the recently published Digital Finance Strategy for the EU, it is decided that by 2024, the EU aims to 
+put in place the necessary conditions to enable the use of innovative technologies, including RegTech 
+and SupTech tools, for supervisory reporting by regulated entities and supervision by authorities. The 
+Commission will make full use of available international standards and identifiers, including the LEI. The 
+use of international standards consistently will facilitate the use of RegTech tools for reporting and 
+SupTech tools for data analysis by authorities. 
+The concentration risk, reliance on the same service providers or intermediaries, is highlighted as 
+another challenge. GLEIF thinks that the clear identification of these service providers and clients with 
+their LEI can help regulators map service concentration and affected clients in a clear and unambiguous 
+
+ Page 3 of 3 
+manner in case of an unexpected behavior. Mapping the concentration risk can help regulators take 
+necessary measures timely, so these challenges do not become risk factors for financial stability. 
+As also highlighted by the Financial Stability Board, applications of AI and machine learning could result 
+in new and unexpected forms of interconnectedness between financial markets and institutions, for 
+instance, based on the use by various institutions of previously unrelated data sources. Network effects 
+and scalability of new technologies may give rise to third-party dependencies. This could, in turn, lead to 
+the emergence of new systemically important players that could fall outside the current regulatory 
+perimeter. 
+GLEIF suggests that adding an explicit LEI requirement for AI system providers (particularly under Annex 
+V and Annex VIII) would not make the proposed EU rule-setting over prescriptive. Instead, the LEI 
+requirement would prevent duplication, conflicting obligations and overregulation of the industry 
+regarding identification while reinforcing the transparency and public trust towards the AI. For example, 
+a European online bank user can easily identify whom they are talking to (via the AI chatbot) and where 
+the AI chatbot is located and/or who owns it. The Global LEI System is free to use, open, and easily 
+accessible database that users would be able to connect with 24/7 operating hours. The LEI connects to 
+key reference data that provides the information on a legal entity identifiable with an LEI: the official 
+name of the legal entity as recorded in the official registers, the registered address of that legal entity, 
+the country of formation. The Global LEI System links with the local business registries that might be 
+proprietary and in different character sets. Instead of navigating through various access points and 
+languages, the Global LEI System allows consumers to conduct quick due diligence in a trusted way. 
+With the Global LEI System, consumers could also easily know and verify with whom they are 
+transacting. 
+Therefore, adding the LEI requirement would avoid duplication of requirements, as requested by the 
+majority of the stakeholders to the previous consultation, but creates the basis for transparency and 
+public trust. 
+Submitted by: 
+Stephan Wolf, CEO GLEIF 
+Stephan.Wolf@gleif.org 

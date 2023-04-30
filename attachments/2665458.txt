@@ -1,0 +1,92 @@
+Bits of Freedom welcomes the European Commission’s objective to ensure that AI systems 
+are used safely and with respect to fundamental rights and Union values. We agree that the 
+future of AI depends on public trust in the safety and compliance of AI with fundamental 
+rights and that a human-centric approach is essential. Therefore we welcome the 
+opportunity to share our concerns relating to the protection of fundamental rights in the 
+Artificial Intelligence Act. In particular, we are worried that the scope of prohibited AI 
+practices and high-risk classifications, and the support offered to citizens effected by AI to 
+exercise their fundamental rights, fall short. In order to provide a regulatory framework that 
+truly respects fundamental rights, we encourage the Commission to revise the proposal and 
+provide additional safeguards.
+1. Prohibited practices
+Bits of Freedom welcomes the prohibition of AI-practices that create unacceptable risks to 
+fundamental rights. However, one could argue that the proposal’s broad exceptions, limited 
+scope and vague wording render these prohibitions meaningless. Therefore, Bits of Freedom 
+advises the Commission to prohibit the practices in article 5 without exceptions. We would 
+like to clarify why we feel such a measure is necessary.
+Article 5(1)(a) and (b) prohibit manipulation and exploitation of vulnerabilities only when it 
+causes or is likely to cause physical or psychological harm. If passed into law, this will place 
+an unreasonable burden of proof on individuals to demonstrate future or actual harm, as it 
+is extremely difficult if not impossible for individuals to gather information or evidence on 
+these practices. Furthemore, one could argue that tracking, analysing and scoring people’s 
+behavior to classify their trustworthiness, as meant in article 5(1)(c), are not commensurate 
+with an open and free society in which fundamental rights are protected. 
+Nadia Benaissa
++31 6 55 16 46 33
+nadia@bitsoffreedom.nl
+To:
+Members of the European Commission
+Bits of Freedom
+Prinseneiland 97hs
+1013 LN Amsterdam
+bitsoffreedom.nl
+IBAN: NL73 TRIO 0391 1073 80
+KVK: 34 12 12 86, Amsterdam
+Subject:
+Artificial Intelligence Act
+1/3
+Date:
+August 5th 2021
+
+We agree with the Commission that biometric surveillance systems need to be banned from 
+publicly accessible spaces. However, the prohibition as drafted in article 5(1)(d) does not 
+offer the neccessary protection, as the prohibition itself is too narrowly defined and the 
+exceptions, in turn, not narrow enough. First of all, the prohibition is limited to biometric 
+identification, neglecting many problematic systems that make use of AI for the automated 
+recognition of human feautures, and practices like singling out. Secondly, the prohibition is 
+limited to real-time systems and therefore would not only allow for post-systems to be 
+deployed, a destinction that is unsustainable and irrelevant from a fundamental rights 
+perspective, but furthermore releases the deployment of post-systems from the “burden” of 
+the restrictions and safeguards that do apply to real-time systems. Thirdly, the prohibition is
+limited to the use of biometric systems for law enforcement purposes, leaving people 
+vulnerable to fundamental rights violations that occur in other contexts. Fourthly, the 
+exclusion of online spaces from the definition of publicly accessible spaces suggests that 
+the Act may not bring a halt to the scraping of online sources in order to develop commercial
+databases, leaving many problematic business models in tact. Online spaces must be 
+included in the definition of publicly-accessible spaces, and the data scraped from online 
+spaces (such as from social media) included in the prohibition. 
+Combined, these exceptions will ensure the availability and accessibility of biometric 
+surveillance infrastructure and practices, and may even enable and encourage its use. The 
+exceptions furthermore risk undermining the protections offered by the General Data 
+Protection Regulation with regard to the use of biometric data. Finally, wording such as 
+“potential” victim and “preventive” use does not allow for enough guidance as to the limits 
+of the use of biometric systems, therefore creating unnecessary and disproportionate risks. 
+Because of the unacceptable risks to society these exceptions introduce, Bits of Freedom 
+urges the Commission to more comprehensively prohibit the practices identified in article 5.
+2. High risk classification
+In article 6 the Commission suggests a higher level of protection is needed for AI systems 
+that are considered high risk. We agree with the Commission. However, by only providing 
+effective rules for AI systems that are classified as high-risk, people might fail to be 
+protected from AI systems that are not subject to this definition. To provide a sufficient level
+of protection, regulatory measures must also address these AI-systems.
+3. Transparency
+Article 13 prescribes transparency in order to enable users of AI-systems to interpret the 
+output of those systems. However, transparency alone is not enough to allow users to verify 
+whether output is just and legitimate. This will result in private and public entities using 
+decisions made by AI while not being able to justify these decisions to the people effected by
+them. 
+2/3
+
+The proposal offers people no possibility to verify AI-output that effects their lives. If passed 
+into law, this would result in a lower level of protection than the GDPR and domestic 
+legislation currently offer. In the Netherlands, for example, acts by public authorities always 
+require motivation of decisions and transparency. Bits of Freedom urges the Commission to
+raise the level of protection offered to natural persons and users to guarantee that they can 
+review and verify AI-output and -decisions. 
+Concluding
+Bits of Freedom welcomes the European Commission’s step towards ensuring that AI 
+systems are used safely and with respect to fundamental rights and Union values, and 
+encourages the Commission to strengthen the proposal to be in line with the ambitions set 
+in the Commission’s White Paper on Artificial Intelligence and the explanatory 
+memorandum of the Artificial Intelligence Act. 
+3/3

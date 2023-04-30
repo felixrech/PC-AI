@@ -1,0 +1,144 @@
+Key messages: 
+DIN and DKE welcome the European Commission’s choice to follow the principle of the New Legislative Framework for the Artificial Intelligence Acts (AIA) 
+as it is the custom-fit regulatory approach. 
+We encourage the EC to start drafting and issuing standardisation requests for 
+harmonized standards as soon as possible, in close cooperation with the European Standardization Organizations, in order to offer presumption of conformity 
+in accordance with Article 40 and to ensure a swift implementation of the AIA. 
+Common specifications as laid down in Article 41 provide no adequate alternative to harmonized standards. 
+It is imperative that representatives of the European Standardization Organizations are represented in the European Artificial Intelligence Board. 
+DIN e. V. 
+Contact: 
+German Institute for Standardization 
+Katja Krüger 
+Saatwinkler Damm 42/43 
+Senior Government Relations Manager 
+13627 Berlin 
+Phone: +49 30 2601-2439 
+Germany 
+E-Mail: katja.krueger@din.de 
+www.din.de 
+DKE 
+Contact: 
+German Commission for Electrical, Electronic 
+Celine Oeyen 
+& Information Technologies of DIN and VDE 
+EU Policy & Stakeholders Manager 
+Stresemannallee 15 
+Phone: +49 151 2207-9677 
+60596 Frankfurt 
+E-Mail: celine.oeyen@vde.com 
+Germany 
+www.dke.de 
+Position Paper on the EU “Artificial Intelligence Act”  
+Joint position paper on the European Commission’s proposal for a regulation laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and amending certain Union legislative Acts ̶ COM(2021) 206 
+June 2021 
+
+DIN and DKE, the German national standardization bodies and members of the European 
+Standardization Organizations (ESOs) CEN, CENELEC and ETSI welcome the European 
+Commission's (EC) proposal for a regulation that focuses on trustworthiness and product 
+safety of high-risk artificial intelligence (AI)​ISO/IEC DIS 22989:2021 “Information Technology — Artificial Intelligence — Artificial Intelligence Concepts and Terminology” defines artificial intelligence as a “set of methods or automated entities that together build, optimize and apply 
+a model (3.1.26) so that the system can, for a given set of predefined tasks (3.1.37), compute predictions (3.2.12), recommendations, or decisions”. ​  for the European Single Market. AI technology will 
+only be used across the board if it is trustworthy and finds acceptance in society. Standards 
+play an essential role in helping to achieve a broader acceptance of AI systems and bolster 
+trust in them. For example, they can define criteria for quality, explainability, fairness, safety, 
+security, privacy, and transparency. We therefore welcome the fact that the Commission assigns an essential role to standards in the safe placing of AI technology on the European Single 
+Market. We further believe that the AIA proposal paves a way for European experts to significantly shape global standards on AI. 
+The New Legislative Framework is the right regulatory approach for the AIA 
+We strongly support the EC’s approach to regulate high-risk AI according to the New Legislative 
+Framework (NLF). Following the NLF approach, policymakers determine legal requirements 
+(so-called “essential requirements”) and refer to standards to specify the technical details. 
+These standards are developed by the ESOs CEN, CENELEC and ETSI and become ‘harmonized standards’ through the publication of their reference in the Official Journal of the European 
+Union (OJEU) by the EC. Harmonized European standards provide the presumption of conformity with the respective EU legislation. This enables all market participants to meet the essential requirements of the respective EU legislation, provides state-of-the-art solutions, eases 
+the burden on the legislator to provide detailed technical regulation and helps to maintain a 
+flexible legal framework. Hence, by deciding to issue standardization requests to the ESOs in 
+accordance with Regulation (EU) 1025/2012 on European Standardization to specify technical 
+details resulting from the requirements under Chapter 2 of the AIA, the EC lays the foundation 
+for a harmonized digital single market for AI: European standards adopted by the ESOs are 
+identically adopted by all national standardization bodies. Competing national standards must 
+be withdrawn at the same time, thus creating a level playing field across Europe. Thus, the NLF 
+has been a well proven concept to consolidate the European single market for over 30 years. 
+Strengthening and supporting existing artificial intelligence standardization 
+In standardisation, AI has already been recognized as an important work item. The international standardization committee ISO/IEC JTC1/SC 42 “Artificial Intelligence” currently addresses several topics such as foundational standards, management system standard, data 
+quality, trustworthiness, ethics, risk management, explainability and governance implications 
+of AI, as examples of its comprehensive work program. ​Standards by ISO/IEC JTC 1/SC 42 “Artificial intelligence”: https://www.iso.org/committee/6794475/x/catalogue/p/0/u/1/w/0/d/0 ​  
+At the European level, CEN and CENELEC have established the Joint Technical Committee 
+CEN-CENELEC/JTC 21 “Artificial Intelligence”. Its tasks are to identify and adopt international 
+standards already available, produce standardization deliverables addressing the European 
+market and societal needs, as well as underpinning EU legislation, policies, principles and 
+
+values, and ensure the implementation of the CEN-CENELEC Roadmap on AI. ​The CEN-CENELEC Roadmap on AI was the main deliverable of the CEN and CENELEC Focus Group on AI that, prior to the 
+work of CEN-CENELEC/JTC 21, was established to map out the current standardization landscape on AI. ​  During the 
+past two years, the EC and the ESOs standardization experts have established a productive 
+exchange on AI standardization. Together with our European partners, we want to continue 
+this well-established cooperation. 
+DIN and DKE offer strong support and have founded the DIN-DKE Joint Committee NA 04301-42 GA “Artificial Intelligence” which mirrors both the international and European technical 
+committees in Germany. It consolidates the German opinion and delegates experts to European and international committees. 
+Timely implementation of the AIA through practicable standardization requests 
+To ensure that the AIA can be implemented in a timely manner once it has been adopted, 
+important preparatory work should start immediately. For this purpose, the EC can already 
+include standardization projects in the upcoming Annual Union Work Programme for European 
+standardization (AUWP) to develop technical specifications corresponding to the requirements 
+of the AIA. On this basis, standardization requests can be issued. 
+The German Standardization Roadmap on AI, which DIN and DKE published together with the 
+German Ministry for Economic Affairs and Energy in December 2020, can serve as a basis for 
+this AI standardization work at the European level. It describes for the first time the environment in which AI standardization operates, identifies existing standards and specifications relevant to the field of AI, and outlines further standardization needs. Just like the AIA, the German Standardization Roadmap on AI follows a risk-based approach. Even though it is a national publication, it focuses primarily on European and international standardization efforts. In 
+addition, it formulates concrete recommendations for action which are aimed primarily at industry, but also at stakeholders in quality infrastructure, research and policy. 
+Recommendation: The European Commission together with the ESOs should jointly 
+start to develop standardisation requests for the implementation of the requirements from 
+Chapter II of the AIA. In accordance with Regulation 1025/2012 Article 8, standardisation requests must be incorporated in next year’s Annual Union Work Programme for European 
+standardization. 
+
+Common specifications (Article 41) provide no adequate alternative to harmonized 
+standards 
+The proposed Article 41 on common specifications exceeds the limits layed out in EU Regulation 1025/2012 on European standardization that establishes a partnership agreement between the Commission and the ESOs. 
+Following the principle of proportionality, Europe should continue to rely on voluntary and consensus-based standards that ensure compliance of products with Union legislation and provide 
+a clear separation between legislation, standardization and conformity assessment, as well as 
+include all stakeholders. 
+Harmonized European standards (hEN) according to their definition in Regulation 1025/2012​According to Regulation 1025/2012 Article 2 paragraph 1c a „harmonized standard“ is a „ a European standard 
+adopted on the basis of a request made by the Commission for the application of Union harmonisation legislation”. ​  
+offer significant added value over common specifications resulting from implementing acts of 
+the Commission: 
+• They respect European values through 
+o transparency in the process and the standardization work programme; 
+o openness and inclusiveness of all relevant and interested stakeholders representing the widest possible technical expertise as well as consumers’ interests 
+and offering a right balance of participation among these stakeholders; 
+o taking into account environmental, health and occupational safety aspects; 
+o the consensus-based development of standards with a bottom-up approach. 
+• They offer technological leadership potential through the ESOs strong links to international standardisation at ISO and IEC. 
+• They respect the World Trade Organization’s (WTO) Agreement on Technical Barriers to Trade (TBT Agreement). 
+• They are trusted by manufactures and consumers alike, market relevant and fit-forpurpose because the requirements of potential users of the standards are taken into 
+account in the drafting process. 
+• They ensure the inclusion of small and medium-sized enterprises (SMEs) and of societal stakeholders in the standardization process. 
+Circumventing harmonised standards through common specifications would lead to a loss of 
+these benefits and significantly weaken the participation opportunities of SMEs, consumers 
+and civil society in the development of responsible framework conditions for the use of AI. 
+Article 3 paragraph 2 of the NLF Decision 768/2008/EC​Decision on a common framework for the marketing of products. ​  supports the special status of hEN: 
+“Where Community harmonisation legislation sets out essential requirements, it shall provide for recourse to be had to harmonised standards, adopted in accordance with Directive 98/34/EC, which shall express those requirements in technical terms and which 
+shall, alone or in conjunction with other harmonised standards, provide for the presumption of conformity with those requirements, while maintaining the possibility of setting the 
+level of protection by other means.” 
+Recommendation: Article 41 must be deleted to avoid confusion in the marketplace and 
+make sure that the EU follows its own legislation, i.e. Regulation 1025/2012 on European 
+standardization, and the NLF.  
+
+Standardization should be represented in the European Artificial Intelligence Board 
+The European Artificial Intelligence Board (EAIB) that will be established through the AIA (Article 56) shall, amongst other tasks, “issue opinions, recommendations or written contributions 
+on matters related to the implementation of this Regulation, in particular […] (ii) on the use of 
+harmonized standards or common specifications referred to in Article 40 and 41” (Article 58, 
+paragraph c). 
+Recommendation: In order to fulfil this task, it is imperative that representatives of the 
+ESOs are represented in the EAIB. Cooperation with the ESOs and the multi-stakeholder 
+platform on ICT standardisation​See Commission Decision of 28 November 2011 setting up the European multi-stakeholder platform on ICT standardisation (2011/C 349/04). . In collaboration with the Commission, the platform drafts the yearly Rolling Plan on ICT standardization, that lists all EU policy priorities where standardisation plays a key role in the implementation of the policy and 
+also covers technologies of horizontal importance. ​  is essential. 
+About DIN 
+DIN, the German Institute for Standardization, is the independent platform for standardization in Germany and worldwide. 
+Together with industry, scientific institutions, public authorities and civil society as a whole, DIN plays a major role in 
+identifying future areas for standardization. By helping to shape the green and digital transformation, DIN makes an important contribution towards solving current challenges and enables new technologies, products and processes to establish themselves on the market and in society. More than 36,000 experts from industry, research, consumer protection and 
+the public sector bring their expertise to work on standardization projects managed by DIN. The results of these efforts 
+are market-oriented standards and specifications that promote global trade, encouraging rationalization, quality assurance 
+and environmental protection as well as improving security and communication. For more information, go to www.din.de/en 
+About DKE 
+The DKE German Commission for Electrical, Electronic & Information Technologies of DIN and VDE as a joint organization 
+of VDE and DIN (VDE DKE) is the national platform for about 9 000 experts from industry, science and public administration to elaborate standards and safety specifications for electrical engineering, electronics and information technology. 
+Standards support global trade and, among other things, the safety, interoperability and functionality of products and 
+systems. As a competence centre for electrotechnical standardization, the DKE represents the interests of German industry in European (CENELEC, ETSI) and international standardization organizations (IEC). In addition, the DKE provides 
+comprehensive services in the field of standardization and VDE specifications. More information available at www.dke.de 

@@ -1,0 +1,66 @@
+Aarhus University • Babeș-Bolyai University • University of Bern • University of Bologna • Ghent University • University of Glasgow 
+University of Göttingen • University of Groningen • Jagiellonian University • King’s College London • University of Ljubljana 
+University of Louvain • University of Oslo • Université de Paris • Pompeu Fabra University • Radboud University 
+University of Tartu • University of Tübingen • Uppsala University • University of Vienna • University of Warwick 
+Proposals for the Artificial Intelligence Act 
+In April 2021, the European Commission published its proposal for an Artificial Intelligence (AI) Act. ​Proposal for a regulation laying down harmonised rules on Artificial Intelligence (Artificial Intelligence 
+Act), COM(2021) 206 final. ​  Its 
+ambition is to ensure that AI systems comply with the fundamental rights and the values of the 
+European Union, while facilitating the development of a single market for “lawful, safe and trustworthy 
+AI applications”. The proposal is accompanied by a revised Coordinated Plan on Artificial Intelligence 
+which calls for an alignment and further coordination of national and EU-level policies and investments 
+“to create EU global leadership on trustworthy AI”. ​Coordinated Plan on Artificial Intelligence 2021 Review, COM(2021) 205 final Annex. ​  
+The Guild fully endorses the ambition of the proposal for an AI Act to ensure that AI systems are 
+trustworthy and do not threat the fundamental rights and values of the EU. The present document 
+nevertheless highlights some areas of concerns and formulates recommendations on how to address 
+them. 
+The European Commission, advised by a high-level expert group, decided on a risk-based approach. AI 
+systems, whose use could create unacceptable risk, will be banned, while high-risk AI systems will need 
+to go through ex-ante conformity assessment and comply with few other obligations. The Guild is 
+concerned about two caveats in this approach. It requires a definition of AI systems that reflects the 
+fast technological developments while being operationalizable by legal practitioners. An annex to the 
+AI Act includes the definition of techniques and approaches that allow the development of AI systems. 
+This will allow for easy update. However, The Guild recommends that the European Commission 
+establishes a high-level expert group, composed of academic researchers among others. Its tasks will 
+include advising on whether any technological progress requires a revision to the annex or to the 
+body text of the AI Act. The second caveat is that the approach in the AI Act may be interpreted as an 
+attempt to regulate AI systems instead of practices. The Guild agrees that the practices presented as 
+causing unacceptable risks should be banned for a better protection of fundamental rights and the EU 
+values. However, the European Commission may consider, as a more effective and/or 
+complementary approach, setting up regulatory frameworks that explicitly ban those jeopardizing 
+practices, such as social scoring. 
+The Guild acknowledges that the AI Act aims to regulate AI systems put onto the market (either as 
+standalone systems or embedded in products or services) depending on the degree of risks their uses 
+could create. Doing so, the proposal of the European Commission does not have the ambition to create 
+obligations for research on AI and AI systems. However, The Guild foresees that the AI Act could define 
+new standards for responsible and ethical research and have therefore an indirect impact on research. 
+It is especially concerned about future additional burdens on researchers applying for EU funding. All 
+proposals for an EU grant (including Horizon Europe) that involve the development, deployment and/or 
+use of AI must already provide minimum information on the potential ethic risks and risk mitigation 
+measures. If risks are foreseen, the applicants need to conduct an ethics self-assessment. ​European Commission (2021) EU Grants: How to complete your ethics self-assessment. Version 1.0. ​  The Guild 
+
+The Guild of European Research-Intensive Universities • Rue du Trône 98 • B-1050 Brussels 
+Phone +32 (0)2 2740 500 • office@the-guild.eu • www.the-guild.eu 
+asks that the AI Act does not add to the ethical requirements of EU grants and does not increase the 
+burdens on researchers through a blanket obligation to demonstrate that the AI systems to be 
+developed, deployed and/or used, in the proposed research projects, do not infringe the AI Act. The 
+European Commission may consider instead requiring an ethical approval only for the research 
+proposals that involve the development, deployment and/or use of specific risky AI systems. 
+The Guild anticipates that the AI Act may create legal uncertainties, especially if there is no 
+harmonization in its national transpositions and interpretations across the European Union’s Member 
+States. A similar situation with the General Data Protection Regulation​Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the 
+protection of natural per-sons with regard to the processing of personal data and on the free 
+movement of such data. ​  has already detrimental effects 
+on health research. ​European Commission (2021) Assessment of the EU Member States’ rules on health data in the light 
+of GDPR. Luxembourg: Publications Office of the European Union. DOI: 10.2818/546193 ​  The Guild calls not to reproduce the same mistake and recommends giving the 
+European Artificial Intelligence Board the mandate – with the support of an high-level expert group 
+– to ensure the harmonized implementation of the AI Act in the Member States. The AI Act may 
+create uncertainties also by introducing concepts such as ‘trustworthy AI systems’ in a technological 
+field evolving at a fast pace. Even though the European Commission clearly define the process e.g. for 
+the ex-ante conformity assessment of high-risk AI systems, AI developers may be still uncertain on how 
+to concretely ensure that their systems are trustworthy and comply with all requirements listed in the 
+AI Act. The Guild contends that universities may offer them solutions. The European Commission 
+should support research projects aimed at elucidating – especially from a technological perspective 
+– the concepts introduced in the AI Act (e.g. trustworthy AI, robust AI etc.) and finding how AI 
+developers can concretely comply with the Act. 
+For further information on The Guild’s position, please contact Julien Chicot (julien.chicot@theguid.eu). 

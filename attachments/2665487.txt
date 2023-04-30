@@ -1,0 +1,313 @@
+Stellungnahme des Bundesverbands Digitale Wirtschaft (BVDW) e.V. zum Verord-
+nungsvorschlag der EU-Kommission für einen Rechtsrahmen für Künstliche Intelligenz 
+Vorbemerkungen 
+Der Bundesverband Digitale Wirtschaft (BVDW) e.V. ist die Interessenvertretung für 
+Unternehmen, die digitale Geschäftsmodelle betreiben oder deren Wertschöpfung 
+auf dem Einsatz digitaler Technologien beruht. Als Impulsgeber, Wegweiser und Be-
+schleuniger digitaler Geschäftsmodelle vertritt der BVDW die Interessen der 
+digitalen Wirtschaft gegenüber Politik und Gesellschaft und setzt sich für die Schaf-
+fung von Markttransparenz und innovationsfreundlichen Rahmenbedingungen ein. 
+Sein Netzwerk von Experten liefert mit Zahlen, Daten und Fakten Orientierung zu 
+einem zentralen Zukunftsfeld. 
+Hintergrund 
+Infolge der europäischen Strategie zu Künstlicher Intelligenz (KI) aus dem Jahr 2018 
+legte die EU-Kommission 2020 ihr KI-Weißbuch vor. Parallel entwickelten hochran-
+gige Interessenträger im Rahmen der hochrangigen Expertengruppe für Künstliche 
+Intelligenz (HEG-KI) Leitlinien für vertrauensvolle KI. Unter Berücksichtigung der Ent-
+wicklungen der letzten Jahre sowie der öffentlichen Konsultationen, stellte die EU-
+Kommission am 21. April 2021 einen Regulierungsvorschlag über ein europäisches 
+Konzept für KI vor, welcher als Rechtsrahmen für Künstliche Intelligenz auf EU-
+Ebene zu verstehen ist. Durch die Wahl des Instruments einer Verordnung soll diese 
+Gesetzgebung nach ihrem Inkrafttreten direkt in den europäischen Mitgliedstaaten 
+ohne Notwendigkeit einer Umsetzung in nationales Recht gelten. Entsprechend ist 
+die zielführende Ausgestaltung dieser Vorschläge von höchster Relevanz. 
+Der vorgelegte Verordnungsvorschlag regelt unter anderem: 
+Verbote bestimmter Praktiken im Bereich der KI; 
+besondere Anforderungen an Hochrisiko-KI-Systeme und Verpflichtungen 
+für Betreiber solcher Systeme; 
+6. August 2021 
+Ansprechpartner: 
+Katharina Rieke 
+Bereichsleiterin 
+Politik & Gesellschaft 
+T:+49 30 206 218 617 
+rieke@bvdw.org 
+Dr. Anna Dietrich 
+Referentin 
+Mobilität, KI & Smart Cities 
+T:+49 30 206 218 615 
+dietrich@bvdw.org 
+STELLUNGNAHME 
+
+harmonisierte Transparenzvorschriften für KI-Systeme; 
+Vorschriften für die Marktbeobachtung und Marktüberwachung. 
+Die Frist der öffentliche EU-Konsultation zu diesem Vorschlag endet am 6. August 
+2021. Der BVDW will sich mit der vorliegenden Stellungnahme daran beteiligen. 
+Grundlegende Bewertung des Vorschlags 
+Der BVDW begrüßt die Auseinandersetzung der EU-Kommission mit dem Thema der 
+KI und unterstützt grundlegend das Hauptziel der Kommission, das darin liegt, die 
+Entwicklung und Einführung sicherer und legaler KI in Europa zu fördern, die auch 
+die Grundrechte im gesamten Binnenmarkt respektiert. Die Europäische Union 
+nimmt mit dieser Auseinandersetzung eine Vorreiterrolle ein und hat die Gelegen-
+heit einen wichtigen Standard im Bereich KI zu schaffen. 
+Auch aus Sicht des BVDW ist vertrauensvolle und innovationsfreudige KI ein we-
+sentlicher Standortfaktor für Europa und seine Wirtschaft. Die Einhaltung 
+europäischer Werte und Grundsätze ist dabei von höchster Relevanz und der 
+Mensch sowie die Auswirkungen auf ihn sollten bei allen Bestrebungen im Fokus 
+stehen. Die Entwicklung und Einführung neuer Technologien kann aber auch nur 
+dann gelingen, wenn gleichzeitig genügend Freiräume für Innovationen und unter-
+nehmerische Initiative bestehen. Hier muss eine angemessene Balance zwischen 
+den unterschiedlichen Interessen gefunden werden. Der Digitalverband ist daher der 
+Ansicht, dass vorrangig Anreize anstelle von Verboten wichtig sind, dass nur so viel 
+wie notwendig reguliert werden sollte und es eine klare Abgrenzung zu anderen Re-
+gelungsbereichen (z. B. Datenschutz, IT-Sicherheit) geben muss. 
+Der BVDW befürwortet zwar grundsätzlich einen europaweiten Ansatz im Umgang 
+mit KI, stellt jedoch auch klar in Frage, ob eine solche einheitliche Verordnung, wie 
+sie nun vorgelegt wurde, das geeignete Mittel ist, um KI in Europa sinnvoll und ge-
+winnbringend zu gestalten. Eine umfassende Grundregulierung erscheint aus Sicht 
+des BVDW vor dem Hintergrund weiterhin laufender wissenschaftlicher und wirt-
+schaftlicher Entwicklungen verfrüht. Zudem stellt sich die Frage, ob eine solche 
+Verordnung wirklich umsetzbar ist und Rechtssicherheit überhaupt erreicht werden 
+kann. Das Ziel eine erste umfassende Grundregulierung für KI zu schaffen, erscheint 
+somit sehr ambitioniert. 
+
+Um den Chancen und Risiken von KI bereits jetzt Rechnung zu tragen, wäre es aus 
+Sicht des Digitalverbands ein sinnvollerer Weg, einen sektoralen Ansatz zu wählen, 
+und zwar über die Erweiterung der bereits bestehenden fachspezifischen Regulie-
+rungen. Die Details der Verordnung legen aus unserer Sicht offen, dass der 
+horizontale Ansatz bei der Vielfalt der Funktionsweisen und Einsatzgebiete von KI 
+massive Schwierigkeiten und Rechtsunsicherheiten mit sich bringt. Denn KI findet 
+in den unterschiedlichsten Bereichen eine Anwendung, bringt in den Anwendungen 
+unterschiedliche Herausforderungen mit sich und birgt dementsprechend auch un-
+terschiedliche Risiken und Chancen. Auch mit Blick auf datenschutzrechtliche 
+Fragestellungen hätte dies eine nicht zu unterschätzende Bedeutung. Wenn bei-
+spielsweise KI im Gesundheitsbereich eingesetzt wird, könnten über einen 
+sektoralen Ansatz zahlreiche ungeklärte Rechtsfragen einer Lösung zugeführt wer-
+den. Daher fordert der BVDW die Kommission auf, den sektoralen Ansatz zu wählen 
+und dort verhältnismäßige Anpassungen vorzunehmen. Aus Sicht des BVDW muss 
+nochmals verstärkt auf den Stellenwert der Daten- und Datenschutzregulierung für 
+KI hingewiesen werden. Zum einen besteht über einen sektoralen Ansatz nicht die 
+Gefahr der Überregulierung. Die sektoralen Regelungen sollten den allgemeinen Re-
+gelungen der Datenschutzgrundverordnung (DSG-VO) vorgehen, indem sie diese für 
+die konkreten Anwendungsfelder, z. B. dem Gesundheitsbereich, präzisieren. Es 
+würde dadurch sogar sichergestellt werden, dass die verschiedenen Bereiche ange-
+messen und "passgenau" reguliert werden, da die Besonderheiten berücksichtigt 
+werden können. 
+Zum anderen entstehen digitale Innovationen nicht (nur) in geschlossenen Syste-
+men. Der Mehrwert skalierbarer Lösungen liegt in ihrer cross-funktionalen und 
+branchenübergreifenden Nutzbarmachung von Daten und Informationen. Die KI-Re-
+gulierung muss daher auch Teil eines kohärenten Rechtsrahmens für Daten sein, 
+der sicherstellt, dass KI – wenn auch unter gewissen Anforderungen zum Schutze 
+hochwertiger Güter – nicht unverhältnismäßig beschränkt wird, z. B. auch durch pa-
+rallele Gesetzesvorhaben. Die aktuellen Verhandlungen zur ePrivacy Verordnung 
+lassen befürchten, dass über restriktive Datenschutzvorgaben – auch für nicht per-
+sonenbezogene Daten – ein Großteil des Innovationspotenzials von KI im Keim 
+erstickt werden könnte. 
+Neben dieser grundlegenden Infragestellung des gewählten Mittels, möchte der 
+BVDW auf einzelne Regelungsinhalte des Vorschlags eingehen. Der Digitalverband 
+unterstütz prinzipiell den von der Kommission gewählten Ansatz, dass risikobasiert 
+mit KI umgegangen werden muss und dass der Verordnungsvorschlag der EU-Kom-
+mission 
+daher 
+in 
+erster 
+Linie 
+Hochrisiko-KI-Systeme 
+reguliert 
+sowie 
+Transparenzvorschriften für den Einsatz von KI festlegt. Wir sehen dennoch einige 
+
+Problemfelder im Vorschlag, die zu Rechtsunsicherheiten führen, Innovation hem-
+men und möchte diese gerne in den nächsten Abschnitten beleuchten. 
+Besonders problematisch ist aus Sicht des BVDW: 
+o 
+die zu weit gefasste Definition von KI; 
+o 
+Rechtsunsicherheiten allgemein und insbesondere in Bezug auf Hochrisiko-
+KI; 
+o 
+die Vielzahl an Widersprüchen im Vorschlag insbesondere bei den Transpa-
+renzpflichten; 
+o 
+Die teils unverhältnismäßigen Anforderungen und die Bürokratie, die im Vor-
+schlag mit einem hohen Bußgeld einhergehen; 
+Eine innovationsfreundliche und vertrauensvolle „KI made in Europe“ braucht aus 
+Sicht des BVDW: 
+1. eindeutige Begriffsdefinitionen, klare Anwendungsgebiete und Rechtssi-
+cherheit; 
+2. Auswirkungsregulierung statt Technikregulierung; 
+3. Weniger bürokratischen Aufwand; 
+4. Eile bei den technischen Spezifikationen; 
+Forderungen und Erläuterungen: 
+1. Rechtsunsicherheit vermeiden durch eindeutige Begriffsdefinitionen und An-
+wendungsgebiete: 
+Aus Sicht des BVDW ist es besonders kritisch zu sehen, dass der Verordnungsent-
+wurf unscharfe Definitionen verwendet, die Rechtsunsicherheit statt -sicherheit 
+schaffen. 
+In Anhang I gemäß Artikel 3 Absatz 1 ist der Begriff KI so weit definiert, dass so gut 
+wie jede Software-Anwendung darunterfallen dürfte. Denn unter dem Begriff „KI-Sys-
+tem“ versteht die Kommission eine Software, die im Hinblick auf eine Reihe von 
+Zielen, die vom Menschen festgelegt werden, Ergebnisse wie Inhalte, Vorhersagen, 
+Empfehlungen oder Entscheidungen hervorbringen kann, die das Umfeld beeinflus-
+sen, mit dem sie interagieren und die mit einem oder mehreren der folgenden 
+Techniken und Ansätze entwickelt wird: 
+
+mit machine learning (überwacht/unüberwacht/verstärkt) in allen Varian-
+ten; 
+mit logik- und wissensbasierten Ansätzen in allen Varianten; 
+mit statistischen Ansätzen in allen Varianten. 
+Diese Definition muss dringend überarbeitet und differenzierter werden. Die Regu-
+lierung sollte KI-Systeme im engeren Sinne treffen, um effektiv zu sein. Mit der 
+jetzigen Formulierung wäre jegliche Software betroffen, die beispielsweise Statistik 
+nutzt. Die KI-typische Gefahr geht jedoch nicht von jeglicher Software aus, sondern 
+vorrangig von selbstlernenden Systemen. Aufgrund der hohen technischen Komple-
+xität und Diversität von KI-Anwendungen braucht es hier trennscharfe 
+Formulierungen, um Unternehmen Rechtssicherheit zu bieten und kein Hemmschuh 
+für Innovation zu sein. Zudem wäre es aus Sicht des BVDW notwendig mit Positiv-
+merkmalen zur Definition von KI zu arbeiten. Eine weit gefasste Definition mit 
+negativen Abgrenzungen sollte im Sinne der Rechtssicherheit vermieden werden. 
+Zusätzlich bietet der Vorschlag auch viel Interpretationsspielraum in Bezug auf 
+Hochrisiko-KI. Auch wenn Anhang III des Vorschlags eine Liste der Anwendungen 
+aufstellt, die unter diese Begrifflichkeit fallen sollen, sind diese Ausführungen nicht 
+sehr detailliert und die Kommission kann diese Liste weiter anpassen. Der BVDW 
+unterstützt zwar prinzipiell den in Artikel 7 (2) definierten Ansatz, der eine enge De-
+finition von KI-Systemen mit hohem Risiko verwendet. Es werden in diesem Rahmen 
+mögliche Schäden für die Gesundheit, Sicherheit und die Grundrechte von Personen 
+berücksichtigt, sowie die Schwere, die Wahrscheinlichkeit ihres Auftretens und die 
+Anzahl der potenziell betroffenen Personen. Allerdings bleibt die Frage offen, wie 
+Artikel 7(2) auf die in Anhang III aufgelisteten Kategorien von Hochrisiko-KI ange-
+wendet und wie diese Kategorien regelmäßig neu bewertet werden sollen. Der 
+BVDW ist daher der Meinung, dass die Formulierungen des Anhangs III weiter zu 
+klären und einzugrenzen sind, da es eine Vielfalt an Anwendungen geben kann, die 
+unter einige der Definitionen fallen können. Die in Anhang III genannten KI-Anwen-
+dungen im Bereich der Beschäftigung decken beispielsweise eine breite Palette von 
+Systemen ab, darunter möglicherweise auch Werbekampagnen im Bereich der Be-
+schäftigung. Ohne weitere Klärung würde die Einstufung der Beschäftigung als 
+risikoreiche KI-Kategorie erhebliche Folgen für deutsche Werbetreibende und Ver-
+lage haben, die im Bereich der Personalbeschaffung tätig sind. 
+Es bedarf somit einer sauberen Regulierung, die auch immer mögliche, in der Kon-
+sequenz, 
+unverhältnismäßige 
+Aufwände 
+für 
+klein 
+und 
+mittelständische 
+
+Unternehmen (KMU) mitdenkt. Darüber hinaus muss geklärt werden, wie das Ver-
+fahren zur Aktualisierung der Liste des Anhangs III konkret aussehen soll. 
+Auch in Bezug auf die genaue Ausgestaltung der Anforderungen und Bestimmungen 
+an KI sind weitere Fragen offen. So heißt es beispielsweise in Artikel 15 (1): „Hoch-
+risiko-KI-Systeme werden so konzipiert und entwickelt, dass sie im Hinblick auf ihre 
+Zweckbestimmung ein angemessenes Maß an Genauigkeit, Robustheit und Cybersi-
+cherheit erreichen (...)“. Was unter einem „angemessenem Maß“ zu verstehen ist, 
+bleibt völlig unklar. Auch hier möchten wir nochmals auf die klare Abgrenzung zur 
+DSG-VO hinweisen. Diese gibt mit Blick auf den Schutz personenbezogener Daten 
+bereits etliche Vorgaben. Wenn die vorliegende Regulierung eine Art "Produktvor-
+gabe" abbilden soll, dann müssen Datenschutzthemen von vornherein sauber 
+ausgeklammert werden. Dies sollte auch für andere Überschneidungen gelten, z. B. 
+zum Cybersicherheitsrecht. 
+Unternehmen bekommen durch diesen Vorschlag somit keinerlei Rechtssicherheit, 
+sind aber aufgefordert umfangreiche Anforderungen zu erfüllen und stehen vor der 
+Gefahr hoher Bußgelder. 
+Neben der möglichen Einordnung als Hochrisiko-KI werden auch einige Anwendun-
+gen im Vorschlag über Artikel 5 gänzlich verboten. Der BVDW versteht die Idee der 
+Europäischen Kommission, einige KI-Anwendungen zu verbieten, wie z. B. den Ein-
+satz von biometrischen Fernidentifikationssystemen in öffentlich zugänglichen 
+Räumen mit einigen Ausnahmen. Aber auch in diesem Zusammenhang ist es es-
+senziell, genau und detailliert zu definieren, welche KI-Systeme verboten und welche 
+akzeptiert werden, um Unsicherheiten zu reduzieren. Hier bedarf es weiterer Nach-
+besserungen. 
+Abschließend möchte der BVDW auch noch auf die Regelungen des Artikels 52 ein-
+gehen, und zwar in Bezug auf KI im digitalen Marketing, das richtigerweise 
+grundlegend mit einem geringen Risiko eingestuft wird. 
+In Artikel 52 zum Thema Transparenzpflichten für bestimmte KI-Systeme heißt es: 
+(1) Die Anbieter stellen sicher, dass KI-Systeme, die für die Interaktion mit natürlichen 
+Personen bestimmt sind, so konzipiert und entwickelt werden, dass natürlichen Per-
+sonen mitgeteilt wird, dass sie es mit einem KI-System zu tun haben (….) 
+(2) Die Verwender eines Emotionserkennungssystems oder eines Systems zur bio-
+metrischen Kategorisierung informieren die davon betroffenen natürlichen Personen 
+über den Betrieb des Systems (….) 
+
+Dies hätte aus Sicht des BVDW auch Auswirkungen auf das Digitale Marketing, wenn 
+es beispielsweise auf eine KI-Optimierung durch semantische Klassifizierung der 
+werbetreibenden Seiten oder Apps setzt. In dem Fall müssten die Maßnahmen auf 
+den entsprechenden Werbeträgern vorher ankündigen werden. Dies scheint zum ei-
+nen außerhalb der Intension dieses Artikels zu liegen und zum anderen wäre dies 
+auch nicht praktikabel und sollte daher ausgeschlossen werden. 
+2. Innovationskraft durch Auswirkungsregulierung statt Technikregulierung si-
+chern: 
+Wie bereits in der Einleitung aufgeführt betrachtet der Verordnungsentwurf KI ganz-
+heitlich als Technologie, unabhängig von ihrem konkreten Anwendungsbereich. Die 
+möglichen Risiken dieser Technologie gehen aber letztendlich nicht von ihr selbst 
+aus, sondern von ihrem Einsatz und den Einsatzbedingungen. Der BVDW sieht in 
+dem horizontalen, globalen Ansatz der Kommission die Gefahr, dass die Entstehung 
+von Innovationen auf Basis datenbasierter Lösungen massiv erschwert werden. Bei-
+spielsweise sieht der Vorschlag generell und uneingeschränkt vor, KI-Anwendungen 
+im Bereich der kritischen Infrastruktur kategorisch als Hochrisiko-KI-Anwendungen 
+einzustufen. Es gibt jedoch Anwendungsmöglichkeiten, die bei genauerer Betrach-
+tung nicht denselben Stellenwert haben und gleichzeitig in einem digitalen 
+Ökosystem großen Nutzen für Unternehmen und Menschen bergen. Hier könnte 
+man an Smart Metering zur Verbrauchsdatenmessung und Optimierung der indivi-
+duellen bzw. Kollektiven Energiebilanz denken 
+Eine technologieoffene gesetzliche Lösung nach dem Innovationsprinzip ist daher 
+notwendig, um unterschiedlichste Anwendungsmöglichkeiten zu ermöglichen. 
+3. Investitionen durch Reduktion des bürokratischen Aufwands sichern und An-
+reize schaffen: 
+Um das gewünschte Ziel der Sicherheit und Transparenz zu erreichen, sieht der Ent-
+wurf aus Sicht des BVDW einen unverhältnismäßig großen Dokumentations- und 
+Prüfaufwand für neue KI-Systeme vor. Eine digitale Wertschöpfung wird dadurch 
+verhindert statt ermöglicht, geschweige denn erleichtert und unterstützt. Artikel 10 
+sollte daher beispielsweise besser gestaltet werden, um den Unternehmen das Tes-
+ten ihrer KI-Systeme zu ermöglichen und nicht zu viele Vorabverpflichtungen und -
+beschränkungen in Bezug auf "fehlerfreie" Daten aufzuerlegen. Der Schwerpunkt 
+sollte immer auf dem endgültigen KI-System liegen und nicht darauf, die Grundsätze 
+
+der Regulierung bereits in den Test- oder Trainingsphasen aufzuerlegen. Diese 
+Schlüsselphasen für innovative KI-Systeme müssen gesichert sein und Unterneh-
+men müssen in die Lage versetzt werden in einer "sicheren Umgebungen" zu 
+arbeiten, in denen Fehler gemacht werden können. 
+Darüber hinaus ist es für Unternehmen wichtig, flexible Werkzeuge an die Hand zu 
+bekommen, die dabei helfen, die notwendigen Dokumentationen zu KI-Systemen 
+einfach, effektiv und schnell bereitzustellen. So sollte beispielsweise vermieden 
+werden, dass eine Software, die von einem Unternehmen als Basissystem produ-
+ziert und in einer zweiten Phase an die unterschiedlichen Bedürfnisse verschiedener 
+Kunden angepasst wird, ohne dass die grundlegende Architektur und der Zweck ge-
+ändert werden, erneut denselben Verpflichtungen unterliegt. Es wäre sinnvoll über 
+Möglichkeiten nachzudenken, wie der Verwaltungsaufwand und die Bürokratie auf 
+ein Minimum reduziert werden kann und sich auf die Bereitstellung der Informatio-
+nen zu konzentrieren, die wirklich für den jeweiligen Sektor erforderlich sind, 
+insbesondere in Bezug auf Artikel 11 (Technische Dokumentation) und Artikel 13 
+(Aufbewahrung von Aufzeichnungen). 
+Wenn mit Anreizen und Positivmerkmalen gearbeitet werden würde, dann könnten 
+auch in Bezug auf die Dokumentationspflichten konkrete Schwerpunkte gebildet 
+werden und so die Aufwände reduziert und Rechtssicherheit geschaffen werden. 
+Auch wenn also je nach Anwendungsfall das Risiko gewisse Dokumentationspflich-
+ten und Prüfungen angemessen darstellt, so sollte hier aber ebenfalls differenziert 
+werden nach dem Einsatzgebiet. Ansonsten besteht große Gefahr, dass Investitio-
+nen in Entwicklung und Einsatz von KI-Technologien wirtschaftlich nicht mehr 
+tragbar sind. Dies gilt sowohl für KMU, als auch umso mehr für Startups, die hier 
+eher Unterstützung und Erleichterungen benötigen, um schnell und kreativ Lösun-
+gen für einen wettbewerbsfähigen digitalen Binnenmarkt zu schaffen. KMU, die 
+durch KI große Optimierungspotenziale heben könnten, werden auch geschwächt, 
+da dies im Verhältnis zum bürokratischen Aufwand unrentabel werden könnte. Auf-
+grund der vielfältigen Einsatzmöglichkeiten von KI- und Software-Bausteinen sollte 
+eine verschärfte Dokumentationspflicht hinsichtlich Datenqualität, Robustheit, etc. 
+nicht a priori für die Entwicklung des Algorithmus gelten. Stattdessen wäre eine wir-
+kungsbasierte Dokumentation empfehlenswert, die a posteriori auf Basis des 
+Einsatzszenarios und die möglichen Auswirkungen festhält. 
+
+4. Eile bei den technischen Spezifikationen, die geprüft werden sollen: 
+Generell muss gesagt werden, dass es für Unternehmen nur sinnvoll ist in neue 
+Technologien zu investieren, wenn diese später auf den Markt gebracht werden kön-
+nen. Vor diesem Hintergrund sind die im Entwurf umrissenen Sandboxes nicht 
+geeignet, um Innovationen zu fördern. Ein Investment auf Basis einer temporären 
+Sandbox ist in der Regel nicht wirtschaftlich, da KI-Produkte am Markt unter realen 
+Bedingungen getestet werden müssen. Auch die Dokumentations- und Zertifizie-
+rungspflichten haben das Potenzial, Innovationen im Keim ersticken zu lassen. 
+Diese induzieren bereits in einer frühen Phase – als schon vor der Feststellung der 
+technischen Umsetzbarkeit – einen hohen bürokratischen und finanziellen Auf-
+wand, um Produkte am Markt zu erproben. 
+Hier braucht es klare Regelungen, die die Verhältnismäßigkeit von Aufwand und po-
+tenziellem Schaden in Relation setzen, ggf. auch eine neue Behörde ohne 
+Bürokratisierungswahn. 

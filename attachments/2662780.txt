@@ -1,0 +1,170 @@
+Education International 
+Internationale de l'Education 
+Internacional de la Educación 
+http://www.ei-ie.org 
+EUROPEAN REGION- 
+ETUCE 
+President 
+Larry FLANAGAN 
+Vice-Presidents 
+Odile CORDELIER 
+Andreas KELLER 
+Trudy KERPERIEN 
+Dorte LANGE 
+Galina MERKULOVA 
+Branimir STRUKELJ 
+Boulevard Bischoffsheim, 15 
+1000 Brussels, Belgium 
+Tel +32 2 224 06 91/92 
+Fax +32 2 224 06 94 
+secretariat@csee-etuce.org 
+http://www.csee-etuce.org 
+European Director 
+Susan FLOCKEN 
+Treasurer 
+Joan DONEGAN 
+ETUCE 
+European Trade Union Committee for Education 
+EI European Region 
+ETUCE position on the EU Regulation on Artificial Intelligence 
+(Adopted by the ETUCE Bureau on 7 June 2021) 
+Background: 
+On 21 April 2021, the European Commission published a proposal for a “Regulation on a 
+European Approach for Artificial intelligence” (the AI Regulation). With this proposal, the 
+European Commission follows up on its White Paper on Artificial Intelligence (February 
+2020), based on the results of a broad consultation process to which ETUCE contributed. 
+The aim of the initiative is to establish the first EU legal framework regulating the entire 
+lifecycle of the use of Artificial Intelligence (AI) in all sectors, including education. 
+The AI Regulation classifies the use of Artificial Intelligence in various sectors based on the 
+risk that the AI tools have on the health and safety and the fundamental rights of 
+individuals. Concerning education, the proposal considers the use of Artificial Intelligence 
+tools in education as high-risk as potentially harmful to the right to education and training 
+as well as the right not to be discriminated in education. For high-risk sectors, the AI 
+Regulation establishes stricter horizontal legal requirements to which AI tools must comply 
+before being authorised on the market. These include risk management system during the 
+entire lifecycle of the AI system. 
+Following the publication of the proposal, on 26 April 2021, the European Commission 
+issued a public consultation that will run until 20 July 2021, accompanied by an impact 
+assessment report. 
+The following text is the ETUCE response to the public consultation bringing the perspective 
+of teachers, academics and other education personnel on the sections of the AI Regulation 
+that touch upon the education sector. 
+ETUCE reply: 
+ETUCE welcomes the publication of the AI Regulation as it sets the ground for the first 
+comprehensive EU regulation on Artificial Intelligence to ensure a controlled development 
+of AI tools in education and address the risks connected to their use by teachers, academic, 
+other education personnel and students. While ETUCE recognises the potential of digital 
+technologies and Artificial Intelligence tools to bring about improvements in education, it 
+also underlines the numerous ethical concerns related to their trustworthiness, data 
+privacy, accountability, transparency and their impact on equality and inclusion in 
+education. ETUCE underlines that further research at national and European level is needed 
+to assess and address the risks connected to the use of Artificial Intelligence in education 
+with constant and meaningful consultation with education social partners. 
+
+AI in education as a high-risk: 
+ETUCE welcomes that the AI Regulation classifies the use of AI tools in education and 
+vocational training as high-risk underlining that “When improperly designed and used, such 
+systems may violate the right to education and training as well as the right not to be 
+discriminated against and perpetuate historical patterns of discrimination”. ETUCE 
+emphasises that the EU Commission initiative should ensure that the development of 
+Artificial Intelligence in education does not infringe the human right of all individuals to 
+have equal access to quality education. This is enshrined in the first and third principles of 
+the European Pillar of Social Rights and the European Charter of Fundamental Rights. 
+ETUCE supports the European Commission’s proposal to set stricter horizontal legal 
+requirements for the AI tools used in the education sector. The AI Regulation proposal also 
+foresees the establishment of a risk management system to analyse the risks associated 
+with the use of the AI tools in education and monitor them during the entire lifecycle of the 
+AI tools. In this regard, ETUCE believes that the European Commission should support the 
+development of clear and binding measures, including ethical guidelines, to address the 
+risks that AI tools pose concerning transparency, accountability, intellectual property rights, 
+data privacy, cyber-safety, equality and environmental protection. 
+Governance: 
+The Proposal for Regulation seeks to establish a governance system leading to the 
+establishment of a European Artificial Intelligence Board with the involvement of national 
+authorities to monitor the implementation of the regulation. Nevertheless, ETUCE 
+underlines that the effective implementation of the AI legislation in education requires the 
+meaningful involvement of teachers, academics and education staff as co-creators of 
+Artificial Intelligence tools in education. Education trade unions have a crucial role to play 
+to addressing the risks of Artificial Intelligence in education and bring the perspective of AI 
+users on the implementation of the regulation. It is therefore crucial that education social 
+partners are actively involved in the activities of the European Artificial Intelligence Board 
+through regular consultations and meaningful social dialogue, both at national and 
+European level to monitor the implementation of the regulation and address the risks 
+related to the use of Artificial Intelligence in education. 
+The role of teachers in education: 
+Teachers, academics and other education personnel play a crucial role in fostering the full 
+human potential of students and their role in education must be preserved. ETUCE calls on 
+the European Commission and the Member States to interdict the Artificial Intelligence 
+tools that are designed to replace education personnel or can damage the social value 
+and the quality of education. Besides, the AI Regulation should ensure that the 
+development of AI in education does not reduce the role of teachers to mere providers of 
+instructions but rather serves as a supporting tool for the teaching profession while 
+
+preserving the professional and pedagogical autonomy and academic freedom of teachers 
+and academics. 
+Transparency and AI literacy and CPD of teachers on AI: 
+ETUCE welcomes that the proposal of AI Regulation requires that users of AI tools (who 
+include students, teachers, academic and education staff for the education sector) must be 
+adequately informed about the intended purpose, level of accuracy, residual risks of AI 
+tools. Nevertheless, ETUCE highlights that providing information is not sufficient to ensure 
+the transparency of the AI tools when users miss the adequate digital skills and data and AI 
+literacy to interpret it. Therefore, it is of utmost importance to improve the importance of 
+digital skills, AI literacy and data literacy in educational curricula and raise awareness on 
+the risks related to the use of AI tools in education. It is also essential to ensure that 
+infrastructures of education institutions are adequately equipped for digital education as 
+well as to provide equal access to digital technologies and ICT tools to all teachers and 
+students, with particular attention to the most disadvantaged groups. To these purposes, 
+sustainable public investment should be provided by national governments and the 
+European Commission should provide financial support through European funding such as 
+Horizon Europe, Digital Europe and in the framework of National Recovery and Resilience 
+Facility. 
+While the AI Regulation blandly mention to the possibility of providing users with training 
+on Artificial Intelligence, ETUCE emphasises that it is crucial that sustainable public funding 
+are provided at national and European level to ensure that teachers, trainers, academics 
+and other education personnel receive up-to-date and free of charge continuous training 
+and professional development on the use of AI tools in accordance with their professional 
+needs. 
+EdTech expansion and issues of intellectual property rights, data privacy of teachers:  
+ETUCE points out that the development of the use of Artificial Intelligence in education has 
+been accompanied by the expansion of Ed-tech companies that are progressively 
+increasing their influence in the education sector, especially under the pressure of 
+emergency online teaching and learning during the COVID-19 pandemic. ETUCE reminds 
+that education is a human right and public good whose value needs to be protected. ETUCE 
+calls for further public responsibility from national governments that should not limit their 
+scope to regulating the EdTech sector and should develop and implement public platforms 
+for online teaching and learning to protect the public value of education. In addition, public 
+platforms should be implemented in full respect of professional autonomy of teachers and 
+education personnel as well as academic freedom and autonomy of education institutions, 
+without creating pressure on teachers and education personnel regarding the education 
+material and pedagogical methods they use. It is also essential to protect the accountability 
+and transparency in the governance of public education systems from the influence of 
+private and commercial interests and actors. 
+
+AI tools storing a vast amount of data cause inevitable risks on data protection, privacy and 
+intellectual property rights of teachers and academics and other education personnel. 
+ETUCE highlights that ensuring data protection and privacy of teachers and students should 
+be a priority of the AI Regulation and calls on the EU Commission and the Member States 
+to develop appropriate data-retention policies applicable to Artificial Intelligence in 
+education, in the respect of national competencies in education. 
+Equality and inclusion in the design and use of AI in education: 
+As enshrined in the EU Pillar of Social Rights and the EU Charter of Fundamental Rights, nondiscrimination in education is a fundamental principle of our society. In this regard, the EU 
+Commission’s proposal states that the AI regulation “will minimise the risks of erroneous or 
+biased AI-assisted decision on education and training”. In this context, ETUCE recognizes 
+that the use of Artificial Intelligence has the potential to advance the quality of life and 
+inclusion of teachers and students in education. Nonetheless, the persistent lack of 
+diversity and underrepresentation of women, ethnic minorities, Black People and 
+disadvantaged groups in the population of professionals responsible for designing, testing 
+and training the algorithms and data of AI tools translate in the presence of biases in AI 
+tools, leading to a detrimental impact on inclusion and equality in education. Therefore, 
+ETUCE calls on the European Commission and Member States to provide adequate public 
+investment to encourage more diversity in the STEAM sector and ensure that AI tools are 
+designed and used with the full representation of the wide society. 
+Besides, research shows that cyber-violence, cyber-bullying and cyber-harassment have 
+increased with the development of digitalisation in education. ETUCE underlines that it is 
+important to further explore how Artificial Intelligence systems can act as supporting tools 
+to detect and counter cyber-violence, cyber-bullying and cyber-harassment. 
+*The European Trade Union Committee for Education (ETUCE) represents 127 Education 
+Trade Unions and 11 million teachers in 51 countries of Europe. ETUCE is a Social Partner 
+in education at the EU level and a European Trade Union Federation within ETUC, the 
+European Trade Union Confederation. ETUCE is the European Region of Education 
+International, the global federation of education trade unions. 

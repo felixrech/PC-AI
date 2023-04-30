@@ -1,0 +1,84 @@
+Shaping the ethical dimensions of smart information 
+systems– a European perspective (SHERPA) 
+Feedback to the 
+European Commission on its 
+Proposal for a legal act of the European Parliament and the 
+Council laying down requirements for Artificial Intelligence 
+Based on research from the SHERPA project 
+August 6, 2020 
+This project has received funding from the 
+European Union’s Horizon 2020 Research and Innovation Programme 
+Under Grant Agreement no. 786641
+
+2 
+This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme Under Grant Agreement no. 786641 
+SHERPA (Shaping the ethical dimensions of smart information systems (SIS) – a European 
+perspective) is a project that focuses on ethical and human rights aspects of smart information 
+systems (artificial intelligence and big data analytics). 
+Regulatory governance systems are a key part of the SHERPA Final Recommendations,​https://www.project-sherpa.eu/recommendations/ ​  which 
+include a call for creating an EU regulatory framework​https://www.project-sherpa.eu/regulatory-framework/ ​  and establishing an EU Agency for AI. ​https://www.project-sherpa.eu/european-agency-for-ai/ ​  
+SHERPA believes a robust, mandatory legal framework at the EU level is needed to ensure that 
+ethical issues and human rights concerns related to AI are adequately addressed. There are many 
+specific elements of the SHERPA recommendations that appear in the proposed text of the 
+Regulation, like red lines for some AI applications, mandatory requirements for high-risk AI 
+systems, and the creation of a centralised body. However, the draft text does not do enough to 
+protect fundamental rights, often lacks conceptual clarity, and leaves many questions 
+unanswered 
+For more information, please visit: https://www.project-sherpa.eu 
+Risk-based approach 
+The proposed Regulation adopts a four-tiered risk-based approach, where AI systems are subject 
+to different rules depending on the level of risk. While one purpose of the regulatory framework 
+is to guarantee safety and fundamental rights of EU citizens, the risk-based approach adopted by 
+the Commission may not be sufficient. There is no reference to the EU Agency for Fundamental 
+Rights, nor are there provisions on complaint and redress mechanisms available to those whose 
+rights are violated by AI systems. Furthermore, the proposed regulation has a somewhat binary 
+approach, failing to adequately take into account impacts across the spectrum of risk. Most 
+mandatory requirements apply only to high-risk systems; by comparison, low-risk AI systems are 
+only subject to transparency requirements and minimal-risk AI systems have no requirements. 
+Definition of AI 
+SHERPA recommended that AI be clearly defined in each use context with regard to relevant 
+issues. While it is a challenge to precisely define AI, definitions used in the proposed Regulation 
+are often overly broad and too open to interpretation. Additionally, despite attempts to be 
+“technology neutral and as future proof as possible”, the proposed definition of AI is linked to 
+‘software’, leaving out potential future developments of AI. The proposal takes into account the 
+difficulty of defining AI by moving the definition into an appendix which is subject to review and 
+revision. While this is reasonable in light of the problematic nature of the term AI, it does add to 
+uncertainty about the future scope of the Regulation. 
+Red lines 
+Under the proposal’s risk-based approach, AI systems that pose the highest level of risk to 
+fundamental rights and safety are prohibited. The short list of banned AI systems – only four 
+categories – includes social scoring and AI that subliminally manipulates human behaviour in a 
+harmful way. While SHERPA welcomes the explicit inclusion of red lines in the regulatory 
+framework, the short list is incomplete and has many loopholes. For example, use of remote, 
+
+3 
+This project has received funding from the European Union’s Horizon 2020 Research and Innovation Programme Under Grant Agreement no. 786641 
+real-time biometric identification in public spaces, including facial recognition, by law 
+enforcement is technically banned, but can still be used for specific purposes subject to prior 
+authorisation. Additionally, the draft Regulation does not apply to military applications, and 
+therefore lethal autonomous weapons systems (LAWS) and military drones are not addressed. 
+Mandatory requirements for high-risk systems 
+High-risk AI systems, classified by the function performed by and specific purpose of the AI, are 
+subject to strict regulatory requirements. These include conformity assessments, appropriate 
+human oversight, transparency and traceability obligations, and registration on a new European 
+High-Risk AI Database. High-risk AI systems will also be subject to post-market monitoring. 
+SHERPA strongly welcomes a list of mandatory requirements including both ex-ante (before on 
+market) and ex-post (after on market) enforcement mechanisms. However, more work is needed 
+to ensure that the requirements have a high enough degree of detail and specificity so that 
+developers, providers and users understand and can meet their legal obligations. Specific 
+requirements like logging for traceability and remote access to data may be good in principle, but 
+they may be practically implementable. The SHERPA recommendations on impact assessments​https://www.project-sherpa.eu/ai-impact-assessment/ ​  
+and Ethics Officers​https://www.project-sherpa.eu/ai-ethics-officer/ ​  could also be incorporated as part of the mandatory requirements to 
+strengthen the impact of the Regulation. 
+EU Agency for AI 
+The proposed Regulation calls for establishing a European Artificial Intelligence Board (the Board) 
+to facilitate implementation of the regulatory framework. SHERPA also called for the creation of 
+a new centralised independent EU Agency for AI to help ensure cooperation, coordination and 
+consistent application of EU law. The two proposals are aligned in some ways but differ in others. 
+Both proposals envisage a mandate for the new body focused on making recommendations and 
+issuing guidance to the EU and Member States. The proposals, however, differ in terms of 
+structure. The proposed Board would have limited representation from Member States, the 
+Commission, and the European Data Protection Supervisor. This is different from the SHERPA 
+recommendation, which proposed a more independent structure that includes permanent 
+representation from diverse stakeholder groups on standing committees including a scientific and 
+technical committee and an advisory committee. 

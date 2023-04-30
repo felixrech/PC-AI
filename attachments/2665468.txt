@@ -1,0 +1,80 @@
+E.ON consultation response: Artificial Intelligence 
+E.ON welcomes the opportunity to actively participate in the consultation process on the Artificial 
+Intelligence (AI) Act. E.ON generally supports the plans of the European Commission to create a uniform 
+framework for AI with the primary goal to strike a risk-based balance between the fundamental rights 
+of European citizens and enabling competitive AI systems to develop. 
+In order to ensure effective and fair regulation in this field, E.ON proposes inter alia the following: 
+Definition, Art. 3 (1) + Annex I (c) 
+The proposed definition of AI is too broad. In particular, the techniques listed in Annex I (c) to the AI Act 
+include conventional software coding techniques. The definition should therefore include the ability of 
+software to self-learn. As far as the “output” aspect is concerned, at least “content” seems too extensive 
+and will lead to, combined with the techniques set out in Annex I (c), broad ranges of software being 
+considered as AI that are currently considered software only. 
+The definition should not go beyond the internationally accepted definition of the Organization for 
+Economic Co-operation and Development (OECD) which, too, itself is very broad. The aspect of selflearning ability should be added. 
+Risk-based approach / High-Risk, Art. 6 (2) + Annex III 
+In principle, we welcome the risk-based approach with regulation focusing on high-risk technologies 
+giving more freedom to make use of harmless technologies. However, it is important to ensure that 
+there is no over-regulation if industries or technologies are identified as high-risk. The individual AI 
+technologies must be understood and not assessed across the board: Regulate the application, not the 
+technology. 
+Regarding the existence of an abstract high risk of AI, it is decisive in particular whether a decision 
+affecting the environment it is interacting with is autonomously left to the AI itself or not. The latter is 
+not the case if technical safety devices monitoring the output of AI, such as circuit breakers or the like, 
+or human control, stand as a corrective between the AI and a decision/an action and exercise control 
+over the AI, in particular in case of deviation from regular course of operations. 
+E.ON therefore proposes that AI should not be considered to entail high risk if (i) due to human oversight 
+a natural person remains in charge for decision-making or (ii) safety devices exercise control over an AI 
+system. With these additional measures and controls in place the situation becomes comparable to 
+other technologies, including physical components currently used in the operation of critical 
+infrastructures such as a valve in a gas grid or a switch in an electrical grid. For both cases there are 
+safety precautions in place as standard operating procedures. 
+Development of AI 
+The mere development of an AI system should not fall under the AI Act and not be subject to any of its 
+restrictions or requirements. Only once an AI system is placed on the market or put into service, its 
+inherent risks, if any, may materialise. This is not the case where, following the completion of the 
+development of an AI system, such system subsequently is never put in use. 
+In the definition of “provider” set out in Art. 3 (2), “with a view” should be replaced with “and places it on 
+the market or puts it into service (…)”. 
+
+Compliance cost & Measures 
+In particular with regard to high-risk AI, the statutory requirements regarding risk management, other 
+organisational measures, associated implementation and ongoing compliance costs impose too high a 
+hurdle on the introduction of such AI systems. 
+There should be synergies with other measures already established in other areas such as data 
+protection management systems or cyber security standards established for critical infrastructure. At 
+least, there should be concrete harmonised technical standards recognised officially by the EU prior to 
+the AI Act entering into force. Their fulfilment should lead to compliance with the requirements of the 
+AI Act. Otherwise, not only will there be a risk of legal uncertainty but also of escalating costs for 
+businesses contrary to the goals of Europe’s digital decade. 
+Technical Documentation / Art. 11 
+It must be ensured that the trade secrets, including AI algorithms, of any company remain confidential 
+and secure from third party access at all times. Against this background, the scope of information to be 
+provided in accordance with Art. 11 is too broad; at least, any information provided must be subject to 
+appropriate technical and organisational security measures in line with state-of-the-art technology to 
+be established by the recipient. 
+Delegated Acts 
+The draft AI Act contains numerous authorisations to adopt Delegated and Implementing Acts. Both 
+the number and the regulatory content to be addressed by these legal acts are not appropriate from 
+our perspective and not in line with (1)TFEU scope whereby delegation should be used only to 
+supplement or amend non-essential parts of legislation, for example to define detailed measure. This 
+does not apply in particular to the definition of AI which we believe should be the subject of a full debate 
+among co-legislators. 
+No retroactive effect 
+According to Art. 83 (2) of the AI Act, its provisions shall also apply to high-risk AI systems that were 
+placed on the market or put into operation before application of the AI Act if their "design or purpose 
+has been significantly changed thereafter". E.ON rejects a subsequent inclusion of already existing AI 
+systems especially using such subjective criteria (i.e. “significantly changed”). This would entail 
+disproportionately high adaptation efforts for the providers of corresponding AI systems. 
+What if the potential of AI is not fully used? 
+E.ON considers that the draft AI Act takes a one-sided approach, i.e. to mitigate potential risks 
+stemming from the use of AI. However, we believe the counterfactuals should be equally considered. 
+Can Europe’s targets be achieved if AI is not deployed in due course? The Act should focus as well on 
+leveraging the use of AI to mitigate the risks of climate change. 
+The German Federal Constitutional Court has just established in its recent verdict on German climate 
+law that failure to achieve the Intergovernmental Panel on Climate Change’s climate targets will 
+inevitably lead to restrictions on people's fundamental rights of freedom. There is general agreement 
+that the energy transition requires the use of AI as well as other innovative technologies. 
+Technology therefore not only has the effect of putting freedom at risk, which seems to be the 
+prevailing view in the debate about AI, but can also have the effect of preserving freedom. E.ON calls 
+for a priority focus on any AI use case with a benefit for climate and the environment. 

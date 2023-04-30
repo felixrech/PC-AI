@@ -1,0 +1,108 @@
+Amendment 1 (NEW) 
+Proposal for a regulation (AI Regulation) 
+Article 6 para 1 
+Text proposed by the Commission 
+Amendment 
+Irrespective of whether an AI system is 
+placed on the market or put into 
+service independently from the 
+products referred to in points (a) and 
+(b), that AI system shall be considered 
+high-risk where both of the following 
+conditions are fulfilled: 
+(a) the AI system is intended to be 
+used as a safety component of a 
+product, or is itself a product, covered 
+by the Union harmonisation legislation 
+listed in Annex II; 
+(b) the product whose safety 
+component is the AI system, or the AI 
+system itself as a product, is required 
+to undergo a third-party conformity 
+assessment with a view to the placing 
+on the market or putting into service of 
+that product pursuant to the Union 
+harmonisation legislation listed in 
+Annex II. 
+Irrespective of whether an AI system is 
+placed on the market or put into 
+service independently from the 
+products referred to in points (a) and 
+(b), that AI system shall be considered 
+high-risk where both of the following 
+conditions are fulfilled: 
+(a) the AI system is intended to be 
+used as a the only/main/basic 
+safety component of a product, or is 
+itself a product, covered by the Union 
+harmonisation legislation listed in 
+Annex II; 
+(b) the product whose the 
+only/main/basic safety component is 
+the AI system, or the AI system itself 
+as a product, is required to undergo a 
+third-party conformity assessment with 
+a view to the placing on the market or 
+putting into service of that product 
+pursuant to the Union harmonisation 
+legislation listed in Annex II. 
+Or. en 
+Justification 
+Only products which basic safety features are secured ONLY by the AI system should be 
+considered high-risk. If basic safety functions required by e.g. LVD and RED are fully 
+secured outside AI system and AI systems provides ONLY additional, non-essential safety 
+function, then the product should not be considered high-risk. 
+
+Amendment 2 (NEW) 
+Proposal for a regulation (AI Regulation) 
+Article 41 para 1 
+Text proposed by the Commission 
+Amendment 
+Where harmonised standards referred 
+to in Article 40 do not exist or where 
+the Commission considers that the 
+relevant harmonised standards are 
+insufficient or that there is a need to 
+address specific safety or fundamental 
+right concerns, the Commission may, 
+by means of implementing acts, adopt 
+common specifications in respect of the 
+requirements set out in Chapter 2 of 
+this Title. Those implementing acts 
+shall be adopted in accordance with 
+the examination procedure referred to 
+in Article 74(2). 
+Where harmonised standards referred 
+to in Article 40 do not exist and none 
+of the ESOs are willing to develop 
+them or the Commission has 
+justified THE reasons for not 
+publishing in the Official Journal of 
+the European Union harmonised 
+standards, when developed by the 
+Standardisation Organisations, visà-vis the Committee of Standards 
+referred to in Article 22 of 
+Regulation (EU) No 1025/2012 
+and that Committee has endorsed 
+the justification applying Article 5 
+of Regulation (EU) No 182/2011 or 
+where the Commission presents 
+objective evidence considers that 
+the relevant harmonised standards are 
+insufficient or that there is a need to 
+address specific safety or fundamental 
+right concerns and none of the ESOs 
+are willing to take up the task, the 
+Commission may, by means of 
+implementing acts, adopt common 
+specifications in respect of the 
+requirements set out in Chapter 2 of 
+this Title. Those implementing acts 
+shall be adopted in accordance with 
+the examination procedure referred to 
+in Article 74(2). 
+Or. en 
+Justification 
+All actors involved in the standardisation should have very clear overview in what situations 
+the “implementing acts path” can be initiated. It cannot be arbitrary or left to subjective 
+assessment of one party in the system. 

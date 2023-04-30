@@ -1,0 +1,48 @@
+Response to the European Commission Consultation on ‘Artificial
+Intelligence- ethical and legal requirements’
+Thorn welcomes the opportunity to provide feedback on the Commission's proposal for
+artificial intelligence regulation. Thorn is a US-based nonprofit organization that builds
+technology to defend children from sexual abuse and online exploitation. At Thorn, we
+believe in the power and potential of government, NGOs, and tech companies working
+together to eliminate child sexual abuse material online. That goal cannot be achieved by
+just one of these entities alone, and we are grateful for the European Union’s leadership. We
+believe that tailored and precise artificial intelligence legislation is necessary to ensure that
+child users' privacy and safety is protected.
+Legislation on artificial intelligence should allow for innovation and growth in technology
+that protects children online. If regulation does not allow for this kind of innovation, then
+we will continue to be behind the curve of individuals exploiting children online. At Thorn
+we are always working to innovate and refine our technology to protect children. We, and
+our partners in the child protection ecosystem, need the flexibility to continue to create
+cutting edge technologies to eliminate child sexual abuse material from the internet. If
+regulation becomes indiscriminate, or doesn’t provide necessary flexibility for this specific
+use case, it can create unintended consequences that could deter the development of new
+technologies to protect children online.
+In the space of child protection, there are well established technologies that have been
+tested and refined for over a decade but many of the most cutting edge technologies still
+need the space for further innovation. These technologies have proven results of finding
+and saving children from online sexual exploitation. Tailored technological solutions in this
+space are the future of protecting children from online exploitation and there needs to be a
+legislative framework that allows for this crucial work to continue. We understand the
+concerns that some AI applications could lead to the invasion of individual users' privacy
+but child advocacy organizations have always worked towards surgical and balanced
+solutions in order to protect children online.
+AI and machine learning are important tools when it comes to online child protection - from
+text analysis that can prevent the grooming of a child for abuse, to facial recognition
+technology that can identify missing and/or exploited children's photos. When a child is
+missing or exploited law enforcement needs the tools that can help them find these
+children in the quickest and most e�cient ways possible. When leveraged safely and
+EU Transparency Register No: 854246640306-96
+
+responsibly, facial recognition can be one of the tools used to identify child victims of
+sexual abuse. The ability to use tailored, specific, and regulated “after the fact” facial
+recognition technology on images and videos of child victims is vital to expedite law
+enforcement e�orts to find and protect children.
+Child sexual abuse detection technologies are cutting edge and designed to protect the
+most vulnerable population in our society. Given this sensitivity, we agree that safeguards
+and greater transparency are necessary for artificial intelligence technology used in this
+space. The artificial intelligence regulation must find a balance that protects the general
+public’s privacy while still allowing for technology designed to protect children. We must
+not allow o�enders the ability to reverse engineer technologies designed to keep our
+children safe. Any enhanced transparency should not impede the development of
+technologies that are used to protect children online.
+EU Transparency Register No: 854246640306-96

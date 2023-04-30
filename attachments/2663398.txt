@@ -1,0 +1,69 @@
+ResMed consultation response 
+Artificial Intelligence Act 
+General legal framework: 
+ResMed welcomes the proposal for horizontal legislation overseeing AI, the proposed efforts 
+to ensure the safety and trustworthiness of AI, and the creation of an ecosystem to support 
+innovation and uptake of AI within the EU and beyond. To support this ambition, ResMed 
+urges that the rules surrounding AI are clear and workable, and the appropriate guidelines are 
+provided by regulators to implement the proposed requirements across the AI value chain, in 
+particular as regards interaction with existing sectoral legislation. 
+ResMed welcomes the Commission defining AI in coordination with the OECD, prohibiting 
+certain practices and taking a risk-based approach to regulating AI systems. 
+ResMed calls upon the Commission to ensure the legislative framework is developed with 
+future innovations in mind, to ensure that new developments are supported and encouraged 
+rather than overregulated. 
+Ensuring harmonisation with the wider regulatory framework: 
+ResMed welcomes the effort for harmonisation with other existing legislation but urges that 
+the legislation reduces overlap and simplifies compliance with other related legislation to the 
+greatest extent possible, of particular note are the Medical Devices Regulation (MDR), the In 
+Vitro Diagnostics Regulation (IVDR), the General Data Protection Regulation (GDPR), the Data 
+Governance Act (DGA) and the European Health Data Space (EHDS). 
+ResMed welcomes the streamlining of additional requirements through the existing 
+conformity assessment process involving notified bodies and urges that the proposed 
+legislation does not create duplication or overregulation. Whilst, looking forward to more 
+clarity on how the AIA and MDR/IVDR conformity assessments will function in practice, how 
+overlap of technical documentation can be reduced and how the competent authorities will 
+be supported in overseeing and evaluating AI systems. 
+In order to minimise any challenges which will arise due to the ex-ante conformity assessment, 
+ResMed calls for the Commission to clarify the interplay between legislation which overlaps 
+with the AI regulation and encourage an approach that relies on self-regulation and industry 
+standardisation. 
+ResMed looks forward to further clarity on how healthcare AI products or the safety 
+components of products which fall outside of the scope of Rule 11 of the MDR will be 
+regulated, in particular those involved in research. 
+ResMed looks forward to further clarity on post-market surveillance obligations, the types of 
+data and experiences to be collected, and how such data will need to be stored and protected, 
+such that the proposed legislation does not create duplication or overregulation with 
+MDR/IVDR post-market requirements. 
+
+Trust: 
+ResMed urges that the legislation builds trust in AI, including among public health 
+practitioners and patients, by ensuring appropriate protections are in place, such as 
+maintaining data for monitoring performance, and limiting the claims that can be made about 
+AI systems. Additionally, education, training and up/re-skilling will be important to ensure that 
+healthcare professionals and patients are comfortable using AI technologies. 
+Access to data: 
+ResMed calls attention to the importance of the secondary use of healthcare data for 
+innovation and urges the legislative framework to allow for the reuse of health data for AI 
+development purposes as well as for research insights. 
+In order to support the EU in realizing its vision for AI in Europe, ResMed urges the Commission 
+to clarify the roles of controller, processor and joint controller under the GDPR to enable a 
+competitive and innovation friendly environment for healthcare AI. 
+AI value chain: 
+Whilst additional safety provided by looking at the entire AI value chain is welcomed, ResMed 
+urges for this not to add extensive additional requirements which would stymie innovation 
+and the free flow of data -- hindering trade, including digital trade, which is key to bringing AI 
+systems to the EU market and, equally, allowing EU companies to fully participate in global 
+efforts to innovate. 
+Foreseen European AI Board: 
+ResMed welcomes the proposed European AI Board but calls for the Commission to look to 
+lessons learned from the GDPR enforcement model and looks forward to more clarity on how 
+national authorities will be supported in the necessary up/re-skilling. Additionally, the 
+European AI Board should ensure it works collaboratively with and does not duplicate or 
+undermine the work of the European Data Protection Board or the European Data Innovation 
+Board foreseen under the DGA. 
+ResMed commends the proposal for an independent expert group to assist the European AI 
+Board in its work. Encourages the Commission to ensure that the group take into account and 
+adequately represent the specificities of the healthcare sector including public authorities, 
+clinical research, health practitioners and patients, and private companies via consultative 
+processes. 

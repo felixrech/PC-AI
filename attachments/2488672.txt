@@ -1,0 +1,134 @@
+SAZKA Group submission to the EC public consultation on Artificial 
+Intelligence – ethical and legal requirements (“EC proposal on the Artificial 
+Intelligence Act”​https://digital-strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonised-rules-artificial-intelligence-artificialintelligence ) ​ ) 
+1. Short intro  
+SAZKA Group (SG) is one of Europe’s fastest growing lottery companies, primarily 
+focused on national lottery games, instant lotteries and online lotteries with a 
+secondary focus on digital gambling and sports betting; SG has leading market 
+positions in the Czech Republic, Greece, Cyprus, Austria and Italy. As one of the 
+European lottery leaders, SG is acknowledged in the world lottery market for its 
+iconic and trusted brands and unrivalled distribution networks. Through our 63,000 
+points of sale and digital platforms, SG serves an addressable market of over 79 
+million adults, bringing in annual sales of over €17bn. (https://www.sazkagroup.com/) 
+2. General Comments 
+Artificial Intelligence (AI) represents both opportunities and risks for societies, 
+citizens and businesses. SG encourages the EU to pave the way for legal certainty 
+on the application of human centric AI and to support growing trust in new 
+technologies, whilst protecting citizens’ fundamental rights. An unregulated 
+development and deployment of AI technologies is likely to lead to both unethical 
+behaviors and market disruptions.  
+SG notes that the generic concept of “AI” stands for many diverse technologies and 
+applications, and therefore underlines that may be difficult to design a “one size fits 
+all” policy. Furthermore, some areas of AI deployment may fall under existing 
+legislation; therefore, the proposed regulatory approach should ensure a coherent 
+legislative environment, taking into consideration the existing policies and legislation 
+(GDPR, Data protection, Data use and storage, Data transfers, Product Safety 
+Directive, Fin tech legislation, NIS, e-commerce, Product liability directive, just to 
+name some).  
+3. With regard to the recent EC proposal on the AI act https://digital-
+strategy.ec.europa.eu/en/library/proposal-regulation-laying-down-harmonisedrules-artificial-intelligence-artificial-intelligence ), SG agrees that AI legislation 
+shall follow a “risk based approach” and that the development and application 
+
+of AI based technologies shall first of exclude unacceptable risks to the safety 
+and the fundamental rights of human beings. 
+4. Therefore, SG concurs that the classification of activities as per “prohibited”, 
+“high”, “reduced” and “minimal” risk is a step in the right direction, noting 
+however that the risk classification of a given activity shall be subject to an ex 
+ante assessment and discussion between regulators and interested 
+stakeholders; in particular, operators (IA developers and users) shall be 
+granted the right to participate in the discussion and to object to the final 
+assessment via a specific redress procedure. 
+5. AI based applications in the gambling sector 
+3.1 
+Players’ identification: Customers identification is essential to ensure 
+compliance with responsible gambling legal requirements and corporate internal 
+policies: 
+strict minimum age requirements shall be respected to stop under age to 
+access our products 
+monitor and prevent excessive gambling habits, via the self-exclusion 
+programs either at national or at companies’ levels. 
+Regarding AML requirements, operators perform Duty of Care (DOC) tasks 
+both to ensure the identification of customers and to track the origin of the funds that 
+are staked: also in this case remote identification systems can help to address Know 
+Your Customer (KYC) requirements, as well as to trace payout payments. This is 
+also true for authorities in their surveillance and control activities. 
+3.2 
+Players’ personalisation: SG fully complies with the protection of personal 
+data privacy requirements as set up by the GDPR. Any permitted elaboration of data 
+- based on AI/machine learning algorithms - enables to tailor made offers to players 
+which match with their preferences or habits. It is however even more relevant for 
+SG that the digital footprint players leave behind enable us to monitor and avoid 
+excessive – pathological gambling and de facto, to enforce our “responsible 
+gambling policy”. 
+3.3 
+Enhance players’ experience: in SG we embrace newt technologies to 
+provide for “more fun” products. The priority is not to increase the stakes per 
+individual player but to make the experience more enjoyable. Some AI applications 
+are changing the offer in the gambling business, namely be use of “augmented 
+reality” (in online casinos or online (e-sports) betting,) or “recommendation engines” 
+(Avatars). In some cases, “augmented reality” is combined with “virtual reality”, 
+creating “mixed reality”. 
+
+3.4 
+Integrity in sports betting: metrics can be used to detect irregularities, 
+frauds and match fixing and enhance integrity in the segment of sport betting. These 
+applications are already used in some large tournaments, with AI elaborating large 
+amount of data, in a very short time, enabling operators, sport integrity organisations 
+and authorities to track irregularities in a very short time. 
+4. Specific aspects of the proposal and their potential impact on the 
+gambling sector. 
+4.1 Remote biometric identification. 
+SG believes that the deployment of remote biometric identification systems can be 
+helpful to achieve some regulatory objectives in the gambling sector. At the same 
+time however, biometric data clearly classify as “personal data” and their use shall 
+be protected. We therefore fully support a restricted approach re the use of biometric 
+identification technologies but would still argue that this application may be helpful to 
+fulfill some key legal requirements relating to gambling, both in terms of protection of 
+players and fight against crime. 
+We therefore recommend that regulators shall consider in the future some 
+exceptionally authorized (restricted, certified and monitored in controlled 
+environment) applications for remote biometric identifications adapted to: 
+• Control on respect of the minimum age legal requirements for accessing 
+proposed games; 
+• Control for players’ self-exclusion (as per the national self- exclusion register 
+or the companies’ self-exclusion lists) and other “responsible gambling” 
+related measures; 
+• Control and tracing of payments or payout, to fight money laundering and 
+terrorist financing. 
+4.2 Risk classification. 
+The risk classification of the deployment of AI in the gambling industry should be 
+carefully assessed. SG notes that the EC has declared that the gaming industry is 
+deemed to be classified as “minimum risk”. 
+Gambling should be classified under the category of “minimum risk” and the use of 
+AI applications to the games should be free, nevertheless, SG welcomes discussions 
+with regulators and peers to assess the risk level of existing applications and 
+regulatory boundaries for future developments. SG believes that innovation is key for 
+the future of our industry and is open to some regulatory guidance. 
+
+4.3 Transparency obligations. 
+We fully agree that transparency obligation shall apply for systems that are used to 
+interact with humans, such as any activity that is linked to augmented reality. 
+Consumers must be always in the position to withdraw consent to the use of the AI 
+application and to make informed choices or step back from a given situation, with 
+the exception however of those applications to secure compliance with legal 
+requirements (for instance due diligence and KYC). 
+Another aspect of transparency is “transparency of algorithms”. We believe that 
+transparency should pertain a declaration of use of AI technology, but that algorithms 
+are the property of companies or software providers, they should be covered by 
+trade secret and that IPRs shall be protected. 
+4.4 Definition of public spaces. 
+Some gambling products are offered in gambling and betting halls. We believe that 
+these spaces fall under the general definition of public spaces. About the question 
+whether online market places (i.e. gambling websites) can be defined as “public 
+spaces”, we agree that Member States shall remain free to set their own rules on 
+justified authorized use. Furthermore, we would advocate to use the general 
+principle of what is prohibited land based shall be prohibited remotely, and that what 
+is permitted land-based shall be also permitted remotely”. 
+4.5 Sandbox.  
+We support the use of “sandboxes” to testing AI in a secure environment, without 
+affecting the general system or platform and their data. 
+Please do not hesitate to contact us any further information. 
+Thank you for your attention. Best regards 
+Kamil Ziegler 
+Head of Institutional Affairs 
+SAZKA Group  

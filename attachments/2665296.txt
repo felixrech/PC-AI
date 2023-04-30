@@ -1,0 +1,388 @@
+BDVA/DAIRO position paper 
+Response to the European Commission’s proposal for AI 
+Regulation 
+04th August 2021 
+BDVA/DAIRO welcomes the opportunity to provide feedback to the European Commission’s 
+proposal for AI Regulation as there is a clear need for a solid AI European approach based on 
+European values. 
+BDVA/DAIRO supports the idea that there should be a balance between regulation and innovation, 
+and that new rules should facilitate investment and innovation. For this reason, the specific 
+objective of the proposed regulatory framework to “ensure legal certainty to facilitate investment and 
+innovation in AI” is highly supported by the BDVA/DAIRO community. However, the cost, time, 
+infrastructure and knowledge needed to implement this regulation may be burdensome. Small 
+companies, research and education organizations might not be able to easily follow the regulatory 
+developments and might be affected negatively e.g. by a lack of sufficiently qualified personnel, 
+resulting in hard implementation that can hinder innovation and competitiveness. Very solid 
+investments for the implementation of this regulation are needed and in this respect BDVA/DAIRO 
+observes that the European Commission’s Coordinated Plan on AI considers and supports the 
+implementation of the future AI Regulation. 
+To accelerate the adoption of Industrial and Trustworthy AI in Europe, the association stresses 
+the need to develop and invest in engineering and standardisation frameworks for Industrial and 
+Trustworthy AI (such as the one BDVA is developing in collaboration with the Franco-German 
+initiative) and calls for strong collaboration with national initiatives working on Industrial AI to 
+align and coordinate efforts on this matter. 
+The association supports and highlights the importance of Data quality and Data governance for AI 
+as paramount, and underlines the fundamental connection between AI and Data. BDVA/DAIRO 
+welcomes also the link to other legislative acts, such as the GDPR, and underlines the alignment 
+needed with the Data Governance Act and the upcoming Data Act. In relation to Data quality, the 
+BDVA/DAIRO community has also emphasized the topic as a mean to, among other benefits, achieve 
+fairness and avoid discrimination. The need for different metrics has been stressed by the community 
+in areas such as Data quality, interpretability, explainability, predictive accuracy, robustness, fairness, 
+computational complexity and very importantly in risk-assesment in alignment with standardisation 
+efforts and results. 
+In addition to the above-mentioned topics (Data and Data Governance for AI, the need to develop 
+frameworks and tools to speed up the adoption of industrial AI, and the balance innovation-regulation) 
+the BDVA/DAIRO community has stressed the importance of and provided feedback and 
+recommendations to i) the scope and impact of the draft AI regulation; ii) the notion and components of 
+trustworthiness in the regulation; iii) risk assessment and classification: iv) life-cycle of products, and v) 
+opportunities for SMEs. 
+The recommendations consider also the need for the establishment of safe environments for better 
+testing. Access to knowledge, testing, experimentation and ecosystem are key factors for success 
+in particular for SMEs. The association acknowledges that the proposed plan for an AI Regulation 
+comes with a new updated Coordinated Plan on AI addressing these topics, but calls up for the 
+importance of investing in federated experimental networks such as the European Federation of iSpaces or Big Data Innovation Hubs. These networks can not only provide access to knowledge, 
+innovation, testing and ecosystem to SMEs and startups in context of the new AI regulation, but can 
+offer opportunities to legislators in supporting collaboration between innovators and standardisation 
+experts. 
+
+Building on these considerations and on a series of workshops held with the association’s members, 
+BDVA/DAIRO wishes to underline a few important elements concerning both identified challenges and 
+recommendations from the research & innovation community linked to the European Big Data industry. 
+This response to the feedback request covers in particular eight aspects of the proposal for AI 
+Regulation. The document is therefore structured as follows: 
+Scope and impact of the draft AI Regulation 
+Data and Data governance for AI 
+Notion and components of trustworthiness in the AI Regulation 
+Risk-assessment and risk classification 
+Balance innovation - regulation and elements of supporting innovation 
+How the regulation lower barriers, opportunities for SMEs 
+Life-cycle of products 
+Engineering and Standardisation frameworks for Industrial and Trustworthy AI 
+Other topics 
+1. Scope and Impact of the Draft AI Regulation 
+BDVA/DAIRO appreciates that the proposal addresses the basic concept of sustainability for the 
+technology field of AI, as it includes elements of environmental conditions, social aspects, and 
+governance. This is considered to support adjustments that may become necessary in the future. For 
+the time being, however, the association sees also a number of issues. 
+The definition of AI is generally quite broad, and could create issues or future uncertainty and lack of 
+clarity. First, it is important to note that the Regulation should address AI Systems and not AI as a 
+field. The notion of AI Systems is present and addressed all the way through the EC Proposal. However, 
+the clear distinction between AI at large and AI Systems seems to be implied and never explained. For 
+this reason, we would strongly recommend to add a clear definition at the begininning of the AI 
+Regulation proposal explaining the semantic and conceptual choice. The definition of AI systems 
+shall be reviewed, possibly taking into account how current standardization efforts define AI 
+systems 
+Second, the definition of AI system also covers far more than what is subjectively understood 
+as AI. Based on such definition, even the simplest search, sorting and routing algorithms could be 
+considered AI systems, or being subject of this Regulation, risking the creation of a set of rules for highrisk software systems. 
+Third, it is not clear how components of larger AI systems should be treated, like pre-trained AI 
+components from other manufacturers, or components that are not released independently (e.g would 
+such components need an independent certification?) We would recommend this part to addressed 
+with more clarity. 
+BDVA/DAIRO acknowledges the importance of creating an annex to the Regulation listing the 
+technologies affected by the regulation and welcomes the possibility to amend it as foreseen in 
+paragraph (85). In fact, the association supports the idea of annexes which are also reviewed 
+periodically given that the choice to horizontally regulate technology leads to some issues. When 
+updating the Annex I of the Regulation, proactivity of policymakers shall be needed in order to 
+protect citizens from new threats of a very dynamic technology. This would cover AI system 
+technologies and also specific application areas. Regularly review and evaluate these annexes with 
+stakeholders from sectors and on national level. 
+1e.g. https://joinup.ec.europa.eu/collection/rolling-plan-ict-standardisation/artificial-intelligence 
+
+In some verticals there may be different developments, effects or regulations. It should be possible to 
+create sector-specific exceptions, which could also be included in an annex that is reviewed and 
+updated regularly. In both cases, the review of the appendix could contain a proactive element so that 
+citizens are protected from new dynamically evolving potential threats.The AI Regulation proposal does 
+not seem to give any exception for research. Many researchers develop AI systems and publish 
+them in open access journals or in a repository, such as GitHub, free of charge and with an open license, 
+in order to disseminate knowledge and to let other researchers improve them. Those models are not 
+intended to be commercialized, but, due to the nature of the licenses most commonly used, it is always 
+possible that the models are used by other entities, even incorporated in other models, and put into the 
+market. There should be a provision similar to art. 89 of GDPR, in order to allow researcher to publish 
+their model for academic purposes without falling into the definition of “putting into the market/ into 
+service”. The situation in which researchers collaborate with industry, hospitals or other entities 
+should be regulated separately. 
+Regarding startups and SMEs, one source of concern is the Commission's power​https://ec.europa.eu/info/law/law-making-process/adopting-eu-law/implementing-and-delegated-acts_en ​  to unilaterally extend 
+the list of sectors covered by the regulation by delegated acts. Industry - including professional 
+associations - should be consulted before any decision is taken that may have an impact on the scope 
+of the Regulation. 
+2. Data and data governance for AI 
+BDVA/DAIRO highlights the importance of Data Quality and Data governance as paramount and 
+welcomes article 10 of the draft regulation. The association also welcomes the reference to the Data 
+Governance Act (in preparation) and the ethical guidelines of the HLEG (as reported). 
+The definition of data quality in the proposal for regulation is too absolute and misleading although 
+BDVA/DAIRO agrees that it is important to have one. In Article 10, the Commission does not define 
+the criteria for measuring the quality of the data sets. There should also be an explicit mention of a 
+need for data quality metrics in place (e.g. predictive accuracy, robustness, fairness of trained 
+machine learning models). The responsibility and/or accountability for data quality (in testing, 
+experimentation, and operation) may need to be clarified. 
+It is impossible to guarantee that training datasets are completely free of errors and biases, and the 
+obligation in this respect must necessarily be a best effort obligation, taking into account the state of 
+the art and industry practices, as is envisaged in terms of security in Article 15. The following wording 
+would be more appropriate: "Adequate efforts must be made to ensure that the data sets are sufficiently 
+relevant, representative, error-free and complete”. 
+Our community believes also that more emphasis should be placed on achieving fairness through 
+data quality in the regulation although the achievement of fairness through data quality is true for 
+some types of systems (such as facial recognition systems) but not for others (such as classification of 
+satellite images). Efforts should be made to ensure representativeness achieving fairness through data 
+quality. Contextual assessment could be used, meaning that data quality should be coupled to a certain 
+application/goal/task and only be assessed in that respect. Also it should be considered the potential 
+use of low-quality data derived from socio-technical inequalities in implementation in social contexts as 
+well as algorithm/model deployment. 
+The establishment of testing facilities, methodologies and standards should be foreseen for better 
+testing (also with data) and MLOps (Paragraph 44). Another weakness is that no explicit provisions 
+for the validation of testing and experimentation data sets (and related metrics) are provided 
+(Paragraph 45, 46 and Article 10). Also, implications of the utilization of aggregated data (from 
+
+different providers) or implicit data (as from third party suppliers of AI elements in embedded systems) 
+need to be addressed. 
+The Regulation shall also ensure consistency with existing EU legislations. BDVA/DAIRO 
+welcomes that the proposed Regulation complements the GDPR, although overlaps in scope and 
+application should be avoided. Today, most AI systems are based on the processing of massive data 
+so, it is essential that the AI Regulation is aligned with the GDPR. As it stands, this text represents 
+new risks of legal insecurity due to its difficult reconciliation with existing regulations. The principle of 
+quality of data sets, which is essential for the development of efficient and unbiased AI, is difficult to 
+reconcile with certain principles of the GDPR, in particular the principle of data minimization, the 
+limitation of retention periods, the consent to collect certain types of data and the principle of informing 
+users about the purpose of the processing at the time of collection. 
+Finally, the end-to-end lifecycle approach is needed to ensure that the Regulation is considering 
+mitigations beyond data quality, such as how the model is designed and built, and whether developers 
+and researchers should use blocklists or other technical measures to disallow inappropriate content 
+3. Notion and components of trustworthiness in the AI regulation 
+The notion of trustworthiness of AI is thoroughly present in the proposal for AI Regulation. This notion, 
+as a general concept, is welcomed by BDVA/DAIRO. A supporting framework to explicitly and 
+practically define trustworthiness of Industrial AI in different (high risk or not) sectors and foster the 
+adoption of norms, can really promote and accelerate adoption of Industrial AI. This reduces risks and 
+will also enable sector-specific optimizations. 
+BDVA/DAIRO is currently conducting several activities in relation to Industrial and Trustworthy AI​See example from BDVA/DAIRO collaboration with the Franco-German initiative on speeding up industrial and 
+trustworthy AI at: https://www.bdva.eu/node/1796 ​  to 
+set out a comprehensive industrial and trustworthy AI framework that clusters the priority area for AI 
+research, innovation and deployment and calls for strong collaboration with national initiatives 
+working on Industrial and Trustworthy AI to align and coordinate efforts on this matter. Also, 
+adequate standards supporting industrial AI and trustworthiness are fundamental such as 
+adequate metrics for interpretability, explainability, predictive accuracy, robustness, fairness, 
+computational complexity. 
+Regarding the management of complex systems composed of several AI systems (especially 
+using different underlying AI methods), BDVA/DAIRO believes that the proposal for a Regulation should 
+be more clear on whether separate components would be individually required to conform to the AI 
+Regulation, or if that would be considered only as part of the system as whole. Moreover, there is an 
+open question on whether there would be implications for liability when components are not compliant. 
+When referring to the link between trustworthiness and labelling, it is important to consider digital 
+literacy as very important. Additionally, a label is always context dependent, and it should contain at 
+least two dimensions: technology and organisation. Some AI applications may seem to be unfair 
+or discriminatory, but that depends on the contexts of deployment. Therefore, rules to distinguish 
+between legitimate bias and unfair bias may be considered by the legislator. 
+Measures to address aspects like non-discrimination and fairness are not explicitly required for 
+high risk AI in the proposed regulation. This may be necessary because biases do not merely result 
+from low-quality data, but also from socio-technical inequalities in implementation in social contexts as 
+well as algorithm/model deployment 
+
+Finally, an explicit mention of a need for trustworthiness metrics in place (e.g. predictive accuracy, 
+robustness, fairness, interpretability, computational complexity) of machine learning models shall be 
+added. 
+4. Risk-assessment and risk classification 
+BDVA/DAIRO welcomes the risk-based approach that aims to look at the effects of AI rather than trying 
+to formulate bottom-up technical requirements. Balancing innovation, human rights and strategic 
+autonomy is a delicate exercise and the current proposal is a big step in the right direction. The proposal 
+of a Regulation on AI is in line with our concerns about the need for risk-assessment and risk 
+classifications. The association welcomes the idea of having an Annex (i.e., Annex III to the Regulation), 
+for listing the risks and apply a set of criteria and risk assessment methodology. It would be very helpful 
+to include a definition of the respective levels and applications and the respective risk levels. The AI 
+risk classification and assessment criteria and metrics could be aligned explicitly with international 
+standardization results. The standard risk metrics could be used to make Article 9 (Risk 
+Management system) more specific, especially for article 9.2 (risk assessment process). 
+Some issues should be considered: on the one hand, a more detailed classification of risk could be 
+necessary for industry to perform self-assessment of risk associated with their products. Risk and levels 
+cannot be easily generalized over many application of AI. Moreover, risk granularity is coarse (High 
+Risk, Low Risk etc). On the other hand, risk management need standard metrics, as in finance and 
+other regulated fields. Additionally, the issue of bias shall be looked at closely. BDVA/DAIRO underlines 
+that there is still no established practice in research to deal with bias in general, and that a framework 
+would be welcome. Finally, the current text does not specify the means that the European Commission 
+intends to deploy to ensure the compliance of high-risk AI developed outside the EU. 
+In general, regulation would need to constantly move with research and innovation efforts, in 
+particular, for the definition of risk-assessment and risk classification patterns and the Regulation would 
+need to be based on the continuously updated standards based on ongoing research. 
+5. Balance innovation-regulation and elements supporting innovation 
+BDVA/DAIRO is very much aligned with the idea that the regulation should not hinder 
+innovation, but rather facilitate investment and innovation. For this reason, it supports the specific 
+objective of the proposed regulatory framework on AI to ensure legal certainty to facilitate investment 
+and innovation in AI (page 3 of the Proposal). However, the regulation might create difficulties to 
+establish balance innovation-regulation on a constant basis. At the moment it might be an administrative 
+burden especially to universities, research centers and SME. On the other hand, BDVA/DAIRO agrees 
+that a Regulation can drive innovation. Thus, regulatory actions and innovation shouldn't view these as 
+antithetical to each other. 
+The Regulation should come along with strong investments in implementation, definition of European 
+frameworks to support adoption, skills development programmes and support to SMEs. 
+BDVA/DAIRO welcomes the proposal of Regulatory sandboxes as to establish protected 
+environments to experiment innovation. This is a major advance in European law that will bring the 
+EU in line with the standards of its international competitors. A close monitoring to assess whether 
+such regulatory sandboxes and the way those are implemented in practice, actually facilitate innovation 
+is needed and strongly recommended.  Moreover, the conditions for access to and use of 
+sandboxes need to be clarified. BDVA/DAIRO recommends that for startups the scheme should be 
+strengthened with a precise definition of eligible actors, the duration of the scheme and, above all, the 
+list of obligations from which the scheme should exempt them. The Commission should not delegate 
+
+all decisions on the implementation of sandboxes to Member States, in order to avoid fragmentation of 
+regulatory regimes and a possible race to the bottom between countries competing to attract AI 
+innovators. The idea would be to avoid the concentration of companies in countries with the least 
+restrictive rules, a problem that has already emerged with tax rules and the GDPR with Ireland and 
+Luxembourg. 
+Art 10 could be "suspended" for short period of time to allow the introduction of new AI-based services 
+and to assess if bias exists. This, as to promote a kind of safe conduct for a predefined and fixed time. 
+"Clinical trials" might give a good reference framework for suspensions. A proposed solution would be 
+to put easily accessible ethics commissions first. Those, could also give guidance to SMEs. 
+6. Lowering barriers and increasing opportunities for SMEs 
+In line with the previous section BDVA/DAIRO agrees with the idea that a clear and consistently 
+applied and interpreted Regulation sets a common ground that can facilitate innovation 
+particularly in SMEs. In other words, Regulations should be considered as guidelines instead of a set 
+of constrains, like for GDPR or PSD2. Under this light, it can be considered as a source of technological 
+innovation, opening new business opportunities and competitive advantages against less agile entities 
+(in particular those not used to EU ethical principles). New business roles can potentially be generated, 
+opening the playing field for new service and solution providers. 
+Access to knowledge, testing, experimentation and ecosystem are key factors for success in SMEs. 
+The association acknowledges that the proposed plan for an AI Regulation comes with a new updated 
+Coordinated Plan on AI addressing these topics, but stresses the importance of investing in 
+federated experimental networks such as the European Federation of i-Spaces or Big Data 
+Innovation Hubs. ​For example, see the federation of Big Data Innovation Hubs created by the EUHubs4Data project: 
+https://euhubs4data.eu/ ​  These networks can not only provide access to knowledge, innovation, testing and 
+ecosystem to SMEs and startups in context of the new AI regulation, but can offer opportunities to 
+legislators in supporting collaboration between innovators and standardisation experts. 
+The establishment of a European Artificial Intelligence Board is also positively considered in order to 
+ensure the consistent application and interpretation of the Regulation among the different national 
+authorities. However it is not clear what the role of private entities (and in particular SMEs and startups) 
+within the European Artificilal Intellingence Board will be, and how their voice will be caught and brought 
+into the board. Also, as previously mentioned, an element of notice is the establishment of regulatory 
+sandboxes to foster AI innovation and to accelerate the access to markets by reducing potential barriers 
+for SMEs and startups. However, the conditions by which SMEs (but in general all the businesses) will 
+be allowed to access and use the regulatory sandboxes is not clear. 
+The AI field is characterized by a high variability and new developments, so part of the Regulation could 
+be affected by obsolescence in respect to the actual evolution of the field and consquently a sense of 
+feeling lost from the SME perspective and, even worse, high risk of investiment waste. This is 
+particularly critical during the boosting phase of start-ups. Support to SMEs and startups needs to go 
+beyond "preferential access". Best available technology principles should be shared so SMEs can 
+understand and contribute to the SOTA. Also, SMEs should have easy access to the market, and 
+hurdles to enter it being lowered. As data is the key element for many AIs and access to data is 
+paramount it is fundamental an alignment between the proposal for AI Regulation and the Data Act. 
+Additionally, repositories of AI trustworthy capabilities can be created (models, patterns, source 
+code) and shared. 
+
+7. Life-cycle of products 
+BDVA/DAIRO highly appreciates the Commssion’s awareness regarding the specifics of the AI 
+systems’ life-cycle and the efforts to integrate proper risk management of high-risk AI systems, including 
+the creation of synergies with other instruments such as the Proposal for a Regulation on Machinery 
+Products. The creation of dynamic, evolutionary state of the art, relevant for the legal assessment of 
+disruptive technologies such as AI is of great value for the industry as well as the society, ensuring de 
+facto legal certainty and reinforcing the notion of trustworthiness. 
+The Engineering and Standardisation framework for Industrial and Trustworthy AI should be taken into 
+account and enhanced. As stated in previous BDVA/DAIRO’s position papers, standards and 
+standardisation can be employed as a mechanism to leverage international best practice to build trust 
+and confidence in AI products, services, tools, and processes. ​Source: BDVA’s response to the European Commission’s Whitepaper on Artificial Intelligence “A European 
+approach to excellence and trust” May 2020 ​  
+BDVA/DAIRO stresses upon the need to leverage international best practice to build trust and 
+confidence in AI products, services, tools, and processes. Regarding the life-cycle of products, the 
+association recognises that AI engineering is not sufficiently established in science and industrial 
+practice. Also, the multi-technology and multi-disciplinary requirements should be considered. 
+Furthermore, there are open questions such as how to cope with context changes and what is the 'best 
+before' date of a trained model. It is also important to take such approach when designing and 
+implementing innovation facilitation solutions, such as regulatory sandboxes, which in their traditional 
+shape and format concentrate predominantly on the risks posed by products, services and business 
+models prior their access to the market. It is highly recommendable to broaden the scope of the 
+performed tests and evaluation in order to mitigate risks for consumers and businesses associated with 
+the requirements aligned with the greater awareness of the AI systems’ lifecycle. 
+Additionally, there is a need to define what a failure is, since a wrong prediction has a probability of 
+happening. This, links to the concept of explainable AI: How to evaluate the accuracy of an explanation 
+and how to integrate it into the AI-lifecycle for decision making? 
+Finally, in addition to the product as a whole, at least 3 different elements must be taken into account 
+in a life-cycle assessment of a product or service: the training system and associated training data, 
+the resulting AI intelligence model, the application which uses AI and associated application data. 
+8. Towards an Engineering and Standardisation Framework for Industrial 
+and Trustworthy AI 
+As stated in paragraph 61 of the Regulation proposal, “standardisation should play a key role to provide 
+technical solutions to providers to ensure compliance with this Regulation”. The association agrees also 
+with the recognition, by the European Commission, to the need of “adopting common technical 
+specifications in areas where no harmonised standards exist or where they are insufficient” (paragraph 
+61, page 32). 
+For this reason, the BDVA/DAIRO community proposes that the European Commission shall consider 
+the following tools and methodologies: 
+To support the design, test, validation, verification, and maintainability of AI-based functions 
+and systems. 
+To address the development of AI-based process and systems to demonstrate its integration 
+into new products and services 
+
+To do model evaluation (currently own datasets are being used, but trusted independent 
+datasets for stakeholdersis something Member States and/or sector oversight bodies will need 
+to develop) 
+On a governance perspective, a coordinated organisation to promote common standardisation, 
+technical framework and roadmaps shall be considered. A successful example that shall be considered 
+is the Franco-German initiative on speeding up industrial AI and trustworthiness. ​https://bit.ly/3x4yHIo ​  BDVA/DAIRO has 
+joined forces with this initiative with the objective of developing a European Engineering and 
+Standardisation Framework for Industrial and Trustworthy AI and calls for national initiatives on 
+Industrial AI to engage in this initiative. 
+BDVA/DAIRO also recommends supporting process-based certification schemes instead of reassessing high-risk AI systems. In other words, according to Article 43 paragraph 4, high-risk AI 
+systems should undergo a new conformity assessment every time they are subject to substantial 
+modifications. This would lead to excessive administrative stress as well as increasing costs, especially 
+for SMEs. This, would lead to processes hindering innovation due to excessive testing and audits, 
+discouraging innovators and undermining competition in Europe. For this reason, a process-based 
+certification scheme for high-risk AI systems should be put in place. 
+Such certification scheme would focus on the AI system and its coherence with the ethical development, 
+deployment and operation with regard to the effectiveness of the company or the wide AI system 
+process. Hence, the best practices of AI ethics can be provided and therefore applied to the 
+development and deployment activities of each AI system. The definition of the evaluation criteria and 
+methodology shall be created as to make a process-based certification scheme the baseline for 
+transparent and effective processes for developing trustworthy AI systems across industries. 
+9. Other topics 
+BDVA/DAIRO believes that the Regulation should concentrate on fully auditable AI. This means that 
+the question of IP rights on models and managing them legally as data products should be addressed. 
+The definition of IP rights on models and the legal management of them as data products would 
+be an important first step to preserve IPR. 
+BDVA/DAIRO also calls the attention to take into account relevant EU legislation such as the GDPR in 
+the case of requesting providers to keep documentation for 10 years, the Trade Secrets Directive in the 
+case of granting market surveillance authorities access to datasets, source code of high-risk AI systems 
+and the EU Cybersecurity Act in the case of requesting cyber security measures and incident 
+notifications from providers. 
+Moreover, the Regulation should adopt a balanced approach to human rights and technology, ensuring 
+that no right or freedom would be limited unless provided by law and with appropriate guarantees that 
+the essence of these rights would be preserved according to Article 52 of the Charter of Fundamental 
+Rights of the European Union. 
+Finally, BDVA/DAIRO welcomes the arrangement of the European Commission for the Regulation to 
+be reviewed and evaluated after 5 years, as outlined in Chapter 5.1 of the Proposal. 
+
+About this Document 
+Main editors of this documentare (in alphabetical order): 
+Natalie Bertels, Valorisation Manager & Researcher, imec/KULeuven, representing BDVA 
+TF5 – Policy and Societal 
+Freek Bomhof, Senior Data Science consultant, TNO, representing BDVA TF5 – Policy and 
+Societal 
+Roberto Di Bernardo, Head of Open Government R&D Group, Engineering Ingegneria 
+Informatica S.p.A. representing BDVA TF7.SG8 Smart Governance and Smart Cities 
+Ana García Robles, Secretary General BDVA/DAIRO 
+Norbert Jastroch, Head of Research MET Communications, BDVA/DAIRO member 
+Tjerk Timan, Researcher TNO, BDVA/DAIRO member 
+Mattia Trino, Operations Manager BDVA/DAIRO 
+Ray Walshe, Lecturer Dublin City University, representing BDVA/DAIRO TF6.SG6 
+Standardisation 
+Katerina Yordanova, Researcher imec/KULeuven representing BDVA TF5 – Policy and 
+Societal 
+Sonja Zillner, Lead of Core Company Technology Module “Trustworthy AI” at Siemens AG, 
+SRIA Lead at BDVA/DAIRO 
+This paper is the result of a cooperative work that gather inputs from the almost 150 BDVA/DAIRO 
+members that participated in the following: 
+Workshop with BDVA/DAIRO members – Feedback to AI Regulation proposal (07th June 
+2021) 
+Workshop on BDVA/DAIRO Position Paper on Industrial and Trustworthy AI (18th June 2021) 
+Consolidation Workshop on BDVA/DAIRO Feedback to AI Regulation proposal (30th June 
+2021) 
+The final document has been drafted during the month of July 2021, thanks to a join effort of the main 
+editors in coordination with the BDVA/DAIRO Secretariat. 
+About BDVA/DAIRO 
+The Big Data Value Association – BDVA, (from 2021, DAIRO - Data, AI and Robotics aisbl), is an 
+industry-driven international not–for-profit organisation with more than 230 members all over Europe 
+and a well-balanced composition of large, small, and medium-sized industries as well as research and 
+user organizations. BDVA/DAIRO focuses on enabling the digital transformation of the economy and 
+society through Data and Artificial Intelligence by advancing in areas such as big data and AI 
+technologies and services, data platforms and data spaces, Industrial AI, data-driven value creation, 
+standardisation, and skills. BDVA/DAIRO has been the private side of the H2020 partnership Big Data 
+Value PPP, it is a private member of the EuroHPC JU and is also one of the founding members of the 
+AI, Data and Robotics Partnership. BDVA/DAIRO is an open and inclusive community and is always 
+eager to accept new members who share these ambitious objectives 
+Contact for further information: info@core.bdva.eu 

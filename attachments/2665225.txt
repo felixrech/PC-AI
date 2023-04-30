@@ -1,0 +1,330 @@
+Position Paper on the Commission’s Proposal for a Regulation of the 
+European Parliament and of the Council on Laying Down Harmonised Rules on 
+Artificial Intelligence (Artificial Intelligence Act) and Amending Certain Union 
+Legislative Acts (COM (2021) 206final) 
+Berlin, 2 August 2021 
+Artificial intelligence is at the helm of modern digital politics. The rapid developments 
+in this technology are producing significant advances in different fields of other 
+technology and society. In recent years, the use of artificial intelligence (AI) has seen 
+a pronounced uptake by businesses and governments alike. This rapid development 
+has been accompanied with growing concerns about the proper use of AI and 
+associated ethical boundaries. Regulation of AI has become one of the main goals 
+the European Commission has set itself for its current term. Alongside other papers, 
+a White Paper on AI was published in 2020, with this having set the stage for the 
+debate on further corresponding regulation. 
+With the now published AI Act, the European Commission has set out rules for the 
+general use of artificial intelligence as well as requirements for certain types of AI. 
+eco – Association of the Internet Industry would like to take this opportunity to 
+provide some remarks and comments on this proposal. 
+I. 
+General remarks 
+In its position paper on the White Paper on Artificial Intelligence, eco warned against 
+laying down overly specific rules for the use of AI. From the perspective of the 
+Internet industry, these rules would be too complex to handle within different 
+scenarios and would be prone to getting into conflict with sector–specific regulation. 
+On the other hand, eco set out the point that the field of application – i.e. which AI 
+systems are to be covered by which layer of regulation – needs further clarification in 
+order for companies to have clarity on whether their systems are subject to stricter 
+high-risk regulation or less rigid low-risk regulation. The draft of the AI Act, which has 
+now been presented, has taken up on many of these aspects and added further 
+clarity to them, a development welcomed by eco. While appreciating the fact that 
+one major critique has been addressed in this draft, there are still a few more 
+aspects, which the Internet industry regards as useful to be considered in the further 
+debate. 
+II. 
+On the regulation in detail 
+ On Article 2: Scope 
+The scope of application for this regulation is rather broadly set out with, in general, 
+
+only minor limitations. Especially when it comes to defining high-risk AI systems, 
+which also implies further and stricter regulation, the scope of the regulation set out 
+in Article 2 only allows for limited insights. eco would recommend a more precise 
+definition of high-risk AI-systems so as to avoid complications from the interpretation 
+of this provision. 
+ On Article 5: 
+eco by and large agrees with the Commission’s proposal for general interdictions for 
+the use of AI systems. However, the Internet industry sees the necessity to further 
+clarify the extent to which a material distortion of a person’s behaviour can be 
+identified as such, and how the interconnection of the use of the AI system and the 
+change in behaviour can be properly validated. Recital 16 addresses this complex 
+issue; however, open questions remain as to how a possible interconnection can be 
+proven and how a decommissioning of a corrupt AI system can take place. An 
+additional question in this context also stems from the statement that an AI may 
+cause psychological harm. What is also unclear here is how psychological harm can 
+be properly determined – which would require medical examination of the person in 
+question. In addition, the regulation refers not only to psychological harm or 
+detriment to a person, but also to the likelihood of the AI system to cause such harm. 
+While eco understands the Commission’s approach to ex ante elimination of 
+problems arising from the deployment of AI, we would also like to point out that this 
+formulation is unclear and potentially prohibitive for the deployment of AI systems, 
+given that it addresses potential harm emanating from such systems which is 
+impossible to disprove. eco would recommend reviewing the regulation’s text, 
+picking up on the general idea of the topic – which the Internet industry fully supports 
+– but clarifying the language. This would be required to actually make it applicable 
+and not fall into an unclear situation, which again would open up the regulation for 
+broad interpretation by different national actors, such as regulators or courts. 
+eco understands that the Commission has put in place a clear statement on the 
+interdiction of social scoring, i.e. measuring behaviour of citizens and evaluating it for 
+specific governmental purposes, and sees a balanced and well-considered approach 
+in the draft regulation. Interdicting social scoring through governments is an essential 
+matter for preventing discrimination based on machine-made observations, 
+recommendations or decisions, and may help in creating trust in the technology. 
+This is also the case for the deployment and use of real-time remote biometric 
+identification, e.g. the deployment of AI over observation cameras in order to identify 
+persons present in a certain environment, which is also interdicted according to the 
+Commission’s plans. eco acknowledges that this provision is also helpful for creating 
+trust in AI and that the Commission’s possibilities are limited in the questions of 
+national security within its Member States. In addition, eco would also like to point 
+out that measures for remote biometric real-time identification should by no means 
+made a requirement for private actors to be used within their own surveillance 
+systems, e.g. in railroad stations. 
+
+ On Article 6: Classification rules for high-risk AI systems 
+In contrast to the Commission’s positioning in the White Paper from 2020, eco 
+welcomes the Commission’s approach to more clearly defining the classification of 
+high-risk AI systems. While generally sound and traceable, eco would like to 
+recommend a further elaboration on the description of the function AI systems play 
+in the respective fields and sectors in which they are to be deployed. While the 
+inclusion of systems in core areas critical for the functioning of the products and 
+services within the respective regulations and directives is understandable, it is in 
+turn questionable as to whether aspects and areas of said products and services 
+which are not critical should be subject to the same level of regulation, e.g. in 
+farming applications. eco recommends a clarification of this paragraph’s language – 
+excluding the use of AI systems for non-critical functions – in order to increase 
+uptake of new technologies. 
+With regard to the more general approach of the fields and systems covered under 
+Article 6.2, respectively Annex III, eco would also like to point out that, while clear 
+and understandable, the proposed fields of application should be further specified 
+and narrowed down respectively so as to avoid an overly broad field for application 
+and legal uncertainty for companies. 
+ On Article 9: Risk management system 
+eco agrees with the general provision to include a risk management system 
+reflecting on weaknesses and threats emanating from the use of AI systems in their 
+respective environment and for their specific purposes. The prospects set out in 
+Article 9 on deploying and iteratively updating the risk assessment of an AI are 
+flexible enough to allow for an adequate analysis. However, making way for a 
+system, which is too complex and bureaucratic for such an analysis, should be 
+avoided, and a provision should be included that this risk management system 
+should be at a reasonable level for operators and companies deploying these 
+systems. 
+ On Article 10: Data and data governance 
+eco understands that training data for AI and the governance thereof is an integral 
+part to the functioning of an AI system, and that particular care needs to be taken in 
+high-risk applications. eco further acknowledges that data policies and data politics 
+are already subject to many different legislations and that further regulation of data – 
+including non-personal data – is currently under debate within the European Union. 
+The question therefore still stands as to how far the specific provisions in Article 10 
+are still necessary. These provisions increase the complexity of development and 
+deployment of AI systems and, in eco’s view, are also governed through other 
+regulations, such as the GDPR and legislation soon to be passed, with the latter 
+including, for example, the European Data Governance Act, the European Data Act 
+and the ePrivacy Regulation. In addition, the provisions do not seem to be intended 
+
+to resolve liability issues arising from faulty systems, which would prove to be a valid 
+point for inserting them. As such, in conclusion, the data governance provisions in 
+the AI regulation appear to be redundant in relation to other provisions therein and 
+general data governance rules and regulations. eco recommends reviewing this 
+article in light of the aspects previously mentioned. 
+ On Article 12: Record-keeping 
+In contrast to many other aspects of the regulation, the aspects of record-keeping 
+appear to be very precise and detailed. eco warns against pursuing a regulation 
+which is too detailed and specific, with this creating the risk of being overly 
+cumbersome and unsuitable for the processes and tasks some systems may fulfil. 
+eco appeals for a review of this article, specifically concerning the requirements laid 
+down under Point 4, in order to determine whether their level of detail is necessary. 
+ On Article 14: Human oversight 
+Human oversight over high-risk AI systems is, in the Commission’s view, intended to 
+ensure the proper functioning of the respective system. eco can thus understand 
+why the Commission proposes undertaking steps to integrate human oversight into a 
+regulative framework for AI. However, the way the Commission shapes the 
+requirements for human oversight go far beyond reasonable requirements for the 
+design and functioning of AI systems, including provisions to individually override 
+output from the system or to terminate it altogether. Such drastic interventions – 
+while they may be necessary on occasion – raise a question concerning the 
+circumstances under which they are justified and legitimate. eco recommends 
+reviewing the paragraphs for human oversight so as to make them more readily 
+manageable for operators and developers of AI systems, allowing for larger-scale 
+automated decision-making. 
+ On Article 16: Obligations of providers of high-risk AI systems 
+eco regards the provisions of Article 16 as being too bureaucratic. Notification 
+requirements as they are set out in Article 16 lit. h would make distribution and 
+deployment of high-risk AI systems cumbersome and complex for developers. These 
+developers would be burdened with the task of communicating the use of the system 
+to several authorities, which would – depending on structure and legislation of the 
+respective Member States – be difficult to navigate. This complex issue would 
+certainly have a greater impact on SMEs than on large IT companies who may 
+already have established liaison in different Members States. eco calls on the 
+Commission to revise this provision and – at least – to reduce it to a one-stop-shop 
+mechanism, which would allow for easier deployment of high-risk AI systems within 
+the Digital Single Market. Additionally, eco calls the necessity for a registration 
+scheme for AI systems into question, especially when it is on top of a notification 
+requirement. The question of whether AI systems should have a CE Marking is also 
+
+open. In summary, eco would like to point out that the requirements set up under 
+Article 16 are bureaucratic, dissuasive and do not create added value to oversight or 
+quality management of AI systems. The article should therefore be revised. 
+ On Article 17: Quality management system 
+The commitment to adding a quality management system to the already existing 
+requirements is questionable. While eco appreciates that quality of AI systems is 
+relevant, especially for high-risk AI systems, we cannot comprehend the decision to 
+introduce a detailed set of rules for the quality management of AI systems. As the 
+security obligations and the risk assessment – as well as the general obligations for 
+operating or delivering high-risk AI Systems – already include conformity 
+assessments, which are to be monitored continually, eco calls the additional 
+requirement of a quality management system for AI into question, and recommends 
+reviewing this article with a view to removing redundancy from the legislation. eco 
+welcomes the Commission’s intent for quality management to be proportionate to the 
+size of the organisation, but would like to see the problem that this statement is not 
+very clear compared to other European regulation being addressed. eco also 
+recommends the exclusion of SMEs or a comparable provision, in order to make the 
+legislation at least more accessible. 
+ On Article 22: Duty of information 
+The duty of information for high-risk AI systems is too bureaucratic and cumbersome 
+for companies to effectively administrate. The requirement to inform all competent 
+authorities of Member States would consume companies’ resources and would 
+additionally create different bureaucratic processes for notification. eco would like to 
+recommend a review of this article and the insertion of a one-stop-shop mechanism 
+as an alternative, in order to duly inform the public about errors in its AI systems. 
+ On Article 29: Obligations of users of high-risk AI systems 
+The obligations for users of high-risk AI systems appear to be unbalanced. 
+According to Article 29.4, users are required to only use the system in the way it is 
+supposed to be utilised. This is likely to interfere with testing expansion of the 
+system, modifying it for better suiting its task. eco thus requests the Commission to 
+rephrase the user obligation for high-risk systems in a way that allows for innovation 
+and improvement. 
+ On Article 41: Common specifications 
+The Commission’s motion to define common specifications by implementing acts 
+derived from the AI Act would directly intervene in the shaping and operation of AI 
+systems. eco does not support this idea, regarding it as counterintuitive and leading 
+to the risk of “state-governed” AI systems. Market forces have in the past 
+
+demonstrated that harmonised standards, as foreseen in Article 40, can be achieved 
+by the industry and meet the compliance requirements. Even more so, common 
+specifications may thwart standardisation efforts of the economy. eco thus 
+recommends the deletion of Article 41. In its absence, requirements for protecting 
+exposed personal groups and compliance with fundamental rights would remain 
+unaltered. 
+ On Article 43: Conformity assessment 
+While eco understands that companies need to be in compliance with regulation and 
+that conformity with requirements should occur, the proposed procedure for 
+assessing conformity appears as too bureaucratic and difficult for many companies 
+to handle. This would divert the development of resources and the enhancement of 
+systems towards reviewing requirements and checking compliance. eco would 
+recommend leaving conformity assessment aside as a more abstract set of 
+requirements against which providers of high-risk AI systems would have to check, 
+and to leave it to these respective providers and notifying bodies to develop 
+corresponding procedures and standards. Especially in the field of already regulated 
+environments like the financial sector, this would ease the burden for AI providers. In 
+addition, the formulation for re-assessing the conformity of a system after it has been 
+substantially modified leaves questions open about how such an assessment could 
+actually take place in a machine-learning environment. eco recommends closely 
+reviewing Article 43 and double-checking on how bureaucracy in this chapter can be 
+minimised. 
+ On Article 51: Registration 
+eco argues against a requirement for registering high-risk AI systems in addition to 
+declaring their conformity and having them supervised. The provision adds 
+bureaucracy to an already complex process and should be dispensed with. 
+ On Article 52: Transparency obligations for certain AI systems 
+eco deems the provision to inform exposed persons or users about the fact that they 
+are interacting with an AI as redundant. Given the fact that goodwill actors tend to 
+inform exposed persons about the fact that they are interacting with an AI, and that 
+ill-willed actors on the contrary won’t do this, this obligation only creates an 
+additional compliance burden for companies. When it comes to notifying people 
+about the fact that information was created through AI, this obligation must be 
+viewed even more critically, as it could prove harmful to freedom of art and press. 
+eco recommends reviewing this article and removing provisions for actors and 
+companies who are acting in good faith or are able to claim freedom of press or art 
+for themselves. 
+
+ On Article 53: AI regulatory sandboxes 
+eco welcomes the adoption of regulatory sandboxes for the development and testing 
+of AI systems. The inclusion of this article is critical for the development, 
+improvement and testing of AI systems. eco supports this motion and would 
+welcome its inclusion in the final regulation. 
+ On Article 54: Further processing of personal data for developing certain AI 
+systems in the public interest in the AI regulatory sandbox 
+The specific requirement for further processing of personal data is a welcome 
+clarification under the auspices of the general provisions of the General Data 
+Protection Regulation of the EU. eco appreciates this clarification, which will allow 
+companies within AI regulatory sandboxes to enhance quality and functionality of 
+their products. eco would, however, recommend a widening of the field of application 
+for this provision to embrace all services and products developed in a sandbox and 
+to not limit their use and development to a select group of systems. As the legal 
+conformity for the collection of the respective data is fulfilled, this should not be 
+considered a major problem. 
+ On Article 55: Measures for small-scale providers and users 
+eco welcomes the enhanced inclusion of smaller providers and the clarification that 
+conformity assessments are to be reduced in the light of their economic capacities. 
+ On Article 59: Designation of national competent authorities 
+eco recommends assigning a single national authority for the oversight of AI system 
+compliance with respective regulation. Distributing the competence for this task 
+among different authorities would increase the risk of conflicting regulative 
+requirements and could lead to legal uncertainty for providers of AI systems. eco 
+recommends removing respective passages from the draft regulation and a 
+clarification that there should be a single authority or, respectively, a single point of 
+contact. 
+ On Article 60: EU database for stand-alone high-risk AI systems 
+As previously stated, an issue which eco sees as problematic is a database solution 
+for high-risk AI systems, which is based on a reporting mechanism for operators or 
+deployers. The Internet industry would recommend a light-touch approach for 
+establishing such a database – unbeknown to the fact, whether it would be helpful – 
+on the basis of the reporting of notifying authorities so as to avoid bureaucracy for 
+companies. 
+
+ On Article 62: Reporting of serious incidents and of malfunctioning 
+The reporting system established under Article 62 appears in eco’s view to be overly 
+complex and takes the focus away from companies trying to identify malfunctions or 
+incidents within their systems and to mitigate damage. Companies may have to 
+report to several authorities and would possibly have to comply to different 
+regulations with different reporting mechanisms. eco appeals for an efficient 
+reporting mechanism based on a one-stop-shop reporting system, where information 
+is disseminated through different market surveillance authorities. 
+ On Article 64: Access to data and documentation 
+The regulation foresees encompassing requirements for access to training data and 
+documentation. This requirement, albeit understandable, is too detailed and specific, 
+requiring companies to provide respective information via an API or a similar 
+appropriate technical measure. This may not only cause conflict with confidentiality 
+of data but also could create additional risks, depending on how and where the API 
+is placed in direct intervention with the system. Additionally, the formulation could 
+serve national authorities in devising local legislation on further defining and devising 
+specific APIs. The latter could be used to access data and documentation of AI 
+systems, but could also serve other broader purposes within Members States’ 
+interests, thus compromising the confidentiality of AI systems. eco calls for the rules 
+for accessing data and information to be proportionate and to be clear and 
+understandable for companies and authorities, limiting the possibility of abuse or 
+exploitation of AI systems by supervisory institutions. 
+ On Article 71: Penalties 
+The framework for penalties seems inappropriately high. Infringements against the 
+AI regulation are to be subject to a fine of up to 30 million Euro or 6 per cent of the 
+annual turnover of a company. Non-compliance is to be penalised with 20 million 
+Euro or 5 per cent of the annual turnover. eco regards these fines as too high, given 
+the fact that other regulations and legislation already exist, which also foresee 
+administrative fines, e.g. the GDPR. It should be clearly stated that fines can only be 
+called upon when other fines will not be invoked. Otherwise the volume of the 
+penalties may in total become an existential threat to companies and their respective 
+employees. 
+III. Conclusion 
+The Commission’s draft AI Act shows the general right way forward for a functioning 
+and sound regulation of AI, which is necessary to further trust in the use of AI 
+systems and which would still allow for innovation and economic development of AI 
+systems. The risk-based approach the Commission has chosen for regulating AI and 
+the differentiations of certain layers of applications is generally comprehensible and 
+
+sets a proper framework for the level-playing field for AI systems. 
+However, in order to avoid legal or regulatory uncertainty, a few aspects should be 
+further considered, such as the definition of harm for persons and how far an AI 
+system may immediately contribute to harming a person. These topics need further 
+clarification and should be described more precisely to give guidance to companies 
+and deployers of AI systems and supervisory bodies alike. General and abstract 
+terms and definitions may add to legal uncertainty and a diverging application of the 
+AI regulation. In addition, the supervision of AI systems and the reporting system for 
+operators and deployers of AI systems should be given more consideration so as to 
+avoid a bureaucratic system which would mainly impact smaller and medium sized 
+companies. With changes to these general problems at hand, the AI Act can become 
+a regulatory success. 
+About eco: With over 1,100 member companies, eco is the largest Internet industry 
+association in Europe. Since 1995 eco has been instrumental in shaping the 
+Internet, fostering new technologies, forming framework conditions, and representing 
+the interests of members in politics and international committees. eco’s key topics 
+are the reliability and strengthening of digital infrastructure, IT security, and trust, 
+ethics, and self-regulation. That is why eco advocates for a free, technologicallyneutral, and high-performance Internet. 

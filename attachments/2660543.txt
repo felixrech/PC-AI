@@ -1,0 +1,80 @@
+Directorate-General for Communications Networks, Content and Technology 
+Artificial Intelligence and Digital Industry (Directorate A) 
+European Commission 
+1049 Bruxelles/Brussels 
+Belgium 
+30 June 2021 
+MPP input to the European Commission public consultation on the proposed Regulation laying 
+down harmonized rules on artificial intelligence (AI Act) 
+To whom it may concern, 
+The not-for-profit Medtech & Pharma Platform Association (MPP) welcomes the European 
+Commission proposal for a Regulation laying down rules on AI. MPP supports efforts to optimize the 
+regulatory framework to create the right conditions for healthcare innovation. MPP welcomes the 
+possibility to comment on the proposed Regulation and would like to seize this opportunity to share 
+some reflections and suggestions. 
+We are the opinion that risk categories for AI provide a useful base for the regulation of AI. In this 
+area, we would welcome clarifications on the determination of the high-risk category in the 
+proposed Regulation and how such category correlates to existing legal frameworks, especially with 
+the Medical Devices and In Vitro Diagnostics Regulations (MDR and IVDR). Notably, there is a 
+concern that the existence of different risk assessments under the AI and medical device legislations 
+might create confusion. Under a risk-based regulatory system and in consideration of the scope of 
+use, some AI-driven software may be categorized as low or intermediate risk under the MDR and 
+IVDR, whereas the proposed Regulation may classify such products as high-risk. In this regard, it 
+could be beneficial to consider aligning the risk levels described in the proposed Regulation with risk 
+levels outlined in the MDR and IVDR for consistency. The recently entered into force MDR and 
+upcoming IVDR provide an adequate framework for the regulation of Medical Device Software 
+(MDSW) and it is important to make sure that the proposed Regulation is fully compatible with 
+them. 
+In addition, MPP would like to share the following comments and questions: 
+Recital 60: Does this imply that a pre-trained model cannot be used in an AI high-risk system 
+as a software of unknown (or uncertain) pedigree (or provenance) (SOUP) or off-the-shelf 
+(OTS), for which the collaboration of the supplier is not necessarily needed? 
+Article 43 section 4: How does the process for pre-determined changes for MDSW work? Are 
+the rules mentioned in this article supposed to come from the regulators or does the 
+paragraph mean that the manufacturer can specify in the instructions the modification (e.g. 
+in accuracy) that can occur without implying a "substantial modification"? 
+Annex II: Companies may develop internal products in the areas of high-risk AI systems. How 
+does the EU intend to monitor the internal usage of AI systems that do not reach the 
+market? 
+Annex IV: Is the pre-specification in this Annex comparable to (SPS) Software as Medical 
+Device (SaMD) pre-Specifications, Algorithm Change Protocol (ACP) from the US Food and 
+Drug Administration (FDA) AI Discussion Paper on the regulatory framework for modification 
+
+to AI /machine learning (AI/ML) based SaMD? Is there any possibility to harmonize those 
+two approaches with the current proposed Regulation? 
+Annex IV, 2(e): More clarification is needed on how human oversight is defined and 
+applicable, examples from medical device software would be appreciated. 
+The proposal states that it will consider harmonized technical requirements. Will standards 
+such as IEC 62304, ISO13485, ISO14971 be integrated? 
+How does the Commission plan to build the regulatory sandboxes to facilitate products 
+following regulations MDR and IVDR? More specifically, can certain activities, like data 
+collection with the purpose of building a model or tests for clinical evaluation, be performed 
+in the context of these sandboxes? And what would be the regulatory steps to move from a 
+sandbox to the market for such a product? 
+How is the expansion of the AI system (e.g. scaling up to different devices, from Android to 
+iDevice) organized in terms of submission? 
+The proposed penalties in case of infringement may impact the commitment of manufacturers in 
+ensuring deep and intensive monitoring of their own AI systems in the post-market surveillance 
+phase. To promote a shared culture of rigorous monitoring, incentives to the manufacturers that 
+find incidents in their own AI system could be put in place. Such incentives could, for instance, 
+materialize via decreased fines when infringements are found and addressed by manufacturers 
+themselves. 
+MPP continuously seeks dialogue with relevant stakeholders to create an appropriate framework for 
+combined products (covering combined use of medicinal products, medical devices, MDSW, AI, and 
+IVDs) that fosters innovation, reduces time to market, and addresses patients’ needs. We thank you 
+for considering our position and the proposals outlined above. 
+MPP remains at the European Commission’s disposal for further dialogue and collaboration. 
+Yours sincerely, 
+Shayesteh Fürst-Ladani 
+MPP President 
+association@medtech-pharma.com 
+About the Medtech & Pharma Platform Association 
+The not-for-profit Medtech & Pharma Platform Association (MPP) draws together companies from the 
+pharmaceutical, medtech and ICT sectors and provides opportunities to exchange knowledge and to 
+collaborate in technology and regulatory areas related to combined products. 
+MPP’s objectives are: 
+To enhance synergies between the pharma, medtech and ICT industries, 
+To establish new collaboration models to ensure and accelerate market access for safe and 
+innovative treatment options, 
+To contribute to the development of a balanced and proportionate regulatory and policy 
+framework for combined products including connected combined products. 

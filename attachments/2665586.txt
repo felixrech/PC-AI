@@ -1,0 +1,104 @@
+Philips feedback to EC Proposal for AI Act 
+Philips welcomes the opportunity to provide feedback on the proposed AI Act. 
+In healthcare, AI is already a reality. It can help to address healthcare’s most pressing challenges and 
+enable people to live healthier lives. The opportunities for AI across the health continuum, from 
+prevention, through diagnosis and treatment, to home care, lie in its potential to help make sense of data, 
+turning these data into actionable insights for better health and better care. AI has also proven useful in 
+the fight against the COVID-19 pandemic. It adapts to patient-specific contexts and can be embedded into 
+workflows of healthcare providers or people’s daily environment. At Philips, we believe AI can augment 
+healthcare providers to deliver high-quality care to patients and increase operational efficiency. 
+While a robust regulatory framework providing certainty to all stakeholders involved is crucial as new 
+technologies are being developed and brought to the market, medical device sector has been highly 
+regulated for a long time already to make sure that safe and performant devices are placed on the EU 
+market. The Medical Devices Regulation (EU MDR), combined with the GDPR, already offers detailed and 
+extensive requirements covering various aspects of the proposed AI Act. ​For a detailed analysis of AI under EU MDR and examples please consult the paper developed by COCIR : 
+https://www.cocir.org/media-centre/publications/article/cocir-analysis-on-ai-in-medical-device-legislation-may2021.html ​  
+The following elements should be considered in the upcoming legislative process: 
+Scope and definitions: The proposed AI Act defines high-risk AI system so widely that almost all 
+medical device software may fall in its scope and be considered a high-risk system. Several other 
+proposed definitions and requirements are not aligned (e.g. ‘provider’, ‘user’, ‘importer’, ‘putting 
+into service’), missing (e.g. definition of ‘risk’ which is the core concept for conformity assessment) 
+or conflicting with safety and performance requirements of the EU MDR/IVDR. Different 
+definitions and conflicting requirements will lead to an incoherent framework, possibly requiring 
+two sets of technical documentation (instead of one), inefficient information flows with parallel 
+incident reporting channels and overlapping technical standards. As medical device software has 
+specific needs, contradictory technical requirements resulting from different definitions or 
+conflicting requirements between the AI Act and EU MDR must be avoided to ensure legal 
+certainty and consistency. AI-based medical devices should be regulated by the applicable 
+sectorial legislation, accompanied by detailed guidance developed by the Medical Device 
+Coordination Group to support new requirements, and address any remaining gaps. 
+Requirements for high-risk AI systems: Although most of the proposed requirements seem 
+appropriate to make sure that only safe and performant AI systems are placed on the market, 
+some of them should be aligned with the state-of-the-art software development practices without 
+creating barriers for innovative medical software. For instance: 
+o Data and data governance (Article 10): The proposed requirement for error-free and 
+complete data for training, validation and testing is impracticable, especially when testing 
+in real-world conditions. Datasets are often inaccurate to a certain extent. Accuracy is 
+about the measurement results being as close as possible to the true value while precision 
+
+means repeatability/reproducibility of the measurement. For example, in medical 
+imaging, the image data comes from the values measured by the system’s detectors, and 
+the measurement itself is done based on a system setting that is neither fully right nor 
+wrong but developed by trained professionals. The resulting measurements can vary for 
+the same patient at the same stage depending on the model of imaging system and the 
+chosen parameters – one can never ensure that the data (i.e. the images) is ‘completely 
+error-free’. We also fear that the proposed wording would completely prevent the use of 
+Real-World Data, an area representing huge potential for healthcare. Instead of 
+‘completely error-free’, datasets should be sufficiently accurate and complete to meet 
+the intended purpose. 
+o Human oversight (Article 14): The proposed concept of human oversight may lead to very 
+strict interpretation triggering undesirable harmful consequences. AI can help clinicians 
+make sense of large amounts of data about individual patients, in a quicker and more 
+integrated way. It can also provide insights that may not be visible to the human eye, 
+enabling first-time right diagnosis and personalized treatment, with better patient 
+outcomes. High perfromance computing allows systems to monitor hundreds of data 
+points simultaneously. The system is able to act much faster than the human brain reacts. 
+Any device relying solely or primarily on human attention and oversight cannot possibly 
+keep up with the volume and speed of algorithmic decision-making or will be 
+overwhelmed by the scale of the problem and hence be insufficient and potentially 
+harmful to patients. In some cases, the only effective oversight possible will be before or 
+after the use of the device through retrospective periodic performance review for 
+individual patients or patient cohorts. There are already applications where human 
+intervention should be avoided for better patient outcomes (e.g. qPCR curve reading, 
+segmenting of brain tumors). A restrictive interpretation may also prevent certain 
+applications of AI in healthcare, e.g. AI-enabled eye surgery robot. 
+Consequently, human oversight should be guaranteed where necessary to reduce risks 
+as much as possible, taking into account state-of-the-art technological and scientific 
+progress. Users should be able to intervene while the AI system is operational or 
+interrupt it unless human intervention puts patient at risk or hampers patient outcome. 
+Users of AI systems should have a sufficient understanding of the AI systems to ensure 
+their intended use and proper functioning. 
+o Access to training data (Article 64 & Annex VII): Full access to training datasets for market 
+surveillance authorities and notified bodies may be limited in situations where: 
+providers/manufacturers have no direct access to training data due to security and privacy 
+safeguards (cf. federated learning), IPR or privacy requirements not allowing 
+providers/manufacturers to store training data (cf. personalized medicine), or where the 
+quantity of training data is so big that storing it will have a disproportionate cost and 
+impact on the environment. Requirement to provide access to training data should 
+therefore be removed and replaced with sufficient access to testing datasets which 
+cover more sources of bias than only those in training datasets. 
+
+o Transitional provisions/Entry into force and application (Article 85): Experience with the 
+transition from the Medical Device Directives to the EU MDR showed that sufficient 
+transition time is crucial not only for medical device manufacturers but for the entire 
+regulatory system. Putting the necessary infrastructure in place, ensuring compliance with 
+the requirements and guidance documents, as well as adequate notified body capacity 
+needs sufficient time. The transitional period should be therefore extended by at least 
+two years, i.e. to 48 months to allow for all necessary elements to be in place in time 
+before the date of application. 
+If the abovementioned misalignments are not properly addressed, there is a definite risk of duplications 
+and additional unnecessary administrative burden resulting in increased complexity, legal uncertainty, and 
+higher implementation costs not only for the manufacturers but the entire healthcare system, including 
+patients. We are concerned that the increased complexity will accelerate the already existing trend of 
+privileging other geographies for first placing of innovative medical software on the market. This in turn 
+will have a huge impact on the EU’s competitiveness and innovation resulting in delayed patient access to 
+innovative digital health products and solutions. 
+We look forward to further engaging with the EU institutions in the legislative process. 
+About Royal Philips 
+Royal Philips (NYSE: PHG, AEX: PHIA) is a leading health technology company focused on improving people's 
+health and well-being, and enabling better outcomes across the health continuum – from healthy living 
+and prevention, to diagnosis, treatment and home care. Philips leverages advanced technology and deep 
+clinical and consumer insights to deliver integrated solutions. Headquartered in the Netherlands, the 
+company is a leader in diagnostic imaging, image-guided therapy, patient monitoring and health 
+informatics, as well as in consumer health and home care. Philips generated 2020 sales of EUR 17.3 billion 
+and employs approximately 77,000 employees with sales and services in more than 100 countries. 

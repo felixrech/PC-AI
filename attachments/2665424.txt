@@ -1,0 +1,100 @@
+Glovo’s contribution to the public consultation on the Artificial Intelligence Act
+August 2021
+Glovo welcomes the European Commission’s proposal for an Artificial Intelligence Act as this represents
+an opportunity for the EU to make the best of AI applications and a step forward towards more innovation
+and algorithmic transparency. Our response to the public consultation will outline Glovo’s role in AI
+innovation as well as recommendations for specific elements of the proposal to be improved or
+maintained.
+About Glovo
+Glovo is a Spanish start-up active in 23 countries and +900 cities that aims to give everyone easy
+access to anything in their city. Glovo is the “everything app” that connects customers, shops and
+couriers - one of Europe’s largest and one of Spain’s two “unicorns”. Since its birth in 2015 in
+Barcelona, it has grown to operate in Europe, Asia and Africa, helping European technology and
+industry compete successfully on the global market and at home.
+Glovo has assisted in the digitization of various trade verticals, such as restaurants, supermarkets,
+bookstores, florists, clothing stores, accessories, toy stores, stationery stores, chocolate shops,
+cosmetics stores, among others. Glovo provides all these operators with solutions based on data,
+algorithms and digital management that are of enormous value for their growth.
+Glovo’s role in fostering Artificial Intelligence innovation
+For our business, Artificial Intelligence - especially applications in logistic and platform work - represent
+both an opportunity and a challenge. On one hand, they create competitive advantages for users,
+businesses and riders; on the other hand, they transform the relations established between these parties
+and create new ways to manage logistics and organise work.
+In this context, platforms represent an ideal testing ground as they are spaces of innovation that are
+constantly betting on being at the forefront of any tech development. Furthermore, platforms have a high
+level of capillarity in the cities, which entails close proximity to many urban and social issues that are
+impacted by algorithmic management.
+In particular, algorithmic models make Glovo’s user experience friendlier, improve logistics and add value
+to multiple businesses, making room for the development of competitive practices. In this regard, Glovo is
+committed to explaining its models and being vocal in the making of regulation.
+Glovo is committed to fostering fair AI models through the elimination of biases. Algorithm transparency
+and accountability are therefore key objectives, also included in the Statement of Principles we have
+co-drafted along the main European delivery platforms as part of the European Purpose Project.
+Glovo’s contribution to the public consultation on the Artificial Intelligence Act
+Glovo welcomes the European Commission’s initiative laying down harmonised rules on Artificial
+Intelligence - the Artificial Intelligence Act. We particularly value the objective to align AI usage standards
+with EU principles. This represents an opportunity for the EU to make the best of AI applications and a
+step forward towards more innovation and algorithmic transparency.
+
+As a general comment, we would like to highlight the importance of introducing harmonized rules for AI
+systems - both as a framework for the development of fair algorithms and as a tool to reduce uncertainty
+for companies developing such systems.
+In this regard, clear and comprehensive definitions are key. Introducing a degree of uncertainty
+through regulation can affect the industry’s competitiveness in the long term, as companies will tend to
+avoid pursuing innovative AI practices. Most importantly, this might eventually affect users: if companies
+decide not to pursue certain applications, the objectives of more transparency, accountability and
+non-discrimination might not be reached.
+1. Prohibited artificial intelligence practices (Title II)
+AI practices that are not compatible with fundamental rights are a main concern for Glovo. The current
+wording of the text (“subliminal techniques beyond their consciousness”), however, is ambiguous and
+could lead to low-risk systems - such as recommender systems or some reinforcement learning models to be banned along with higher risk systems. As this is a highly sensitive matter, it would be crucial to
+outline a more specific definition of what constitutes prohibited practices.
+2. High-risk AI systems (Title III)
+We believe that the definition of “bias” is of utmost relevance, as tackling unfair impact resulting from the
+application of AI systems is key to building EU-based algorithms. Our understanding, however, is that
+research has not converged to a proper definition of AI bias yet.
+In order to clarify such definition, we therefore propose some changes to the text, in particular:
+Associate the introduction of biases with intent or negligence, when determining that a bad
+practice is not compliant with the regulation;
+Include a definition of bias that does not necessarily depend on other terms. An example would
+be a definition grounded in well-known statistical concepts and measures. Specifically, we would
+favour definitions that feature language similar to Moritz Hardt​Hardt, M., Price, E., & Srebro, N. (2016). Equality of opportunity in supervised learning. Advances in neural
+information processing systems, 29, 3315-3323.​  definitions for fair classifiers, that
+are clearly stated in statistical terms. This would allow practitioners to implement automatic tests
+of algorithm fairness and leave no uncertainty on whether the regulations are being followed or
+not (see example below).
+Equalized odds: A predictor Y satisfies equalized odds with respect to protected attribute A and
+outcome Y, if Y and A are independent conditional on Y. P(Y=1|A=0,Y=y) = P(Y=1|A=1,Y=y),
+y∈{0,1}.This means that the probability of a person in the positive class being correctly
+assigned a positive outcome and the probability of a person in a negative class being incorrectly
+assigned a positive outcome should both be the same for the protected and unprotected group
+member.
+In this regard, we would like to highlight the potential downsides of introducing concepts that lack
+technical applications as this increases uncertainty in the development of new models.
+3. Transparency obligations for certain AI systems (Title IV)
+Glovo is already one step ahead on AI transparency, as it is in the process of drafting working guidelines
+on soft transparency to make its AI systems available to anyone.
+
+Most importantly, Glovo is co-leading the European Purpose Project, an initiative that gathers Europe’s
+most relevant delivery platforms with the aim of elaborating a series of documents to implement a
+Statement of Principles of EU technology platforms.
+Being a responsible user of technology and data is one of these principles, and entails fostering algorithm
+transparency and accountability; the ability of users to have control of their personal data; making
+processing of personal data transparent; having responsive communications; and the implementation of
+best practices.
+These principles will be materialized in a Code of Conduct as well as in a Playbook of tried and tested
+regulatory solutions to facilitate and accelerate the adoption of such practices by tech companies.
+On this matter, is it relevant to stand out the fact that transparency obligations regarding AI models should
+at all times take into consideration the protection of intellectual property and should in no case introduce
+principles that entail the disclosure of highly valuable commercial assets for companies.
+4. Measures in support of innovation (Title V)
+Glovo fully supports the adoption of measures to foster innovation and has been active in the
+conversation regarding sandboxes by making available its models and resources.
+As mentioned above, one of the positive outcomes of harmonizing regulations on AI is that it improves
+legal certainty for companies to develop innovative products. As a former start-up, Glovo also welcomes
+the initiative of reducing burdens for SMEs and developing businesses.
+5. Codes of conduct (Title IX)
+In regards to the voluntary application of certain requirements for high-risk systems to non high-risk ones,
+we would like to highlight the fact that Glovo’s working pipeline includes the development of an
+explainability module, with the goal to incorporate transparency dynamics within the making of Glovo’s AI
+models.

@@ -1,0 +1,61 @@
+28th July 2021 – Secure Identity Alliance 
+Facial Recognition Technologies: What’s at Stake and Why 
+On April 21, 2021, the European Commission proposed new rules and actions on the development 
+and use of artificial intelligence (AI) systems with the stated objective to “turn Europe into the global 
+hub for trustworthy artificial intelligence”. 
+Following a risk-based approach, the proposals will ban those AI systems considered a clear threat 
+to the safety, livelihoods and rights of people. Others will be rated on a risk scale from high to 
+minimal. In particular, all remote biometric identification systems are considered high risk and 
+subject to strict requirements. 
+Secure Identity Alliance (SIA), whose members are European and global leaders in this fastemerging space, are supportive of the principles to ensure excellence and trust in AI systems, and 
+believe a fit-for-purpose framework has the potential to become an adopted standard around the 
+world – as has been the case with the General Data Protection Regulation. 
+However, SIA believes that the rules governing the development and provision of AI systems should 
+be proportionate. 
+As the proposals stand today, there is a concern that some rules threaten to stifle innovation and 
+therefore undermine the stated goals of the Commission and the position of Europe as a leader in 
+this critical field of technology. 
+Ex-ante conformance assessment threat to IP & sovereignty 
+AI systems intended to be used for real time, remote biometric identification are classified as highrisk under the proposals and would require an ex-ante conformance assessment. This, SIA believes, 
+represents a threat to Intellectual Property if not properly managed with trusted third parties – a 
+concept to be clarified. 
+This may have a negative impact on the levels of AI system functionality and performance available 
+to European users and government agencies such as national security and law enforcement 
+agencies as developers may choose to bring lower performance, less IP-sensitive versions of their 
+technology to the EU in order to avoid the risk of IP leakage. 
+In addition: 
+The rules imply a requirement to grant assessors access to sensitive data that are covered 
+by non-disclosure agreements, and would seem to run contrary to GDPR compliance 
+Similarly, the rules include a clause granting access through APIs. This represents a 
+significant vulnerability in terms of IT security, and a significant expense for developers 
+The rules lack critical definitions when it comes to identifying what a ‘relevant, representative, 
+free of errors and complete’ training dataset is. At the same time, there is little scientific evidence 
+that simply balancing training datasets removes the need for ex-post performance assessment, 
+(ex post assessment being the state of the art practice for performance but also since a few 
+years for bias measurement as well).The EU should facilitate the access to high data quality for 
+
+training purposes, for instance by fostering the set-up of a large EU test database, with the 
+adequate control / encryption systems, that could be used by the respective EU players to train 
+their AI algorithms 
+AI definitions creating an uneven playing field 
+While the definition of AI is necessarily wide in the existing draft, trying to define an emerging 
+technology is challenging. Any definition could be rendered obsolete as new techniques emerge 
+and are implemented. 
+This would create a significant distortion of competition between developers of AI applications 
+as per definition of the draft, and those developers leveraging other, more modern techniques, 
+not directly addressed by the regulation for the same, potentially high-risk applications. By 
+specifying what AI is and what it is not, the proposals threaten the EU goal of a wide-reaching, 
+technology agnostic regulation. 
+Building an advanced ecosystem 
+SIA supports the provision of legal, trusted identity for all and the development of inclusive 
+digital services. AI-enabled biometrics is already a key and growing part of this environment – 
+providing considerable benefits to citizens, commercial organisations (such as airlines and 
+transport providers) and to law enforcement. 
+To facilitate greater leadership in this space, SIA strongly believes that Europe must seize the 
+opportunity to structure an advanced ecosystem for biometric performance assessment, akin to 
+the National Institute for Standards and Technology, under the US Department of Commerce. 
+Building this capability requires considerable scientific and technical expertise which EU can 
+fulfill through its vibrant academic and not-for-profit ecosystem. 
+As an expert and globally recognised not-for-profit organisation, SIA is ready to work with the 
+EU – offering the combined support of its members in evolving proposals to ensure a fit-forpurpose and future proofed approach that will indeed drive growth of this important sector 
+across the EU.  

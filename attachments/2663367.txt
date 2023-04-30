@@ -1,0 +1,92 @@
+Agoria Position paper : European Commission proposal for a regulation on 
+Artificial Intelligence 
+Agoria is the Belgian federation for the technology industry. We are paving the way for all technologyinspired companies in Belgium pursuing progress internationally through the development or 
+application of innovations and which, together, represent some 300.000 employees. We are proud 
+that more than 1.900 member companies trust in the three pillars of our services: consulting, business 
+development and the creation of an optimal business environment. 
+Agoria and its members welcome the European Commission’s proposal for a regulation on artificial 
+intelligence (“AI”). The proposal can enhance trust in AI applications, by establishing a clear and 
+stable legal framework that creates the investment climate that is necessary to strengthen this 
+promising industry. Agoria submits the following comments and suggestions to achieve those 
+objectives. 
+First, Agoria suggests refining the scope, by adjusting the proposed definition of AI systems, the 
+classification of identified high-risk AI applications and the allocation of roles. The scope of the 
+regulation is essential, requiring clear definitions that are easily interpretable and applicable. The 
+relevant stakeholders must be able to assess whether their systems and applications are subject to 
+the regulation and which rules apply. 
+Currently, the definition of AI system seems very broad, and could cover most IT systems. Therefore, 
+providers need guidance to help them to determine whether a system is an AI system or a traditional 
+IT system. It should be considered that AI is a subject which is being heavily researched and under 
+constant evolution, and new techniques are being developed at a fast pace. Also, there is a risk that 
+AI technologies will not be used for high-risk applications, merely to avoid the application of this 
+regulation. 
+In case of an AI system, there is a similar issue when identifying the risk level and therefore guidance 
+on assessing the risk level of AI systems is required. The list of high-risk AI systems in Annex III is a 
+good attempt to identify a number of use cases which present a specific risk. However, AI systems 
+that are currently available rarely have the exact same application as described. In such case, it is 
+unclear what the provider should do, if and to what extent its application may be considered a highrisk application. Something that could bring clarity are clear criteria and a process on evaluating and 
+classifying use cases. 
+Also, the allocation of roles and related responsibilities of these stakeholders should be 
+straightforward and easy to apply, considering that AI applications often entail complex supply chains. 
+This allocation of roles is crucial from a liability point of view as well, since the proposed regulation 
+focuses on the use of the AI applications rather than on the systems. 
+For example, a company develops an AI application in the medical field and sells it to another big 
+company who integrates this into one of their software packages. This software package can be used 
+by medical professionals, and directly by end users. In this specific case, the role allocation seems 
+unclear to us. Due to the nature of the digital product supply chain, there are a multitude of different 
+possibilities which go beyond the ‘provider’ and ‘user’ approach. A lot more clarification is needed 
+here. 
+Second, Agoria proposes to clarify the possibilities to amend the annexes to the regulation. 
+Additional clarification is required as to the relevant criteria, consultation procedures and 
+
+implementation process. Modifications to the regulation and in particular to the scope would 
+compromise legal certainty and predictability for the stakeholders, as well as their application of the 
+regulation. Therefore, modifications to the regulation would require adequate consideration and 
+consultation, which should be duly specified in the draft. It is vital that industry stakeholders are 
+involved in the process of modification in order to provide legal clarity and bring trust. 
+Third, the timeline will be important for the providers, for the application of both the regulation in its 
+initial version and the modifications made afterwards. 
+The proposal specifies that AI systems should comply with the regulation when “placed on the 
+market” or “put into service”. This concept is already well-established and documented in existing 
+legislation relating to physical products, but for digital products this concept is quite new. As digital 
+systems often undergo multiple iterations and developments before they are considered to be fully 
+implemented and ready to release, clarification is needed on when the AI system should be 
+compliant. If, for example, compliance should already be ensured when a proof of concept is 
+delivered to a client, this would significantly increase the costs of developing an AI business case 
+while at that point there is no certainty the application will actually be purchased by the client. 
+The application of modifications to the regulation is equally important and even more delicate. In that 
+case, the modifications will impact AI systems that are already on the market and are being used, 
+requiring sufficient time for providers to implement these rules. In case of changes, a transition period 
+of minimum two years should be foreseen to ensure that industry has time to ensure their solutions 
+are compliant with the amended regulation. 
+Fourth, Agoria suggests focusing on the intended uses of the AI applications, as determined by the 
+providers. The concept of “reasonably foreseeable misuse” will undoubtedly make the application of 
+the regulation more difficult for providers and result in discussions between the stakeholders. Also, 
+the providers should not be liable in case of the users’ misuse of the AI application, especially if such 
+misuse is intentional or if the provider has no means of avoiding this risk. 
+Fifth, as regards the support for innovation, Agoria notes that the proposal recognized the 
+administrative and financial impact it has on providers of AI systems. Agoria expects that the 
+proposed support mechanisms will not suffice to ensure that our European companies can continue 
+to innovate. In general, most SMEs believe that this regulation will put them at a huge disadvantage, 
+as their size and limited resources will make it difficult to comply with this regulation. This matter 
+should get more attention, as often it is the small-scale providers that drive AI innovation and build the 
+applications needed to improve the quality of our lives. 
+Regarding regulatory sandboxes, it is positive that the Commission urges the Member States to take 
+action, although this should be further formalized. Agoria considers that regulatory sandboxes can 
+only foster innovation if they are supported by adequate incentives and budgets. 
+On the measures for small scale providers and users, Agoria supports the proposal although we 
+consider that these measures need to be extended. While these small-scale providers and users have 
+priority access to legal sandboxes, participating in them will require a huge time investment from their 
+side and Agoria is of the opinion they should be financially encouraged to participate. It is positive that 
+there will be a reduction of the cost on third-party conformity assessment, although this should be 
+further extended to specific funding for companies that undergo a self-assessment procedure. In 
+Belgium we see that start-ups, scale-ups and SME’s develop many of the most innovative AI 
+applications. We think that this regulation will put them at a competitive disadvantage compared to 
+bigger companies that already have a lot of experience with compliance mechanisms. 
+As a final point, the European Union should consider that this regulation will have a considerable 
+impact on its place in the AI world. A negative impact on AI applications that could have a positive 
+
+impact on our society should be avoided at all costs. If the regulation hinders innovation and deters 
+investments in the EU markets, the providers will offer their applications elsewhere. 
+The aim to build trust in AI is crucial and so is mitigating the potential negative impact of AI, while this 
+should not prevent the EU from reaping all the positive benefits that AI can bring to our society. 

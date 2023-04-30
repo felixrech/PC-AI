@@ -1,0 +1,122 @@
+Proposal for an Artificial Intelligence Act (COM/2021/206) 
+6 August 2021 
+MedTech Europe response to the open public consultation 
+MedTech Europe, the European trade association representing the medical technology industry including 
+diagnostics, medical devices and digital health, would like to provide its response to the European 
+Commission’s adoption consultation on the proposed Artificial Intelligence Act (AIA). Artificial Intelligence 
+(AI) technology is increasingly used in healthcare and in recent years has been greatly enhancing the 
+workflows and decision-making processes of healthcare providers. New medical technologies employing AI 
+are being developed and introduced on the market to bring improvements for citizens and patients, 
+healthcare providers, payers, and society at large. One prominent example is the deployment of medical 
+technologies using AI software to support in the fight against the COVID-19 pandemic. 
+The medical technology industry would like to stress the importance of a robust regulatory framework, 
+which provides legal coherence, certainty, and clarity to all actors. In particular, interpretation issues 
+of the new rules for AI that comprises, or is incorporated in, a medical technology, should be 
+addressed. We call for particular attention to be paid to misalignment between provisions in the AI Act 
+and the Medical Device Regulation (MDR)​Regulation (EU) 2017/745 of the European Parliament and of the Council of 5 April 2017 on medical devices. ​  and In-Vitro Diagnostics Regulation (IVDR)​Regulation (EU) 2017/746 of the European Parliament and of the Council of 5 April 2017 on in vitro 
+diagnostic medical devices. ​  as well as the 
+General Data Protection Regulation (GDPR). ​Regulation (EU) 2016/679 of the European Parliament and of the Council of 27 April 2016 on the protection 
+of natural persons with regard to the processing of personal data and on the free movement of such data 
+(General Data Protection Regulation). ​  Addressing this misalignment is essential to ensure the 
+legal coherence, certainty and clarity needed to foster innovation, citizen access to quality care and 
+competitiveness of industry. 
+1. Definition/Technical Scope 
+MedTech Europe would like to point out that the proposed broad definition of AI and risk classification will 
+result in any medical device software (placed on the market or put into service as a stand-alone product or 
+component of hardware medical device) falling in the scope of the AI Act and being considered a high-risk 
+AI system, since most medical device software needs a conformity assessment by a Notified Body. 
+2. Misalignment between AIA and MDR/IVDR  
+Duplication and potential conflicts arising from misalignment between the AIA and existing obligations 
+under MDR/IVDR must be avoided in order to ensure legal coherence, certainty and clarity. The sectoral 
+regulations MDR/IVDR lay down some of the most stringent rules in the world on the safety and 
+performance of medical technologies, including those medical technologies that comprise, or incorporate 
+AI. These include, for instance, dedicated rules on risk management, quality management, technical 
+documentation, and conformity assessment with Notified Bodies. Obligations in the AIA are thematically 
+
+similar to the requirements in MDR/IVDR but differ in terms of details, which may lead to complex 
+interpretation issues. Although we acknowledge that duplication is not the Commission’s intended vision, 
+there are concerns that the AIA would in effect create the need for manufacturers to undertake 
+duplicative certification / conformity assessment, via two Notified Bodies, and maintain two sets of 
+technical documentation, should misalignments between AIA and MDR/IVDR not be resolved. 
+Duplication of this kind would lead to unnecessary overlaps in the regulatory approval of AI as/in medical 
+technology, which could have a negative effect on the timely access of citizens and patients to highly 
+innovative and fairly priced AI medical technology in the EU. 
+Some examples of misalignment between the AIA and the MDR/IVDR include: 
+• Risk Classification: Medical technologies can be assigned to a range of risk classes under the 
+MDR/IVDR. While the AIA is not meant to change sectoral classification, it would put most cases of AI 
+in/as a medical technology in the highest risk class under the Act. This is a clear deviation from how 
+medical technologies are regulated in Europe and around the world. It would drive confusion among 
+regulators and manufacturers and would create additional, unnecessary complexity in the regulatory 
+approval process that could hinder highly innovative technology to reach citizens in a timely manner. 
+• Definitions: Terms such as “provider”, “importer”, “serious incident”, “putting into service” and “user” in 
+the AIA do not match those under the MDR/IVDR. The definition of ‘risk’ which is the main concept of 
+conformity assessment is missing in the proposal. 
+• Certification: The AI Act requirements for designation of Notified Bodies, conduct of conformity 
+assessments, and issuance of certificates differ in substance from the corresponding requirements of 
+the MDR/IVDR. In particular, MedTech Europe has concerns regarding the lack of clarity on the 
+following matters, which collectively pose the risk of dual/duplicative certification of AI in/as medical 
+technology: 
+• Designation of Notified Bodies for AI-specific competencies. 
+• Time and capacity required for the designation of Notified Bodies with AI and medical technology 
+competencies to be ramped up. 
+• Roles and responsibilities for Notified Bodies conducting conformity assessments on AI as/in medical 
+technology. 
+• The very possible scenario where an MDR/IVDR-designated Notified Body is not successfully 
+designated for AI-specific competencies: should this occur, the risk of needing two separate technical 
+documentation submissions, leading to two separate conformity assessments and certifications, must 
+be avoided. 
+• Vigilance and post-market surveillance reporting: The future European Database for Medical 
+Devices (EUDAMED) should remain the system used for these purposes to ensure aligned, 
+streamlined, efficient non-duplicative market surveillance of AI in/as medical technologies. 
+• Change control: The question of what constitutes ‘changes’ in AI systems and the requirements for 
+new submissions in case substantial changes are made is an area of considerable unclarity and 
+urgently needs additional clarification in order to not hinder innovative AI medical technologies to enter 
+the market. 
+
+Finally, an adequate transition period must be ensured: the 24 months foreseen would not be sufficient for 
+the entire ecosystem to be ready and compliant with a new regulatory framework. The transition period 
+should be at least 48 months. 
+3. Misalignment between AIA and GDPR 
+The AIA appears to provide a legal basis for processing certain categories of personal data. For instance, 
+Article 10(5) states that providers of high-risk AI systems “may process special categories of personal data 
+referred to in Article 9(1)” of the GDPR, where doing so is “strictly necessary for the purposes of ensuring 
+bias monitoring, detection, and correction,” subject to additional safeguards set out in that paragraph. While 
+MedTech Europe supports this positive development the AIA is nevertheless not sufficiently providing 
+legal ground for processing personal data in general under the GDPR (as stated in Recital 41). As 
+such, providers of medical technology are likely to face numerous challenges in ensuring that the 
+steps they take to comply with the AIA do not conflict with their obligations under the GDPR. This is 
+particularly relevant when it comes to the requirements set out in the following articles: 
+• Article 10(3) of the AIA requires providers of high-risk AI systems to ensure that training, validation, 
+and testing datasets for such systems are “relevant, representative, free of errors, and complete.” 
+However, where providers cannot establish an independent legal basis under Article 6 of the GDPR to 
+process certain sources of personal data for these purposes, they might find it difficult to ensure that 
+their datasets are sufficiently “relevant” and “representative” to satisfy this requirement. In addition, 
+Article 10(3) should be consistent with Recital 44 of the AIA, which adds the adverb “sufficiently” to the 
+requirements for training, validation and testing data. 
+• Article 12(1) of the AIA requires providers of high-risk AI systems to ensure that these systems have 
+the capability to generate automatic “logs” of events while the system is operating. Article 16(d) of the 
+AIA, in turn, requires providers to retain copies of these logs when the system is “under their control,” 
+while Article 23 of the AIA requires providers to provide access to such logs to competent authorities 
+“[u]pon a reasoned request.” To the extent such logs include personal data, providers presumably will 
+need to establish an independent legal basis for such processing under Article 6 of the GDPR, and will 
+also need to establish that such activities comply with the data processing principles set out in Article 5 
+of the GDPR, in particular the principle of data minimisation. Without further clarity on how to fulfil these 
+requirements in light of the GDPR, providers may not be able to achieve the necessary level of 
+compliance. 
+• Recital 60 states that, in light of the complexity of the AI value chain, parties “involved in the sale and 
+the supply of software, software tools and components, [and] pre-trained models and data … should 
+cooperate, as appropriate, with providers and users to enable their compliance with the obligations 
+under this Regulation.” If such cooperation requires the sharing of personal data with such providers or 
+users, the entity sharing the data might need to establish an independent legal basis for such 
+processing under the GDPR. 
+Given these compliance challenges, MedTech Europe considers clarifications urgently needed in order for 
+the medical technology industry in Europe to be able to maintain and further foster the highest level of 
+
+innovation, ensure and increase timely citizen and patient access to quality care and retain global 
+competitiveness of the industry. 
+About MedTech Europe 
+MedTech Europe is the European trade association for the medical technology industry including 
+diagnostics, medical devices and digital health. Our members are national, European and multinational 
+companies as well as a network of national medical technology associations who research, develop, 
+manufacture, distribute and supply health-related technologies, services and solutions. 
+Contact: Michael Strübin, Director Digital Health, m.strubin@medtecheurope.org 

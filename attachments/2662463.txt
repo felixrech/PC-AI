@@ -1,0 +1,50 @@
+EACA Comment on the European Commission’s Proposal for a 
+Regulation laying down harmonised rules on artificial intelligence 
+COM (2021) 206 final 
+14/07/2021 
+The European Association of Communications Agencies (EACA) represents more than 2,500 communications 
+agencies and agency associations from nearly 30 European countries that directly employ more than 120,000 
+people. EACA members include advertising, media, digital, branding and PR agencies. 
+On 21 May 2021, the European Commission presented a proposal for a Regulation of the European Parliament 
+and of the Council laying down harmonised rules on artificial intelligence (Artificial Intelligence Act) and 
+amending certain legislative acts of the EU (“Proposal for an AI Regulation”). 
+Communication agencies are mostly using AI in the context of engagement and communication; namely 
+chatbots or virtual assistants, programmes to optimise advertising campaigns, detecting and addressing ad 
+fraud or bot detection, and to generate better performance insights. It is also used but to a lesser extent, for 
+automated content creation, language translation and audience discovery. 
+We support the objectives of the Proposal for an AI Regulation, namely to proportionately address the risks 
+associated with certain uses of AI and to ensure legal certainty to facilitate investment and innovation in the 
+sector. However, we believe that some of the concepts used in the Proposal for an AI Regulation remain rather 
+vague and would merit further clarification in order for providers to better understand what is expected from 
+them and to ensure legal certainty. 
+We understand that certain requirements of Proposal for an AI Regulation apply to providers of high-risk AI 
+systems and that they will need to subject their AI systems to conformity assessments that demonstrate that the 
+system complies with certain requirements. We believe that these requirements need to be better defined. 
+High quality of data sets feeding the system: We believe that it is in the nature of AI to learn from the 
+data that is being fed to it and to improve through iterative loops. It is not always possible to feed the 
+system with high quality data, e.g. if the AI system is meant to recognise patterns from huge amounts of 
+data. 
+High level of robustness and accuracy: These terms require a definition to be actionable. Will there be a 
+threshold defined for these? It should also be noted that accuracy is not confined to a single measure 
+but can be distinct across different sub-groups in the population, which is the major critique against 
+machine visioning algorithms. 
+Need to consider implications of different errors: The question is how to balance between false positives 
+and false negatives. In crime prediction, high false negative means that AI failed to identify people 
+who could commit crimes but high false positive means that AI will infringe human rights. An effective AI 
+programme may need to balance the trade-off between false positive and false negative rather than 
+prioritise one over another. 
+Need to better define and distinguish AI from non-regulated techniques of machine learning and 
+predictive modelling: For example, techniques such as the creation of lookalike audiences and 
+
+performance optimisation, whilst the ethical challenges may be similar to AI, they should not be unduly 
+subject to regulation which is targeting a different area. 
+Duplicative legislative regimes. The GDPR already provides individuals with strong rights to the use of 
+personal data and places obligations of transparency, accountability and ensuring appropriate 
+security. The Proposal for an AI Regulation should not overlay additional obligations which lead to 
+notification fatigue, consent fatigue or other obligations which would confuse or compete with existing 
+legislative requirements. 
+For additional information, please contact: 
+Nina Elzer 
+Senior Public Affairs Manager 
+EACA – European Association of Communications Agencies 
+nina.elzer@eaca.eu. 

@@ -1,0 +1,140 @@
+ETSI Contribution to the consultation on the 
+draft AI Regulation 
+Preamble 
+ETSI welcomes the draft Regulation on AI presented by the European Commission (EC) at https://eurlex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52021PC0206. The draft Regulation builds on the 
+processes of the New Legislative Framework (NLF) putting harmonised European Standards into the 
+focus of demonstrating compliance with the regulatory requirements. This is in line with the view of 
+ETSI that "The NLF should be used for technical regulation in new areas including AI and data." 
+ETSI has analysed the draft AI Regulation in an activity involving the ETSI Board as well as ETSI's expert 
+group on AI, set up across all technical committees and groups working on AI, the OCG-AI group. ETSI 
+has many activities in the area of AI, focusing on applications in or using ICT. A concise overview from 
+our working groups is available on the OCG-AI's web site at https://portal.etsi.org//TBSiteMap/OCG/OCG-AI-Co-ordination. 
+With this document ETSI provides feedback on the draft Regulation based on the broad spectrum of 
+expert knowledge available in ETSI. This includes in depth knowledge of AI technologies and systems 
+as well as expertise present in ETSI on European standardisation, e.g. from the work on harmonised 
+standards in support of other technical regulation and on the basis of ETSI's ENAP process for the 
+development and adoption of harmonised standards. 
+ETSI also thanks the EC for the established close dialogue and exchange on the draft AI Regulation. 
+This dialogue is very helpful for ETSI in its role as a European Standardisation Organisation to 
+prepare for the upcoming tasks of developing harmonised European standards on AI. 
+1. On the technical aspects of the draft Regulation on AI 
+Overall, with the Regulation of AI, in a style similar to the NLF, Europe enters a new area in technical 
+regulation by applying the NLF model to software. While there are some examples that this works 
+well and that also the life-cycle of a product can be addressed well in that way, it is still a new area 
+which also means that all parties will be on a learning curve. 
+ETSI has expertise - in particular with the EMCD, RED and Accessibility and their respective 
+harmonised standards - ETSI is ready to leverage this expertise to achieve successful development 
+of harmonised European standards in support of the future Regulation on AI. 
+Definition of AI  
+It has been noted that the current definition of AI as proposed by the EC in TITLE 1 Article 3(1) and in 
+Annex I may be misinterpreted insofar as even the use of a spreadsheet for calculating some statistics 
+may fall under the ANNEX 1 list of techniques at point (c) 
+We welcome the clarification made verbally by the EC that this is not what is intended and appreciate 
+the readiness of the EC to provide written clarification of their definition of AI for the purposes of 
+
+standardisation. ETSI understands that the first step in application of conformance rules is to check 
+if a software (AI) solution falls into the category of High-Risk, and only afterwards to check whether 
+the technology is one that is described in the broad types listed in Annex 1. Therefore the clarity of 
+classification of "high-risk AI systems" (Annex III) is very important. 
+ETSI invites the EC to engage in further discussions related to the definitions of AI and AI systems in 
+order to clearly differentiate i) those AI functions and systems that are considered high-risk and fall 
+under this regulation; ii) those AI functions and systems requiring recommendations to the industry 
+to be applied; and iii) those AI functions and systems requiring no regulation. 
+Regulation of High-Risk Systems 
+The allocation of any particular AI application to a risk level (fitting the risk model of the Commission) 
+is a first approximation, and it may need reviewing on a case by case basis as experience with 
+deployed AI solutions shows that the AI solution use case is higher or lower risk than expected with 
+regard to human values/lives. Such reviews must be performed transparently and with some 
+transition period for changes. It would greatly aid efficient development of standards and detection 
+of "standardisation gaps" if the EC would establish a collaborative effort to create examples of use 
+cases that are definitively "high-risk". 
+No ex-ante Conformance requirements on "early adopter" AI Solutions 
+ETSI welcomes the assurance of the Commission that solutions entering the market prior to the AI 
+Regulation coming into force will not be subject to ex-ante regulation and conformance testing. At 
+the same time, it is understood that when substantial updates of such solutions are made, in the 
+normal business of adaptive solutions, then the updated solution must be assessed to see whether 
+it is subject to constraints under the AI Regulation. In such case, the standards and testing and 
+conformance rules will apply that have in the meantime been established. With its role as an ESO 
+and its open and inclusive standardisation processes ETSI will have a key role in assisting market 
+participants as well as regulators here by providing all information about standards under 
+development in the usual highly transparent manner so that all stakeholders can follow and 
+participate in the development processes and prepare for adoption of the respective standards. 
+Monitoring of some AI Solutions in the market 
+Article 64 "Access to data and documentation" specifies that the market surveillance authorities shall 
+be granted full access to the training, validation and testing datasets used by the provider, including 
+through application programming interfaces (‘API’). It is understood by ETSI from remarks made by 
+the EC that this is not intended as a routine event, but for exceptional cases, and that the "API" need 
+be openly defined but not the same in all cases, i.e. the API does not need to be a single interface for 
+all the various AI solution on the market. 
+ETSI also recommends that documenting the processes utilized to ensure training data quality could 
+be used by market surveillance authorities instead of accessing training data which would then need 
+to be stored for an indefinite period of time. For example, collaborative federated solutions for 
+obtaining and integrating training data across a number of distinct data holders demand a more 
+flexible approach for quality assurance than accessing the training data itself. 
+
+In a similar approach, the documented process for obtaining datasets for validation (testing for types 
+of bias, etc) is a more generally valid and efficient market surveillance exercise than is examination 
+of the datasets themselves. The validation datasets are also different in nature to the Training 
+datasets and need to be considered differently. ETSI would welcome a dialogue and possibly jointly 
+agreed standards/guidelines on appropriate validation methodologies. 
+Mutual International Recognition of Solutions 
+ETSI is made up of members from all over the planet so we strongly appreciate efforts to create 
+synergies of regulation concepts globally, to avoid barriers to trade. In the long term, after a period 
+of testing in the market place, a number of bilateral Mutual Recognition Agreements with major 
+trading partners would be to the benefit of EU citizens (who might use best-of-breed solutions 
+including from international sources) and for EU businesses (which might market their solutions 
+internationally without needing major re-fitting of software). 
+2. On the close collaboration between the European 
+Commission and the ESOs 
+ETSI appreciates the regular exchange established with the three ESOs. Close collaboration is very 
+important to ensure effective work in the ESOs and thus effective support for the implementation of 
+the Regulation. 
+3. The European Artificial Intelligence Board (EAIB) 
+ETSI stands ready to contribute expertise towards tasks of the European Artificial Intelligence 
+Board (see Article 58). ETSI proposes that the European Standardisation Organisations be allocated 
+a Membership / Observer status to this Board so as to closely assist the work including minimising 
+delays. 
+4. On the development of harmonised European Standards 
+It is important to have Standardisation Requests early in order to start working on mutual 
+understanding of what is needed for the harmonised standards and to speed up their production. 
+ETSI welcomes the confirmation from the EC that : 
+(i) it is intended to issue standardisation requests before the adoption of the Regulation, 
+probably by the end of 2021 or early 2022 ; and 
+(ii) the European Commission will actively participate in the standards development 
+committees and be part of the development process from beginning to end. 
+These factors will help to ensure that the EC's requirements are met in a timely way and to support 
+the respective technical committee(s) for meeting the detailed requirements of the respective 
+standardisation requests. Finally, it will ensure that the final standards will be ready to be cited in the 
+OJEU. 
+
+Such involvement of the EC will also address reservations against the provision in Article 41 which 
+states that if harmonised standards "do not exist or where the Commission considers that the 
+relevant harmonised standards are insufficient or that there is a need to address specific safety or 
+fundamental right concerns" then the Commission may adopt other specifications. With the EC being 
+an active participant and constantly monitoring the progress of the development of the harmonised 
+standards, such a possible situation will be avoided. The NLF has proved to be highly effective and 
+successful regarding the provision of safe and trusted products and technologies for the single 
+European market. 
+ETSI will support involvement and interaction and close exchange with other organisations 
+throughout the standards development process. ETSI's processes fully support this way of working. 
+ETSI Staff support will further help ensure successful and results oriented standards development. 
+The integration of European work with international standardisation work is welcomed, provided 
+that it happens in a transparent way that involves all stakeholders. Moreover, ETSI has multiple 
+cooperation and liaisons in place with other standards bodies worldwide and processes in place for 
+adopting technical specifications from other sources. 
+ETSI recognizes that some fundamental aspects of AI solutions, and also the means to test and 
+monitor them as required by the AI Regulation, may still require additional research and 
+development. Some of the monitoring requirements of the AI Regulation may not be resolved for all 
+important use cases and may require additional research. ETSI wishes to accelerate the development 
+of appropriate standards through tighter integration with the EU research and development 
+community and with various Horizon Europe programmes, and through cooperation with 
+international standards setting organizations on development of AI standards. ETSI is already 
+adapting processes and increasing its outreach to EC-funded R&D. 
+Conclusion 
+ETSI welcomes the AI Regulation in the current draft, as an important step forward for Europe and 
+the world in the process of creating human-centric AI solutions. ETSI sees a need for (a) timely 
+clarifications of the definitions of AI and “high risk” AI systems, respectively, in the Regulation; (b) 
+promotion of some fundamental research/development topics needed for conformance checking; 
+and (c) a focus on those use cases ("high risk") requiring very careful performance checking and 
+results/bias checking to avoid risks of harm; (d) early start and close collaboration of the EC and the 
+ESOs on defining Standardisation Requests; (e) timely agreement and progress on the SRs. 

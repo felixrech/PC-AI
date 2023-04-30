@@ -1,0 +1,102 @@
+VAP 
+ Seite 1 von 3 
+Rückmeldung zum Verordnungsvorschlag über ein europäisches Konzept für 
+künstliche Intelligenz 
+Wir begrüßen den risikobasierten Ansatz der Kommission, der im Verordnungsvorschlag über 
+künstliche Intelligenz skizziert wird, und teilen das Bestreben, KI sicher, rechtmäßig und im 
+Einklang mit den EU-Grundrechten zu gestalten. 
+Grundsätzliche Anforderungen 
+Die Prüfung des Verordnungsvorschlags durch Parlament und Rat muss darauf abzielen: 
+1. ein angemessenes Verhältnis zwischen Risikoprävention und neuen Belastungen zu 
+schaffen, welches weder Innovation erstickt, noch die Einführung von KI verlangsamt oder 
+gar aufhält, 
+2. die angemessene Durchführbarkeit für Herstellende und Nutzende sicherzustellen, 
+3. eine ausreichende Flexibilität zur Anpassung an neue Erkenntnisse sowie an unter-
+schiedliche Organisationsstrukturen innerhalb der KI-Wertschöpfungsketten sicher- 
+zustellen, 
+4. die Kohärenz mit den bestehenden Rechtsvorschriften zu gewährleisten und 
+5. einen flexiblen Marktzugangsrahmen zu fördern. 
+Dafür sollten folgende Punkte beachtet werden: 
+Anwendungsbereich klug anpassen 
+Anpassungen des Anwendungsbereichs sind entscheidend, um sicherzustellen, dass 
+die neuen Regeln effektiv, verhältnismäßig und rechtlich eindeutig auf hochriskante 
+KI-Systeme anwendbar sind und zu den gewünschten politischen Ergebnissen führen. 
+Die aktuelle Definition von KI (Art. 3(1)), die Kriterien zur Bestimmung verbotener 
+Praktiken (Art. 5) und die Klassifizierung von KI-Systemen als Hochrisiko-Systeme 
+(Art. 6) müssen dafür besser geklärt und eingegrenzt werden, um sich auf die Bereiche zu 
+konzentrieren, in denen die höchsten und weitreichendsten Risiken erwartbar sind. 
+So wie sie derzeit formuliert ist, würde zum Beispiel die Definition die meisten modernen 
+Softwares umfassen, die rein statistische und wissensbasierte Ansätze für die 
+herkömmliche Datenanalyse verwenden, die nur geringe Auswirkungen auf die 
+Einzelnen haben. 
+Stattdessen sollte die Hochrisiko-Definition die Komponente der menschlichen Aufsicht 
+berücksichtigen und damit KI-Systeme, die lediglich Empfehlungen geben, nicht zu den 
+Hochrisiko-Systemen zählen und sich auf intelligente KI-Systeme konzentrieren, die 
+tatsächliche Entscheidungen treffen können. 
+
+ Seite 2 von 3 
+Einstufung von KI-Systemen mit hohem Risiko unbedingt nachbessern 
+Wir stimmen zu, dass einige eigenständige KI-Einsatzfälle in den in Anhang III auf- 
+gelisteten Bereichen spezifischen Anforderungen unterworfen werden müssen, aber die 
+Definition dieser Bereiche ist zu breit. 
+Die Annahme, dass bei KI-Systemen ein hohes Risiko besteht, wenn sie im Bereich Schul- 
+oder Berufsbildung, Beschäftigung, Personalmanagement und Selbstständigkeit 
+(Anhang III, Nr. 3 und 4, Art. 6, Abs. 2) eingesetzt wird, würde zu Rechtsunsicherheit und 
+unverhältnismäßigem bürokratischen Aufwand für Unternehmen führen, die versuchen 
+festzustellen, ob sie davon betroffen sind. 
+Ob KI als hohes Risiko betrachtet werden sollte, hängt vom spezifischen Kontext und von 
+Situationen, in denen das KI-System die endgültigen Entscheidungen trifft, ab – ein 
+pauschaler Ansatz ist nicht angemessen. 
+Die Einstufung würde die Verbreitung innovativer KI-Anwendungen behindern, insbesondere von KI-Lösungen, die eine stärkere Nutzung im Beschäftigungs- und Bildungskontext unterstützen. 
+KI-Systeme haben das Potenzial, die Produktivität von Unternehmen und gleichzeitig das 
+Wohlbefinden der Arbeitskräfte zu steigern, etwa durch eine effektive Aufgabenteilung 
+zwischen Mensch und Maschine, durch die Bereitstellung von Tools zur Kompetenz- 
+entwicklung und durch den Zugang zu besseren Arbeitsbedingungen, insbesondere im 
+Bereich Gesundheit und Sicherheit. 
+Darüber hinaus gibt die autonome Vereinbarung der europäischen Sozialpartner zur 
+Digitalisierung bereits einige Richtungen und Grundsätze vor, wie und unter welchen 
+Umständen KI in die Arbeitswelt eingeführt wird. 
+Eine zu weit gefasste Definition würde vor allem KI-Anwendungen im Personal- und 
+Bildungswesen ausbremsen, die ihre Effektivität und Sicherheit bei der Verbesserung 
+des Bewerbenden- und Mitarbeitenden-Erlebnisses sowie bei der Steigerung der Effizienz 
+unter Beweis gestellt haben. 
+Aus diesen Gründen empfehlen wir, die in Anhang III aufgeführten Bereiche auf 
+spezifischere Anwendungsfälle mit hohem Risiko einzugrenzen. 
+Aktualisierung der Liste von KI-Systemen mit hohem Risiko schafft Unberechenbarkeit 
+Die Europäische Kommission wird ermächtigt, die Liste der eigenständigen KI-Systeme 
+mit hohem Risiko durch delegierte Rechtsakte (Art. 7) zu aktualisieren. 
+Diese dynamische Anpassung des Geltungsbereichs kann zu großer Unberechenbarkeit für den Markt führen. 
+KI-Anbieter würden aufgrund der unvorhersehbaren Entwicklung des Anwendungsbereichs der Verordnung in den nächsten Jahren davon abgehalten, innovative KI- 
+Lösungen zu entwickeln. 
+
+ Seite 3 von 3 
+Die Kriterien (Art. 7, Abs. 2), die die Kommission ermächtigen, die Liste in Anhang III zu 
+aktualisieren, indem sie KI-Systeme mit hohem Risiko unter bestimmten Bedingungen 
+hinzufügt, sind zu vage. 
+Um die Rechtssicherheit und die Vorhersehbarkeit des Marktes zu unterstützen, begrüßen 
+wir weitere Klarheit über die genauen Kriterien, die es der Kommission ermöglichen 
+würden, die Liste der Hochrisiko-KI-Systeme zu aktualisieren. 
+Die Einführung expliziter Bestimmungen für die Beteiligung der Anbieter und der 
+betrieblichen Nutzer an jedem zukünftigen Prozess zur Aktualisierung der Liste – etwa 
+durch die Ausweitung des Mandats der hochrangigen Expertengruppe für KI – wäre 
+sinnvoll. 
+Verpflichtungen für Anbieter und Anwender nachbessern 
+Im Verordnungsvorschlag bleibt die Verantwortungsverteilung zwischen Anbietern und 
+Anwendern unklar. 
+Es scheint nicht berücksichtigt zu werden, dass generelle KI-Anwendungen durch den 
+Nutzer für einen bestimmten Zweck konfiguriert werden können. In diesem Fall hat der 
+Anbieter keine Kontrolle über die Anwendung. 
+Derzeit gelten die Pflichten Dritter inklusive Nutzer (Art. 28) nur für Systeme, die bereits 
+von Anfang an als Hochrisiko-Systeme klassifiziert werden. 
+Hier sollte der Geltungsbereich auch auf Nutzer ausgeweitet werden, die den Ver- 
+wendungszweck eines sich bereits auf dem Markt befindlichen oder in Betrieb 
+genommenen KI-Systems so verändern, dass ein Hochrisiko-System geschaffen wird. 
+Vereinigung der Arbeitgeberverbände 
+der Deutschen Papierindustrie e. V. 
+Papierzentrum 
+Scheffelstraße 29 | 76593 Gernsbach 
+Telefon +49 7224 6401-119 
+Telefax +49 7224 6401-463 
+vap@papierzentrum.org 
+www.papierarbeitgeber.de 
+Stand: 29. Juli 2021 

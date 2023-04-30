@@ -1,0 +1,68 @@
+AI Austria commends the European Commission for the extensive consultative process that led to the 
+publication of the globally first attempt to lay down a comprehensive legislative framework for the 
+development and use of artificial intelligence systems (Artificial Intelligence Act). We support the 
+European Commission’s stated objectives of creating an ecosystem of trust and excellence to promote 
+the European Union's research, development and initiatives of trustworthy AI. We highly appreciate 
+having the opportunity to provide our perspective on this important legislation and would like to share 
+and address the following observations. 
+SAME EFFECT SAME REGULATION TO PREVENT CIRCUMVENTION. 
+The Artificial Intelligence Act relies on a technology-based 
+definition of artificial intelligence (AI), which is determined by the 
+use of certain techniques (Annex I). Systems applying these 
+techniques are "AI Systems" and subject to the Artificial 
+Intelligence Act as well as the prohibitions and requirements of 
+the respective risk categories. We believe that the prohibitions and obligations of 
+the Artificial Intelligence Act should not only be triggered by any specific type of 
+technology defined as AI, but also consider measures having equivalent effect. 
+Currently, use cases identified as prohibited or high risk may be realized without 
+applying the technologies specifically defined as AI, allowing circumvention of the 
+framework of trust to be created by the Artificial Intelligence Act. 
+FIRM PROHIBITION OF BIOMETRIC MASS SURVEILLANCE. 
+The Artificial Intelligence Act prohibits "real time" remote 
+biometric identification systems in public spaces for law 
+enforcement purposes (Article 5) with several worrisome 
+exceptions. We believe the scope of the current provision does 
+not sufficiently prevent the risk of indiscriminate mass 
+surveillance and the full threat such use case poses to fundamental principles of 
+democratic societies. In our view, the prohibition should extend to (i) systems 
+having equivalent effect, irrespective of the technology, (i) public authorities and 
+private actors acting on their behalf, (ii) 'post' biometric identification systems 
+subsequently applied and not provide for any exemptions based on the criminal 
+offence. 
+CREATING EFFECTIVE SANDBOX SUPPORT TO FOSTER INNOVATION. 
+The Artificial Intelligence Act provides for the establishment of 
+AI Sandboxes, where small and medium enterprises (SMEs) and 
+startups shall have preferential admission. However, further 
+specifications of AI sandboxes are still open and yet to be 
+determined. We believe that from a technology point of view, developing modern 
+AI techniques require the following three pillars: (i) data access, (ii) heuristic 
+knowledge and (iii) computing power. Therefore, the framework for the creation 
+of AI sandboxes should provide active support in these three vital areas to foster 
+the development of trustworthy European AI and excellence center. 
+
+USING DATA SOURCES ALREADY AVAILABLE EFFECTIVELY AND SECURELY. 
+The Artificial Intelligence Act contains regulations on data and its 
+governance for high risk AI systems (Article 10). Data sets shall in 
+particular be relevant, representative, free of errors and complete. 
+Even tough huge amounts of data are created and collected daily, 
+such data and its potential remains untapped in data silos and the 
+Artificial Intelligence Act does not create a basis for data sharing (of 
+course subject to appropriate safeguards). Acknowledging the fundamental 
+importance of data privacy and individuals' rights to data, we believe that data 
+available and gathered already (e.g. by institutions, authorities, etc) should be 
+made available subject to safeguards imposed for the rights of individuals under 
+the GDPR and privacy acts. 
+PROVIDING GUIDANCE AND ENSURING EFFECTIVE OVERSIGHT. 
+We support the European Commission for recognizing the 
+instrumental value of transparency and creating an 
+incentive of compliance-by-design by including obligations 
+for providers, operators and importers of AI systems in 
+terms of transparency and risk assessment. In most cases providers will be 
+conducting the assessment to determine if their AI system is in line with the 
+Artificial Intelligence Act on their own. In order to do so correctly, we believe 
+compliance standards on a more granular level should be provided to ensure 
+clarity of the obligations and requirements. Simultaneously, the Artificial 
+Intelligence Act contains a wide array of involved authorities and bodies. In this 
+regard, we advocate that the roles of the entities involved should be clarified and 
+such entities shall be sufficiently and adequately equipped with the relevant 
+resources and expertise for effective oversight. 

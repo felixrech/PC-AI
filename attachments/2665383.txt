@@ -1,0 +1,145 @@
+Warszawa, 4 sierpnia 2021 r. 
+W związku z prowadzonymi konsultacjami w sprawie w sprawie Rozporządzenia 
+Parlamentu Europejskiego i Rady Ustanawiającego zharmonizowane przepisy dotyczące 
+sztucznej inteligencji (Aktu w sprawie sztucznej inteligencji) i zmieniającego niektóre akty 
+ustawodawcze Unii z dnia 21.4.2021 r., przedstawiam poniżej stanowisko Związku Cyfrowa 
+Polska, reprezentującego polski sektor cyfrowy i nowych technologii. 
+Mając na względzie to, że projektowane w ramach Rozporządzenia przepisy będą miały 
+fundamentalne znaczenie dla rozwoju innowacyjnych, nowoczesnych przedsiębiorstw oraz 
+powstawania nowatorskich produktów i usług XXI w., a w efekcie wzrostu cyfrowej 
+gospodarki i potencjału Polski i Europy w oparciu o możliwości sztucznej inteligencji (AI), 
+wyrażamy aprobatę dla inicjatywy Komisji. Uważamy, że konieczne są jasne ramy prawne, 
+w których przedsiębiorstwa będą chętniej opracowywać takie rozwiązania, a obywatele 
+obdarzą zaufaniem i zaakceptują produkty oraz usługi oparte na sztucznej inteligencji. 
+Popieramy cele, które Komisja Europejska stawia przed proponowanymi regulacjami 
+dotyczącymi sztucznej inteligencji. To w szczególności zapewnienie pewności prawa na 
+potrzeby ułatwienia inwestycji i innowacji w dziedzinie sztucznej inteligencji oraz ułatwienie 
+rozwoju jednolitego rynku zastosowań sztucznej inteligencji. Cele te są zbieżne z naszym 
+poglądem na temat konieczności budowania przejrzystych ram prawnych, które sprzyjają 
+rozwojowi innowacyjnych usług i produktów opartych o nowoczesną technologię. 
+Przede wszystkim pochwalamy przyjęcie proporcjonalnego podejścia regulacyjnego do 
+nakładania obowiązków opartego na ryzyku, które to ogranicza się do minimalnych wymogów 
+niezbędnych do zaradzenia temu ryzyku i problemom związanym ze sztuczną inteligencją bez 
+nadmiernego ograniczania lub utrudniania rozwoju technologicznego, lub nieproporcjonalnego 
+zwiększenia kosztów wprowadzania do obrotu rozwiązań AI. Jesteśmy głęboko przekonani, że 
+Komisja Europejska osiągnęła właściwą równowagę pomiędzy ochroną obywateli a 
+zachowaniem przestrzeni dla innowacji. 
+Mając jednak na względzie, że proponowane przepisy będą miały fundamentalne znaczenie dla 
+budowy 
+warunków 
+sprzyjających 
+wzrostowi 
+opartych 
+o 
+sztuczną 
+inteligencję, 
+konkurencyjnych, innowacyjnych polskich i europejskich produktów oraz usług cyfrowych, 
+a także podkreślając kluczowe znaczenie jasności i przejrzystości projektowanych ram 
+prawnych, poniżej przedstawiamy nasze uwagi i komentarze do projektu Rozporządzenia. 
+Naszym zdaniem niektóre z zapisów Aktu w sprawie sztucznej inteligencji wymagają rewizji 
+lub wyjaśnienia. 
+
+Po pierwsze, w naszej opinii konieczne jest jasne wyjaśnienie równowagi w zakresie 
+odpowiedzialności 
+dostawców, 
+podmiotów 
+wdrażających 
+i 
+użytkowników 
+AI, 
+w szczególności w przypadku Interfejsów Programowania Aplikacji (API) ogólnego 
+przeznaczenia i modeli typu open source. W obecnym brzmieniu rozporządzenie nie 
+wprowadza wystarczającego rozróżnienia między obowiązkami użytkowników AI w roli 
+podmiotu wdrażającego a obowiązkami dostawców wobec swoich klientów. Brak objaśnienia 
+tej kwestii rodzi ryzyko negatywnego wpływu na publikację modeli open source i interfejsów 
+API, a w efekcie utrudnienie innowacji na polu AI i przyjęcia nowatorskich rozwiązań przez 
+przemysł. 
+Zalecamy tym samym, aby rozporządzenie zawierało jasną definicję „podmiotu 
+wdrażającego”, która naszym zdaniem powinna odnosić się do podmiotu udostępniającego 
+system AI do stosowania w określonym kontekście operacyjnym. Pozwoli to regulować 
+stosownie sytuacje, w których podmiot wdrażający nie jest tożsamy z dostawcą systemu 
+sztucznej inteligencji, np. w przypadku wykorzystywania systemów AI ogólnego 
+przeznaczenia. Ponadto, uważamy, że główną odpowiedzialność za zachowanie zgodności 
+i jej ocenę oraz monitorowanie po wprowadzeniu na rynek powinni ponosić dystrybutorzy 
+systemów AI. W istocie wyłącznie oni mogą zweryfikować zastosowania końcowe, którym 
+poddawane są ich systemy, oraz wszelkie dodatkowe dane, które zostały wprowadzone do 
+szkolenia w zakresie ich systemów. Jesteśmy przeciwni obarczeniu odpowiedzialnością 
+podmiotów związanych z systemem na wcześniejszych etapach łańcucha dostaw, gdy nie mają 
+już oni wpływu na jego dystrybucję i funkcjonowanie. Innymi słowy, obowiązek zachowania 
+zgodności, jej oceny i monitorowania systemu obecnego na rynku powinien spoczywać na 
+podmiotach wdrażających go bez względu na markę i dokładny sposób pozyskania systemu 
+sztucznej inteligencji. Organizacja korzystająca z systemu ma bowiem jako jedyna pełną 
+wiedzę na temat sposobu jego wykorzystania niezależnie od tego, czy system AI ogólnego 
+przeznaczenia jest wdrażany w warunkach wysokiego ryzyka, czy też został on 
+zmodyfikowany. 
+Po drugie, uznajemy za konieczne udoskonalenie języka zapisów, który wyznacza 
+niemożliwy do spełnienia w warunkach rynkowych standard. Choć w pełni popieramy 
+postulat, aby nałożone na podmioty wymagania były zgodne z najlepszymi praktykami 
+branżowymi, to muszą one pozostawać możliwe do realizacji w praktyce rynkowej. O ile 
+wymagania dotyczące systemów AI wysokiego ryzyka są prawidłowe, nie powinny one 
+utrudniać lub wręcz uniemożliwiać wdrażania systemów sztucznej inteligencji 
+ustanawiając standardy, które są de facto niemożliwe do spełnienia przez jakiegokolwiek 
+dostawcę. 
+
+Dotyczy to w szczególności artykułu 10 ust. 3, który stanowi, że „zbiory danych szkoleniowych, 
+walidacyjnych i testowych muszą być adekwatne, reprezentatywne, wolne od błędów i 
+kompletne”. Wymóg taki jest niemożliwy do spełnienia, ponieważ nie można zagwarantować 
+doskonałości zbiorów danych, a niektóre metody sprzyjające zachowaniu prywatności celowo 
+wprowadzają do nich błąd (w postaci szumu). Niemożliwe jest również, aby zbiory danych 
+były kompletne, ponieważ z natury stanowią one jedynie próbkę rzeczywistości, a zatem nigdy 
+nie będą zawierać każdego możliwego punktu danych. W związku z powyższym zalecamy 
+następujące brzmienie przepisu: „Należy podjąć odpowiednie wysiłki, aby zapewnić, że zbiory 
+danych 
+są 
+wystarczająco 
+istotne, 
+reprezentatywne, wolne od błędów i kompletne”. 
+W tym zakresie istotny jest również artykuł 14 ust. 4 lit. a, stanowiący, że osoby, którym 
+powierzono nadzór ludzki, muszą umożliwiać, odpowiednio do okoliczności „zrozumienie w 
+pełni możliwości i ograniczeń systemu sztucznej inteligencji wysokiego ryzyka”. W naszej 
+opinii standard ten jest nieracjonalnie wysoki i niemożliwy do spełnienia w przypadku 
+złożonych sieci neuronowych. Proponujemy zatem, aby od wyznaczonych osób wymagano, 
+np. „odpowiedniego zrozumienia możliwości i ograniczeń”. 
+Po trzecie, jesteśmy przekonani, że konieczne jest wyjaśnienie w przepisach praktycznych 
+aspektów „należytej staranności”. Bardziej szczegółowe wytyczne dotyczące oczekiwań co 
+do sposobu przestrzegania przepisów musi mieć miejsce w przypadku: 
+• Artykułu 10 - Dane i zarządzanie danymi. W przypadku systemów sztucznej inteligencji 
+budowanych z wykorzystaniem zbiorów danych dostarczanych przez osoby trzecie, w 
+tym tych udostępnianych na zasadzie open source, jasne musi być, w jakim stopniu 
+można polegać na oświadczeniach złożonych przez twórców wykorzystywanych 
+zbiorów danych dotyczących m.in. zgody i prywatności. Ponadto, wyjaśnienia wymaga, 
+jakie są oczekiwania co do należytej staranności w przypadku, gdy nie są dostępne 
+informacje 
+nt. 
+pochodzeniu 
+zbioru danych. 
+• Artykułu 12 - Wymagania dotyczące rejestrowania: W przypadku usług, w których 
+system sztucznej inteligencji jest zaprojektowany, aby korzystać z uczenia się na 
+urządzeniach (a nie w chmurze), mogą zachodzić obawy związane z łącznością lub 
+prywatnością. Należy w projektowanych przepisach doprecyzować, jak w takich 
+okolicznościach spełnić wymóg rejestrowania, skoro nie występuje w nich 
+scentralizowany punkt odniesienia. Innymi słowy, zgodność z obowiązkiem 
+rejestrowania wydaje się sprzeczna z zasadą minimalizacji danych zawartą w RODO. 
+Uzasadnione jest zatem pytanie o to, jak w praktyce osiągnąć równowagę 
+pomiędzy tymi oczekiwaniami. 
+
+Po czwarte uważamy za konieczne przeformułowanie wymogów, które są w naszej opinii 
+nieproporcjonalne i powinny zostać stosownie zmienione. Dotyczy to w szczególności 
+artykułu 64 ust. 2, wedle którego “...na uzasadniony wniosek, organom nadzoru rynku 
+zapewnia się również dostęp do kodu źródłowego systemu sztucznej inteligencji”. 
+Należy zwrócić uwagę, że kod źródłowy jest chroniony przez dyrektywę UE o tajemnicy 
+handlowej, a jednocześnie zawsze będą istniały alternatywne metody weryfikacji działania 
+systemu AI (np. audyt wejścia/wyjścia), co czyni dostęp do kodu źródłowego zbędnym i 
+nieuzasadnionym. Proponujemy tym samym następujące brzmienie ust. 2: „na uzasadniony 
+wniosek dostawcy lub wdrażający AI powinni wspierać organy nadzoru rynku i wyposażyć je 
+w urządzenia niezbędne do przeprowadzenia rzetelnych testów (np. audytów wejścia/wyjścia), 
+jeżeli jest to konieczne do potwierdzenia zgodności”. 
+Niezależnie od przedstawionych powyżej komentarzy na temat konieczności 
+dopracowania i doprecyzowania projektu, w szczególności w odniesieniu do równowagi 
+odpowiedzialności pomiędzy podmiotami zaangażowanymi w rozwój i wykorzystywanie 
+sztucznej inteligencji oraz niektórych wymogów prawnych, stoimy na stanowisku, że projekt 
+rozporządzenia jest pomocny w zapewnieniu jasnych ram prawnych dla zastosowań AI 
+obarczonych wysokim ryzykiem. Z entuzjazmem przyjmujemy system regulacyjny zbudowany 
+wokół analizy ryzyka, który nie tworzy niepotrzebnych ograniczeń handlu oraz wyrasta ze 
+zrozumienia przez Komisję Europejską znaczenia sztucznej inteligencji dla kluczowej 
+przewagi konkurencyjnej przedsiębiorstw i europejskiej gospodarki. 

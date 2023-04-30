@@ -1,0 +1,110 @@
+Rue Guimard 15 (4th Floor) - 1040 Brussels - Belgium 
+Tel. : +32 (0)2 732 72 02 - Fax : +32 (0)2 732 73 44 - E-mail : secretariat@cpme.eu - Web : www.cpme.eu 
+Company registration number : 0462509658 - Transparency register number : 9276943405-41 
+CPME Feedback on Commission Proposal for a 
+Regulation on Artificial Intelligence 
+The Standing Committee of European Doctors (CPME) represents national medical associations across 
+Europe. We are committed to contributing the medical profession’s point of view to EU and European 
+policy-making through pro-active cooperation on a wide range of health and healthcare related issues. 
+General Comments 
+CPME commends the European Commission’s for developing a ground-breaking legislation laying 
+down harmonised rules on artificial intelligence (Artificial Intelligence Act) (‘the Proposal’). ​COM(2021) 206 final. ​  
+European doctors welcome the overall risk-based approach for artificial intelligence (AI), the creation 
+of the European Artificial Board, the development of the EU database for high-risk AI and the proposed 
+risk management system. 
+European doctors also welcome the proposed definition of the AI system and the possibility to update 
+the list of AI techniques and approaches in accordance with market and technological developments. 
+In healthcare, the proposed definition will ensure that where an AI system is a safety component of a 
+medical device, or is by itself a medical device (software), subject to third-party conformity assessment 
+under the medical devices framework, then the AI system is considered of high-risk for the purpose of 
+the AI proposal. This high-risk classification is needed to guarantee patient utmost safety. To minimise 
+additional burdens to providers, CPME further appreciates that the AI systems requirements set out in 
+the AI proposal will be examined as part of the existing third-party conformity assessment procedures 
+under the relevant medical device framework, ensuring alignment between both legal regimes. 
+Detailed Comments 
+1. Stand-alone high-risk AI listed in Annex III 
+CPME notes that the Annex III list of high-risk AI systems referred to in Article 6(2) should still include 
+the use of AI i) for determining insurance premium, ii) for assessing medical treatments and iii) for 
+health research. CPME advises that this list should be regularly updated in accordance with market and 
+technological developments. 
+2. Data and data governance - Article 10(6) 
+CPME recommends that it should be identified as an appropriate data governance and management 
+practice the need to consult regularly, or conduct audits, by an AI external auditor. These audits by 
+external auditors should be harmonized and standardized internationally or as minimum within the 
+EU. The EU AI Board could be considered to serve as audit standardization and harmonization 
+
+Page | 2 
+body. Similar to auditors for corporate governance, this new, complex and evolving environment calls 
+for the establishment of independent external auditors who examine the processes and procedures 
+put in place by the provider when developing the AI system. External auditors could provide an 
+accurate and fair understanding of the technical documentation released by the provider, helping to 
+generate trust among the public at large. A specific provision should be included in this regard. 
+3. Transparency and provision of information to users - Article 13 
+CPME fears that the information provided to users will not allow appropriate understanding of the AI 
+system. Particularly in healthcare, transparency requires that the information provided to users is clear 
+and understandable for non it-specialists. Moreover, an independent authority or third party should 
+have access to the algorithm in case of complaints or questions, taking due account for copyright, 
+privacy and commercial sensitivities. An open source should be allowed for certain AI systems, where 
+specialist organisations can test the algorithm to ensure that there is no bias. 
+4. Human oversight – Article 14 
+CPME recommends that the human oversight is of ‘high quality’, meaning that the individual needs to 
+have the necessary competences to guarantee an adequate oversight, and the provider is 
+appropriately resourced for the effective performance of the task. Paragraph 3a: the function for the 
+human oversight should be an integral part of the High Risk AI System which enables effective human 
+oversight with high usability. The insertion “when technically feasible” should be deleted. 
+5. Quality management system – Article 17(1)(i) and Article 62 
+CPME supports a clear obligation to audit and to quality control with regularly statutory reporting 
+obligation to the regulator. CPME further recommends full disclosure of serious incidents and 
+malfunctions by providers/developers of AI systems to patients and users. In addition, medical 
+obligations need to be supervised by medical regulators, such as the health inspectorate, to guarantee 
+the quality of healthcare. Agreements and collaborations will be required on who ensures oversight 
+over what. 
+6. Conformity assessment – Article 43 
+CPME supports the inclusion under Article 43 of the Proposal of an ex-ante third-party conformity 
+assessment to be carried out for high-risk AI.2 
+7. CE marking of conformity – Article 49 
+CPME believes that the CE marking of conformity should only be given to those AI systems that comply 
+with EU law, including the General Data Protection Regulation (GDPR). The compliance of the latter 
+should be a requirement under Chapter II and audited by a third party before the CE marking is affixed. 
+This would ensure alignment with the rules and principles of data protection, in particular the 
+accountability principle pursuant to Article 5(2) of the GDPR. ​In this sense, please see point 23 of the EDPB-EDPS Joint Opinion 5/2021, 18 June 2021. ​  
+2 In this sense, please see point 37 of the EDPB-EDPS Joint Opinion 5/2021, 18 June 2021. 
+
+Page | 3 
+8. Transparency obligations for certain AI systems – Article 52 – & System of redress 
+CPME considers that the provider of the AI system needs to properly describe the AI-attributes in the 
+instructions for use. For example, what aspects and how the AI provides for human oversight, what 
+aspects and how the AI changes, providing a description of the changes and how humans could control 
+the change. The provider should also inform the user how the system needs to be adjusted to ensure 
+that fairness and accuracy are considered to be aligned, as well as the system precision, confidence 
+and error percentages. 
+CPME supports the views of the European Data Protection Board and the European Data Protection 
+Supervisor on the need for the Proposal to be fully aligned with the EU data protection framework. ​Please refer to points 56-60, EDPB-EDPS Joint Opinion 5/2021, 18 June 2021. ​  In 
+particular, the need for the AI system to provide from the very beginning the possibility for exercising 
+data subject rights, such as deletion, correction, restriction, whatever the chosen approach for AI or 
+the technical architecture. The individual should also be aware when his/her data are used for AI 
+training and/or prediction, the legal basis for such processing, be given a general explanation of the 
+logic (procedure) and the scope of the AI system, as well as a clarification on the rights and remedies 
+available. 
+CPME also supports the development of a system of redress for the AI user. If a doctor uses an AI 
+system according to the training provided and in adherence with the guidelines or instructions for use, 
+he/she should be fully indemnified against adverse outcomes. 
+9. Designation of national competent authorities – Article 59 
+European doctors alert for the need to ensure that medical obligations resulting from the use of AI 
+systems in healthcare are supervised by national medical regulators. This to guarantee the quality of 
+healthcare and its effectiveness. Agreements and collaborations will be required to ascertain roles and 
+responsibilities over healthcare oversight of the AI system. 
+10. AI systems already placed on the market or put into service – Article 83 
+CPME believes that after a certain transitional period, the AI systems already in operation should also 
+comply with the requirements of the AI Regulation in order to ensure the same level of protection. 
+11. Specificities of AI use by healthcare professionals 
+Prior probability in AI for healthcare should not escape evidence-based science and fair treatment. A 
+doctor when seeing a patient does not see the prior probability. He/she adapts the probability in 
+accordance with the context and it will not be the same for every patient. In AI data sets, the prior 
+probability needs to be properly assessed. 
+European doctors believe that the use of an AI system to infer emotions of a natural person is highly 
+undesirable and should be prohibited except for health purposes (e.g. where emotion recognition is 
+important for patients) or research purposes. In addition, even in healthcare, certain systems cannot 
+be deployed without clear validation as there can be misuse leading to discrimination and harm (e.g. 
+AI systems on emotion recognition for alcohol addiction, violent behaviour, potential misbehaviour, 
+among other related to emotions and behaviour). 

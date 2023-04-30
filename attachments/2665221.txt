@@ -1,0 +1,156 @@
+Submission by the Oxford Commission on AI and Good Governance (OxCAIGG) The 
+Oxford Internet Institute, University of Oxford. Contact: Professor Philip Howard: 
+Philip.howard@oii.ox.ac.uk 
+Summary: A list of questions for consideration and reflections on views on AI in EU MS. A 
+look at the interplay between regulation and digital technical standards. An overview of skills 
+and capacity for regulators and participants in standards. Reflections on the proposed extraterritorial effect for the draft AI Regulation – risks and benefits. 
+Questions to be asked: 
+ What types of bodies or public agencies are needed? Are existing bodies fit to 
+regulate AI? 
+ At what level(s) should AI be regulated? How should power be balanced between the 
+EU Institutions and the Member States? 
+ Could there be some type of resource agency that brings together knowledge and 
+expertise to assist governments in adopting AI? 
+ What bodies will provide oversight into regulation? 
+ What bodies will be the final arbiter on violations of the regulations? 
+o An arbitration board with appeal’s mechanisms? 
+ How will the regulatory body maintain its independence? 
+ How will all the elements be funded? 
+ How will the EU collaborate with industry? 
+o Should be independent of funding. 
+ What kind of data protection principles will there be? 
+ How can good governance norms be correctly implemented? 
+ How will the EU keep up with the pace of development so that regulation remains 
+relevant? How will it anticipate and deal with loopholes? 
+o Regulatory sandboxes might be an approach 
+ How will ethics considerations be incorporated into the regulator? 
+ How will the skills set be maintained and developed to run regulation? 
+ How will the EU engage with other key players in particular those disconnected from 
+the mainstream discourse such as China? How will it share best practice and lessons 
+learned? 
+AI and the EU 
+Our research at the Oxford Commission on AI & Good Governance shows that opinions 
+regarding Artificial Intelligence in the EU are divided. Using survey data from a sample of 
+154,195 respondents in 142 countries, we analyze basic indicators of public perceptions 
+about the potential harms and opportunities of involving AI in our personal affairs and public 
+life. 
+1. There are regional and East-West divides in public attitudes towards AI-driven 
+automated decision making, with worries that AI will be harmful running highest in 
+North America (47%) and Latin America (49%), and notably smaller proportions of 
+respondents in Southeast Asia (25%) and East Asia (11%) concerned that AI will be 
+harmful. 
+
+2. Enthusiasm and optimism around the potential of AI in decision making runs highest 
+in China, where only a small proportion of respondents believe that the development 
+of intelligent machines or robots that can think and make decisions in the next twenty 
+years will mostly cause harm (9%). 
+3. Across the professions, business and government executives (47%) and other 
+professionals (44%) are among the most enthusiastic about AI decision making, 
+whereas workers in manufacturing (35%) and service workers (35%) are less 
+confident that automated decision making will mostly help society. 
+Table 1 shows that attitudes toward AI vary greatly across different countries in the EU. In 
+the European Union overall, attitudes on AI are divided. Across all respondents in the EU, 
+irrespective of their country, 42% of respondents thought that AI will mostly be beneficial 
+and another 42% of respondents reported that they believe AI will mostly harm. 
+Table 1: Will machines or robots that can think and make decisions, often known as artificial 
+intelligence, mostly help people in the next 20 years? 
+Lisa-Maria Neudert, Aleksi Knuutila, Philip N. Howard (2020). Global Attitudes Towards 
+AI, Machine Learning & Automated Decision Making. Working paper 2020.10 Oxford, UK: 
+
+Oxford Commission on AI & Good Governance, 10pp. 
+Retrieved from: https://oxcaigg.oii.ox.ac.uk 
+Engagement with private technology companies to influence and promote the responsible 
+development and use of data and new technologies: 
+Research from the Oxford Commission on AI & Good Governance suggests that data sharing 
+between different government entities and across government and industry is pivotal in 
+determining the success of data-driven projects within local governments with the example of 
+the UK. OxCAIGG recommends a formal mechanisms for collaboration across all local 
+authorities and with industry; and a platform to complete all relevant information about 
+information technology projects in local authorities. 
+Thomas Vogl (2021). Artificial Intelligence in Local Government. Working paper 2021.2 
+Oxford, UK: Oxford Commission on AI & Good Governance. 18pp. 
+Retrieved from: https://oxcaigg.oii.ox.ac.uk . 
+How can the EU build resilience in civil society, with Government and business against the 
+threats posed by abuses of new technologies by state and non-state actors? 
+Research from the Oxford Commission on AI & Good Governance has developed four 
+overarching principles for the use and implementation of artificial intelligence within 
+government and public service that may offer useful guidance here. 
+ Inclusive Design: issues around discrimination and bias of AI in relation to 
+inadequate data sets, exclusion of minorities and under-represented groups, and the 
+lack of diversity in design. 
+ Informed Procurement: issues around the acquisition and development in relation to 
+due diligence, design and usability specifications and the assessment of risks and 
+benefits. 
+ Purposeful Implementation: issues around the use of AI in relation to interoperability, 
+training needs for public servants, and integration with decision-making processes. 
+ Persistent Accountability: issues around the accountability and transparency of AI in 
+relation to ‘black box’ algorithms, the interpretability and explainability of systems, 
+monitoring 
+and auditing. 
+Lisa-Maria Neudert & Philip N. Howard (2020). Four Principles for Integrating AI & Good 
+Governance. Working paper 2020.1 Oxford, UK: Oxford Commission on AI & Good 
+Governance. 15 pp. 
+Retrieved from: https://oxcaigg.oii.ox.ac.uk 
+Interplay between regulation and digital technical standards 
+Digital technical standards have risen up the political agenda in democracies, following the 
+recognition of China’s strategic use of technical standardisation to embed values inimical to 
+
+human rights within standards, and obtain the benefits of WTO protections for technologies 
+standardised through bodies such as the UN’s International Telecommunication Union (ITU). 
+The recent EU-US joint statement (15 June 2021) recognises the dual role of regulation and 
+standards in shaping the future of emerging technologies, particularly those with wide 
+societal impact. The statement commits to “cooperation on the development and deployment 
+of new technologies based on our shared democratic values, including respect for human 
+rights and that encourages compatible standards and regulations.” The 2021 G7 summit 
+outcomes reflect similar sentiments. 
+Currently, no mechanisms exist to set aside digital technical standards on human rights 
+grounds. Therefore, technologies built to standards that do not reflect democratic values or 
+respect fundamental rights can enjoy protection under international trade rules. 
+Stacie Hoffmann, Dominique Lazanski & Emily Taylor (2020) Standardising the splinternet: 
+how China’s technical standards could fragment the internet, Journal of Cyber 
+Policy, 5:2, 239-264, DOI: 10.1080/23738871.2020.1805482 
+Carolina Caiero, Kate Jones & Emily Taylor (forthcoming) “Technical Standards and Human 
+Rights: The case of New IP”, book chapter. 
+Skills and capacity for regulators and participants in standards 
+For emerging technologies that have wide societal impact, it is essential that a wide range of 
+stakeholders participate in the relevant standards process. There are multiple capacity 
+challenges relating to the regulation and standardisation of AI. 
+The capacity of officials to understand the potential policy impacts of emerging technologies 
+needs to be developed across the European institutions (not just those retained in technologyfocused roles). 
+To ensure that future technologies reflect democratic values, as well as remaining open and 
+interoperable, engagement in technical standards development needs to be more diverse and 
+inclusive. Unless regulation and standards relating to emerging technologies with wide 
+societal impacts such as AI have the benefit of input from as diverse a group of inputs as 
+possible. Women, civil society and human rights groups and SMEs are under-represented in 
+standards development organisations, and often lack the training and mentorship to 
+participate effectively. 
+RightsCon21 – Splinternet by stealth China’s digital Silk Road and the risks of a two-gauge 
+internet https://rightscon.summit.tc/t/2021/events/splinternet-by-stealth-chinas-digital-silkroad-and-the-risks-of-a-two-gauge-internet-pxRC2derLzwB33H8RYrVLF  
+Extra-territorial effect 
+The proposed extra-territorial effect for the draft AI Regulation carries both benefits and 
+risks. Similar provisions within the GDPR brought into the compliance regime the major US 
+platforms and services used by Europeans. The export of regulatory values therefore has 
+
+benefits for European citizens by ensuring that their data is subject to the same rules by 
+companies offering them services, no matter where in the world their data is processed. 
+A simulation exercise on the impact of regulation on international data flows conducted by 
+Chatham House in 2020 focused on regulatory contention between the proposed Indian 
+Personal Data Protection Bill and European data protection regimes. 
+Similar risks apply in the field of AI governance. Unless there is a strong, consistent 
+framework for data governance, the risk is that a complex, inconsistent set of rules for the 
+governance of AI in the future. In turn, the phenomenon is likely to lead to regulatory 
+arbitrage in the avoidance of laws in individual jurisdictions, whereby parties could make 
+business choices designed to deliberately avoid the reach of unfavourable laws. 
+UK- India Cyber Simulation on Data Security and Privacy 2020, Chatham House 
+https://chathamhouse.soutron.net/Portal/DownloadImageFile.ashx?fieldValueId=5826 
+About OxCAIGG 
+The Oxford Commission on AI and Good Governance investigates the procurement and 
+implementation challenges surrounding the use of AI for good governance faced by 
+democracies around the world, identifying best practices for evaluating and managing risks 
+and benefits, and recommend strategies in an effort to take full advantage of technological 
+capacities while mitigating potential harms of AI-enabled public policy. 
+Drawing from input from experts across a wide range of geographic regions and areas of 
+expertise, including stakeholders from government, industry, technical and civil 
+society, OxCAIGG will bring forward applicable and relevant recommendations for the use 
+of AI for good governance. 
+https://oxcaigg.oii.ox.ac.uk/ 

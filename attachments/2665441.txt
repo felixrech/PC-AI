@@ -1,0 +1,270 @@
+Page | 1 
+SEMI Europe Comments 
+on the Proposal for Regulation laying down Harmonized Rules 
+on Artificial Intelligence 2021/0106z(COD) 
+July 2021 
+Summary 
+SEMI Europe welcomes the European Commission’s “Proposal for Regulation laying down harmonized 
+rules on Artificial Intelligence” and appreciates the opportunity to provide its feedback on this crucial 
+matter for Europe’s microelectronics industry. 
+With the rise of Artificial Intelligence (AI), the European Union (EU) remains determined to play a leading 
+role in setting a global standard in the responsible development and use of AI technologies. The 
+microelectronics industry supports such efforts but with a key caveat. While the industry acknowledges 
+that development and deployment of AI requires a coordinated approach, it asserts that AI systems and 
+related technologies should be regulated where possible by existing EU laws and regulations, including 
+sector-specific ones. By building on already existing frameworks such as the EU Machinery Directive and 
+the Product Liability Directive, appropriate rules concerning the safety and reliability of novel AI systems 
+can be introduced without creating additional regulatory and administrative burdens on AI developers, in 
+particular SMEs. 
+Building on Europe’s competitiveness and strategic position in the global electronics supply chain, sound, 
+industry-backed approach to regulate AI should be the cornerstone of Europe’s technological ambitions. 
+Only by creating the right regulatory environment, Europe can seize new growth opportunities arising 
+from the next wave of AI generated in connected devices and technologies at the edge. 
+SEMI Europe makes the following policy recommendations pertaining to Europe’s new approach to AI for 
+the consideration of the European Commission, the Parliament and the Council: 
+I. 
+Definition of AI systems is too vague and broad, requires further clarification 
+II. 
+AI use cases should be regulated by adapting existing EU product regulation 
+III. 
+Introduce data quality thresholds on data sets used in training, testing and validation of all AI 
+applications 
+IV. 
+Establishing standards for AI systems addressing potential risks and enabling innovation 
+V. 
+Introduce Industry Advisory Expert Groups as part of the European Artificial Intelligence Board 
+
+Page | 2 
+Introduction 
+AI technologies have become a transformative force, enabling technology breakthroughs across 
+industries. Because of AI, autonomous driving, advanced medical diagnostics, accelerated drug 
+development, voice-activated devices, self-healing digital grids, predictive weather monitoring systems 
+and self-replicating robots have become part of our daily life. 
+Europe’s microelectronics industry, as a world leader in embedded electronics, MEMS, sensors and 
+imagers, holds a unique position to drive the development of AI-based solutions. Many semiconductor 
+manufacturers already use AI in devices deployed across factories increasing manufacturing efficiency and 
+improving yields. For instance, AI enables the real-time collection and monitoring of big data, informing 
+system administrators of any hardware failures or deviations from intended operation. AI also makes it 
+possible to automate adjustments and corrections to production processes by providing feedback that 
+can drive higher manufacturing efficiency. Such benefits resulting from the use of specific AI applications 
+such as machine learning, have proven that AI has become an invaluable asset for European 
+manufacturers. 
+AI technologies are critically important for economic and industrial leadership globally. 
+While businesses in China and U.S. are counted among top adopters of AI, European enterprises are 
+quickly catching up with their global competitors. According to a 2020 study published by the European 
+Commission, 42% of Europe’s enterprises make use of at least one AI technology, quarter of them use at 
+least two, while 18% are considering to adopt AI technologies in the next two years. ​European Commission, 2020: European enterprise survey on the use of technologies based on artificial intelligence ​  While AI is initially 
+introduced as a measure to improve existing processes such as production task optimization, many 
+enterprises are likely to develop the AI further, modifying existing AI algorithms for new use-cases, 
+spurring innovation and uptake of the technology. 
+The success of developing and deploying AI depends not only on business and their innovation strategies. 
+In recent years, governments worldwide introduced research and development frameworks in support of 
+national AI development and uptake. These range from China’s “Next Generation Artificial Intelligence 
+Development Plan”, U.S. “Executive Order on Maintaining American Leadership in Artificial Intelligence” 
+to South Korea’s “National Strategy for Artificial Intelligence”. However, governments face more than 
+challenges of creating the right R&D conditions to support domestic development of AI. Many are 
+assessing how accountability, transparency, control, and safe development of AI technologies can be 
+ensured without curbing innovation and economic growth. 
+The Commission’s Proposal for Regulation laying down Harmonized Rules on Artificial Intelligence 
+indicates EU’s willingness to move forward and capture the huge potential of AI enabled technologies. 
+Building on Europe’s competitiveness and strategic position in the global electronics supply chain, a 
+sound, industry-backed coordinated approach on the development and use of AI should be the 
+cornerstone of Europe’s technological ambitions. Only by creating the right regulatory environment, 
+Europe can seize new growth opportunities arising from the next wave of AI generated in connected 
+devices and technologies at the edge. 
+
+Page | 3 
+Against this background, SEMI Europe would like to share its views on the proposed regulation on Artificial 
+Intelligence with the European Commission to reflect the interests of the electronics manufacturing 
+industry: 
+I. 
+Definition of AI systems is too vague and broad, requires further clarification 
+AI and its applications are rapidly evolving, increasing the portfolio of products and services available to 
+consumers worldwide. As new use-cases for AI emerge, tailored AI-enabled solutions are adopted across 
+industries, responding to the specific needs of manufacturers and end-users alike. 
+Over the years, advances in AI enabled the maturing of many of its applications, introducing new 
+algorithms to advance production processes optimization in manufacturing, improve sensing capabilities 
+of automated vehicles or enhance image labeling in medical robots. This leap has contributed not only to 
+the advent of new AI software, but also hardware technology across different domains. 
+Embedded into an increasing variety of products and solutions, AI itself has proven difficult to define. 
+Currently neither industry or the scientific community have reached a consensus on an exact definition or 
+mechanisms to classify AI. This is largely because of the growing variety and specific properties of AI 
+technologies, but also the intersection with other fields such as statistics. 
+The definition of AI proposed by the Regulation in Article 3 focuses largely on any software using machine 
+learning methods or logic-based procedures. In larger context, this includes any software using 
+optimization or statistical methods. Since almost every existing or future software could be covered by 
+such set of rules, unpredictable risks could arise for any company using or developing any program based 
+on logical computation. 
+In this light, SEMI Europe considers the definition of AI in the proposed Regulation too broad and vague, 
+attributing AI characteristics to methods that can also be assigned to more conventional software. We 
+encourage the European Commission to take into account a definition of AI, that precludes to a high 
+extend first order human interpretation (“fast thinking”) and instead operates on the basis of solid logic 
+using sufficient relevant data. It should be stated that most likely in the end AI should not be restricted 
+to a given type of technology, and for sure the definition of AI will have to evolve while learning the scope 
+and (ethical) impact of its applications in the years to come. 
+
+Page | 4 
+II. 
+AI use cases should be regulated by adapting existing EU product regulation 
+Applications of AI can vary across industries and use-cases. Deploying and developing AI in different 
+sectors often results in outcomes, accompanied by various sets of problems, leading to the conclusion 
+that a one-size-fits-all approach particularly on High-Risk AI use cases is not suitable for an AI regulation. 
+The microelectronics industry is already a subject to multiple use case specific regulations, providing a 
+solid foundation for the regulation of AI. For instance, incorporation of AI in semiconductor manufacturing 
+equipment has been done in a way that is compatible with the existing framework of the Machinery 
+Directive (2006/42/EC). This Directive is well-adapted to emerging technologies and is the appropriate 
+compliance mechanism for the semiconductor manufacturing industry. 
+The Machinery Directive provides a comprehensive set of essential health and safety requirements while 
+remaining technology neutral. Its Annex I, the Essential Health and Safety Requirements (EHSRs) are 
+foundational requirements, and the provisions are deemed applicable for the risks associated with 
+incorporation of AI in the machine. The Machinery Directive also incorporates appropriate flexibility and 
+by promoting the use of safety standards, it can address particular requirements for machine types and 
+their unique uses and hazards. It entrusts organizations competent in standards development taking the 
+current stage of technology into account to achieve compliance by defining technical specifications. This 
+framework was and is instrumental in the Machinery Directive maintaining its relevance as a cornerstone 
+of semiconductor manufacturing equipment design. 
+The Machinery Directive requires that machinery placed on the market is safe to operate based on its 
+intended use. To assure safety compliance, Annex I requires the machinery manufacturer or an authorized 
+representative to conduct a risk assessment to determine the particular health and safety requirements 
+applying to the machinery, then design and construct the machinery to meet those mandates. Also 
+required by Annex I, machinery control systems must be designed to prevent any hazards in the event of 
+system hardware or software errors such as failures in the control system logic. Only when the output 
+from machine learning constitutes a part of functional safety (e.g. the output from machine learning is 
+used to adjust a parameter of safety-related control system (SCS) that executes functional safety), 
+transparency of algorithm and datasets may become critical to satisfy the safety requirement, but in such 
+case applicable harmonized standard for functional safety will address this issue. 
+Machine learning algorithms never change the function or the intended use of semiconductor 
+manufacturing equipment or the response of the interface between the equipment and the human 
+operator and therefore do not create any unforeseen health and safety risks. The control system of any 
+machine under the scope of the Machinery Directive is already designed and constructed in a way that it 
+prevents the use of machine beyond its intentional use conditions. 
+Based on the stated above, SEMI Europe recommends to the Commission to review existing product safety 
+and liability regulations and if necessary, revise and update conditions to safely regulate potential 
+applications of AI Considering the broad spectrum and complexity of some AI systems (e.g. neuromorphic 
+computing), specific characteristics of such applications should be taken into account. 
+
+Page | 5 
+III. 
+Introduce data quality thresholds on data sets used in training, testing and validation of all AI 
+applications 
+Today, development and use of AI is practically impossible without access to large amounts of data. The 
+more data is available, the better AI may become. Access to large amounts of data is however not the 
+only criterion to determine accuracy and reliability of AI systems. To operate efficiently, quality data are 
+essential for AI systems to generate value and deliver desired results for developers and end-users alike. 
+In the Proposal the European Commission suggests “the training, validation, and testing data shall be 
+relevant, representative, free of error and complete.” While the condition to have error free data sets is 
+highly desirable, it is rarely the case. 
+Many criteria can be looked upon when assessing the quality of data used for AI applications. 
+In general, factors such as data accuracy, timeliness, consistency, interoperability, or validity determine 
+the quality of data sets. Such characteristics can be met with high degree of sufficiency, but rarely in 
+perfect, error free condition. For example, data used for training, validation and testing of AI often 
+originates from numerous sources and is collected in ways varying in purpose, meaning the standards on 
+what is considered a good or right quality characteristics for data can vary. For some use-cases data sets 
+are formed out of undefined, raw data, while others require data to be well defined, structured and 
+consistent. For example, continuous learning systems such as neuromorphic AI use data collected 
+throughout their use, making it extremely difficult if not impossible to determine a universal set of data 
+quality requirements. 
+Against this background, SEMI Europe encourages the European Commission introduce quality thresholds 
+on data sets used in training, testing and validation of all AI applications. Such thresholds should provide 
+a clear set of quality conditions, characteristics, and key performance indicators below which failure to 
+satisfy would be deemed as unacceptable. 
+In addition, dataset descriptions and labels for providing information on the quality and structure of 
+datasets should be taken into consideration. This approach would allow AI datasets to be described 
+similar to hardware components, assessing their compliance with any set of quality thresholds. Datasets 
+including sensitive information on a company’s IPR could include detailed information on the data 
+collection process, dataset creation, pre-processing and validity of the dataset. Especially for data for use 
+in health applications high-quality labels for data integrity should be considered. In order to ensure crossdatabase consistency we will have to think as well about defining a common taxonomy and ontology in 
+this field. There is currently no standardized way of describing datasets agreed upon in the field of AI. 
+Such a standardization would have to allow for flexibility to be able to include the variety of possible data 
+for-mats and collections used in AI applications. It goes without saying that developing an objective 
+method to validate data sets will have to go hand in hand with experience on how AI will be defined over 
+time, and therefore be a dynamic process. 
+Moreover, it is essential also to look at protection of the databases. There are two different elements in 
+here. The first being that we need technical measures to safeguard that when a database is shared with 
+regulatory/ government the knowledge will not become public. The second being that we should strive 
+
+Page | 6 
+for a general statement in the database directive that takes into account the protection of valuable own 
+generated data rather than only data collected by other sources. 
+IV. 
+Establishing standards for AI systems addressing potential risks and enabling innovation 
+In the global manufacturing ecosystem, standards play a key role in advancing the innovation of numerous 
+technologies and systems, enabling the integration of smart manufacturing solutions across industries. 
+As businesses embrace AI, they increasingly look for standards to guide their efforts to improve 
+interoperability, communication, security, efficiency and productivity of existing and emerging 
+manufacturing technologies. 
+European standardization efforts are an important step in guiding ethical research and development of 
+AI, addressing potential barriers and risks that could hinder efficient and secure operation of AI systems 
+and technologies. AI standards are a valuable asset to Europe’s industrial competitiveness reducing 
+system operation costs, easing emerging markets penetration, advancing the dissemination and 
+exploitation of technological expertise among SMEs and start-ups. It is crucial for the EU and the 
+electronics manufacturing industry that standardization efforts keep pace with the global AI development, 
+so that Europe remains at the forefront of standardization of emerging technologies. 
+According to Article 41 of the proposed regulation on AI, the Commission may by means of implementing 
+acts, adopt common specifications (for high-risk AI applications) where harmonized standards do not exist 
+or where the Commission considered that relevant harmonized standards are insufficient. 
+SEMI Europe appreciates the European Commission’s efforts to drive standardization of AI, while 
+considering the need for addressing insufficient or missing standards. To generate reliable, innovationfriendly AI standards, a consensus-based approach among regional and international standardization 
+bodies, organizations and industry players is crucial. The collective effort should focus not only on the 
+improvement of existing AI standards, but also on areas where standards are limited or non-existent, 
+referring to standardization of categories of systems that are directly influenced by AI. Examples are 
+systems with impact on Medical procedures, impact on Smart mobility (Automotive, Aerospace), and 
+impact on Defense actions. These categories and more will have to be defined and standards (including 
+definition of overriding AI control) will have to be agreed upon. 
+SEMI Europe would like to bring to the attention of the Commission the SEMI International Standards 
+Program. The initiative brings together industry experts, stakeholders and professionals, driving the 
+development of standards in regards to technological innovation and needs of the global industry. 
+Since the inception of the program, over 1000 developed standards have assisted the global 
+manufacturing industry in engaging the challenges of increased productivity, improved product reliability, 
+operations quality and resource efficiency. 
+
+Page | 7 
+As a neutral platform, the program enables the exchange of information among competing 
+manufacturers, suppliers and users resulting in technically accurate, specific standards. SEMI standards 
+development spurs collaboration among industrial partners and competitors, resulting in joint ventures, 
+technological partnerships and increased competitiveness. SEMI produced standards are developed for a 
+broad spectrum of audiences, serving engineers and managers as guidelines for enhanced productivity 
+and innovation enabled by emerging technologies. 
+V. 
+Introduce Industry Advisory Expert Groups as part of the European Artificial Intelligence Board 
+SEMI Europe fully supports the Commission’s plans to set up a European Artificial Intelligence Board to 
+ensure effective and consistent implementation and enforcement of the proposed AI regulation. 
+Considering Europe’s key strength as regulatory power in the global AI landscape, SEMI Europe urges the 
+Commission to introduce sector-specific industry expert advisory groups as part of the Board to play a key 
+role in the application and enforcement of the regulation. In this respect, industry working groups should 
+advise the Commission and Member States on specific issues in areas that need complementary expertise 
+such as AI standards, AI safety, product compliance or labeling. Such collaborations are necessary in 
+creating the right regulatory environment to accelerate the development and market uptake AI 
+applications, amongst others, in smart health, mobility, manufacturing and agriculture. 
+For example, the microelectronics industry which is already a subject to numerous regulations on product 
+compliance and safety, is well positioned to offer its expertise, best practices and recommendations 
+regarding the development and use of AI technologies in Europe. 
+It should be noted as well that supervision and guidance provided by competent authorities must include 
+a requirement that information and results disclosed to the competent authorities be kept confidential 
+until, at least, a decision has been made on whether registered IP rights, such as a patent application or 
+utility model, can be filed. 
+As a good practice, SEMI Europe would like to bring to the attention of the Commission SEMI's Smart 
+Data-AI Communities. SEMI is actively developing collaborative platforms to build communities through 
+the Smart Data-AI Industry Advisory Council and the Chief Technology Officer Forum. These strategic 
+platforms bring together key industry players, gathering expertise and knowledge on big data and AI to 
+drive growth and improve collaboration of businesses on these critical technologies. Further, these 
+initiatives create a cross-disciplinary community platform to drive pre-competitive innovation of AI 
+technologies in the microelectronics industry. 
+
+Page | 8 
+Conclusion 
+The Commission’s proposal for a regulation on AI indicates Europe’s willingness to move forward to 
+capture the huge potential ahead in the rapidly emerging AI technologies. SEMI Europe would welcome 
+the opportunity to discuss the above-mentioned recommendations with the European Commission, the 
+Parliament and the Council. The microelectronics sector is a key enabler and remains ready to work 
+together with all interested stakeholders to develop new avenues of growth to reinforce Europe’s AI 
+leadership. 
+About SEMI Europe 
+SEMI Europe is the European arm of SEMI, the industry association connecting more than 2,400 
+semiconductor and electronics manufacturing companies worldwide, including nearly 300 European 
+headquartered businesses. SEMI members are responsible for the innovations in materials, design, 
+equipment, software, devices and services that enable smarter, faster, more powerful and more 
+affordable electronic products. Since 1970, SEMI has built connections that have helped its members 
+prosper, create new markets and address common industry challenges together. 
+Association Contact 
+Marek Kysela, Senior Coordinator Advocacy, SEMI Europe | mkysela@semi.org 

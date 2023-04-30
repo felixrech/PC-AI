@@ -1,0 +1,322 @@
+MEDTRONIC SUBMISSION 
+ARTIFICAL INTELLIGENCE REGULATION 
+AUGUST 2021 
+Executive Summary 
+Medtronic, as a global leader in medical technology, strongly supports the principle of EU-wide 
+regulation of Artificial Intelligence (AI) and welcomes the Commission’s vision to turn Europe into a 
+global hub for AI and further develop a resilient Europe fit for the Digital Decade. 
+Medtronic views the interface between the proposed AI Regulation, GDPR, MDR and IVDR as critical to 
+the future of the medical device industry. Our review of the proposed AI Act has identified areas where 
+duplication or overlaps could appear and therefore, we respectfully offer several recommendations to 
+the European Commission to ensure seamless interplay between those Regulations: 
+• Recommendation 1: Amend Article 13 of the proposed AI Regulation to explicitly confirm that 
+the information provided on the basis of Article 13 is sufficient in order to enable the assessment 
+under Article 35 GDPR to be undertaken. 
+• Recommendation 2: Amend Article 63 of the proposed AI Regulation to provide that the 
+Competent Authorities under MDR and IVDR have sole competence for regulating high-risk AI 
+products within their sectoral remit, including any aspects of the proposed AI Regulation that 
+may apply to those products. 
+• Recommendation 3: Do not apply Article 24 of the AI Regulation to medical devices to avoid 
+conflict with similar provision under MDR/IVDR. 
+• Recommendation 4: Amend Article 43(3) of the AI Regulation to stipulate that the notified body 
+performing the conformity assessment under the AI Regulation shall be the same notified body 
+as the one designated under MDR/IVDR. 
+• Recommendation 5: Stipulate that medical device manufacturers shall be deemed to have 
+complied with Articles 9, 13, 14, 15, 16, 17, 18, 19, 21, 22, 23 and 25 of the AI Regulation by 
+complying with the corresponding provisions of MDR/IVDR (as set out in this document). 
+• Alternative Recommendation 5 for Article 14: If it is considered desirable for device labelling or 
+instructions for use to specifically identify the matters set out at Article 14(2) of the AI 
+Regulation, these could be included by way of an amendment to section 23 of Annex I MDR and 
+section 20 of Annex I IVDR. 
+• Clarification Request: Clarify how the result of conformity assessment from both regimes (MDR / 
+IVDR and the AI Regulation) will be reflected in a final declaration of conformity. 
+We expand on these points in this paper and remain available to the Commission, and other 
+interested stakeholders, to further discuss our position and recommendations. 
+
+Introduction 
+Medtronic plc, headquartered in Dublin, Ireland, is among the world's largest medical technology, 
+services and solutions companies – alleviating pain, restoring health and extending life for millions of 
+people around the world. 
+In the EU and across the globe, smart medical devices and AI technologies are moving to the forefront 
+of healthcare. As healthcare systems grapple with how to provide quality care in the most efficient, costeffective way, both AI and machine learning are playing increasingly important roles in making that a 
+possibility. 
+Smart devices allow providers to tap into enormous amounts of data and can help improve the health of 
+patients with chronic and expensive health conditions like diabetes. But sifting through that data is no 
+small feat. AI, machine learning, and predictive modeling are often the engines that drive that important 
+work. 
+We are committed to leveraging data and insights to deliver on a whole new vector of innovation with 
+digital technologies, there is huge opportunity to harness the power of AI and other technologies that 
+are redefining the relevance and value of our therapies. 
+Medtronic is therefore deeply invested in the advancement of AI for medical devices in the European 
+Union and welcomes the opportunity to provide feedback on the European Commission’s proposed AI 
+Regulation published on 21 April 2021 (the “AI Regulation”) in the context of the Commission’s feedback 
+mechanism. 
+This document follows the initial submission made by Medtronic on 13 June 2020 as part of the 
+European Commission’s consultation on the EU White Paper on Artificial Intelligence. It focusses on the 
+interplay between the AI Regulation, GDPR and regulations specific to the medical device industry, 
+namely the EU Medical Devices Regulation 2017/745/EU (“MDR”) and the EU In Vitro Diagnostics 
+Medical Devices Regulation 2017/746/EU (“IVDR”). 
+For more detailed feedback on some of the substantive requirements of the proposed AI Regulation, 
+Medtronic refers to the submission made by MedTech Europe on behalf of its members, to which 
+Medtronic contributed and hereby endorses. 
+EU-wide regulation of AI 
+Medtronic strongly supports the principle of EU-wide regulation of AI and recognises that whilst the 
+technology brings substantial benefits to the citizens of the EU, it must also be regulated to ensure that 
+the emergence of AI does not negatively impact safety. In the medical field, in particular, EU patients must 
+continue to benefit from the principle of risk minimization as AI becomes increasingly present in medical 
+technologies. 
+Medtronic welcomes the use, in the proposed AI Regulation, of many concepts from EU harmonised 
+legislation that are familiar to manufacturers of industrial products, including medical devices. This will help 
+manufacturers and regulators to apply the requirements of the proposed AI Regulation in a way that is 
+aligned with existing product safety legislation. 
+
+In this document, we will focus on the areas where the proposed AI Regulation will interplay with GDPR 
+and MDR/IVDR and share recommendations that will help to avoid unnecessary complexity, overlaps or 
+duplications. 
+Interface with GDPR 
+Medtronic recognises that the Commission’s proposed approach seeks to integrate the proposed AI 
+Regulation with existing EU legislation. In the case of GDPR, Medtronic is supportive of the approach by 
+which the provisions of the GDPR, as a horizontal measure, will continue to apply to the processing of 
+personal data, but subject to modification where required by the new proposal. In particular: 
+• We agree that, to enable achievement of the objective that bias monitoring and related measures 
+should operate effectively, providers of high-risk AI systems will need to process certain special 
+categories of personal data. Medtronic therefore welcomes and fully supports the proposal in 
+Article 10(5) to overtly permit the processing of such data, to the extent strictly necessary and 
+subject to the specified safeguards in order to facilitate achievement of the stated objective; and 
+• We recognise that the processing of personal data in the context of a new high-risk AI system is 
+likely to require a data protection impact assessment under Article 35 GDPR. We note that under 
+the AI Regulation users of high-risk AI systems are permitted to use the information provided 
+under the transparency obligations contained in Article 13 of the proposed AI Regulation to 
+comply with their obligation to carry out such an assessment (Article 29(6)). We further note, that 
+if the information required to be taken into account in such a GDPR assessment is, for activities 
+falling within scope of Title III of the proposed AI Regulation, limited to that required under Article 
+13 of the AI Regulation then that would be welcome in streamlining the requirements on 
+businesses in respect of the collation of information relevant to the potential risks of processing. 
+We would welcome explicit confirmation in the AI Regulation that the information provided on the 
+basis of Article 13 of the AI Regulation, is sufficient information in order to enable the assessment 
+under Article 35 GDPR to be undertaken. 
+Furthermore, our assessment highlights that there could be overlap between the proposed AI Regulation 
+and GDPR in respect of privacy and security by design; and between the proposed AI Regulation and 
+MDR/IVDR in respect of risk management. 
+Providers of high-risk AI systems will be dealing with three closely related regulatory dimensions. It 
+appears that the result could be overlapping technical documentation for the AI Regulation and 
+MDR/IVDR requirements and a GDPR DPIA and system design documentation for the purpose of the 
+GDPR, which all need to be and remain consistent with each other over time. 
+We believe that such requirements, if not aligned, will be challenging for businesses to satisfy and 
+encourages the European Commission, regulators and industry associations to coordinate proactively to 
+ensure that clear guidance is put in place for businesses as to what is required and that compliance 
+burdens are streamlined and minimised to the greatest extent possible in order to promote the 
+development of AI. 
+
+Interface with MDR and IVDR 
+In this section, Medtronic will provide recommendations to help ensure that the proposed AI Regulation 
+does not create unnecessary duplication of requirements for manufacturers of medical devices, which 
+are already tightly regulated under MDR and IVDR. We will focus on two areas in particular:  
+1. The regulatory oversight and enforcement provisions of the AI Regulation risk creating a situation 
+where there is overlapping competence for enforcement and provision of regulatory guidance in 
+the medical device industry. This is very likely to lead to inefficiency and confusion, particularly 
+where there are divergent interpretations. 
+2. In some instances, we have found that the proposed AI Regulation overlaps or conflicts with the 
+already extensive and equivalent requirements under MDR/ IVDR. 
+We expand on these concerns further below and also provide suggestions for how these concerns can 
+be addressed: 
+a. Overlapping regulatory authority competence both within the AI Regulation itself and with 
+competent authorities under sectoral legislation 
+Medtronic agrees that enforcement and market surveillance by competent authorities that have 
+expertise in the areas for which they have regulatory competence is appropriate. Nevertheless, we are 
+concerned that national competent authorities, designated under the proposed AI Regulation could 
+have overlapping competences with national authorities with competence under the vertical legislation 
+for the product area concerned. This would increase regulatory complexity and require increased 
+coordination among regulators and increased administrative workload to provide additional clarifications 
+and guidance. It could also lead to inconsistent requirements from different regulators, which would be 
+particularly problematic in areas where there is objective equivalence between the requirements in the 
+AI Regulation and the relevant sectoral legislation. 
+Similarly, the multiplicity of national competent authorities specified in the AI Regulation and the fact 
+that the AI Regulation assigns different roles to each of the national supervisory authority, market 
+surveillance authority and the notifying authority risks resulting in “disconnects” amongst the authorities 
+as each will operate within its own strict remit, thereby undermining the overall effectiveness of the 
+regulatory system. 
+In the medical device sector, there are well-established competent authorities under MDR and IVDR. 
+Furthermore, national competent authorities already employ an extensive regional market surveillance 
+system and understand the environments in which medical devices are deployed. Those regulators are 
+ideally placed to have sole competence for enforcement in relation to those products inclusive of any 
+applicable requirements under the proposed AI Regulation. 
+We note in this regard that Article 63(3) of the AI Regulation already provides that the MDR and IVDR 
+competent authorities shall be market surveillance authorities for the AI Regulation as regards medical 
+devices. 
+Medtronic is supportive of that approach and recommends that the relevant competent authorities 
+under MDR and IVDR have sole competence for regulating high-risk AI products within their sectoral 
+remit, including any aspects of the proposed AI Regulation that may apply to those products. Such an 
+
+approach would make market surveillance more targeted and efficient, and would avoid potentially 
+inconsistent approaches amongst co-regulators, making for greater legal certainty for users and 
+providers of medical devices in the Union. 
+b. Recommendations to avoid overlap between proposed AI Regulation and equally stringent 
+requirements under MDR/IVDR 
+The MDR already contains a robust, up-to-date regulatory framework for medical devices, including 
+those enabled by AI. This includes ensuring appropriate performance of medical devices, taking into 
+account their intended purpose, and also ensuring a high level of safety of medical devices. The MDR 
+also places extensive obligations on manufacturers of medical devices regarding quality management, 
+risk management, traceability and vigilance to monitor and assure the safety of a device throughout its 
+lifecycle. 
+An important principle of the MDR is that manufacturers must continuously ensure a high level of 
+protection of health and safety, taking into account the generally acknowledged state of the art. In the 
+context of emerging technologies like AI, this ensures that manufacturers must always take into 
+account the latest developments to ensure the safety of the product for users: 
+i. 
+How the proposed AI Regulation handles risk of duplication 
+Whilst the AI Regulation states in Recital 85 that it amends the MDR and the IVDR, it is not entirely 
+clear to see where the actual amendments are made. We appreciate that some measures are 
+taken in the AI Regulation to avoid overlap, such as the option to provide a single set of technical 
+documentation for the high-risk AI systems that are also devices within the meaning of the MDR 
+and IVDR (Article 11(2) of the AI Regulation). However, in other areas there remains uncertainty. 
+We also note that Article 24 of the proposed AI Regulation includes a somewhat unusual overlap 
+provision: 
+“Where a high-risk AI system related to products to which the [MDR or IVDR ] apply, is placed 
+on the market or put into service together with the product manufactured in accordance with 
+those legal acts and under the name of the product manufacturer, the manufacturer of the 
+product shall take the responsibility of the compliance of the AI system with this Regulation 
+and, as far as the AI system is concerned, have the same obligations imposed by the present 
+Regulation on the provider.” 
+This appears to us a kind of system / kit provision intended to manage exactly the cases caught 
+under the systems and kit provisions already provided for under the MDR and IVDR and is 
+therefore unnecessarily duplicative and a potential source of confusion. We therefore suggest 
+this be disapplied for medical devices. 
+ii. Avoiding parallel conformity assessments and the need for more than one notified body 
+Article 43(3) of the AI Regulation appears to be an attempt to manage the overlap in relation to 
+conformity assessment, providing that AI systems, that are devices or are part of a device, can be 
+assessed under the MDR or IVDR conformity assessment procedure (albeit with some additional 
+requirements). This raises the following questions: 
+• How will that work with notified bodies? 
+
+• Do they need accreditation under the AI Regulation as well to do a full MDR or IVDR AI 
+system/ device assessment? 
+• Under what MDR / IVDR code would that notified body competence be covered? 
+• Would it be possible to split the device / AI system by having the AI part evaluated by an AI 
+Regulation notified body and the device part by an MDR / IVDR notified body? 
+We welcome the provisions at Article 43(3) of the AI Regulation confirming that MDR/IVDR 
+notified bodies may in principle also perform conformity assessment of aspects of devices 
+covered by the AI Regulation. Nonetheless, in light of recent experience under the MDR / IVDR 
+where many manufacturers have been left without a designated notified body, Medtronic is very 
+concerned that there will be insufficient notified bodies designated for both the MDR/IVDR and 
+also the proposed AI Regulation. This will result in providers/manufacturers having to appoint 
+two notified bodies (one for the MDR / IVDR aspects and a separate body for the AI Regulation 
+aspects. This would add significant complexity to the conformity assessment process for 
+manufacturers / providers and may also result in divergent assessments by notified bodies 
+unless care is taken to recognise equivalence in relation to the requirements of Chapter 2 of Title 
+III of the AI Regulation to avoid overlapping assessments. 
+iii. Need for clarity around the overall declaration of conformity 
+The AI Regulation does not address how the result of conformity assessment from both regimes 
+(i.e. MDR / IVDR and the AI Regulation) will be reflected in a final declaration of conformity. The 
+result under the AI Regulation appears to be an EU technical documentation certificate (Article 
+44 of the AI Regulation) which seems to be complementary to an MDR / IVDR certificate and, 
+according to the MDR / IVDR, might be accounted for in a single declaration of conformity for the 
+AI system under both regulations (AI Regulation and the MDR or IVDR, as applicable). 
+Equivalence between MDR / IVDR and the requirements of Chapters 2 and 3 of Title III 
+Certain provisions contained in the proposed AI regulation overlap with the equally stringent 
+requirements in the MDR. Therefore, Medtronic recommends that the proposed AI Regulation provides 
+for a mechanism where medical device manufacturers that comply with equivalent and equally stringent 
+provisions contained in the medical devices sectoral legislation would be expressly deemed to also 
+comply with the requirements of Chapters 2 and 3 of Title III of the proposed AI Regulation. We have set 
+out our specific proposals for this in the bulleted points below: 
+• The MDR sets out stringent risk management and mitigation requirements equivalent to those in 
+the AI Regulation. 
+It is a fundamental principle of the MDR that device risks must be acceptable in light of the 
+benefits of the product. Manufacturers must demonstrate this acceptable benefit-risk balance 
+prior to placing the product on the market and must constantly monitor the risk. The extensive 
+risk management and mitigation measures that must be implemented by manufacturers before 
+placing a device on the market and in the post-marketing phase are therefore fundamental to 
+ensuring the safety and performance of medical devices under the MDR and IVDR. These are 
+largely contained in the general safety and performance requirements in Chapter I of Annex I of 
+
+the MDR. These are similarly worded and substantively equivalent to the risk management 
+system provisions contained in Article 9 of the proposed AI Regulation. The result is that Article 9 
+of the AI Regulation will create duplication and lead to uncertainty. The risk control measures 
+adopted by the manufacturer must also conform to the generally acknowledged state of the art 
+so these will inevitably include anything specific to the AI context. 
+On this basis, we consider that wording should be included in Article 9 of the AI Regulation that 
+manufacturers of medical devices are deemed to have complied with the requirements of Article 
+9 of the AI Regulation by complying with the relevant risk management provisions of the MDR. 
+This will help avoid the risks of regulators and notified bodies coming to differing interpretations 
+on the requirements of these provisions and whether there has been compliance by providers 
+and manufacturers under the horizontal AI Regulation and the vertical MDR / IVDR. 
+• The MDR includes detailed requirements on providing adequate information to users of devices. 
+MDR places extensive requirements on manufacturers to provide information to users including 
+instructions for use, information regarding the manufacturer and information on risks as well as 
+any limits on accuracy in the case of devices with a diagnostic or measuring function. Under 
+those provisions, device manufacturers must reduce risks as far as possible and provide 
+information for the safety of users and, where appropriate, provide training. Further, 
+manufacturers must inform users of any residual risks. Consequently, the provision of 
+information requirements contained in Article 12 of the proposed AI Regulation serve only to 
+duplicate existing requirements for medical device manufacturers who are also providers of highrisk AI systems. We therefore propose that wording be included in Article 13 of the proposed AI 
+Regulation to the effect that medical device manufacturers will be deemed to comply with the 
+requirements of Article 13 of the AI Regulation where they comply with the relevant provisions of 
+the MDR/IVDR, namely the information requirements set out in Annex I. 
+• The MDR includes provisions enabling transparency and human oversight of devices. 
+The principles of ensuring appropriate transparency and enabling human users to have 
+appropriate oversight of devices and their outputs are already found in the MDR. Specifically, the 
+MDR/ IVDR require that devices for self-testing / use by lay persons, where appropriate, enable 
+the user to verify that the device will perform as intended by the manufacturer and/or that the 
+user be warned if the device has failed to provide a valid result. Additionally, the labelling and 
+instructions for use requirements each require residual risks to be communicated to the user or 
+other person as limitations, contra-indications, precautions or warnings. As such, we believe 
+requirements broadly equivalent to those contained in Article 13(1) and 14 of the proposed AI 
+Regulation are already found in the EU medical devices legislation. 
+Therefore, we believe that medical device manufacturers complying with the relevant medical 
+devices legislation should be expressly deemed to also comply with the requirements of Articles 
+13(1) and 14 of the proposed AI Regulation. 
+Alternatively, if it is considered desirable for device labelling or instructions for use to specifically 
+identify the matters set out at Article 14(2) of the draft AI Regulation these could easily be 
+included by way of an amendment to section 23 of Annex I MDR and section 20 of Annex I IVDR. 
+
+• The MDR and IVDR ensure high levels of accuracy and robustness. 
+Under the MDR devices that have a diagnostic or measuring function must be designed and 
+manufactured in such a way as to provide sufficient accuracy, precision and stability for their 
+intended purpose based on appropriate scientific and technical methods. Further, the MDR 
+applies specific requirements to software medical devices to be developed in accordance with 
+the state of the art and to be designed to ensure appropriate repeatability, reliability and 
+performance in line with their intended use. On this basis, we consider that the requirements 
+relating to accuracy and robustness in Article 15 of the proposed AI Regulation constitute an 
+unnecessary duplication of the requirements in the MDR and risk creating legal uncertainty. 
+We therefore consider the best approach would be to include wording similar to that proposed 
+above, namely that medical device manufacturers that comply with the relevant parts of Annex I 
+of the MDR shall be deemed to comply with the requirements relating to accuracy and 
+robustness under Article 15 of the proposed AI Regulation. 
+• The MDR together with associated guidance from the Medical Devices Coordination Group 
+(MDCG) ensures high standards of cybersecurity for software medical devices including those 
+involving AI. 
+The MDR requires that software medical devices must be designed in accordance with the state 
+of the art and this includes taking into account the principles of development life cycle, risk 
+management, including information security, verification and validation. To complement the 
+statutory requirements, the Commission has issued guidance endorsed by the MDCG which 
+reinforces these requirements and sets out practical steps for manufacturers to ensure 
+appropriate cybersecurity specifically in the medical devices context. On top of these 
+requirements, the MDR explicitly requires all device manufacturers to comply with the 
+requirements of the GDPR. Taken together, these requirements already demand high standards 
+of cybersecurity from medical device manufacturers. Requiring device manufacturers to comply 
+with the cybersecurity requirements in Article 15 of the AI Regulation would simply serve to 
+duplicate requirements and create uncertainty when there is already a device-specific regime 
+addressing these risks to state of the art. Having parallel requirements will predictably lead to 
+confusion between the application of the horizontal and vertical legislation in this area. 
+We therefore consider that the specific sectoral requirements should take precedence and 
+medical device manufacturers that comply with the relevant sections of the MDR (including the 
+guidance from the MDCG) should be deemed to comply with the requirements on cybersecurity 
+in Article 15 of the proposed AI Regulation. 
+• The MDR imposes detailed obligations on manufacturers of medical devices. 
+The MDR places primary responsibility for the safety, quality and performance on manufacturers 
+of devices, who will be providers of high-risk AI systems under the AI Regulation. As such, it sets 
+out wide-ranging obligations on manufacturers including undertaking the relevant pre-market 
+conformity assessment, drawing up detailed technical documentation, vigilance and postmarket surveillance and post-market clinical follow-up, implementing a quality management 
+
+system, communicating with competent authorities and undertaking corrective and preventive 
+actions. These are in our view equivalent and in many cases more detailed and stringent than the 
+requirements contained in Chapter 3 of Title III of the proposed AI Regulation. For example, the 
+MDR sets out detailed requirements for the implementation of a quality management system by 
+medical device manufacturers which, in conjunction with the recognised global technical 
+standard for medical devices quality management systems (ISO EN 13485), sets high standards 
+for quality management systems for medical device manufacturers. 
+To avoid unnecessary and costly duplication and potential legal uncertainty we believe that 
+medical device manufacturers should be deemed to comply with each of the requirements of 
+Articles 16, 17, 18, 19, 21, 22, 23 and 25 of the AI Regulation where they comply with the 
+equivalent requirements of the MDR and that express wording to this effect should therefore be 
+included in the proposed AI Regulation. 

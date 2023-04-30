@@ -1,0 +1,236 @@
+Svenskt Näringsliv Confederation of Swedish Enterprise 
+Postadress/Address: SE-114 82 Stockholm Besök/Visitors: Storgatan 19 Telefon/Phone: +46 (0)8 553 430 00 
+svensktnaringsliv.se Org. Nr: 802000-1858 
+August 3, 2021 
+Comments on AI Act proposal 
+The European Commission’s Proposal for a Regulation laying 
+down harmonised rules on artificial intelligence (the artificial 
+intelligence act) and amending certain Union legislative acts 
+(COM(2021) 206) 
+Confederation of Swedish Enterprise represents 49 sector-member organisations and 
+60,000 member companies and would like to state the following in light of the European 
+Commission’s consultation on the artificial intelligence act, AIA. 
+Confederation of Swedish Enterprise 
+welcomes the approach to protecting the users of AI systems and creating trust in 
+the use of AI 
+criticize the proposal as it has extensive negative consequences for 
+competitiveness, innovation, and entrepreneurship; the consequences of the 
+proposal need to be investigated in detail 
+emphasize that investments and compliance are ensured by clear, principle-based 
+and technology-neutral rules that last over time 
+advocates the use of NLF principles and a legal framework limited to necessary 
+requirements that leave technical implementation to product-specific and updated 
+(state-of-the-art), voluntary standards developed by stakeholders. 
+requests compliance with the Better regulation agenda: make simpler and better EU 
+laws with special attention to the implications and costs of applying legislation 
+believes that the proposal has a negative impact on the freedom to conduct 
+business and employers relevant AI use 
+states that AIA overlaps with other regulations and needs to be harmonised with the 
+Data Protection Regulation, GDPR, regarding data processing and storage 
+proposes more extensive initiative for regulatory sandboxes and experimentation to 
+promote test opportunities for innovative solutions in high-risk AI areas 
+questions the unjustifiably high levels of sanctions 
+would like to point out the considerable need for AI experts and staff with AI skills 
+that must be addressed before the proposal enters into force 
+The use of AI solutions is important for competitiveness, security, good customer experience 
+and the provision of effective and correct service for citizens. The European Commission’s 
+proposal for the AIA, is based on the concept of trust, which is vital to realising the increased 
+use of AI. To strengthen confidence in AI applications and promote rapid technological 
+development, the use of ethical guidelines, certifications, and codes of conduct should be 
+encouraged and used as much as possible. 
+
+2 (6) 
+There is significant concern amongst our members that the draft AIA is far too 
+comprehensive and vague to boost AI use and EU competitiveness. The proposal is difficult 
+to apply, disproportionate and not technology neutral. The proposal needs stronger 
+innovation and development approaches and an ambition to strengthen the competitiveness 
+of European companies. In addition, the proposal entails increased costs for companies and 
+governments. 
+Technological neutrality 
+The pace of technological development is rapid. Extensive regulation of technology use 
+quickly becomes obsolete. If the ambition with the new regulation is to influence all sectors 
+and companies, the regulation should be technology-neutral, principle-based, and clarify 
+what is prohibited. 
+The regulation should focus on high-risk use, but the definition of high-risk AI used in the 
+proposal is broad and not technology neutral. The Commission’s proposal to amend the AIA 
+through delegated acts increases uncertainty. From a business perspective it would be 
+desirable to instead supplement the AIA by clear recommendations and standards as 
+described in the New Legislative Framework, NLF. 
+The proposal focuses on potential risks and omits rules that could strengthen AI use in a 
+number of areas. Risk-based assessment, of which AI solutions constitute a high degree of 
+risk, is an important starting point and should be defined as specifically as possible, as other 
+comprehensive and sector-specific legislation is already in place. This regulation should only 
+apply to high-risk AI that is not already regulated. To promote the use of AI, the proposal 
+should focus on the actual purpose of processing data with AI solutions and not on potential 
+risks. 
+Compliance- implications and costs 
+In order to have a high level of trust in AI, it is important that rules and laws are followed by 
+companies. Compliance is ensured by clear, principle-based and technology-neutral rules 
+that last over time. Overlapping and conflicting rules must be avoided so as to create 
+understanding and establish high levels of compliance which, in addition to trust, establishes 
+a level playing field in the internal market. This proposal contains many vague wordings and 
+unattainable compliance for too many companies. This is unfortunate because it creates 
+legal uncertainty that undermines investment, innovation, and development. 
+AI is not unregulated, but some aspects of AI solutions challenge existing rules: autonomous 
+systems, self-learning, various actors during the AI life cycle, open and dynamic systems 
+and to some extent the black box problem. These challenges must be addressed in existing 
+regulations to avoid conflict between rules and to promote predictable, applicable, and 
+consistent laws. AIA overlaps and is partly in conflict with current laws on data protection, 
+product security, discrimination, and liability. 
+The AIA proposal overlaps and conflicts with existing frameworks in a way that few 
+companies are able to address. It imposes unrealistic costs and administrative burdens, not 
+least on start-ups and small and medium-sized enterprises. Therefore, Sweden and other 
+member states will have increased costs for advice and government support for public and 
+private activities. The proposal will also lead to higher costs and bottlenecks due to the fact 
+that the far-reaching and complex requirements require competence in areas where 
+considerable shortages currently exist in terms of employees with relevant knowledge. This 
+situation is a fact both in private and public sector. 
+
+3 (6) 
+Freedom to conduct business and employers AI use 
+The Confederation of Swedish Enterprise believes that the AIA proposal disproportionately 
+places requirements on companies’ organisational structures rather than regulating what is 
+prohibited. In addition, the EU creates a position of power and transparency in corporate 
+research and development as all high-risk AI solutions must be registered in a database 
+provided by the European Commission, Article 60. The database must also be accessible to 
+members of the public, which may conflict with trade secrets and is a disproportionate 
+requirement for information sharing. 
+The database will be extensive and, together with the establishment of the EU’s AI Board, 
+Article 56, will provide intervention opportunities to monitor and control the development and 
+initiatives of the business community. These two articles infringe on the freedom to conduct 
+business. 
+High-risk classification, and thereby the limitation of employers’ accepted use of technical 
+support in HR, appears to be backward-looking and is far-fetched, see Annex III. Using 
+technology as a decision-making tool to, for example, assess job applications and applicants’ 
+qualifications is a normal for a HR department. Legislation should not lay down new 
+administrative requirements, but specify what is undesirable, i.e. what is illegal. Creating a 
+large compliance structure for legitimate technical support is unfortunate, complicated, and 
+unjustifiably burdensome. The legislation focuses on risks and not the positive effects of 
+technology use. Technology is used, among other things, as a decision-making tool to get 
+away from human discrimination and bias. 
+Approval of AI solutions: the administrative burden 
+How do we ensure that this regulation does not prevent modern and agile working practices? 
+How can the development and updates of existing AI systems be carried out without having 
+to undergo the entire approval procedure? 
+The approval process is a challenge for companies as conformity assessments as part of the 
+EU’s current market access system focuses on products. Assessment of conformity takes 
+time, requires considerable amounts of administrative work, expertise, and experience in 
+companies. Introducing and extending this to software can create severe bottlenecks, which 
+is highly undesirable in an area where flexibility and speed can be crucial. For example, 
+companies may need to create rapid software updates to correct an error or fix a security 
+issue. In addition, most software companies working with AI are small and medium-sized 
+companies with no experience of conformity assessments. 
+In addition, there are question marks over the assessment body’s capacity to manage and 
+approve all submitted company assessments. It will take time to set up conformity 
+assessment bodies as a high level of technical knowledge is required and conformity 
+structures and procedures need to be built. It will take time and resources to build up and 
+entrench the competence of employees of the assessment body. The assessment body will 
+presumably have to work for a period of before the law can enter into force. 
+In the automotive industry, there is new legislation that regulates the right to make software 
+updates, UN Regulation No 156, 2021/388. A similar option should be introduced into the 
+AIA to enable continuous improvements in AI systems and to address necessary security 
+updates in particular. 
+
+4 (6) 
+Risk management systems, Article 9 
+Article 9 needs to be clarified and limited to necessary requirements. 
+The proposal should be based on the NLF principles, which means that it should be limited 
+to necessary requirements and leave technical implementation to product-specific and 
+updated (state-of-the-art), voluntary standards developed by stakeholders. Requirements for 
+risk management and assessment systems in the proposal need to comply with similar 
+requirements in overlapping legislation, such as the impact assessment in Article 35, GDPR 
+and forthcoming Human Rights Due Diligence Directive, (HRDD). The HRDD requirement 
+that companies perform due diligence on their supply chain is difficult to reconcile with AIA’s 
+product liability procedure. 
+Article 9 contains many vague wordings which create legal uncertainty. What does 
+“foreseeable abuse” mean? Article 9 (2) (b); “Evaluation of other risks that may arise” is 
+unclear, Article 9 (2); and Article 9 (3) is very obscure and unclear, not least because of the 
+combined requirements which must also consider general acknowledged state-of-the-art and 
+reflected in relevant harmonised standards. Eliminating or reducing risks as much as 
+possible is difficult to define legally and could possibly be moved to Preambles or deleted as 
+it is impossible to know the level of knowledge of users, Article 9.4. In Article 9.5, it is unclear 
+who should conduct testing and how should “most appropriate risk management measures” 
+be defined? Who decides on these measures and what criteria determine what should be 
+included? 
+GDPR vs AIA, Article 10 
+Since the European Commission released its proposal for AIA, there has been lively 
+discussion about whether AIA will conflict with or be seen as a lex specialis to the GDPR. On 
+June 21, the European Data Protection Board, (EDPB), published a press release 
+announcing a joint comment with the European Data Protection Supervisor, (EDPS), on the 
+AIA. In the statement, the two data protection authorities emphasise the need to explicitly 
+clarify that existing EU data protection legislation (GDPR, EUDPR, and LED) applies to all 
+processing of personal data covered by the draft AI regulation. The authorities’ statement 
+underlines the need for a review of the GDPR, otherwise several parts of the AIA proposal 
+will become illegal to implement because they violate the GDPR. 
+The AIA proposal includes requirements for data used in high-risk AI systems. To meet 
+these requirements, companies will probably be required to collect and process more data 
+than the GDPR allows. Therefore, the GDPR needs to be harmonised with the AI Act to 
+comply and avoid a conflict of rules. 
+Data quality is decisive for outcomes and results in the AI system, preamble 44 and Article 
+10. However, the collection and quality of data is currently limited by the GDPR, among other 
+things because the purpose of the collection and legal basis must be stated prior to 
+processing. To enable the highest quality data collection for AI solutions, we assume that the 
+AI Act provides a legal basis, GDPR Article 6, to collect data. However, the GDPR needs to 
+be reviewed and reformulated to clarify the right to more extensively collect and store data 
+before the AI act comes into effect. All principles of Article 5 of the GDPR should be 
+reviewed as well as the right to be forgotten and deleted, Article 17. In addition, the GDPR’s 
+rules on the processing of sensitive personal data, Article 9, need to be revised if bias in AI 
+systems can be counteracted and controlled in gradually without the collection being 
+dependent on the individual's consent as consent fatigue is a growing problem and consent 
+is an uncertain legal basis as consent can be revoked. 
+
+5 (6) 
+The requirement in Article 10 (3) that data must be “free of errors and complete” is 
+fundamentally impossible to establish and in conflict with the GDPR and should be deleted. 
+Not all data is available, and this is especially true if data consists of personal data as data 
+may have been deleted, GDPR art. 17, or never processed due to lack of consent, GDPR 
+art. 6 and 9, or lack of other applicable legal basis at the time when the data could have 
+been collected for future possible AI-solutions. 
+Article 10 (3) and preamble 44 can be reworded to the problematically vague but still 
+realistically possible to achieve available data of high quality and representativeness. The 
+focus should be on ensuring the process of training, validation and testing of the AI 
+application rather than being able to display datasets. Access to data sets does not say 
+much. Article 10 should therefore be reworded as the requirements are inappropriate and the 
+likelihood of guaranteeing them very difficult. 
+In addition to the rules for permitted personal data processing, the definition of high risk as 
+well as impact assessment requirements need to be harmonised between GDPR and AIA, 
+see GDPR art. 35 when an impact assessment regarding data protection is to be performed 
+compared to AIA art. 9, risk management systems, and Article 17, quality management 
+systems. 
+Data storage 
+Logging of data is important but involves extensive data storage requirements. Today, 
+logging is routine for companies that must comply with the Medical Device Regulation MDR, 
+for example. 
+Introducing logging requirements into the AIA means that many businesses in widely 
+different industries will need to store extensive amounts of data, which requires reliable 
+electricity supply at reasonable prices. Data storage and maintenance costs could be 
+considerable. 
+Focus should be placed on ensuring processes for training, validation, and testing of the AI 
+application rather than being able to display data sets. Article 10 should therefore be 
+rewritten as the existing requirements are inappropriate and the likelihood of guaranteeing 
+them is very difficult, see above. 
+Transparency 
+Transparency is important for all users of AI solutions, not least for business users who need 
+to be able to trust systems and provide information to end users. The aim of the proposal 
+should be to promote the trustworthiness of and use of AI that strengthens the conditions for 
+innovation and investment to shape Europe’s digital future. In its current version, the AI Act 
+is overly bureaucratic and burdensome. 
+Innovation and sandboxes 
+The Confederation welcomes the option of sandboxes. Innovation capacity is vital to 
+competitiveness and should therefore be made possible in a clearer and simpler way. The 
+right to experiment under certain conditions should be included directly in the proposal and 
+not left to Member States as this would create differences in the internal market. When it 
+comes to experiments with new AI solutions, current limitations are considerable due to 
+GDPR rules, see above. 
+
+6 (6) 
+Innovation is crucial in high-risk areas, especially in the healthcare sector. Here, the 
+development of industry-driven standards is important. However, work on AI standards is 
+ongoing, and it is not always possible to update them sufficiently quickly to keep pace with 
+technological development. Therefore, companies need the opportunity to experiment and 
+innovate quickly and smoothly, which is why sandboxes are very important. In regulated 
+sandboxes, companies need to be able to test ideas under limited responsibility. Sandboxes 
+should also be an effective way of testing new solutions without being affected by 
+burdensome market access systems that conformity assessments constitute. 
+CONFEDERATION OF SWEDISH ENTERPRISE 
+Carolina Brånby, Digital Policy 

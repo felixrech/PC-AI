@@ -1,0 +1,422 @@
+ Page 1 of 10 
+Feedback of the NEN Medical Device / AI Expert Group on the European Proposal for an AI Regulation (‘the ‘Artificial Intelligence Act’ or ‘AIA’ ‘2021/0106’) 
+The Medical Device / AI Expert Group (MD-AIG) established by the Netherlands Normalisation Institute (NEN) welcomes the European Commission’s (EU) proposal for a Regulation laying down harmonised rules on Artificial Intelligence (AI) to ensure the safety and security of European consumers in the area of Artificial Intelligence. Additionally, the MD-AIG cherishes the opportunity for stakeholders to provide feedback. The MD-AIG notes the Commission’s objective to draft a proposal which presents a balanced and proportionate horizontal regulatory approach 
+to AI. We value the intention to limit the AIA to the minimum necessary requirements to address the risks and 
+problems linked to AI, without unduly constraining or hindering technological development or otherwise disproportionately increasing the cost of placing AI solutions on the market. 
+In accordance with the Commission’s objective of the AIA draft proposal, the MD-AIG strongly recommends that 
+the requirements in AIA shall be checked against the requirements already provided for in the regulation on medical devices (MDR). This assessment is reflecting specifically on requirements set out in the MDR, however the 
+application of the conclusions and recommendations can be extended to the In-Vitro Diagnostics Regulation. This 
+document includes examples where specific requirements are already provided for in MDR [and existing standards/frameworks] and where the provisions of the AIA draft proposal would lead to inconsistency and duplication 
+and would create additional burdens on manufacturers, Notified Bodies and Competent Authorities. The MD-AIG 
+feedback focuses on how the AIA can use the existing MDR requirements and infrastructure in an optimal way, 
+while adequately protecting individual rights from AI related risks (whilst safeguarding fairness, explainability and 
+transparency). This will reduce the regulatory burden and simplify the implementation, keeping innovations possible in an affordable way, and thus guaranteeing that innovations are available and at a lower cost for the users. 
+Introduction 
+Medical Devices have been regulated for 30 years on a European level, which resulted in a mature infrastructure. 
+Artificial Intelligence (AI) is already broadly used in medical devices for improving workflows, diagnosis of disease, 
+treatment of disease, and thus bringing improvements for patients, health care providers, payers and other stakeholders. The MD-AIG is a broad representation of actors involved with medical devices containing AI. The feedback 
+is given by the following actors: 
+Manufacturers (SME and large enterprises) and Health Care Providers who develop medical devices containing AI. 
+Hospitals, home care providers and patients who use medical devices containing AI. 
+Organisations who provide support on developing or using medical devices containing AI, such as Notified 
+Bodies, Standardisation organisations and infrastructure providers. 
+The MD-AIG wants to emphasise that early involvement of actors in the details of the AIA and its implementation 
+is essential for the success of the AIA. Therefore, the MD-AIG also offers its active support to the European Commission. The main feedback conclusions and recommendations are summarised below. 
+Main observations 
+1) Legislative integration 
+The MD-AIG wishes to express its concern with respect to the fact that some of the proposed provisions in AIA are 
+in conflict with existing legislation regarding medical devices. However, the MD-AIG duly notes the objective of the 
+European Commission in relation to the AIA: 
+“As regards high-risk AI systems which are safety components of products, this proposal will be integrated into the 
+existing sectoral safety legislation to ensure consistency, avoid duplications and minimise additional burdens. In 
+particular, as regards high-risk AI systems related to products covered by the New Legislative Framework (NLF) 
+legislation (e.g. machinery, medical devices, toys), the requirements for AI systems set out in this proposal will be 
+checked as part of the existing conformity assessment procedures under the relevant NLF legislation. With regard 
+to the interplay of requirements, while the safety risks specific to AI systems are meant to be covered by the requirements of this proposal, NLF legislation aims at ensuring the overall safety of the final product and therefore 
+may contain specific requirements regarding the safe integration of an AI system into the final product.” 
+
+ Page 2 of 10 
+The AI-MDG recommends: 
+• Based on the objective of the Commission as reflected above, it is recommended that the AIA should be consid-
+ered as lex generalis, which will set general requirements to the use and risks of AI. The MD-AIG furthermore 
+recommends that with respect to medical devices, Regulation (EU) 2017/745 on medical devices (“MDR”) and 
+Regulation (EU) 2017/746 on in-vitro medical devices (‘IVDR’) should be considered as lex specialis (or NLF legislation) which contains specific requirements with respect to the safe use of AI in medical devices. 
+• In addition, there are a great number of (harmonised / non-harmonised) standards under the medical devices 
+legislative framework. These standards are aimed at providing additional requirements to the development of 
+safe and effective medical devices. Topics that are specifically intended to be regulated under the AIA, such as: 
+risk management, post marketing monitoring, quality management and technical documentation, are covered 
+by existing medical device standards (such as EN ISO 13485, EN ISO 14971, EN IEC 62304, EN IEC 82304-1). These 
+standards have demonstrated to be of great importance to the development of safe and effective medical devices. Duplication of requirements (e.g. risk management, quality management, technical documentation etc) 
+in the AIA, for lesser regulated industries will create the need for similar standards under the AIA. Consequently, 
+this will vastly increase the number of standards for devices to comply with, increasing the need for human 
+resources, expertise, and consequently costs. Therefore it is recommended to clarify in the AI Act that sectorspecific standards, (such as in the example of ISO 14971:2019 and BSI/AAMI 34971 in Annex 1) are leading in 
+demonstrating compliance against the relevant clauses set out in the AIA, such as clauses for risk management. 
+This will avoid duplication of requirements and unnecessary burden in standards supporting either the AIA or 
+the MDR. 
+2) Protection of the individual from AI related risk 
+The objective of the AIA is to limit risks of violation of fundamental rights, health and safety of persons and to 
+minimise the risk of algorithmic discrimination (EM​Explanatory Memorandum 
+2 Davenport & Kalakota (2019). The potential for Artificial Intelligence in healthcare. Future Healthcare Journal, 6(2): 94-98. ​  1.2, 3.3). The MDR is focused at limiting the risk to individual 
+patients and is more precise with regards to these risks. In addition, the MDR framework has matured over 30 
+years, starting with the AIMDD. To limit safety risks for patients, the manufacturer needs to comply with the General Safety and Performance requirements (MDR Annex I). The manufacturer also needs to perform an extensive 
+risk / benefit analysis based on a “clinical evaluation”, which is reviewed by the Notified Body (MDR art 61-1). The 
+AIA does not include the concept of weighing the risks versus the patient benefits, which could make the development of certain AI based medical devices impossible in the EU. 
+The AI-MDG recommends: 
+• The AIA needs to include a clear definition of what constitutes high-risk AI. This allows developers of AI based 
+medical devices to understand how these high-risks can be balanced against patient benefits and which specific 
+AI characteristics require mitigation. With the explanation of what brings a device into the high-risk category, a 
+straightforward update to the MDR guidance document MDCG 2020-1 Guidance on Clinical Evaluation of Medical Device Software can be implemented to address the AI related risks. 
+3) Minimise regulatory burden and support innovation 
+The combination of the MDR and the AIA in its current form creates a disproportionate regulatory burden. As is 
+explained under 1) ‘Legislative integration’, the current set-up of the AIA will not meet the objectives set out by 
+the European Commission. It will introduce duplication of requirements and increase burden on manufacturers, 
+Notified Bodies and regulators alike. It can reasonably be expected that the regulation will hamper innovation of 
+medical devices making use of AI, which is an area where this innovation has the opportunity to improve workflows, diagnostic procedures, treatment regimens and improve patient lives.2 
+The MDR is a complete and mature infrastructure for regulating medical devices. Following the best practice for 
+integrating horizontal legislation, the ENISA cybersecurity act can be used as an example. The requirements of this 
+act are implemented in MDCG guidance under the MDR. This implementation went very quickly and smoothly, to 
+the benefit of manufacturers, Notified Bodies and users (health care providers). In contrast, for the GDPR, a different approach was followed (similar to the current setup of the AIA), without a proper integration in the MDR, 
+
+ Page 3 of 10 
+which resulted in difficult to solve complexities. For example, clinical investigations have always required informed 
+consent under the MDR / MDD for patients participating in a clinical investigation. This informed consent, however, 
+was not aligned with the then new requirements from GDPR. This has resulted in clinical data gathered in clinical 
+investigations that cannot always be used, although the patient has provided consent. 
+A number of examples where the AIA increases regulatory burden are provided below: 
+• The definition of AI provided in the AIA is (too) broad, and extends beyond the AI methodologies being devel-
+oped over the last 10 years (e.g. machine and deep learning techniques), and thereby brings many software and 
+firmware products into the scope of the regulation. Consequently, there is an additional burden on medical 
+device manufacturers. The (final) IMDRF guidance on AI keywords and definitions refers to the definition of 
+Machine Learning, which in the view of the AI-MDG fits well in the purpose of a Medical Device AI application. 
+• Whilst the AIA intends to combine the conformity assessment procedure of the MDR and AIA, there are differ-
+ences between the two legislative frameworks which are not compatible. For instance, the AIA requires each AI 
+system (per Annex VII) to undergo the review by a Notified Body, where under the MDR, through various conformity assessment routes, technical documentation is sampled. Also, when introducing changes to the AI system (per 4.7 of Annex VII) if they potentially affect compliance against the AI Act need to be reported. Similarly, 
+all changes to the quality management system (per 3.4 of Annex VII) need to be reported to the Notified Body. 
+These processes place additional burden on an already heavily burdened and short-staffed industry, thereby 
+increasing the need for human resources, expertise and consequently costs. Additionally, the medical device 
+industry is constantly working with clinicians in the field to guarantee quality, safety and fairness of medical 
+devices. 
+• The requirements for users (article 29), introduces requirements which are not covered by MDR, and places 
+additional burden on healthcare organisations, for example the collection of logs places an additional administrative burden for healthcare providers. Such logs and information are currently already required to be maintained by the provider under article 20 of the AIA, moreover, manufacturers are already obliged under the MDR 
+to collect post market surveillance data relevant to the safety and performance of medical devices in the field. 
+The AI-MDG recommends: 
+• The scope of AI products in the definition should be limited and should relate to AI products that introduce risks 
+which require mitigation through regulation. Moreover, to further reduce burden, the AI risk classification should 
+be associated with the risk presented by the AI components of the device, instead of including nearly all medical 
+devices (e.g. medical devices, for which a conformity assessment procedure is followed). 
+• It is further recommended to use the existing Notified Body infrastructure for medical devices by defining a spe-
+cific ‘Software AI’ code in NANDO for Notified Bodies, to allow medical device manufacturers to use an existing 
+medical device Notified Body. This is to ensure that manufacturers can use a single Notified Body in their conformity assessment procedure, which will reduce burden on human resources and costs. As legislative requirements in MDR are already rigorous, a separate infrastructure on AI will not lead to higher patient safety. 
+• To further reduce the burden on manufacturers and Notified Bodies, it is recommended to issue AI-specific 
+(MDR) MDCG guidance and adopt the international medical device IMDRF AI guidance (further supporting international convergence), that details how requirements set out in the AIA need to be governed in medical device 
+documentation such as: Software AI lifecycle management, Software testing, Risk Management, Cybersecurity, 
+post market monitoring and surveillance plan, Change management (QMS and Technical Documentation) etc. 
+This will avoid duplication of requirements. 
+• It is understood that the market surveillance authority under AI Act and the competent authority under MDR 
+are the same entity. This is required to avoid unnecessary bureaucracy at national level. Per the AIA the market 
+surveillance authority shall be granted (under conditions) access to the source code of the AI system. However, 
+as with any software medical device, compliance is not demonstrated on code level, but by gathering the relevant documentation throughout the product lifecycle (e.g. per IEC 62304 and IEC 82304). Therefore access to 
+code is considered unnecessarily burdensome on the side of the manufacturer, and for competent authorities, 
+instead compliance should be checked on documentation level. 
+• The post-market monitoring requirements defined in the AI Act refer to other existing legislation such as the 
+MDR. Existing post-market surveillance activities under MDR for devices with AI shall however be extended 
+with AI Act requirements. We recommend referring to MDR as much as possible in order to avoid unnecessary 
+efforts at the side of the AI provider. 
+• It is recommended to define what a breach of Union Law intended to protect fundamental rights means in the 
+
+ Page 4 of 10 
+case of medical devices with AI, in order to avoid duplication of ‘Notifications’ in both MDR’s Eudamed database and the to be developed AI database. 
+• Based on the detailed analysis of the quality management system requirements of the AIA and MDR it is rec-
+ommended to add in a MDCG on AI-based medical devices: 
+add elements listed in Chapter 2, which are not covered by the GSPRs, e.g. article 14 & 15 
+elaborate missing information of systems and procedures (compared to GSPR 17) for data management 
+further elaborate quality control and quality assurance & techniques and systematic actions (highlevel covered in Annex II of the MDR) 
+elaborate techniques and systematic actions (high-level covered in Annex II of the MDR) 
+
+ Page 5 of 10 
+Annex 1 – Analysis of AI Act / Medical Device Regulation 
+1) Topic: Risk management 
+Clause AI Act 
+Clause MDR 
+Analysis 
+Article 9: 
+Paragraphs 1, 2 
+(subsections) 
+(a), (b), (c) , (d), 
+3, 4, 7, 8 
+Annex I: 
+Section 3 (a), 
+(b), (c), (d), (e), 
+(f), 4 (a), (b), (c), 
+5(a), 5(b) 
+All referenced requirements are covered under the existing Annex I of the 
+MDR. 
+Article 9: 
+Paragraphs 
+2 
+(main), 5, 6, 7 
+Article 14: 
+Full article 
+N/A 
+AIA requires considering: 
+the AI Lifecycle 
+testing to identify the most appropriate risk management measures 
+testing against preliminary defined metrics and probabilistic thresholds 
+Human oversight 
+AI Lifecycle 
+There is currently no definition of the AI lifecycle. If such lifecycle will be defined under the AI Act, and potentially 
+in standards under the AI Act, such as the ISO 5338 (under development), there is a large potential for misalignment with standards under the MDR such as IEC 62304:2006 (Software Lifecycle Processes). 
+Testing 
+The AI Act requires manufacturers to identify the most appropriate risk management measures, and to test the AIsystem against preliminary defined metrics and probabilistic thresholds. These testing frameworks are not defined 
+in the MDR and subsequent standards (IEC 62304:2006, IEC 82304-1:2016, ISO 14917:2019). Under MDR risks are 
+required to be reduced as far as possible, this is more rigorous than ‘most appropriate risk management methods’ 
+as defined in the AI Act. Software medical devices are tested throughout their lifecycle per the processes defined 
+in IEC 62304:2006), including rigorous clinical validation per MDR requirements (not existing in the AI Act). Additional testing frameworks under the AI Act would not benefit the already existing testing framework for medical 
+devices. 
+In addition, current BSI/AAMI 34971 (under development) will address risk management requirements for medical 
+devices and will address specific requirements for risk management for AI based medical devices. Other standards 
+under development for risk management include ISO/IEC 23894 (at SC 42), for AI systems, do not address medical 
+devices, and excludes risk management processes for safety and security, and leans heavily on ISO 31000:2018 
+which does not align in terms of definitions of risk with ISO 14971:2021 for medical devices. 
+Human Oversight 
+The existing Post Market Surveillance systems, and reporting of the PSUR (periodic safety update reports), as demanded by the MDR 2017/745, require manufacturers of any type of medical device to ensure oversight over 
+medical devices and continuous re-evaluation of the benefit - risk ratio of medical devices. As suggested by other 
+regulatory authorities, such as FDA, the development of Good Machine Learning Practices offer opportunities for 
+specific medical device requirements in post market surveillance systems. The ability to shut down medical devices 
+should (already) be demanded by risk management systems, where the malfunction of a medical device could 
+directly impact patient safety. Similarly, labeling of medical devices are required to explain the intended use and 
+user of the system, and details regarding the involvement of the user (e.g. how humans should interact with the 
+AI based medical device). 
+
+ Page 6 of 10 
+2) Topic: Certification 
+Clause AI Act 
+Clause MDR 
+Analysis 
+Article 11: 
+Paragraphs 1, 
+2, 3 
+Annex IV: 
+Full annex 
+Annex VII: 
+Full Annex 
+Article 10: 
+Paragraph 4 
+Annex II & III: 
+Full annexes 
+Annex XIV: 
+Paragraph 1 
+Annex IX, Annex XI 
+and: 
+MDCG 2020-1 
+Process of setting up Technical Documentation and control of the Technical Documentation for high-risk AI is identical to Medical devices. 
+Requirements from Annex IV (AI Act) are more extensive than those in Annex II (MDR), however, these gaps are required for software medical devices under the IEC 62304:2006 / IEC 82304-1:2016 and Clinical Evaluation 
+requirements for medical devices (appraisal of the available data pertaining to the performance). 
+Annex IV paragraph 2(d) (AI Act) additionally requests describing training 
+methodologies and techniques, and 2(e) describing the level of human 
+oversight. 
+Paragraph 8 (Annex IV of the AI act) is more extensively covered for medical devices in the MDR (Annex III). 
+Annex VII further introduces restrictive certification routes for high-risk AI 
+devices, and heavy change management requirements.  
+Definition 
+The definition of AI under the AI act (Article 3 & Annex I) includes techniques, such as logic and knowledge based 
+approaches and expert systems (under Annex I (b)), which bring many software medical devices, not using modern 
+AI technologies (such as machine learning, and deep learning) into the scope of the AI Act. Such devices, which 
+have been properly governed under the MDR, would be exposed to unnecessary, additional requirements. 
+Technical Documentation 
+The requirements regarding Technical Documentation in the current proposal of the AI Act are mostly already 
+captured throughout the various requirements applicable to medical devices, such as the Annex II, III and XIV, and 
+the various MDCG documents. There are additional requirements in the AI Act that are currently not explicitly 
+covered in the MDR (e.g. paragraph 2(d) and (e) of annex IV). 
+There is currently no standard that describes the type of documentation to be provided, but these aspects are part 
+of the lifecycle of the AI based medical device and could therefore be covered under the existing IEC 62304:2006 
+and IEC 82304-1:2016. Model training description should be described as part of the clinical documentation of a 
+device, and should form part of the clinical evaluation requirements, and therefore should be integrated into 
+MDCG 2020-1. 
+Conformity Assessment 
+Both the AIA and the MDR require a conformity assessment. The MDR only requires Notified Body involvement for 
+Class I (s/m), Class IIa and higher, where the AI Act requires Notified Body involvement for all AI based medical 
+devices. The Notified Body will require review of the QMS and Technical Documentation. 
+This means in practice, that a manufacturer needs to select one Notified Body for the certification of the medical 
+device components, and one for the certification of the AI components. Ideally, this would be the same Notified 
+
+ Page 7 of 10 
+Body, but it is not guaranteed that all Notified Bodies will obtain accreditation under the AI Act. Moreover, within 
+a single Notified Body, it may not be the same entity (or qualified person) responsible for the review. This will 
+increase certification costs, audit and review time, burdening the already heavily burdened medical device Notified 
+Bodies and manufacturers, and additionally Competent Authorities. Undoubtedly, this will slow down innovation, 
+and potentially affect the availability of more accurate diagnosis and treatment for patients, where AI has a large 
+potential. 
+Both the AI Act and the MDR require a written declaration that no application has been lodged with any other 
+Notified Body for the same device/system. This cannot be met if the same technical documentation is to be reviewed by independent Notified Bodies. 
+Change Management 
+The AI Act implements a very low bar for reporting changes (Annex VII, 3.4) to the Notified Body. For example, it 
+mentions that ‘any intended change to the approved quality management system or the list of AI systems covered 
+by the latter shall be brought to the attention of the Notified Body by the provider’ . 
+Which will result in a heavy burden (human resources and costs) on manufacturers of medical devices and Notified 
+Bodies as the current bar introduced in the MDR, is based on risk management, where reportable QMS changes 
+shall only include substantial changes. Similarly, there is no room for sampling technical documentation in the 
+conformity assessment procedure of the AI Act and the bar for reportable product changes is set at changes that 
+may affect requirements of the system (Annex VII, 4.7), which would typically not be reportable under the MDR. 
+
+ Page 8 of 10 
+3) Topic: Post-Market Monitoring, Information sharing and Enforcement (market surveillance) 
+Post-market monitoring / Post-market surveillance 
+The post-market monitoring requirements defined in the AI Act refer to other existing legislation such as the 
+MDR. Existing post-market surveillance activities under MDR for devices with AI shall however be extended with 
+AI Act requirements in a to be published Implementing Act. We recommend to refer to MDR in this IA as much as 
+possible in order to avoid unnecessary efforts at the side of the AI provider and as done with this proposed AI 
+Act, publish that draft IA for feedback. 
+We also recommend to define the roles more clearly. Where MDR defines Economical Operators and Users, the 
+AI Act defines Providers, Operators and Users. This could lead to confusion at the side of manufacturers of medical devices with AI. 
+Clause AI Act Clause MDR Analysis 
+Whereas (54) 
+and (78). 
+Article 3 (2) 
+and (25). 
+Article 61. 
+Whereas 
+(32). 
+Article 3 
+(30), (33), 
+(34), (35) 
+and (60). 
+Articles 83, 
+84, 85 and 
+86. 
+The AI Act defines post-market monitoring instead of post-market surveillance 
+as under MDR. 
+For high-risk AI systems covered by the MDR, where a post-market monitoring 
+system and plan are already established under that legislation, additional elements of the AI Act shall be integrated into that system and plan as appropriate. An Implementing Act (IA) with detailed provisions shall be adopted by the 
+Commission. 
+Post-market surveillance is under the MDR an obligation for the manufacturer 
+in cooperation with other economical operators. The AI Act defines post-market monitoring as an obligation for the provider of AI systems. It is unclear if 
+and how other economical operators have obligations as well. 
+Numbering of article 3 (2) is incorrect. 
+Information sharing / Vigilance 
+The requirements with regard to information sharing defined in the AI Act refer to other existing legislation such 
+as the MDR. It is recommended to define what a breach of Union Law intended to protect fundamental rights 
+means in the case of medical devices with AI, in order to avoid duplication of ‘Notifications’ in both MDR’s 
+EUDAMED database and the to be developed AI database. 
+Clause AI Act Clause MDR 
+Analysis 
+Articles 87, 
+88, 89, 90, 91 
+and 92. 
+Article 60. 
+Article 62. 
+For high-risk AI systems which are safety components of devices, or are 
+themselves devices, covered by the MDR, the notification of serious incidents or malfunctioning shall be limited to those that that constitute a 
+breach of obligations under Union law intended to protect fundamental 
+rights. Field Safety Notices will be recorded in Eudamed in accordance with 
+MDR guidance, unless it is driven by a breach of Unions law on fundamental 
+rights. It is made unclear in the AI Act what the contents will be of the new 
+to be established database for AI systems. 
+
+ Page 9 of 10 
+Market Surveillance / Market Surveillance (Enforcement) 
+It is understood that the market surveillance authority under AI Act and the competent authority under MDR are 
+the same entity. This would avoid unnecessary bureaucracy at national level. 
+The market surveillance authority shall be granted (under conditions) access to the source code of the AI system. 
+We recommend to define that more clearly: code at what level and per what date? 
+The headers of title VIII and chapter 3 show ‘market surveillance’ respectively ‘enforcement’. To avoid confusion, 
+that should be aligned. 
+Clause AI Act 
+Clause MDR 
+Analysis 
+Articles, 93, 94, 
+95, 96, 97, 98, 
+99 and 100. 
+Article 63, 64, 
+65, 66, 67 and 
+68. 
+The market surveillance authority under the AI Act is the same actor as 
+the competent authority under MDR. 
+Where necessary to assess the conformity of the high-risk AI system the 
+market surveillance authorities shall be granted (under conditions) access 
+to the source code of the AI system. This is not defined as such under 
+MDR. 
+When non-compliant or when compliant however presenting risks, the 
+authorities have the same rights to withdraw or recall the products under 
+MDR and AI Act. 
+Header of Title VIII is not in accordance with header in Chapter 3. 
+
+ Page 10 of 10 
+4) Topic: Quality management system 
+Both regulations (MDR & AI Act) contain requirements for the Quality Management Systems. An in-depth analysis is performed in the table below. Recommendations were described in the ‘recommendations section’. 
+Clause AI Act 
+Clause MDR 
+Analysis 
+Article 17: 
+(a) 
+(g) 
+(h) 
+(i) & Art.62 
+(j) 
+Article 10 (9): 
+(a) 
+(e) 
+(i) 
+(k) & Art 10.12 & Art. 
+87.2/3/4/5 
+(j) & Art 93.3 
+Identical 
+All referenced requirements are covered under the existing Article 10 
+(9) of the MDR, in some cases the wording is different, but effective it 
+does not impact the requirement. 
+E.g. both standards require a risk management system and a post-market monitoring system, the in-depth content analysis is described under 
+‘risk management’ and ‘post-market surveillance’. 
+Article 17: 
+(b) 
+(c) 
+(d) 
+(k) 
+(l) 
+(m) 
+Article 10 (9): 
+(g)(b) 
+(g) 
+(g) 
+- & Art. 10.8 
+(d) 
+(c) & Art. 15 
+Slightly different 
+Requirements that are addressed in the MDR and are lacking in the AI 
+Act, although relevant for medical devices: 
+The ‘Person Responsible for Regulatory Compliance’ and its responsibilities as described in Article 15, AI Act is more high level 
+with ‘other staff’. 
+In case of implantable device, the retention period of 15 years is 
+specified in the MDR. There are implantable medical devices with 
+AI, 10 years retention period is insufficient for these devices. 
+AIA requires considering: 
+Different focus with regards to the resource management compared to MDR. During Notified Body audits this will be checked as 
+part of the EN-ISO 13485 requirements 
+Examination, testing and validation as part of QMS requirement, 
+in the MDR this is covered in the GSPRs. 
+Article 17: 
+General 
+(e) 
+(f) 
+2 
+3 
+Article 10 (9): 
+General 
+(m) 
+(f) 
+(h) 
+(l) 
+Different 
+Requirements that are addressed in the MDR and are lacking in the AI 
+Act, although relevant for medical devices: 
+Clinical evaluation: crucial to claim that a medical is safe and effective; 
+UDI assignments: traceability is a key element for medical devices; 
+Management of CAPA’s and verification of their effectiveness: 
+contribute to a robust quality management system and safe and 
+effective (medical) device 
+Changes are not described in the QMS article, later in the AI Act 
+this is addressed. 
+AIA requires considering: 
+Implementation of QMS, based on the size of the provider’s organization; manufacturers or medical devices could proportionate the QMS to the risk class and the type of device, this riskbased approach does cause not any problems so far; 
+Apply the (harmonised) standards in full is due the nature of some 
+medical devices not possible. In case a GSPR is deemed not applicable, this should be substantiated by the manufacturer. During 
+the technical documentation review this is reviewed by the Notified Body. 

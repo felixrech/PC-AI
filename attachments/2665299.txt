@@ -1,0 +1,137 @@
+Memorandum by: 
+ Prof Stéphanie Laulhé Shaelou, Professor of European Law 
+and Reform; Head, School of Law, University of Central 
+Lancashire, Cyprus campus (‘UCLan Cyprus’); EU-POP Jean 
+Monnet 
+Module 
+Leader 
+Academic 
+Lead 
+(https://eupopulism.eu/); legal expert on the Horizon 2020 
+Sherpa project on Smart Information Systems and Human 
+Rights (https://www.project-sherpa.eu/); and Visiting Fellow, 
+Law Department, European University Institute, Florence 
+ Constantinos Alexandrou, Researcher, School of Law, School 
+of Law, UCLan Cyprus 
+Introduction 
+1. We welcome the initiative for Artificial intelligence – ethical and legal 
+requirements. Being one of the first initiatives to regulate AI, it is of paramount 
+importance that it will be as comprehensive and limpid as possible. The text 
+leaves certain grey areas, and certain important factors may appear overlooked 
+to the expert and/or public eye. 
+Risk-based approach 
+2. A first point of concern is that it may not be entirely clear how the Regulation 
+interacts with other regulatory initiatives, namely the Digital Services Act (DSA). 
+Even though it is expressly stated that the Regulation is consistent with the 
+DSA, it is not elaborated how the AI as presented in the Regulation relates to 
+the algorithms used by intermediary services in the DSA. This brings forward 
+another point to draw attention to, namely the concept of ‘High Risk’ AI itself. 
+The term ‘high risk’, as defined in the Regulation and its Annexes, leaves a 
+(intentional?) gap as to what constitutes ‘average risk’ or ‘low risk’ AI. 
+3. On the one hand, the Digital Services Acts deals with services that host or 
+transmit information online, which encompasses primarily social media 
+
+platforms. On the other hand, the ‘Regulation for a European Approach for 
+Artificial Intelligence’ apparently deals with ‘high risk’ AI used at ‘high risk’ 
+activities. According to the risk-based approach of the Regulation, AI systems 
+are classified as creating ‘unacceptable risk’, ‘high risk’, and ‘minimal risk’. ​Regulation Of The European Parliament And Of The Council Laying Down Harmonised Rules On Artificial 
+Intelligence (Artificial Intelligence Act) And Amending Certain Union Legislative Acts (2021/0106), 12 ​  The 
+only section of the Regulation that applies to AI systems other than ‘high risk’ 
+AI is Title IV on the ‘Transparency Obligations for Certain AI systems’, which is 
+essentially the obligation of AI systems to inform natural persons that they are 
+interacting with an AI system. ​Ibid, Article 52 ​  Other important prerequisites including 
+requirements,​Ibid, Chapter 2 ​  
+obligations 
+of 
+providers 
+users​Ibid, Chapter 3 ​  
+conformity 
+assessments​Ibid, Chapter 5 ​  only apply to ‘high risk’ AI. 
+4. Thus, the effective regulation for AI classified as ‘low or minimal risk’ AI may 
+appear not sufficiently addressed and/or missing in the expert and/or public 
+eye. ​Ibid, 12 ​  Such AI arguably includes smart assistants, such as Google Assistant, 
+Apple’s Siri and Amazon’s Alexa’s, which run on millions of devices daily. By 
+leaving the regulation for the development of non-high-risk AI allegedly and/or 
+primarily to self-regulation or other modes of decentralised governance, it is 
+argued that a huge market of AI is left essentially unclassified. A question that 
+arises from the risk-based approach of the Regulation is the gap between ‘high 
+risk’ AI and ‘low risk’ AI, as no ‘average risk’ AI is created/expressly referred to. 
+Thus, the current Regulation appears to have loopholes, which hardware and 
+software AI manufacturers and/or other actors may use to circumvent certain 
+requirements and maximise business and/or industry practices involving data 
+collection. To the extent that the risk-based approach is the chosen method of 
+regulation, we are therefore calling on the European Commission to take further 
+steps towards the enlargement of the risk-based approach for AI, and to 
+introduce similar/equivalent/proportionate standards for ‘average’ and ‘low or 
+minimal risk’ AI in the current Regulation and/or by virtue of a new legal 
+instrument of secondary legislation or otherwise, at the EU level, specifically for 
+
+this type of AI. This would enable the Commission to produce a complete EU 
+AI strategy. 
+AI and its impact in the field of competition 
+5. Another point which the Commission could turn its further attention to is the 
+competition rules in the digital sphere. It is well known and documented that 
+certain technology giants have influential power in all aspects of technology. 
+An example on point is the penalty the Commission imposed on Google, for 
+promoting its own services in search results, while reducing the rankings of 
+competing services through its algorithm. ​Antitrust: Commission fines Google €2.42 billion for abusing dominance as search engine by giving illegal 
+advantage to own comparison shopping service (European Commission, 27 June 2016) 
+https://ec.europa.eu/commission/presscorner/detail/en/IP_17_1784 ​  Considering the increased use of AI 
+in services, it is evident that AI and algorithms have a far-reaching effect 
+nowadays. As such, they may enable large tech companies to gain unfair 
+competition advantages/dominance over rivals and/or may modify the 
+intellectual property and other business rights landscape in the EU and beyond. 
+This can be done through AI generated creations​European Parliament resolution of 20 October 2020 on intellectual property rights for the development of 
+artificial intelligence technologies (2020/2015(INI), 20 October 2020) 
+14https://www.europarl.europa.eu/doceo/document/TA-9-2020-0277_EN.html ​  and search engines using 
+algorithms of their own to prioritise certain results. It is emphasised again that 
+the proposed Regulation scope should be expanded as elaborated in the 
+previous section. The Commission should take steps to discourage and/or 
+further frame such practices and thereby create a pluralistic digital environment 
+for tech companies and consumers alike, while balancing citizens’ interests in 
+an inclusive digital world. 
+Introduction of new rights 
+6. In the European digital public legal order, the Commission should also consider 
+the introduction of new rights in the Regulation and/or wider regulatory 
+framework, to ensure that in effect ‘AI is safe, lawful and in line with EU 
+
+fundamental rights. ​Artificial intelligence – ethical and legal requirements (European Commission 
+https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/12527-Artificial-intelligence-ethicaland-legal-requirements_en ​  The new rights proposed derive from the rapid 
+development and global adoption of AI systems, which have been integrated in 
+digital life, and beyond. It is proposed to formulate the digital version of modern 
+rights deriving from more conventional rights such as the rights for the Respect 
+of Private​Article 7 ​  and Family Life and Protection of Personal data,​Article 8 ​  enshrined in the 
+EU Charter of Fundamental Rights, and analogous to the right to be forgotten 
+as implemented in the GDPR. 
+7. The right not to be manipulated​Technological convergence, artificial intelligence and human rights (Parliamentary Assembly, 
+Recommendation 2102 (2017) https://assembly.coe.int/nw/xml/XRef/Xref-XML2HTMLen.asp?fileid=23726&lang=en ​  and the right to be neutrally informed online 
+appear very important, as algorithms today handle global flows of information 
+and misinformation. It would constitute an additional safeguard to ensure that 
+the AI in question adheres to the principles of freedom of information. The right 
+to meaningful human contact​Human rights in the robot age: Challenges arising from the use of robotics, artificial intelligence, and virtual 
+and augmented reality (Rathenau Instituut 2017) 44 https://www.rathenau.nl/sites/default/files/201802/Human%20Rights%20in%20the%20Robot%20Age-Rathenau%20Instituut-2017.pdf ​  goes beyond the transparency obligation in the 
+Regulation, or human oversight. That would appear necessary where 
+autonomous AI makes critical decisions, such as in medical contexts, where 
+meaningful human contact plays a crucial role. The Charter of Fundamental 
+Rights should play a more central role in the Regulation, serving as the basis 
+for new rights for the digital age. ​See 3. A. Andreou, S. Laulhé Shaelou, Doris Schroeder, Current Human Rights Frameworks (Sherpa project of 
+Smart Information Systems, Horizon 2020, 2019) https://doi.org/10.21253/DMU.8181827 and 2. R. Rodriges, 
+A. Panagiotopoulos, B. Lundgren, S. Laulhé Shaelou, A. Grant, Regulatory options for AI and big data (Sherpa 
+project of Smart Information Systems, Horizon 2020, 2020) https://doi.org/10.21253/DMU.11618211 ​  
+Conclusion 
+8. Although the Regulation is an important step towards regulating AI, it lacks a 
+wider perspective. The correlation of the AI described in the Regulation and the 
+AI enshrined in the DSA should be clarified. What is more, the risk-based 
+
+approach followed in the Regulation leaves much room for manoeuvre. Not 
+only ‘low risk’ AI has a much lower threshold of requirements, but it lacks a clear 
+definition. Also, there is a noticeable gap between ‘high risk’ AI and ‘low risk’ 
+AI, as there is no mention of ‘average risk’ AI. This loophole is one that must 
+be addressed before the Regulation is put into force, as it can create legal 
+uncertainty. Certain aspects of AI such as the impact on competition may have 
+been overlooked and, considering the control that big tech companies could 
+have through their AI systems, the Commission should reflect on the wider 
+effects of AI. Finally, the Commission should consider introducing new rights 
+in the Regulation, similar to the right to be forgotten in the GDPR. The rights 
+proposed are the right not to be manipulated, the right to be neutrally informed 
+online and the right to meaningful human contact. 

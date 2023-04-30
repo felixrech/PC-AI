@@ -1,0 +1,77 @@
+ 1 | P a g e 
+HOPE Position Paper 
+on Artificial Intelligence 
+AI technology starts to be used across the healthcare sector but still not as routine. This can be to 
+assist research by better matching patients to clinical trials, to support the planning of care for patients 
+with complex needs, etc. Prospective uses of artificial intelligence can be found also in robot care 
+support and speech recognition for medical documentation. 
+Artificial Intelligence (AI) is a complex phenomenon that is interfering with the way medical research 
+is conducted, the biomedical data is used, and the healthcare professions and healthcare 
+organisations are regulated. 
+Health data is recognised as a special category of data under the General Data Protection Regulation 
+due to its sensitivity. 
+AI uses in the healthcare field would then also requires a specific regulatory approach, in addition to 
+a strong horizontal cross-sector regulation of AI. 
+HOPE key recommendations to ensure that the application of AI in healthcare benefit patients and 
+consumers are as follows: 
+We need to agree at European level on a definition of Artificial intelligence for health care as a basis 
+for further discussion from an ethical or legal perspective or to be used to determine requirements 
+for the quality of AI. 
+We need to build action on AI on clear citizens’ rights (and not only when they are patients): 
+right to transparency, explanation and objection; 
+right to accountability and control; 
+right to fairness; 
+right to non-discrimination; 
+right to safety and security; 
+right to access to justice; 
+right to reliability and robustness. 
+The well-being and autonomy of the AI user should have priority. AI should support the user but not 
+restrict the user’s autonomy. 
+
+ 2 | P a g e 
+The effects of AI on social and environmental aspects should also be examined. It is important in the 
+development of AI not only to adopt individual perspectives but also to take society as a whole into 
+consideration. It appears useful to establish clarity as to the conditions under which AI processes can 
+be used, especially in view of the medical device regulation. 
+We need professionals ready for AI 
+The EU and the Member States should conduct regulatory assessments of the medical professions 
+frameworks to determine whether they are fit for the use of patient/consumer-centred AI in health. 
+The EU and Member States should put in place mechanisms to ensure professional and educational 
+assistance to both patients and the healthcare professionals to better understand and assess AI 
+decision-making. 
+We need good quality AI 
+The EU should facilitate the identification and should promote good practices ensuring robustness of 
+AI systems in the health sector both at the stages of development and actual use to reduce potential 
+biases and errors of AI-based decision-making. 
+Mechanisms should be in place to make sure developers of AI systems are competent to do so in 
+healthcare sector. 
+We need adapted legislation 
+Ethics are a fundamental component for healthcare research and professions. However, an AI ethical 
+code is not sufficient. AI needs that the existing regulatory frameworks are adapted and that a 
+comprehensive AI legislation is created. 
+The EU should update the EU safety and liability legislation that is relevant to the healthcare sector to 
+ensure that it is still accurate and that citizens are well protected with regards to the use of AI. 
+The EU and the Member States should ensure that the new Medical Devices Regulation and In-Vitro 
+Diagnostic Regulation are implemented with a view to include artificial intelligence: guidelines and 
+specifications or the evaluation of safety and effectiveness of software, AI and deep learning powered 
+devices throughout the entire usage cycle. 
+The EU and Member States must ensure that AI in healthcare is applied in full respect of EU data 
+protection rules, while observing the balance between the interests of advancements in medical 
+research and citizen protection. This must be achieved through diligent implementation of the GDPR 
+principles and adequate use of provisions and exemptions on health research. 
+
+ 3 | P a g e 
+During the evaluation and review report of the EU data protection legislation, the European 
+Commission should specifically evaluate the need to establish rules on: anonymization techniques of 
+health data; data access and control when it comes to use of data coming from multiply sources; and 
+quality and safety standards for all information systems where health data is processed. 
+The EU should establish a legal framework for AI integrating the specifics of healthcare. 
+Finally, financing such innovation and in particular adapting the hospital financing to its development 
+will have to be considered carefully by Member states. 
+HOPE, the European Hospital and Healthcare Federation, is a European non-profit organisation, 
+created in 1966. HOPE represents national public and private hospitals associations and hospitals 
+owners either federations of local and regional authorities or national health services. Today, HOPE is 
+made up of 36 organisations coming from the 27 Member States of the European Union, as well as 
+from the United Kingdom, Switzerland and Serbia as observer members. HOPE mission is to promote 
+improvements in the health of citizens throughout Europe, high standard of hospital care and to foster 
+efficiency with humanity in the organisation and operation of hospital and healthcare services. 

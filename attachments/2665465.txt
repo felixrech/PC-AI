@@ -1,0 +1,110 @@
+PD21-017 
+05.08.2021 
+ARTIFICIAL INTELLIGENCE 
+ASSURALIA’s position on the EC proposal for a Regulation 
+laying down harmonised rules on artificial intelligence 
+COM(2021) 206 final (21.04.2021) 
+Key messages 
+The Belgian insurance sector fully supports the envisaged goal to address the potential high risks Artificial 
+Intelligence (AI) systems could pose to fundamental rights, although Belgian insurance companies have 
+already put in place several mechanisms to ensure a trustworthy AI, within the existing legal framework. 
+We advocate for a horizontal, proportionate and principle-based framework that seeks to build upon 
+existing EU and national regulatory frameworks, addressing any potential gaps where necessary, that will 
+help to support innovation and, in particular, the development and uptake of AI and help to avoid 
+unnecessary burdens. 
+This paper provides some comments which aim feeding into the legislative debate as we believe that the 
+industry’s realities and experiences can help drafting appropriate legislation. 
+The Belgian Insurance sector’s preliminary views on the proposal can be summarised as follows: 
+1. Clarification of the regulation’s technical scope 
+The scope of the regulation should not be too broad and therefore unclear, causing legal uncertainty. 
+Not all software should be considered as AI. Not all automatic processes should be considered as AI. 
+Only AI systems employing machine learning techniques should be considered as AI. 
+The OECD’s definition of an AI system would be a preferable option. 
+2. Consideration of existing regulations enabling the management of AI risk 
+There is already a comprehensive legislative framework underpinning the activity of insurance companies, 
+which is also applicable to the use of AI within their organisations. Therefore, additional legislation on AI 
+seems unnecessary for insurance companies since most of these risks are already regulated. 
+1. Clarification of the regulation’s technical scope 
+Article 3 defines an AI system as “software that is developed with one or more of the techniques and 
+approaches listed in Annex I and can, for a given set of human-defined objectives, generate outputs such 
+as content, predictions, recommendations, or decisions influencing the environments they interact with”. 
+We understand that the Commission has based its definition on the OECD’s definition of an AI system, 
+which it defines as “a machine-based system that can, for a given set of human-defined objectives, make 
+predictions, recommendations, or decisions influencing real or virtual environments”. While there is 
+currently no universally agreed upon definition of an AI system, we believe that the OECD definition is an 
+appropriate basis to use for any European approach, particularly given the inherently global nature of AI 
+systems and the need to ensure consistency at the international level. 
+
+The definition of an AI system as currently proposed in Article 3 of the draft Regulation, however, 
+significantly widens the OECD definition by also including software within its scope. This will result in the 
+inclusion in the scope of systems, techniques and approaches that should not be considered as AI and will 
+generally create confusion and a lack of legal certainty. 
+In the context of its Framework for Classifying AI Systems, the OECD notes that “certain systems that use 
+compute technologies and analyse data are not AI systems. If the system does not fit the definition of an 
+AI system used in this framework, it is not considered an AI system. For example, Microsoft Excel is a 
+system for data storage and analysis. The software allows users to store, sort, and run basic analysis on 
+inputted data. However, it is not an AI system.” This is also true of a wide variety of other software types 
+that may potentially fall under the proposed definition. 
+We therefore believe that the broad definition of an AI system that has been proposed in the draft 
+Regulation should be narrowed. The OECD’s would be a preferable option. It would also avoid running the 
+risk of inconsistent and divergent classifications of AI systems. 
+Furthermore, the technical scope as provided in by one or more of the techniques and approaches listed 
+in Annex I is much broader than what is typically seen as AI. 
+We believe that requirements under the regulation should be limited to AI systems which use ‘machine 
+learning’ techniques (a). In fact, not all automated processes should be considered as AI systems. Indeed, 
+the terms of the techniques and approaches as listed in point (c) of Annex I are too vague. 
+For instance, “statistical approaches” are considered AI even if it does not employs machine learning 
+techniques. In fact, insurance and its pricing stem from statistical approaches, which do not necessarily 
+employ AI. Therefore, applications used for insurance automatic statistical processing which do not 
+employ machine learning techniques should not be considered as an AI system for the purposes of this 
+regulation. Moreover, optimization methods (for example, Markowitz portfolio optimization, that banks 
+have been doing for 50 years) should not be considered as an AI system. Also, expert systems (i.e. rulebased systems, which indeed automatically take certain decisions based on, for example, manually 
+constructed decision tree) are not typically called AI either. 
+Overall, the scope of the regulation should not be too broad and therefore unclear, causing legal 
+uncertainty. 
+Assuralia’s position 
+The scope of the regulation should not be too broad and therefore unclear, causing legal uncertainty. 
+Not all software should be considered as AI. Not all automatic processes should be considered as AI. 
+Only AI systems employing machine learning techniques should be considered as AI. 
+The OECD’s definition of an AI system would be a preferable option. 
+2. Consideration of existing regulation enabling the management of AI risk 
+Assuralia welcomes the risk-based approach of the regulation, introducing a distinction between 
+applications prohibited from using in the EU, high-risk AI applications and minimum transparency 
+obligations for the other AI systems. 
+
+Belgian insurance companies are aware of the risks that certain AI systems can pose, and they have 
+already laid down a comprehensive framework that mitigates those risks from the entire life cycle of an 
+AI system. 
+The first phase of every potential new use of AI is a risk analysis and compliance check. Those compliance 
+checks are embedded in every step of the implementation. This is true for AI developed in-house but also 
+when buying solutions from third parties. 
+Insurance companies also already have in place internal governance and control frameworks that insure 
+an effective and prudent management of all ICT risks (a comprehensive and well-documented ICT risk 
+management framework, in line with the so called three lines of defence model: operational 
+management; risk monitoring and oversight; and audit). They are subject to strict prudential supervision 
+under the Solvency II framework and to several guidelines of the supervisor that already exist for, notably, 
+ICT security and governance and outsourcing to cloud services. 
+Overall, there is already a comprehensive legislative framework underpinning the activity of insurance 
+companies, providing for principles such as transparency, fairness and ethics addressed by rules on 
+conduct of business and disclosure, which is also applicable to the use of AI within their organisations. 
+This is, particularly, the case of the Solvency II Directive, the Insurance Distribution Directive (IDD), the 
+General Data Protection Regulation (GDPR) and the upcoming e-privacy Directive (ePD). 
+However, this does not imply that there cannot be differences in treatment between different groups of 
+customers based on relevant risk factors, which is a central aspect of the insurance business model. 
+Insurance is the business of assessing and pooling risks, and pricing policies accordingly. Differentiating 
+between groups that present higher risks and groups that present lower risks in a risk pool is central to 
+how insurance works. Care should be taken not to confuse differentiation with discrimination when 
+discussing fairness in an insurance context. 
+The Belgian insurance law (Loi du 4 avril 2014 relative aux assurances, articles 42 to 46) provides for 
+specific rules in relation to segmentation, laying down requirements on transparency and explainability. 
+It provides that any segmentation applied to the acceptance, pricing and / or scope of the coverage must 
+be objectively justified by a legitimate objective, and the means to achieve this objective must be 
+appropriate and necessary (art 44). The insurer must publish on its website and in the insurance offer the 
+applicable criteria for client segmentation and the related conditions of application (art 45 and 46). As 
+these criteria and conditions are also fully embedded in AI systems, there is no need for any additional 
+regulation on these elements. 
+It is therefore crucial to avoid overlaps, inconsistencies, and redundancies. 
+Assuralia’s position 
+There is already a comprehensive legislative framework underpinning the activity of insurance companies, 
+which is also applicable to the use of AI within their organisations. Therefore, additional legislation on AI 
+seems unnecessary for insurance companies since most of these risks are already regulated. 

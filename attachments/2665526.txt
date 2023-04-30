@@ -1,0 +1,88 @@
+Sky’s response to the request for feedback on the adoption 
+of the AI proposal 
+1. Introduction 
+Sky is Europe’s leading media and entertainment company and is proud to be part of the 
+Comcast group. Across six countries (Austria, Germany, Italy, Ireland, Switzerland and the UK), we 
+connect our 24 million customers to the best entertainment, sports, news, arts and to our own 
+award-winning original content for which we are doubling our investment by 2024 through Sky 
+Studios. 
+At Sky, Artificial Intelligence (AI) applications help deliver the best possible experience to our 
+customers. For example, our applications automatically develop highlights from sports events, 
+they help customers discover new movies and TV shows, they create subtitles to increase 
+accessibility of our services, they improve voice search to simplify the interaction with our 
+products and they enhance energy savings by adapting energy consumption to the customer’s 
+habits. 
+2. Our feedback 
+AI technologies offer transformative benefits to our customers and our business and, as such, 
+the continued development and deployment of AI is a priority for Sky. To maximise the benefit 
+from the strides being made in the development of AI technologies we support the European 
+Commission’s plan to create the conditions for the development and use of trustworthy AI. We 
+are analysing the proposal and will share a more detailed analysis at a later stage; however, we 
+welcome this opportunity to share our initial reaction to the text. 
+The proposed EU-wide, harmonised, value-based, legislative framework represents a positive 
+step for the future of AI regulation. This framework should avoid a patchwork of conflicting rules 
+developing across Europe and should stimulate the creation of common standards to provide 
+businesses with clarity to invest in innovation. Likewise, the risk-based approach set out 
+represents a proportionate approach to regulatory requirements. Yet, more precise definitions 
+and obligations, better tailored to the nature of different types of AI and different industries, 
+would provide enhanced safety measures whilst still encouraging growth and innovation. 
+Definition of AI: We agree that the OECD definition of AI should be the starting point of 
+any AI legislation. However, the definition could be further specified. As it stands, it 
+includes underlying approaches that may not be considered AI such as “statistical 
+
+approaches, Bayesian estimation, search and optimization methods”. AI should only refer 
+to automated and computerised systems and processing. We encourage the 
+institutions to engage in a discussion with all stakeholders to reach a more precise 
+definition which does not inadvertently draw into scope non-AI technologies. 
+Definition of the risk categories: The risk-based approach taken in the proposal is an 
+important condition to support the development of AI applications. However, the 
+definitions of prohibited uses and high-risk systems should be refined. Legitimate and 
+safe uses could be interpreted as falling into the scope of both definitions: 
+o Prohibited uses – we agree with the prohibitions of AI systems that are laid 
+out in the article but find that the wording includes some ambiguity. 
+Clarifying the definitions would ensures that a range of low risk activities 
+such as personalisation and guided customers interactions are not 
+prohibited. 
+o High-risk systems – the definition of high-risk AI systems could be further 
+clarified to ensure that only AI systems that pose significant threat to health 
+and safety or fundamental rights are in scope. In the current text, some low-
+risk AI systems could potentially be in scope because they are applied to one 
+of the areas mentioned in Annex III. For example, the current text seems to 
+assign the same level of risk to AI systems taking hiring decisions and 
+systems which only categorise (but make no decision on) CVs to help 
+recruiters review large numbers of applications efficiently. 
+For these reasons, we urge the Commission and the other European Institutions to 
+further refine the definitions of prohibited uses and high-risk AI systems. 
+Requirements and obligations for high-risk AI systems: The list of requirements for 
+high-risk AI systems and obligations of providers and users of these systems (Chapters 
+2 and 3) should be reasonable, justified and technically implementable. For example, 
+having data sets that are free of errors and complete (Article 10) is not always technically 
+possible. In a scenario where data are provided by users, they can include errors or be 
+incomplete. And in these instances, AI systems are specifically designed to reduce the 
+impact of an imprecise and incomplete data set. Instead of requiring perfect data sets, 
+it would be reasonable to expect that companies put in place safeguards and 
+mechanisms to minimise the probability of errors when working with this data. 
+
+Transparency obligations: Transparency obligations (Article 52) applying to specific AI 
+systems (e.g., systems interacting with natural persons, emotion recognition systems, 
+etc) are also an important requirement to impose. Transparency is fundamental to the 
+ethical deployment of AI applications; however, it is crucial that these obligations are 
+proportional to the risk they pose. For example, an AI system in scope of article 52.3 could 
+be exempted from transparency requirements if it is easily identifiable as an AI system 
+and presents no risk to the person interacting with it. This would ensure that the 
+customer’s experience and satisfaction is not negatively impacted. 
+Additional obligations: Finally, the requirements and obligations included in chapter 5 
+should be better tailored to the nature of the technology in question, which is software 
+based. For example, article 43(4) could be further clarified as the concept of 
+‘substantially modified’ is imprecise in the context of software development. Even after 
+an AI system is deployed, improvements are made on an ongoing basis through 
+continuous monitoring, modification, and updates. In this scenario, it would not be 
+feasible to have an obligation to constantly reapply the conformity assessment; rather 
+it would be more precise to state that only a significant change in output or approach is 
+defined as a substantial modification. 
+3. Conclusions 
+Europe has a unique opportunity to create an innovative AI legal framework that brings together 
+the protection of AI users and innovation. We think that these two elements are not mutually 
+exclusive and can be achieved if some areas of the proposal were further clarified and adapted. 
+We will continue to provide our support and expertise to the European Institutions to achieve 
+this goal. 

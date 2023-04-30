@@ -1,0 +1,113 @@
+July 2021 
+Committed to Europe 
+Orange’s preliminary position on the Artificial Intelligence Act 
+Executive Summary 
+Orange welcomes the opportunity to comment on the European Commission’s proposal for an 
+Artificial Intelligence Act. This proposal, a first of a kind as highlighted by the EC, will have significant 
+implications for AI ecosystems once it enters into force. And with AI being increasingly part of 
+manufacturing, logistics and services sectors, it will have far reaching implications for EU 
+economies. It is hence of utmost importance that the AI Act strikes a right balance between the 
+need to ensure that AI applications implemented and used in the EU follow clear ethical principles, 
+including strong governance and transparency rules, and the necessity to ensure that EU players 
+thrive and innovate in the global race for AI leadership without undue burdens. 
+Orange is committed to applying ethical principles in AI. We have been actively involved in the High 
+Level Expert Group that crafted ethical principles to advise the Commission. Orange and Arborus 
+have also revealed the first International Charter for inclusive AI whose aim is to ensure AI is 
+designed, deployed and operated in a responsible and inclusive way. More recently, Orange set up 
+a “Data and AI Ethics Council” made up of 11 independent recognized experts of the field. 
+As a general comment, we support the risk-based approach adopted by the EC in its proposal, in 
+line with Orange’s initial reactions to the Commission’s white paper on Artificial Intelligence In 
+particular, Orange considers that the prohibition of some unacceptable-risk AI as outlined in the 
+proposal is aligned with EU values and ethical principles. In addition, Orange approves the EC’s 
+proposal to set transparency obligations on low-risk AI that interacts with humans. 
+There are however some significant concerns, which could put undue and possibly excessive 
+burden on significant parts of the European AI ecosystem: 
+The definition of AI as currently drafted includes a number of techniques, including statistical 
+methods, or expert systems, which have long been used in a number of IT developments 
+without raising any specific issue. This means there is a risk that a significant part of existing 
+digital activities would be considered as AI and have to comply with new regulation especially 
+for high-risk, whereas this is not the core objective of the AI Act; 
+The requirements for high-risk AI may be costly and difficult to achieve. Record-keeping 
+obligations might for instance represent excessive amounts of data to be stored. 
+There is also a risk of deterring innovation in the EU since burdensome requirements could possibly 
+hinder the development of AI activities in the EU compared to other parts of the world that have no 
+such constraints. The EU could turn out to be an importer of innovation developed elsewhere. 
+Orange therefore advocates that: 
+The AI definition should be streamlined, in order to avoid capturing standard IT systems or 
+algorithms, and focus solely on the categories that are the most prone to ethical issues; 
+The requirements should be streamlined to a principle-based approach, while specific aspects 
+should be tackled through existing product legislation or the forthcoming revised versions of 
+the product safety and product liability directives; 
+To promote innovation, the requirements should favor a fair and sustainable competition 
+between European companies and non-EU competitors. 
+
+A pragmatic and proportionate approach based on risk is needed 
+The AI Act creates a horizontal legislative instrument, regulating AI on a risk-based approach. 
+Orange welcomes this pragmatic method of classification of AI applications according to their level 
+of risks, and shares the Commission view that AI applications that are not aligned with European 
+values and ethical principles, as mentioned in article 5, should be prohibited within the EU. 
+The requirements applying to the AI systems focus on applications considered as « high risk ». 
+Orange supports this approach, and agrees with the fact that high-risk AI systems should only be 
+placed on the Union market or put into service if they comply with certain requirements. 
+The Commission’s proposal on high-risk is twofold. First, high-risk AI refers to AI systems used as 
+a safety component or being themselves a product subject to third party conformity assessment in 
+compliance with the EU legislation listed in Annex II. This raises some questions on the exact scope 
+and consequence for such obligations, notably when looking at the Radio Equipment directive. 
+Second, the Commission suggests listing specific applications as high-risk, rather than sectors, in 
+Annex III, which makes sense from a business point of view. Orange supports this methodology, 
+provided that the possibility for the Commission to modify the list through a delegated act once a 
+year does not lead to legal uncertainty for market players. Any change to the list should be done 
+only after due public consultation with market players. 
+Orange is in favor of a light touch approach, to ensure the AI act complements sectorial legislations 
+without creating an accumulation of processes, obligations and penalties. The coherence and 
+logical hierarchy with existing European legislation is therefore a crucial point to avoid 
+overregulation. 
+Transparency requirements for all AI systems interacting with humans, consisting in information to 
+users is highly beneficial to strengthen users’ confidence in AI systems. Orange is also in favour of 
+the proposal to apply a voluntary Code of conduct for low - or minimal - risk applications, which is 
+coherent with Orange’s work and commitment on defining an ethical use of AI. 
+A too broad definition of AI system that needs to be streamlined 
+While the definition should be flexible and potentially evolve with new AI techniques, it is important 
+to streamline the scope of application to precise categories of AI systems. 
+Article 3 of the legislative proposal gives a definition of AI, to be read together with Annex I that lists 
+the techniques covered by the Regulation, from machine learning to statistical approach or 
+optimization methods. It includes statistical methods, or expert systems, which have long been 
+used in a number of IT developments. Combined with the risk-based approach, this definition still 
+covers a large range of activities and paves the way for legal uncertainty. Orange is in favor of 
+narrowing down the definition, particularly by deleting the mention to “Statistical approaches, 
+Bayesian estimation, search and optimization methods” in Annex I (c). 
+Moreover, there is no clear distinction made between AI which consists in automated tools creating 
+autonomous decisions, and AI systems assisting humans in decision-making. In our view, the 
+primary target of the Regulation should be techniques that humans could not perform themselves, 
+conducted through non deterministic developments. 
+
+Strong obligations applying to high-risk AI applications 
+The Regulation places a clear set of horizontal obligations across the AI value chain (including users, 
+importers, distributors and authorised representatives). Orange supports the Commission’s focus 
+on the provider as the primary target of obligations to mitigate risks. However, even though the 
+requirements are set in order to guarantee a safe placing of products on the market, some 
+obligations seem particularly burdensome: 
+the requirement to keep technical documentation for over 10 years, including pictures 
+defining of residual risks in terms of risk management 
+record-keeping of logs 
+Furthermore, European regulators and notified bodies would have the possibility to demand access 
+to businesses’ data, source code, and algorithms. Even though the regulation specifies that the 
+information only goes to public authorities, and will not figure in the EU-wide public database (as 
+planned in Title VII), the risks from incidents, such as cyberattacks, on confidentiality and IPR, and 
+of devaluing companies’ investments in data and data-driven innovations cannot be fully rejected. 
+Orange supports the necessity to define structuring principles especially for the use of high risk AI, 
+and also considers that guidelines and light touch regulatory safeguards have a role to play in 
+preserving EU principles. However, the regulatory intervention should not prevent competitiveness 
+of the European AI industry, as well as the resilience of the supply chain. The Commission aims to 
+ensure a level playing field with economic players outside the EU by applying the same obligations 
+to providers, whether they are established in the EU or in a third country. We however fear that AI 
+developers could circumvent these rules by developing and marketing AI products outside the EU 
+and entering the EU at a later stage for products that proved scalable and successful. In such case, 
+the EU could turn out to be limited to the role of an importer of innovation developed elsewhere. 
+For more information: https://www.orange.com/en/groupe/orange-bruxelles, or follow us on 
+Twitter: @Orange_Brussels 
+i https://arborus.org/en/orange-1ere-entreprise-a-obtenir-le-label-geeis-ai/ 
+ii https://www.orange.com/en/newsroom/press-releases/2021/orange-creates-data-and-ai-ethics-council 
+iii https://oran.ge/3ybSl6t   
+iv E.g. non-model-based, reinforced learning, AI that generates autonomous decisions or non-deterministic outcomes could be relevant 
+examples 

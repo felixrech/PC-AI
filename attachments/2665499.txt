@@ -1,0 +1,69 @@
+Association of the European 
+Self-Care Industry 
+7 avenue de Tervuren 
+Tel : 
++ 32 2 735 51 30 
+info@aesgp.eu 
+1040 Brussels, Belgium 
+Fax : 
++ 32 2 735 52 22 
+www.aesgp.eu 
+Empowering people’s Self-Care 
+through Artificial Intelligence 
+AESGP reply to European Commission’s proposal for a regulation 
+of the European Parliament and of the Council laying down harmonised rules 
+on Artificial Intelligence and amending certain union legislative acts. 
+AESGP welcomes the European Commission’s effort to develop a European approach for artificial intelligence 
+(AI) that promotes Europe’s innovation capacity while ensuring the creation of an ethical and trustworthy AI. If 
+properly addressed, AI could bring tremendous benefits to the healthcare sector as a whole and some of its 
+potential applications are already described in numerous publications. 
+Particularly in the self-care sector, AESGP believes that AI can help fostering a personalised self-care 
+approach and empowering people to better manage their health and well-being, especially regarding 
+the prevention, early detection and treatment of potential health concerns. AI, by analysing data shared 
+by consenting individuals, could support them in practicing correct self-diagnosis and responsible selfcare. 
+AESGP welcomes the risk-based approach but calls for internationally aligned criteria 
+Supervision of AI should be indeed proportionate to the intended use and led by defined risk categories 
+with clear internationally defined criteria. 
+Data governance is a cornerstone for AI policy development 
+Discretionary application of GDPR and market fragmentation are major issues that need to be properly 
+addressed in the coming years, concomitantly to AI policy development. 
+Clearly defined accountabilities and liabilities that allow progress and utility of AI 
+The development and use of AI-powered tools is subject to different contributors. As the development 
+of the various applications of AI is progressing, it is becoming absolutely necessary that accountabilities 
+and liabilities are clearly defined, in respect of user safety, developers’ guidance and business certainty. 
+A regulatory framework with flexible mechanisms for quick adaptation to technology evolution 
+As recognised in the regulation proposal, the current fast-paced development of new technologies 
+requires a change in the way these new services/products are regulated. 
+Fair and horizontal regulation 
+In the healthcare sector, the pharmaceutical industry is used to working in a highly regulated 
+environment. The various types of products must follow a strict procedure of safety testing and extensive 
+evaluations of their benefits before any marketing authorisation is issued by the authorities. Industry 
+actors such as digital developers may be new to this highly regulated environment of traditional 
+healthcare. Without overly limiting access to innovative technologies, regulators must ensure a fair level 
+
+AESGP reply to EC proposal for a regulation on AI | Page 2 of 2 
+playing field for all actors by drafting and enforcing horizontal regulations across sectors while taking 
+into account the particularities of the healthcare sector, respecting the benefit/risk profiles of the 
+products and the data privacy of the patients. 
+Empower people’s health and digital literacies for better understanding and use of AI 
+As a general principle, AESGP believes that there is a tremendous opportunity for health data to be 
+used for personalised care and to empower people to take an active role in the management of their 
+own health. 
+If general population is more informed on the added value of healthcare data for individuals and 
+society, it could be more prone to register and use data while, consequently, increasing data 
+quantity and quality. Information on rights, duties and possibilities granted by the use of 
+healthcare data will create more competent and confident citizens in dealing with digitalization. 
+The prerequisites must, therefore, be met for individuals to be the responsible owners of their 
+data and to enact this sovereignty. 
+The need to build digital workforce capacity is already well recognized. ​Building digital workforce capacity and skills for data-intensive science 
+Available at http://www.oecd.org/publications/building-digital-workforce-capacity-and-skills-for-data-intensive-science-e08aa3bb-en.htm ​  AESGP would highlight the 
+fact that there are important needs in the training of both healthcare and digital experts, so that the 
+ability to work cross-functionally is enhanced. AESGP believes that it is important to train people 
+specialized in the field of artificial intelligence or data science, as well as to give basic training to the 
+general population. Available and easy to understand education tools will be required for universal trust 
+and use of data. Having everyone digitally and data literate will not only ensure responsible and 
+adequate use of the digital tools, but will build trust and confidence in the system as well. 
+Europe must ensure a fit for purpose regulatory framework so that people can safely enjoy the benefits brought 
+by digital transformation and new technologies. AESGP believes that industry, regulators, legislators and society 
+at large have to work together to accelerate the effort, if Europe is to become a leader in the digital health space. 
+Brussels, 06 August 2021 

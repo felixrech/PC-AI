@@ -1,0 +1,43 @@
+Transparency Register number: 
+60974102057-03 
+29/07/2021 
+Contribution to the Artificial Intelligence Act: 
+It should first be noted that the implementation of software techniques commonly referred to as "artificial 
+intelligence" is already making it possible to market autonomous machines used in various industrial sectors. 
+These techniques make it possible, among other things, to improve the reliability of components, anticipate 
+maintenance operations, increase the lifespan of machines, optimise energy consumption, or to adapt 
+production to customer demand. 
+The deployment of these techniques is therefore a tremendous opportunity for European industry and 
+contributes greatly to the EU's competitiveness. It is imperative to foster innovation in this sector. 
+Here are, inter alia, several points to be taken into account regarding this legislative proposal: 
+France Industrie wishes to draw attention to the fact that there is no agreed definition of artificial 
+intelligence. Indeed, there is no objective criterion to distinguish an "artificial intelligence" from a 
+traditional algorithm. However, the definition proposed in the proposed Regulation (Art 3.1) is very broad 
+and includes software techniques already widely used in industry. 
+Furthermore, it is important to remember that the designer of a machine must, under the general principles 
+and the principles of safety integration (paragraph 1.1.2) of Annex I of the Machinery Directive, carry out a 
+risk assessment and determine which essential requirements apply. Artificial intelligence is a technical 
+means among others, allowing to improve the functioning of a machine and it does not intrinsically create 
+a new dangerous phenomenon. France Industrie therefore considers that AI systems used in already 
+regulated products and used in the workplace should be excluded from the Regulation. 
+Moreover, some provisions of Chapters 2 and 3 of Title III are, according to France Industrie, 
+disproportionate to the objective of the proposed Regulation, in particular Articles 8 to 15. Apart from the 
+fact that these provisions are already taken into account in the various regulations listed in Annex II, section 
+A, the fact is that in these regulations the designer has the possibility of implementing solutions that are 
+adapted and proportionate to the general health and safety objective. However, the provisions of 
+Chapters 2 and 3 are presented as firm and absolute: for example, Article 14 provides for human supervision 
+(presence of an operator) to be systematic in the presence of autonomous machines, where the risk analysis 
+would allow the designer to determine whether or not such human supervision is required, as well as the 
+operational conditions for its possible implementation. 
+France Industrie is also concerned about the evolution of the legal framework of AI as well as its riskbased approach. Indeed, the taking into account of feedbacks does not seem to have been considered in 
+the proposed Regulation. As regards the adaptation of the risk analysis, the uncertainties lie in the fact that 
+generally, the risk is measured at the level of the system, and not of the component itself, which again 
+seems to be ignored by the proposed Regulation. Furthermore, there is a risk of creating two distinct 
+qualification paths making the whole process rather complex. 
+Compliance for companies is also an important point of attention, as the necessary tools for compliance 
+are lacking: the Regulation is binding, but there is a risk of not knowing how to implement it effectively for 
+companies. For example, explicability and transparency are very difficult to implement and demonstrate. 
+Finally, access to source codes is a major point of concern. Indeed, France Industrie sees both a risk to 
+sovereignty and competitiveness in the possibility for the authorities to have access to the source code and 
+to share it with the European Artificial Intelligence Board. Vigilance will be required in particular regarding 
+governance and its openness to non-European players, even when presented as independent experts. 

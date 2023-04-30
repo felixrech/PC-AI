@@ -1,0 +1,131 @@
+ About the GFII: created in 1979, the GFII, the French organization of information professionals, is 
+a unique association in the data landscape that brings together private and public data producers 
+and re-users, such as the French Ministry of Interior, INPI, IGN, Total, BNP Paribas, Roquette frères, 
+Saint-Gobain, Wolters-Kluwer, Elsevier, Françis Lefebvre-Dalloz group, Altarès. It gathers lawyers, 
+engineers, data experts, compliance officers... 
+The GFII aims to promote the economy of data, that means the recognition of the costs necessary 
+for their manufacture, maintenance, development and dissemination in an assumed commercial 
+environment, which does not exclude free of charge data sharing, but which puts more emphasis 
+on the interoperability of data, their valorisation and their reusability. The 6 working groups 
+produce positions papers and white papers in order to help shaping the future of data policy in 
+France and in the EU by offering a balanced and economically sustainable point of view about data 
+and IA. The GFII promotes a sustainable and ethical use of data and works closely with its members 
+for offering the most expert and efficient feedback about the implementation of data policies. GFII 
+members may be AI systems providers, users or both. 
+REGULATION OF THE EUROPEAN PARLIAMENT AND OF THE COUNCIL LAYING 
+DOWN HARMONISED RULES ON ARTIFICIAL INTELLIGENCE (ARTIFICIAL 
+INTELLIGENCE ACT) 
+First of all, thanks to the European Commission to enable the GFII to answer this consultation on the 
+draft regulation on AI. 
+ 1) Readability of the text 
+The draft is rather complex to understand; understanding difficulties may then generate difficulties for 
+being compliant, especially for SMEs and start up. 
+ a) We invite then the legislator: 
+- to amend the structure of the document by separating: 
+- requirements dedicated to AI systems defined in the article 6 (1) / annex II and possibly 
+Annex III (1) 
+- requirements dedicated to AI systems defined in the article 6 (2) 
+- requirements dedicated to AI systems defined in the annex III (6 to 8) 
+- to define the requirements from the AI provider point of view, ie the operator that will have to comply 
+with the future regulation, with a logical ie process oriented redactional architecture, step by step, 
+
+from the ex-ante conformity assessment, the permanent monitoring procedures to the ex-post 
+controls. 
+ b) If the requirements integrate the intervention of a notified body, its role and responsibilities should 
+be provided then and not in a separate chapter. 
+- not to require from the reader to jumb from one article to another to understand the one being 
+currently read, 
+- to consider that not all AI providers that will have to comply with this future regulation are aware and 
+comfortable with the Union Harmonization Legislation, regulation 2019/1020 etc. 
+ 2) The definition of AI system (art 3 (1)) is unclear. As a matter of fact, not all users install an AI software 
+internally. Some of them access the output (prediction, recommendation, decision, indicator …) only, 
+the output being provided by the AI provider that has developed the AI system. In other words, we can 
+have the software and the use of the software, the output only and the use of the output only, or both. 
+A clarification is then required. 
+3) Unclear notions and functions 
+a) In article 83(2), a clarification of what are “significant changes in their design or intented purpose” 
+would be welcome, as well as a more precise definition of “substantial modification” (art 3 (23)). What 
+is significant / substantial is rather subjective and difficult to comply with. 
+b) The respective role of national supervisory authority (ies) and market surveillance authorities is not 
+clear, especially for IA systems defined in the article 6 (2) and annex III. 
+c) Relation between the AI regulation and the different Data legislations : cf the article 10 on data and 
+data governance, a strong coherence between the future AI regulation and the existing (GDPR, PSI III) 
+or future (Data Governance Act, Data Act) legislations or other sectoral legislations will be key. 
+Since the beginning of the Open Data directive recast process, GFII underlines that, as well mentioned 
+in the “Strategy for Data”, “the value of data lies in its use and re-use”, in particular by AI systems. 
+Practically speaking, it means that one same and unique right, identical for all re-users of data, 
+generates de facto a restrictive right for some of the use cases, which looks quite counterproductive 
+according to the objective of development of the data economy. 
+There are different categories of re-users, whose economic and legal environments are different, 
+which can / could justify that data could be made available and re-used differently. 
+Of course, rights and duties should remain equitable, practical and explicit and data should circulate in 
+the EU as well as between sectors. 
+This is why we would consider pertinent to have different levels of data access / re-use rights as well 
+as different levels of legal rights and duties according to the purpose of re-use and reusers’ end-users. 
+Let’s take an example : notion of “natural persons” in Annex 3 :“AI systems intended to be used to 
+evaluate the creditworthiness of natural persons or establish their credit score, with the exception of 
+
+AI systems put into service by small scale providers for their own use” are considered as high risk AI 
+systems according to the Annex III (5) (b). 
+→ Who are the natural persons considered? 
+Are they: 
+- consumers as defined in the Consumer Credit Directive presently into force (consumer’ means a 
+natural person who, in transactions covered by this Directive, is acting for purposes which are outside 
+his trade, business or profession) as well as in the draft revision of that same directive ? 
+- professionals acting in their trade / business / professional capacity, and as such, being then also a 
+business / an enterprise having to be registered to a public register and having customers and 
+suppliers, just as all businesses? 
+Some data about those professionals, like sole entrepreneurs, may come from public business / 
+enterprises registers available as open data according to the Open Data / PSI III directive. 
+In France, the professional is now informed via the registration form that the personal data processing 
+is necessary for compliance with a legal obligation to which the controller / public body is subject. 
+When those data are made available as open data, they are not anonymized by the public body. As a 
+matter of fact, they are considered necessary for informing the public regarding the organizational 
+conditions of the economic, associative and cultural life. From our understanding, for economic 
+transparency purposes. 
+An annex to the registration form mentions that those data can be reused for other purposes than the 
+ones for which they have been collected by public bodies. In another words, according to an open 
+licence. 
+But the professional can then require from the reuser not to reuse the data that have been made 
+publicly available for third party information by public registers, directly via their respective website, 
+or via open data. 
+→ What is happening practically speaking? 
+Data on a particular business, and then including professionals like sole entrepreneurs, are easily 
+available from the different registers (please see also the CJEU Manni Case). 
+Those data are also available as PSI / open data. 
+But when a professional / sole entrepreneur contacts a re-user for requiring him not to reuse his / her 
+data: 
+i) he / she may contact only one / some re-users among many reusing the data, 
+ii) his / her personal data will remain available from the public registers, as they must be, 
+iii) data erased by the re-user will come back with the next PSI update, as data holder / public body 
+still (has to) deliver them, 
+In another words, re-users are required to comply with the article 21 of the GDPR for personal data 
+mandatorily disclosed to the public for legal reasons as they are considered from a business / 
+enterprise / professional point of view. 
+We strongly underline again how important it is to now deal with this contradiction. 
+
+Such a contradiction must be fixed at EU level as: 
+- the GDPR, the PSI III, the future Data Act and Data Governance are / will be EU legislations 
+- business data are of course re-used a lot in the framework of exportations and importations, in the 
+financial area as well as by trade counterparts for trade credit / cash / payment delays management 
+purposes (cf the Late Payment directive), 
+- the present Covid crisis has demonstrated how essential it is to monitor and assess businesses’ 
+financial health, and not only the one of companies / legal persons. 
+4) Standardisation and common specifications 
+To our knowledge, harmonized standards only exist for Annex II legislations at present time. So, if we 
+refer to article 41 and depending on the high risk AI system considered, requirements linked to the 
+chapter II from the Title III will come from implementing acts. 
+So, from our understanding, some AI providers will have to wait for implementing acts to know more 
+about the technical options to comply with requirements set out in the chapter II, which generates 
+some difficulties to provide a well-informed feed-back. 
+Those implementing acts will be key if we consider that “High-risk AI systems which are in conformity 
+with the common specifications referred to in paragraph 1 shall be presumed to be in conformity with 
+the requirements set out in Chapter 2 of this Title, to the extent those common specifications cover 
+those requirements” (art 41 (3)). And we understand the article 41 (4) as the application of a “comply 
+or explain” requirement. 
+The GFII remains at your disposal for developing further those alerts and remarks. 
+GFII : 17 rue rue Castagnary, 75015 
+Paris.France 
++33 1 43 72 96 52 
+http://www.gfii.fr/fr 
+Contact : contact@gfii.fr 
